@@ -3,10 +3,10 @@ import openai
 from src.utils import sleep
 
 
-def chat_model(prompt: str) -> str:
+def chat_model(prompt: str, model="gpt-3.5-turbo") -> str:
     try:
         response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",
+            model=model,
             messages=[{"role": "user", "content": prompt}]
         )
         return response.choices[0].message.content
