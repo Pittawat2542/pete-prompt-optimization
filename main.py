@@ -29,9 +29,9 @@ if __name__ == "__main__":
     if args.n is not None and current_round != -1:
         for i in tqdm(range(args.n - current_round)):
             logging.info(f"Starting round {i + 1} of {args.n}.")
-            classification(prompt, args, dataset)
+            classification(prompt, prompt_version, dataset, args.task_model)
             accuracy = evaluation(prompt_version)
-            new_prompt, new_version = evolution(prompt_version)
+            new_prompt, new_version = evolution(prompt_version, args.modifying_model)
             prompt = new_prompt
             prompt_version = new_version
             if accuracy > current_accuracy:
@@ -40,9 +40,9 @@ if __name__ == "__main__":
         stagnant_count = 0
         logging.info(f"Starting with patience {args.patience} and threshold {args.threshold}.")
         while stagnant_count < args.patience:
-            classification(prompt, args, dataset)
+            classification(prompt, prompt_version, dataset, args.task_model)
             accuracy = evaluation(prompt_version)
-            new_prompt, new_version = evolution(prompt_version)
+            new_prompt, new_version = evolution(prompt_version, args.modifying_model)
             prompt = new_prompt
             prompt_version = new_version
             logging.info(f"Current accuracy: {accuracy}")
