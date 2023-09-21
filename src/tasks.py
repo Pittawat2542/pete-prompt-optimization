@@ -23,7 +23,7 @@ def classification(prompt: str, prompt_version: int, dataset: pd.DataFrame, mode
         os.makedirs(output_parsed_path)
 
     logging.info(f"Starting classification for prompt version: {prompt_version}.")
-    for index, message in tqdm(zip(dataset['index'], dataset['text']), desc="Classification"):
+    for index, message in tqdm(zip(dataset['index'], dataset['text']), desc="Classification", total=len(dataset)):
         logging.info(f"Classifying message {index} of {len(dataset)}.")
         raw_file_path = os.path.join(output_raw_path, f'{index}.txt')
         parsed_file_path = os.path.join(output_parsed_path, f'{index}.json')
