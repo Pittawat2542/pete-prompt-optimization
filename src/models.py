@@ -28,4 +28,9 @@ def chat_model(prompt: str, model="gpt-3.5-turbo", temperature: float = 1) -> st
         sleep(5)
         return chat_model(prompt)
     except Exception as e:
-        print(f"Unexpected error: {e}")
+        if str(e) == "The server is overloaded or not ready yet.":
+            print(f"OpenAI API server is overloaded or not ready yet: {e}")
+            sleep(10)
+            return chat_model(prompt)
+        else:
+            print(f"Unexpected error: {e}")
