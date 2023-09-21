@@ -2,11 +2,12 @@ import argparse
 import json
 import os
 import time
+import tiktoken
 
 import pandas as pd
 
 from src.config import OUTPUTS_FOLDER, LOGS_FOLDER, STATS_FOLDER, PARSED_FOLDER, RAW_FOLDER, EVALUATION_FOLDER, \
-    DATASET_PATH, PROMPTS_PATH, ORIGINAL_PROMPT_PATH
+    DATASET_PATH, PROMPTS_PATH, ORIGINAL_PROMPT_PATH, MODIFYING_PROMPT_PATH
 
 
 def sleep(seconds: int) -> None:
@@ -158,3 +159,30 @@ def load_previous_values(args):
                 }))
 
     return last_accuracy, last_prompt_version, last_prompt, last_round
+
+
+def count_tokens(text: str, model: str = "gpt-3.5-turbo") -> int:
+    """Count the number of tokens in a text."""
+    encoder = tiktoken.encoding_for_model(model)
+    tokens = encoder.encode(text)
+    return len(tokens)
+
+
+def get_prompt_by_version(prompt_version: int) -> str:
+    """Get the prompt by its version."""
+    with open(PROMPTS_PATH, 'r') as f:
+        prompts = json.load(f)["prompts"]
+        return [p for p in prompts if p["version"] == prompt_version][0]["prompt"]
+
+
+def get_modifying_prompt() -> str:
+    """Get the modifying prompt."""
+    with open(MODIFYING_PROMPT_PATH, 'r') as f:
+        prompt = f.read()
+        return prompt
+
+
+def get_evaluation_results_by_version(prompt_version: int) -> dict:
+    """Get the evaluation by its version."""
+    with open(EVALUATION_FOLDER / f'{prompt_version}.json', 'r') as f:
+        return json.load(f)

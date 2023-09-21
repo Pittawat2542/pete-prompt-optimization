@@ -4,19 +4,6 @@ Modify the following prompt for a large language model to correctly classify a t
 <sample>
 
 # Original prompt
-Classify the following "Message" from chat in an online community into one of the specified categories along with a reason in the specified JSON format in a Markdown code block (between ```json and ```).
-
-Categories: "threat", "identity_hate", "severe_toxic", "insult", "obscene", "toxic", "clean"
-
-Message: <message>
-
-Output format:
-```json
-{
-"message": message,
-"reason": reason,
-"predicted": predicted category,
-}
-```
+<prompt>
 
 # New prompt

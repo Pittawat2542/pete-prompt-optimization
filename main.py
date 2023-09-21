@@ -7,7 +7,8 @@ from dotenv import load_dotenv
 from tqdm import tqdm
 
 from src.config import LOGS_FOLDER
-from src.utils import prepare_output_folders, parse_arguments, load_previous_values
+from src.tasks import classification, evaluation, evolution
+from src.utils import prepare_output_folders, parse_arguments, load_previous_values, prepare_dataset
 
 load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -22,37 +23,34 @@ if __name__ == "__main__":
 
     args = parse_arguments()
     current_accuracy, prompt_version, prompt, current_round = load_previous_values(args)
+    dataset = prepare_dataset()
 
     if args.n is not None and current_round != -1:
         for i in tqdm(range(args.n - current_round)):
             logging.info(f"Starting round {i + 1} of {args.n}.")
+            classification(prompt, args, dataset)
+            accuracy = evaluation(prompt_version)
+            new_prompt, new_version = evolution(prompt_version)
+            prompt = new_prompt
+            prompt_version = new_version
+            if accuracy > current_accuracy:
+                current_accuracy = accuracy
     else:
         stagnant_count = 0
+        logging.info(f"Starting with patience {args.patience} and threshold {args.threshold}.")
         while stagnant_count < args.patience:
-            accuracy = 0
+            classification(prompt, args, dataset)
+            accuracy = evaluation(prompt_version)
+            new_prompt, new_version = evolution(prompt_version)
+            prompt = new_prompt
+            prompt_version = new_version
+            logging.info(f"Current accuracy: {accuracy}")
             if accuracy - current_accuracy > args.threshold:
                 current_accuracy = accuracy
                 stagnant_count = 0
+                logging.info(f"Accuracy improved. Resetting stagnant count.")
             else:
                 stagnant_count += 1
+                logging.info(f"Accuracy did not improve. Stagnant count: {stagnant_count}")
 
-                if stagnant_count >= args.patience:
-                    break
-
-# TODO: When return, return best performing prompt, not the last one when finish the program
-# TODO: Compare performance optimization via GPT-3.5 and GPT-4 and base performance of GPT-3.5 and GPT-4 without optimization
-# TODO: Add logging
-# 1. Load the prompt [/]
-# 2. Predict the result [/]
-# 3. Evaluate (accuracy) [/]
-# 4. Sample the result for prompt optimization
-# 5. Get new prompt
-# 6. Loop until reach specified n or acc or stagnant [/]
-
-# Main prompt: Replace "<message>"
-# Modifying prompt: Replace: "<sample>"
-# Each entry in <sample>
-# |- Message: <message>
-# |- Predicted class: <prediction>
-# |- Predicted reason: <reason>
-# |- Ground truth: <ground_truth>
+    logging.info(f"Finished. Best accuracy: {current_accuracy}. Last prompt version: {prompt_version}.")
