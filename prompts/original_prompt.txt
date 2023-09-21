@@ -1,6 +1,6 @@
 Classify the following "Message" from chat in an online community into one of the specified categories along with a reason in the specified JSON format in a Markdown code block (between ```json and ```).
 
-Categories: "threat", "identity_hate", "severe_toxic", "insult", "obscene", "toxic", "clean"
+Categories: "toxic", "clean"
 
 Message: <message>
 

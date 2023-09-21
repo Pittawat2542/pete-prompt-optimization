@@ -46,22 +46,6 @@ def prepare_output_folders():
         os.makedirs(EVALUATION_FOLDER)
 
 
-def prepare_dataset():
-    """Prepare the dataset for the classification task."""
-    df = pd.read_csv(DATASET_PATH)
-    df['label'] = df[['toxic', 'severe_toxic', 'obscene', 'threat', 'insult', 'identity_hate']].values.tolist()
-    df['label'] = df['label'].apply(
-        lambda x: 'clean' if x == [0, 0, 0, 0, 0, 0] else
-        'toxic' if x == [1, 0, 0, 0, 0, 0] else
-        'severe_toxic' if x == [0, 1, 0, 0, 0, 0] else
-        'obscene' if x == [0, 0, 1, 0, 0, 0] else
-        'threat' if x == [0, 0, 0, 1, 0, 0] else
-        'insult' if x == [0, 0, 0, 0, 1, 0] else
-        'identity_hate')
-
-    return df
-
-
 def parse_arguments():
     """Parse the arguments passed to the program."""
     parser = argparse.ArgumentParser(

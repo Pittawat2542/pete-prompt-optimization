@@ -5,10 +5,11 @@ import logging
 import openai
 from dotenv import load_dotenv
 from tqdm import tqdm
+import pandas as pd
 
-from src.config import LOGS_FOLDER
+from src.config import LOGS_FOLDER, DATASET_PATH
 from src.tasks import classification, evaluation, evolution
-from src.utils import prepare_output_folders, parse_arguments, load_previous_values, prepare_dataset
+from src.utils import prepare_output_folders, parse_arguments, load_previous_values
 
 load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -23,7 +24,7 @@ if __name__ == "__main__":
 
     args = parse_arguments()
     current_accuracy, prompt_version, prompt, current_round = load_previous_values(args)
-    dataset = prepare_dataset()
+    dataset = pd.read_csv(DATASET_PATH)
 
     if args.n is not None and current_round != -1:
         for i in tqdm(range(args.n - current_round)):
