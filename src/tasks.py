@@ -35,12 +35,12 @@ def classification(prompt: str, prompt_version: int, dataset: pd.DataFrame, mode
         logging.info(f"Interacting with OpenAI API for message {index} of {len(dataset)}.")
         response = chat_model(prompt.replace('<message>', message), model, 0)
         logging.info(f"Finished interacting with OpenAI API for message {index} of {len(dataset)}.")
-        with open(raw_file_path, 'w') as raw_file:
+        with open(raw_file_path, 'w', encoding="utf-8") as raw_file:
             logging.info(f"Saving raw response for message {index} of {len(dataset)}.")
             raw_file.write(response)
 
         parsed_response = parse_json_output(response)
-        with open(parsed_file_path, 'w') as parsed_file:
+        with open(parsed_file_path, 'w', encoding="utf-8") as parsed_file:
             parsed_response['prompt_version'] = str(prompt_version)
             parsed_response['label'] = dataset[dataset['index'] == index]['label'].values[0]
             parsed_response['model'] = model
@@ -69,7 +69,7 @@ def evaluation(prompt_version: int):
             else:
                 incorrect_messages.append(data)
 
-    with open(os.path.join(EVALUATION_FOLDER, f'{prompt_version}.json'), 'w') as f:
+    with open(os.path.join(EVALUATION_FOLDER, f'{prompt_version}.json'), 'w', encoding="utf-8") as f:
         json.dump({
             'total': total,
             'correct': len(correct_messages),
@@ -124,7 +124,7 @@ def evolution(prompt_version: int, modifying_model: str = "gpt-3.5-turbo"):
     new_version = prompt_version + 1
     logging.info(f"New version: {new_version}, New prompt length: {len(new_prompt)}")
 
-    with open(PROMPTS_PATH, 'r+') as f:
+    with open(PROMPTS_PATH, 'r+', encoding="utf-8") as f:
         prompts = json.loads(f.read())
         prompts["prompts"].append({
             "version": new_version,
