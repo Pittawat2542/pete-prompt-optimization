@@ -4,10 +4,8 @@ import os
 import time
 import tiktoken
 
-import pandas as pd
-
 from src.config import OUTPUTS_FOLDER, LOGS_FOLDER, PARSED_FOLDER, RAW_FOLDER, EVALUATION_FOLDER, PROMPTS_PATH, \
-    ORIGINAL_PROMPT_PATH, MODIFYING_PROMPT_PATH, STATS_FILE_PATH
+    ORIGINAL_PROMPT_PATH, MODIFYING_PROMPT_PATH, STATS_FILE_PATH, STATS_FOLDER
 
 
 def sleep(seconds: int) -> None:
