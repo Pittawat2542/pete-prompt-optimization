@@ -6,8 +6,8 @@ import tiktoken
 
 import pandas as pd
 
-from src.config import OUTPUTS_FOLDER, LOGS_FOLDER, STATS_FOLDER, PARSED_FOLDER, RAW_FOLDER, EVALUATION_FOLDER, \
-    DATASET_PATH, PROMPTS_PATH, ORIGINAL_PROMPT_PATH, MODIFYING_PROMPT_PATH
+from src.config import OUTPUTS_FOLDER, LOGS_FOLDER, PARSED_FOLDER, RAW_FOLDER, EVALUATION_FOLDER, PROMPTS_PATH, \
+    ORIGINAL_PROMPT_PATH, MODIFYING_PROMPT_PATH, STATS_FILE_PATH
 
 
 def sleep(seconds: int) -> None:
@@ -93,8 +93,8 @@ def load_previous_values(args):
     last_prompt_version = 0
     last_round = -1
 
-    if os.path.exists(f'{STATS_FOLDER}/stat.json'):
-        stat_obj = json.load(open(f'{STATS_FOLDER}/stat.json', 'r'))
+    if os.path.exists(STATS_FILE_PATH):
+        stat_obj = json.load(open(STATS_FILE_PATH, 'r'))
         last_accuracy = stat_obj['last_accuracy']
         last_prompt_version = stat_obj['last_prompt_version']
 
@@ -112,7 +112,7 @@ def load_previous_values(args):
             prompts = json.load(f)["prompts"]
             last_prompt = [p for p in prompts if p["version"] == last_prompt_version][0]["prompt"]
     else:
-        with open(f'{STATS_FOLDER}/stat.json', 'w') as f:
+        with open(STATS_FILE_PATH, 'w') as f:
             stat_obj = {
                 "last_accuracy": last_accuracy,
                 "best_accuracy": last_accuracy,
@@ -169,4 +169,10 @@ def get_modifying_prompt() -> str:
 def get_evaluation_results_by_version(prompt_version: int) -> dict:
     """Get the evaluation by its version."""
     with open(EVALUATION_FOLDER / f'{prompt_version}.json', 'r') as f:
+        return json.load(f)
+
+
+def get_stat() -> dict:
+    """Get the stat object."""
+    with open(STATS_FILE_PATH, 'r') as f:
         return json.load(f)

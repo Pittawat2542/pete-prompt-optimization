@@ -6,10 +6,10 @@ import random
 import pandas as pd
 from tqdm import tqdm
 
-from src.config import RAW_FOLDER, PARSED_FOLDER, EVALUATION_FOLDER, MAX_TOKENS, PROMPTS_PATH
+from src.config import RAW_FOLDER, PARSED_FOLDER, EVALUATION_FOLDER, MAX_TOKENS, PROMPTS_PATH, STATS_FILE_PATH
 from src.models import chat_model
 from src.utils import parse_json_output, sleep, get_prompt_by_version, count_tokens, get_modifying_prompt, \
-    get_evaluation_results_by_version
+    get_evaluation_results_by_version, get_stat
 
 
 def classification(prompt: str, prompt_version: int, dataset: pd.DataFrame, model=None):
@@ -78,17 +78,29 @@ def evaluation(prompt_version: int):
             'correct_messages': correct_messages,
             'incorrect_messages': incorrect_messages
         }, f, indent=2)
+
+    stat_obj = get_stat()
+    stat_obj["last_prompt_version"] = prompt_version
+    stat_obj["last_accuracy"] = len(correct_messages) / total
+    if stat_obj["last_accuracy"] > stat_obj["best_accuracy"]:
+        stat_obj["best_accuracy"] = stat_obj["last_accuracy"]
+        stat_obj["best_prompt_version"] = prompt_version
+
+    with open(STATS_FILE_PATH, 'w', encoding="utf-8") as f:
+        json.dump(stat_obj, f, indent=2)
+
     logging.info(f"Finished evaluation for prompt version: {prompt_version}.")
     return len(correct_messages) / total
 
 
 def evolution(prompt_version: int, modifying_model: str = "gpt-3.5-turbo"):
-    logging.info(f"Starting evolution for prompt version: {prompt_version}.")
+    best_prompt_version = get_stat()["best_prompt_version"]
+    logging.info(f"Starting evolution for prompt version: {prompt_version} (best prompt used: v{best_prompt_version}).")
 
     max_tokens = MAX_TOKENS[modifying_model]
     logging.info(f"Model: {modifying_model} has max tokens: {max_tokens}.")
 
-    current_prompt = get_prompt_by_version(prompt_version)
+    current_prompt = get_prompt_by_version(best_prompt_version)
     current_prompt_token_count = count_tokens(current_prompt)
     new_prompt_token_count = current_prompt_token_count * 1.5
     logging.info(

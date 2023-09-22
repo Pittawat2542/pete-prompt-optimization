@@ -6,6 +6,7 @@ MODIFYING_PROMPT_PATH = Path('prompts/modifying_prompt.txt')
 PROMPTS_PATH = Path('prompts') / "prompts.json"
 OUTPUTS_FOLDER = Path('outputs')
 STATS_FOLDER = OUTPUTS_FOLDER / 'stats'
+STATS_FILE_PATH = STATS_FOLDER / 'stats.json'
 LOGS_FOLDER = OUTPUTS_FOLDER / 'logs'
 RAW_FOLDER = OUTPUTS_FOLDER / 'raw'
 PARSED_FOLDER = OUTPUTS_FOLDER / 'parsed'
