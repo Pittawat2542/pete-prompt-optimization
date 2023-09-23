@@ -41,7 +41,7 @@ def classification(prompt: str, prompt_version: int, dataset: pd.DataFrame, mode
 
         parsed_response = parse_json_output(response)
         with open(parsed_file_path, 'w', encoding="utf-8") as parsed_file:
-            parsed_response['prompt_version'] = str(prompt_version)
+            parsed_response['prompt_version'] = prompt_version
             parsed_response['label'] = dataset[dataset['index'] == index]['label'].values[0]
             parsed_response['model'] = model
             logging.info(f"Saving parsed response for message {index} of {len(dataset)}.")
@@ -96,6 +96,13 @@ def evaluation(prompt_version: int):
 def evolution(prompt_version: int, modifying_model: str = "gpt-3.5-turbo"):
     best_prompt_version = get_stat()["best_prompt_version"]
     logging.info(f"Starting evolution for prompt version: {prompt_version} (best prompt used: v{best_prompt_version}).")
+
+    with open(PROMPTS_PATH, 'r+', encoding="utf-8") as f:
+        prompts = json.loads(f.read())
+        for prompt in prompts["prompts"]:
+            if prompt["version"] == prompt_version + 1:
+                logging.info(f"Prompt version: {prompt_version + 1} already exists in prompts.")
+                return prompt["prompt"], prompt_version + 1
 
     max_tokens = MAX_TOKENS[modifying_model]
     logging.info(f"Model: {modifying_model} has max tokens: {max_tokens}.")

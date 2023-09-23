@@ -1,3 +1,4 @@
+import json
 import os
 import time
 import logging
@@ -7,9 +8,9 @@ from dotenv import load_dotenv
 from tqdm import tqdm
 import pandas as pd
 
-from src.config import LOGS_FOLDER, DATASET_PATH
+from src.config import LOGS_FOLDER, DATASET_PATH, STATS_FILE_PATH
 from src.tasks import classification, evaluation, evolution
-from src.utils import prepare_output_folders, parse_arguments, load_previous_values
+from src.utils import prepare_output_folders, parse_arguments, load_previous_values, get_stat
 
 load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -36,6 +37,11 @@ if __name__ == "__main__":
             prompt_version = new_version
             if accuracy > current_accuracy:
                 current_accuracy = accuracy
+
+            stat_obj = get_stat()
+            stat_obj['round'] = i + 1
+            with open(STATS_FILE_PATH, 'w', encoding="utf-8") as stat_file:
+                stat_file.write(json.dumps(stat_obj, indent=2))
     else:
         stagnant_count = 0
         logging.info(f"Starting with patience {args.patience} and threshold {args.threshold}.")
