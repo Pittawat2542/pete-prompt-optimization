@@ -40,6 +40,12 @@ def classification(prompt: str, prompt_version: int, dataset: pd.DataFrame, mode
             raw_file.write(response)
 
         parsed_response = parse_json_output(response)
+        if parsed_response is None:
+            logging.info(f"Retrying message {index} of {len(dataset)} because it was not parsed.")
+            sleep(3)
+            response = chat_model(prompt.replace('<message>', message), model, 0)
+            parsed_response = parse_json_output(response)
+
         with open(parsed_file_path, 'w', encoding="utf-8") as parsed_file:
             parsed_response['prompt_version'] = prompt_version
             parsed_response['label'] = dataset[dataset['index'] == index]['label'].values[0]
