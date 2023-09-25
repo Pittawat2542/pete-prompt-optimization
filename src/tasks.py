@@ -32,19 +32,22 @@ def classification(prompt: str, prompt_version: int, dataset: pd.DataFrame, mode
             logging.info(f"Skipping message {index} of {len(dataset)} because it was already classified.")
             continue
 
-        logging.info(f"Interacting with OpenAI API for message {index} of {len(dataset)}.")
-        response = chat_model(prompt.replace('<message>', message), model, 0)
-        logging.info(f"Finished interacting with OpenAI API for message {index} of {len(dataset)}.")
-        with open(raw_file_path, 'w', encoding="utf-8") as raw_file:
-            logging.info(f"Saving raw response for message {index} of {len(dataset)}.")
-            raw_file.write(response)
-
-        parsed_response = parse_json_output(response)
-        if parsed_response is None:
-            logging.info(f"Retrying message {index} of {len(dataset)} because it was not parsed.")
-            sleep(3)
+        def call_chat_api():
+            logging.info(f"Interacting with OpenAI API for message {index} of {len(dataset)}.")
             response = chat_model(prompt.replace('<message>', message), model, 0)
+            logging.info(f"Finished interacting with OpenAI API for message {index} of {len(dataset)}.")
+            with open(raw_file_path, 'w', encoding="utf-8") as raw_file:
+                logging.info(f"Saving raw response for message {index} of {len(dataset)}.")
+                raw_file.write(response)
+
             parsed_response = parse_json_output(response)
+            if parsed_response is None:
+                logging.info(f"Retrying message {index} of {len(dataset)} because it was not parsed.")
+                sleep(3)
+                return call_chat_api()
+            return parsed_response
+
+        parsed_response = call_chat_api()
 
         with open(parsed_file_path, 'w', encoding="utf-8") as parsed_file:
             parsed_response['prompt_version'] = prompt_version
