@@ -69,11 +69,23 @@ def evaluation(prompt_version: int):
         parsed_file_path = os.path.join(parsed_folder_path, file)
         logging.info(f"Evaluating message {file} of {len(files)}.")
         with open(parsed_file_path, 'r') as f:
-            data = json.load(f)
-            if data['predicted'] == data['label']:
-                correct_messages.append(data)
-            else:
-                incorrect_messages.append(data)
+            try:
+                data = json.load(f)
+                if data['predicted'] == data['label']:
+                    correct_messages.append(data)
+                else:
+                    incorrect_messages.append(data)
+            except json.decoder.JSONDecodeError:
+                logging.info(f"Evaluating message {file} of {len(files)} failed because it was not parsed.")
+                incorrect_messages.append({
+                    'message': '<ERROR_COULD_NOT_PARSE_JSON>',
+                    'predicted': '<ERROR_PREDICTED_LABEL>',
+                    'reason': '<ERROR>',
+                    'label': '<ERROR_LABEL>',
+                    'prompt_version': prompt_version,
+                    'model': '<ERROR>'
+                })
+                continue
 
     with open(os.path.join(EVALUATION_FOLDER, f'{prompt_version}.json'), 'w', encoding="utf-8") as f:
         json.dump({
@@ -127,6 +139,7 @@ def evolution(prompt_version: int, modifying_model: str = "gpt-3.5-turbo"):
     left_tokens = max_tokens - modifying_prompt_token_count - new_prompt_token_count
 
     incorrect_messages = get_evaluation_results_by_version(prompt_version)["incorrect_messages"]
+    incorrect_messages = [m for m in incorrect_messages if m['message'] != '<ERROR_COULD_NOT_PARSE_JSON>']
 
     samples = ""
     while left_tokens > 0 and len(incorrect_messages) > 0:
