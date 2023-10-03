@@ -6,7 +6,8 @@ import random
 import pandas as pd
 from tqdm import tqdm
 
-from src.config import RAW_FOLDER, PARSED_FOLDER, EVALUATION_FOLDER, MAX_TOKENS, PROMPTS_PATH, STATS_FILE_PATH
+from src.config import RAW_FOLDER, PARSED_FOLDER, EVALUATION_FOLDER, MAX_TOKENS, PROMPTS_PATH, STATS_FILE_PATH, \
+    PROMPTS_FOLDER
 from src.models import chat_model
 from src.utils import parse_json_output, sleep, get_prompt_by_version, count_tokens, get_modifying_prompt, \
     get_evaluation_results_by_version, get_stat
@@ -40,12 +41,17 @@ def classification(prompt: str, prompt_version: int, dataset: pd.DataFrame, mode
                 logging.info(f"Saving raw response for message {index} of {len(dataset)}.")
                 raw_file.write(response)
 
-            parsed_response = parse_json_output(response)
-            if parsed_response is None:
+            try:
+                tentative_response = parse_json_output(response)
+                if tentative_response is None:
+                    logging.info(f"Retrying message {index} of {len(dataset)} because it was not parsed.")
+                    sleep(3)
+                    return call_chat_api()
+                return tentative_response
+            except json.decoder.JSONDecodeError:
                 logging.info(f"Retrying message {index} of {len(dataset)} because it was not parsed.")
                 sleep(3)
                 return call_chat_api()
-            return parsed_response
 
         parsed_response = call_chat_api()
 
@@ -174,6 +180,9 @@ def evolution(prompt_version: int, modifying_model: str = "gpt-3.5-turbo"):
         f.seek(0)
         f.write(json.dumps(prompts, indent=2))
         f.truncate()
+
+    with open(os.path.join(PROMPTS_FOLDER, f'{new_version}.txt'), 'w', encoding="utf-8") as f:
+        f.write(new_prompt)
 
     logging.info(f"Finished evolution for prompt version: {prompt_version} with new prompt version: {new_version}.")
     return new_prompt, new_version

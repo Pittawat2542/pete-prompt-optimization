@@ -5,7 +5,7 @@ import time
 import tiktoken
 
 from src.config import OUTPUTS_FOLDER, LOGS_FOLDER, PARSED_FOLDER, RAW_FOLDER, EVALUATION_FOLDER, PROMPTS_PATH, \
-    ORIGINAL_PROMPT_PATH, MODIFYING_PROMPT_PATH, STATS_FILE_PATH, STATS_FOLDER
+    ORIGINAL_PROMPT_PATH, MODIFYING_PROMPT_PATH, STATS_FILE_PATH, STATS_FOLDER, PROMPTS_FOLDER
 
 
 def sleep(seconds: int) -> None:
@@ -42,6 +42,9 @@ def prepare_output_folders():
 
     if not os.path.exists(EVALUATION_FOLDER):
         os.makedirs(EVALUATION_FOLDER)
+
+    if not os.path.exists(PROMPTS_FOLDER):
+        os.makedirs(PROMPTS_FOLDER)
 
 
 def parse_arguments():
