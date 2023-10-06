@@ -84,7 +84,7 @@ def evaluation(prompt_version: int):
                     correct_messages.append(data)
                 else:
                     incorrect_messages.append(data)
-            except json.decoder.JSONDecodeError:
+            except (json.decoder.JSONDecodeError, KeyError):
                 logging.info(f"Evaluating message {file} of {len(files)} failed because it was not parsed.")
                 incorrect_messages.append({
                     'message': '<ERROR_COULD_NOT_PARSE_JSON>',
