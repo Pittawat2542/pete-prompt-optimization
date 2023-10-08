@@ -33,7 +33,7 @@ def classification(prompt: str, prompt_version: int, dataset: pd.DataFrame, mode
             logging.info(f"Skipping message {index} of {len(dataset)} because it was already classified.")
             continue
 
-        def call_chat_api():
+        def call_chat_api(time):
             logging.info(f"Interacting with OpenAI API for message {index} of {len(dataset)}.")
             response = chat_model(prompt.replace('<message>', message), model, 0)
             logging.info(f"Finished interacting with OpenAI API for message {index} of {len(dataset)}.")
@@ -41,19 +41,29 @@ def classification(prompt: str, prompt_version: int, dataset: pd.DataFrame, mode
                 logging.info(f"Saving raw response for message {index} of {len(dataset)}.")
                 raw_file.write(response)
 
+            if time > 10:
+                logging.info("Failed to classify message {index} of {len(dataset)} after 10 tries.")
+                return {
+                    'message': '<ERROR_COULD_NOT_PARSE_JSON>',
+                    'predicted': '<ERROR_PREDICTED_LABEL>',
+                    'reason': '<ERROR>',
+                    'label': '<ERROR_LABEL>',
+                    'prompt_version': prompt_version,
+                }
+
             try:
                 tentative_response = parse_json_output(response)
                 if tentative_response is None:
                     logging.info(f"Retrying message {index} of {len(dataset)} because it was not parsed.")
                     sleep(3)
-                    return call_chat_api()
+                    return call_chat_api(time + 1)
                 return tentative_response
             except json.decoder.JSONDecodeError:
                 logging.info(f"Retrying message {index} of {len(dataset)} because it was not parsed.")
                 sleep(3)
-                return call_chat_api()
+                return call_chat_api(time + 1)
 
-        parsed_response = call_chat_api()
+        parsed_response = call_chat_api(0)
 
         with open(parsed_file_path, 'w', encoding="utf-8") as parsed_file:
             parsed_response['prompt_version'] = prompt_version
