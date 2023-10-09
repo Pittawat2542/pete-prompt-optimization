@@ -158,7 +158,8 @@ def evolution(prompt_version: int, modifying_model: str = "gpt-3.5-turbo"):
     left_tokens = max_tokens - modifying_prompt_token_count - new_prompt_token_count
 
     incorrect_messages = get_evaluation_results_by_version(prompt_version)["incorrect_messages"]
-    incorrect_messages = [m for m in incorrect_messages if m['message'] != '<ERROR_COULD_NOT_PARSE_JSON>']
+    incorrect_messages = [m for m in incorrect_messages if
+                          m.get('message', None) is not None and m['message'] != '<ERROR_COULD_NOT_PARSE_JSON>']
 
     samples = ""
     while left_tokens > 0 and len(incorrect_messages) > 0:
