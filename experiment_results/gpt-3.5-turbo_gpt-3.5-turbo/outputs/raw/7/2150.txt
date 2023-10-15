@@ -1,0 +1,7 @@
+```json
+{
+"message": "rawryyLaugh NT NT",
+"reason": "The message contains a combination of letters and symbols that do not form coherent words or sentences. It appears to be random characters and does not convey any meaningful information. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

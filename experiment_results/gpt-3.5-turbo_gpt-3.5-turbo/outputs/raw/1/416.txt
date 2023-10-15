@@ -1,0 +1,7 @@
+```json
+{
+  "message": "because its fucking bronze",
+  "reason": "The message contains offensive language ('fucking') which is considered toxic. The use of derogatory language suggests a negative and disrespectful tone.",
+  "predicted": "toxic"
+}
+```

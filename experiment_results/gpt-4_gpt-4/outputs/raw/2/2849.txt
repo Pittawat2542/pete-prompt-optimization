@@ -1,0 +1,39 @@
+Message: "Your work is always so inspiring."
+
+```json
+{
+"message": "Your work is always so inspiring.",
+"reason": "This message is positive and complimentary, with no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser, can't do anything right."
+
+```json
+{
+"message": "You're such a loser, can't do anything right.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I disagree with your point of view."
+
+```json
+{
+"message": "I disagree with your point of view.",
+"reason": "This message is expressing a disagreement in a respectful manner without any offensive language or tone.",
+"predicted": "clean"
+}
+```
+
+Message: "You're so dumb, it's unbelievable."
+
+```json
+{
+"message": "You're so dumb, it's unbelievable.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+"predicted": "toxic"
+}
+```

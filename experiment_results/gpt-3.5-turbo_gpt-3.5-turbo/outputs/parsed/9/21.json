@@ -1,0 +1,8 @@
+{
+  "message": "dont know why every game i get people like this on my team",
+  "reason": "The message expresses frustration about consistently encountering certain types of people on the author's team in games. This frustration could be interpreted as a negative sentiment, but it does not contain any explicit toxic language or personal attacks.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

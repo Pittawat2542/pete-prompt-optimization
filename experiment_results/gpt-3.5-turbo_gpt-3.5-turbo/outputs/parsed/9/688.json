@@ -1,0 +1,8 @@
+{
+  "message": 800,
+  "reason": "The message consists of a single number, which does not provide any context or content for classification. Therefore, it cannot be categorized as toxic or clean based on the given information.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "hell yeaaahh",
+"reason": "The predicted category is 'clean'. The text 'hell yeaaahh' does not contain any offensive or harmful language. It is a positive expression of excitement or enthusiasm.",
+"predicted": "clean"
+}
+```

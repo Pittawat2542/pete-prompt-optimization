@@ -1,0 +1,8 @@
+{
+  "message": "I think your idea is not feasible.",
+  "reason": "The message is a critique but it is expressed in a respectful and non-offensive manner.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

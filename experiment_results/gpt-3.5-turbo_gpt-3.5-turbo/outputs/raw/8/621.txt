@@ -1,0 +1,7 @@
+```json
+{
+  "message": "PepeLaugh",
+  "reason": "The text 'PepeLaugh' is classified as 'clean' because it does not contain any explicit or offensive language. The model has consistently predicted it as 'clean' in the provided examples.",
+  "predicted": "clean"
+}
+```

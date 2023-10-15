@@ -1,0 +1,7 @@
+```json
+{
+"message": "ha ha ha",
+"reason": "The message does not contain any offensive, rude, or disrespectful language. It seems to be a simple expression of laughter or amusement.",
+"predicted": "clean"
+}
+```

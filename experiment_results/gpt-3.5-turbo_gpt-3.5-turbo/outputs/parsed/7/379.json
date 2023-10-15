@@ -1,0 +1,8 @@
+{
+  "message": "fuck that champion and his entire bullshit kit",
+  "reason": "The message contains offensive language and expresses strong negative sentiment towards the champion and their abilities, indicating a toxic category.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,49 @@
+Message: > I can't believe you're so stupid to think that way.
+
+```json
+{
+"message": "I can't believe you're so stupid to think that way.",
+"reason": "This message is considered toxic due to its use of derogatory language directed at someone's intelligence.",
+"predicted": "toxic"
+}
+```
+
+Message: > Thank you for your help, I really appreciate it.
+
+```json
+{
+"message": "Thank you for your help, I really appreciate it.",
+"reason": "This message is polite and expresses gratitude, hence it is considered clean.",
+"predicted": "clean"
+}
+```
+
+Message: > All women are useless.
+
+```json
+{
+"message": "All women are useless.",
+"reason": "This message is considered toxic due to its sexist language and generalization about a specific gender.",
+"predicted": "toxic"
+}
+```
+
+Message: > Can anyone help me with this problem?
+
+```json
+{
+"message": "Can anyone help me with this problem?",
+"reason": "This message is asking for help in a polite manner, hence it is considered clean.",
+"predicted": "clean"
+}
+```
+
+Message: > You're such a loser, get a life.
+
+```json
+{
+"message": "You're such a loser, get a life.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+"predicted": "toxic"
+}
+```

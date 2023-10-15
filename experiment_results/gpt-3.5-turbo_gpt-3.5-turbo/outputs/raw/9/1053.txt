@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Hell no ew",
+  "reason": "The message contains negative language ('Hell' and 'ew') which indicates a negative sentiment. The use of 'no' also suggests a disagreement or refusal. These elements contribute to a toxic tone in the message.",
+  "predicted": "toxic"
+}
+```

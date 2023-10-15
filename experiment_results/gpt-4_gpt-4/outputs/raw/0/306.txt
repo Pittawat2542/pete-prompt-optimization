@@ -1,0 +1,7 @@
+```json
+{
+"message": "Samira is sick as fuck omg",
+"reason": "The message contains explicit language but it does not seem to be used in a harmful or offensive manner. It appears to be an expression of surprise or emphasis rather than an attempt to insult or harm.",
+"predicted": "clean",
+}
+```

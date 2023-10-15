@@ -1,0 +1,8 @@
+{
+  "message": "wtf is this nice @Grizz shit",
+  "reason": "The message contains the abbreviation 'wtf' which is commonly used as an offensive expression. Additionally, the use of the word 'shit' adds to the toxic nature of the message.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "!hype",
+  "reason": "The message is a common expression used in online communities to show excitement or enthusiasm. It does not contain any offensive, rude, or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

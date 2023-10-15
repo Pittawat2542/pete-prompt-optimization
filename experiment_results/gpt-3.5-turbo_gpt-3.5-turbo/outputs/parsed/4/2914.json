@@ -1,0 +1,8 @@
+{
+  "message": "there are many cheaters in china",
+  "reason": "The message contains a negative sentiment towards a specific group of people, suggesting that there are many cheaters in China. This negative generalization can be considered toxic as it promotes stereotypes and can lead to discrimination or prejudice against Chinese individuals.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

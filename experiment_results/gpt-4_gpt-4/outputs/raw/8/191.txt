@@ -1,0 +1,9 @@
+Message: > I think the new update is really cool! The graphics have improved a lot.
+
+```json
+{
+"message": "I think the new update is really cool! The graphics have improved a lot.",
+"reason": "The message is positive and respectful, with no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

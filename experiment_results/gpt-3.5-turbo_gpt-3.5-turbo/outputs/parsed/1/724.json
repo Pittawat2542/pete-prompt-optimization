@@ -1,0 +1,8 @@
+{
+  "message": "Hey, I think your opinion is wrong.",
+  "reason": "The message is expressing disagreement, but it does not contain any offensive or harmful language. It is a respectful disagreement.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

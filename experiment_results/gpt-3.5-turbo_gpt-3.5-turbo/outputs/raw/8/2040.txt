@@ -1,0 +1,7 @@
+```json
+{
+"message": "fessn1 all the clips got deleted to prevent dmca strikes, so theres no command at the moment",
+"reason": "The text does not contain any offensive or harmful language. It is simply providing information about the deletion of clips to prevent DMCA strikes.",
+"predicted": "clean"
+}
+```

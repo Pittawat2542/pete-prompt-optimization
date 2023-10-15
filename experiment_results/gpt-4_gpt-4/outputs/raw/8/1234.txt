@@ -1,0 +1,9 @@
+Message: "I think your idea is stupid and you should feel bad for even suggesting it."
+
+```json
+{
+"message": "I think your idea is stupid and you should feel bad for even suggesting it.",
+"reason": "The message contains disrespectful language and personal attacks.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "gg",
+"reason": "The message is classified as 'clean' because it is a common abbreviation used in online gaming to mean 'good game'. It is a positive and sportsmanlike expression used to acknowledge a well-played game.",
+"predicted": "clean"
+}
+```

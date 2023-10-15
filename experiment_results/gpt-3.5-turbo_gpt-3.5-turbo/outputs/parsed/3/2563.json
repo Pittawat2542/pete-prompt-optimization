@@ -1,0 +1,8 @@
+{
+  "message": "@hf_spinach happy thursday!!",
+  "reason": "The message is classified as 'clean' because it contains positive and friendly words ('happy', 'thursday') and does not exhibit any toxic or offensive language. The model's prediction of 'clean' aligns with the content of the message.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

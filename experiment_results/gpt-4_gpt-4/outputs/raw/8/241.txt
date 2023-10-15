@@ -1,0 +1,9 @@
+Message: "I can't believe you did that. You're such a loser."
+
+```json
+{
+"message": "I can't believe you did that. You're such a loser.",
+"reason": "The message contains derogatory language aimed at a person.",
+"predicted": "toxic"
+}
+```

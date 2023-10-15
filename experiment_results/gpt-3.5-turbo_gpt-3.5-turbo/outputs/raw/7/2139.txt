@@ -1,0 +1,7 @@
+```json
+{
+"message": "ha ha ha comms",
+"reason": "The message contains laughter ('ha ha ha') which indicates a positive and non-toxic sentiment. The word 'comms' is likely short for 'communications' and does not appear to be offensive or toxic. Therefore, the message can be classified as clean.",
+"predicted": "clean"
+}
+```

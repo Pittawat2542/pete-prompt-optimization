@@ -1,0 +1,8 @@
+{
+  "message": "Stupid net tbh",
+  "reason": "The text falls into the 'toxic' category because the model predicted it as toxic with a high confidence score of 0.95. Additionally, the word 'stupid' is often used in a derogatory manner and can be considered offensive or disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

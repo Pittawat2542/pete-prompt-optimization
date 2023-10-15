@@ -1,0 +1,8 @@
+{
+  "message": "chocotGotem chocotGotem chocotGotem",
+  "reason": "The message consists of repeated words without any context or meaningful content. It does not contain any offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

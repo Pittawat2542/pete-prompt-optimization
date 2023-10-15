@@ -1,0 +1,8 @@
+{
+  "message": "You're always wrong, can't you do anything right?",
+  "reason": "This message is considered toxic due to its aggressive tone and disrespectful language.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

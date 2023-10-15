@@ -1,0 +1,39 @@
+Message: "I think you're wrong about that."
+
+```json
+{
+"message": "I think you're wrong about that.",
+"reason": "This message is a polite disagreement, without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser, get a life!"
+
+```json
+{
+"message": "You're such a loser, get a life!",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I appreciate your help, thank you."
+
+```json
+{
+"message": "I appreciate your help, thank you.",
+"reason": "This message is polite and expresses gratitude, without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're so stupid, can't you do anything right?"
+
+```json
+{
+"message": "You're so stupid, can't you do anything right?",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+"predicted": "toxic"
+}
+```

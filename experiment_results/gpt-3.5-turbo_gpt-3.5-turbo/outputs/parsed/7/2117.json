@@ -1,0 +1,8 @@
+{
+  "message": "@mfyntz tgl5Head",
+  "reason": "The message does not contain any offensive or harmful language. It appears to be a random combination of characters and does not convey any meaningful content.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

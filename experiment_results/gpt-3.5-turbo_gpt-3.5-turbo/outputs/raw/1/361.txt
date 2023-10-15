@@ -1,0 +1,7 @@
+```json
+{
+  "message": "He just fucking runs",
+  "reason": "The use of profanity in the message indicates a negative and aggressive tone. The word 'fucking' is offensive and disrespectful. This message can be classified as toxic.",
+  "predicted": "toxic"
+}
+```

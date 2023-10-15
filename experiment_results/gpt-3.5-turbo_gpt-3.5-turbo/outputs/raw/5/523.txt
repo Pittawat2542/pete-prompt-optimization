@@ -1,0 +1,7 @@
+```json
+{
+"message": "RT @PeterXinping: If You Want To Get Girls You Should Just Be Yourself! \n\nUnless Youâ€™re 5â€™8, No Muscles, 3000 Hours League Of Legends, Twitâ€¦",
+"reason": "The message can be classified as toxic. The use of derogatory language and negative stereotypes towards individuals who are 5'8, have no muscles, and spend a significant amount of time playing League of Legends suggests a disrespectful and offensive tone. This type of language can contribute to a toxic and hostile environment within the online community.",
+"predicted": "toxic"
+}
+```

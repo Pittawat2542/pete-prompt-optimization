@@ -1,0 +1,8 @@
+{
+  "message": "Sooooo if u say u have a GF ur actually lying so 5head",
+  "reason": "The message contains sarcastic language and insults, such as 'lying' and '5head'. This indicates a toxic tone and disrespectful behavior towards others.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

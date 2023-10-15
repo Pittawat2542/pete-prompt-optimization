@@ -1,0 +1,8 @@
+{
+  "message": "u succ LUL",
+  "reason": "The message contains a derogatory term ('succ') which is often used in a toxic manner to insult or demean someone. The presence of this term suggests that the message is toxic.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

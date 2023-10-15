@@ -1,0 +1,7 @@
+```json
+{
+"message": "DendiFace gg",
+"reason": "The message appears to be a gaming term or slang, possibly referring to a player's name (DendiFace) and 'gg' is a common abbreviation for 'good game'. There is no offensive or disrespectful language present.",
+"predicted": "clean"
+}
+```

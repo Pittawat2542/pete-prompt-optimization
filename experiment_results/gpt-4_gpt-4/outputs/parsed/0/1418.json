@@ -1,0 +1,8 @@
+{
+  "message": "ooo we get a chickirhinooooo",
+  "reason": "The message is non-offensive and does not contain any harmful or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

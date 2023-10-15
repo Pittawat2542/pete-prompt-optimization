@@ -1,0 +1,8 @@
+{
+  "message": "gg",
+  "reason": "The message 'gg' is a common online abbreviation for 'good game', which is a polite and respectful phrase.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-4"
+}

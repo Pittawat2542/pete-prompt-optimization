@@ -1,0 +1,7 @@
+```json
+{
+"message": "!hype",
+"reason": "The message '!hype' is classified as 'clean' because it does not contain any toxic or offensive language. It is a positive expression of excitement or enthusiasm.",
+"predicted": "clean"
+}
+```

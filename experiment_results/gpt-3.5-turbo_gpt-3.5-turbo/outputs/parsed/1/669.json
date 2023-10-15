@@ -1,0 +1,8 @@
+{
+  "message": "215 cs",
+  "reason": "The message consists of a numerical value followed by 'cs'. This is likely a reference to 'creep score', which is a term used in online gaming to measure the number of enemy minions a player has killed. This message does not contain any offensive or harmful language, and it does not seem to be intended to provoke or insult anyone. Therefore, it can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

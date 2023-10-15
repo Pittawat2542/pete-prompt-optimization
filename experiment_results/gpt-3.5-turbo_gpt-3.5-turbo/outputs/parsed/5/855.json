@@ -1,0 +1,8 @@
+{
+  "message": "osu? woow",
+  "reason": "The message 'osu? woow' does not contain any offensive or toxic language. It appears to be a harmless expression of surprise or excitement. The predicted category is 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

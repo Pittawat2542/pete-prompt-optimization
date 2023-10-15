@@ -1,0 +1,8 @@
+{
+  "message": "white_medium_star:\u0001",
+  "reason": "The message is classified as 'clean' because it consists of an emoji representation of a white medium star. The presence of an emoji does not indicate any toxic or offensive content.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

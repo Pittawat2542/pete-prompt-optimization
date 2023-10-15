@@ -1,0 +1,8 @@
+{
+  "message": "HELL NO",
+  "reason": "The text is classified as toxic because it contains strong negative language.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

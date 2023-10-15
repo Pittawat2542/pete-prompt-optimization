@@ -1,0 +1,8 @@
+{
+  "message": "How to mute this shit",
+  "reason": "The message contains a swear word which is considered offensive and disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

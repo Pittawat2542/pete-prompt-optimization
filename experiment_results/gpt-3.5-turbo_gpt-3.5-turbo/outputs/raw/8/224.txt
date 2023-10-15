@@ -1,0 +1,7 @@
+```json
+{
+"message": "LETS FUCKING GOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+"reason": "The text contains excessive use of profanity and capitalization, indicating a high level of aggression and excitement. This suggests that the text is toxic.",
+"predicted": "toxic"
+}
+```

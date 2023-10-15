@@ -1,0 +1,9 @@
+Message: >  You are such a loser. I can't believe you even exist.
+
+```json
+{
+"message": "You are such a loser. I can't believe you even exist.",
+"reason": "The message contains offensive language and personal attacks.",
+"predicted": "toxic"
+}
+```

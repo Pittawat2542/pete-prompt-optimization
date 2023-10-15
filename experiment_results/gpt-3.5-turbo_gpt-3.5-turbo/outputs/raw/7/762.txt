@@ -1,0 +1,9 @@
+```json
+{
+"message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
+"reason": "clean",
+"predicted": "clean"
+}
+```
+
+The message "@Yamikazexz you are getting close to 400 CS DOINB HACK" is classified as "clean" because it does not contain any toxic or offensive language. The message seems to be a comment or observation about someone's CS (creep score) in a game, which is a common topic in online gaming communities.

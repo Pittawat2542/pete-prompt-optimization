@@ -1,0 +1,8 @@
+{
+  "message": "@buttery_butt1094 YEAH shit funny af",
+  "reason": "The message contains profanity ('shit') and is likely to be classified as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

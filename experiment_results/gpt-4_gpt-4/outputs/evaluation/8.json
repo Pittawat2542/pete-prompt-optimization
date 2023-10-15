@@ -1,0 +1,3210 @@
+{
+  "total": 400,
+  "correct": 172,
+  "incorrect": 228,
+  "accuracy": 0.43,
+  "correct_messages": [
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser.",
+      "reason": "The message contains disrespectful language targeted at an individual.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "The message contains disrespectful language aimed at a person.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but does not contain offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but it is not offensive or disrespectful. It is a suggestion for improvement.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. We need to come up with something better.",
+      "reason": "The message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but does not contain offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but it is not offensive or disrespectful. It is a suggestion for improvement.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but does not contain offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but it is not offensive or disrespectful. It is a suggestion for improvement.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but does not contain offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough.",
+      "reason": "The message is a critique but does not contain offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough.",
+      "reason": "The message is a critique but does not contain offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "The message is a critique but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very good.",
+      "reason": "The message is expressing a personal opinion in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so ignorant.",
+      "reason": "The message contains disrespectful language aimed at a person.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really innovative and could bring a lot of positive changes.",
+      "reason": "The message is respectful and positive, with no offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very good. We should try something else.",
+      "reason": "The message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very good.",
+      "reason": "The message is a critique but does not contain offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that way. You're a disgrace.",
+      "reason": "The message contains disrespectful language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough.",
+      "reason": "The message is a critique but does not contain offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough.",
+      "reason": "The message is a critique but does not contain offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but does so in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. I can't believe you thought that was a good idea.",
+      "reason": "The message contains derogatory language and is disrespectful towards the recipient.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really innovative and could bring a lot of positive change.",
+      "reason": "The message is respectful and positive, with no offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you did that. You're such a loser.",
+      "reason": "The message contains derogatory language aimed at a person.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very practical.",
+      "reason": "The message is a critique but it is expressed in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very good. We should try something else.",
+      "reason": "The message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that.",
+      "reason": "The message contains disrespectful language aimed at a person.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, no one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "The message contains disrespectful language aimed at a person.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains offensive language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and is disrespectful towards the recipient.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you did that. You're such a loser.",
+      "reason": "The message contains derogatory language aimed at a person.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is brilliant and innovative.",
+      "reason": "The message is polite and respectful, expressing a positive sentiment towards someone's idea.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is brilliant and innovative.",
+      "reason": "The message is positive and respectful, with no offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that.",
+      "reason": "The message contains disrespectful language aimed at a person.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is brilliant and innovative.",
+      "reason": "The message is positive and respectful, with no offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very good.",
+      "reason": "The message is expressing a personal opinion in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "The message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough.",
+      "reason": "The message is a critique but does not contain offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but it is not offensive or disrespectful. It is a suggestion for improvement.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough.",
+      "reason": "The message is a critique but does not contain offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but it is not offensive or disrespectful. It is a suggestion for improvement.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is brilliant and innovative.",
+      "reason": "The message is positive and respectful, with no offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not practical.",
+      "reason": "The message is a critique but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but it is not offensive or disrespectful. It is a suggestion for improvement.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    }
+  ],
+  "incorrect_messages": [
+    {
+      "message": "I think your idea is not practical.",
+      "reason": "The message is a critique but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not practical.",
+      "reason": "The message is a critique but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but does so in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very good.",
+      "reason": "The message is expressing a negative opinion about someone's idea, but it does so in a respectful and non-offensive manner.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is brilliant and innovative.",
+      "reason": "The message is positive and respectful, with no offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not practical. It's better to consider other options.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough.",
+      "reason": "The message is a critique but does not contain offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough.",
+      "reason": "The message is a critique but does not contain offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so ignorant. You should educate yourself before making such stupid comments.",
+      "reason": "The message contains disrespectful language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "The message contains disrespectful language aimed at a person.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is stupid and you should feel bad.",
+      "reason": "The message contains disrespectful language and negative sentiment towards another person's idea.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is stupid and you should feel bad for even suggesting it.",
+      "reason": "The message contains disrespectful language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "The message contains disrespectful language aimed at a person.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is stupid and you should feel bad.",
+      "reason": "The message contains disrespectful language and negative sentiment towards another person's idea.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that way.",
+      "reason": "The message contains disrespectful language aimed at a person's intelligence.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "The message contains disrespectful language aimed at a person.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "The message contains disrespectful language aimed at a person.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains disrespectful language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think the new update is really cool! The graphics have improved a lot.",
+      "reason": "The message is positive and respectful, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very practical. We should consider other options.",
+      "reason": "The message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very good. It lacks originality and depth.",
+      "reason": "The message is critical but does not contain offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about this. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even get a simple task done right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains disrespectful language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that.",
+      "reason": "The message contains disrespectful language aimed at a person.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You are such a loser. I can't believe you even exist.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is stupid and you're a fool for suggesting it.",
+      "reason": "The message contains disrespectful language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that.",
+      "reason": "The message contains disrespectful language aimed at a person.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains offensive language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is brilliant and I would love to support it.",
+      "reason": "The message is positive and supportive, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not practical.",
+      "reason": "The message is a critique but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is stupid and you're a fool for suggesting it.",
+      "reason": "The message contains disrespectful language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very good.",
+      "reason": "The message is expressing a personal opinion in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains offensive language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "The message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very good. We should try something else.",
+      "reason": "The message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains offensive language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really innovative and could bring a lot of positive change.",
+      "reason": "The message is respectful and positive, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your point of view is wrong.",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but it is not offensive or disrespectful. It is a suggestion for improvement.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not practical.",
+      "reason": "The message is a critique but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think this is a great idea! Let's do it.",
+      "reason": "The message is positive and supportive, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but it is not offensive or disrespectful. It is a suggestion for improvement.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really innovative and could bring a lot of positive change.",
+      "reason": "The message is respectful and positive, with no offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is brilliant and innovative.",
+      "reason": "The message is positive and respectful, with no offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but does so in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very practical. It might be better to consider other options.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not practical.",
+      "reason": "The message is a critique but it is expressed in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is brilliant! It's innovative and creative.",
+      "reason": "The message is positive and respectful, with no offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough.",
+      "reason": "The message is a critique but does not contain offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. I can't believe you actually thought you could win.",
+      "reason": "The message contains derogatory language and is disrespectful towards the recipient.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but does so in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not practical.",
+      "reason": "The message is a critique but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very good. We should try something else.",
+      "reason": "The message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but does so in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "The message is a critique but it is expressed in a respectful and non-offensive manner.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but does so in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough.",
+      "reason": "The message is a critique but does not contain offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very good.",
+      "reason": "The message is a critique but does not contain offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough.",
+      "reason": "The message is a critique but does not contain offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains disrespectful language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. I can't believe you thought that was a good idea.",
+      "reason": "The message contains disrespectful language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so ignorant. You should educate yourself before making such stupid comments.",
+      "reason": "The message contains disrespectful language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really innovative and could bring a lot of positive change!",
+      "reason": "The message is respectful and positive, with no offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is stupid and you're a fool for suggesting it.",
+      "reason": "The message contains disrespectful language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that way.",
+      "reason": "The message contains disrespectful language aimed at a person's intelligence.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains derogatory language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that way.",
+      "reason": "The message contains disrespectful language aimed at a person's intelligence.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains offensive language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "The message contains derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "The message contains offensive language and personal attacks.",
+      "predicted": "toxic",
+      "prompt_version": 8,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very good.",
+      "reason": "The message is expressing a personal opinion in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "The message is a polite disagreement with someone's idea, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you did a great job with the presentation today.",
+      "reason": "The message is positive and respectful, with no offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not good enough. You should try to think more creatively.",
+      "reason": "The message is a critique but it is not offensive or disrespectful. It is a suggestion for improvement.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is brilliant and innovative.",
+      "reason": "The message is positive and respectful, with no offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not practical.",
+      "reason": "The message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is brilliant and innovative.",
+      "reason": "The message is positive and respectful, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very good. We should try something else.",
+      "reason": "The message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 8,
+      "label": "toxic",
+      "model": "gpt-4"
+    }
+  ]
+}

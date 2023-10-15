@@ -1,0 +1,7 @@
+```json
+{
+"message": "that he's got none helmet",
+"reason": "The message contains a grammatical error ('none' instead of 'no') and the word 'helmet' suggests that it is referring to a person not wearing protective gear. This could be interpreted as a negative comment or criticism, making it toxic.",
+"predicted": "toxic"
+}
+```

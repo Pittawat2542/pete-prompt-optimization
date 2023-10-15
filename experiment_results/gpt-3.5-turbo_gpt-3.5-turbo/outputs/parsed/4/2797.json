@@ -1,0 +1,8 @@
+{
+  "message": "shit winds are acomin'!",
+  "reason": "The predicted category is 'toxic' because the message contains offensive language ('shit'). The model has correctly identified this as toxic based on its training data.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

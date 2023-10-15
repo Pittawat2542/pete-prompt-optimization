@@ -1,0 +1,8 @@
+{
+  "message": "gg",
+  "reason": "The message consists of the abbreviation 'gg', which is commonly used in online gaming communities to mean 'good game'. This is a positive and sportsmanlike expression, indicating that the message is clean.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

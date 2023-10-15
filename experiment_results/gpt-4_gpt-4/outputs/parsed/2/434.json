@@ -1,0 +1,8 @@
+{
+  "message": "I think your idea is not very practical.",
+  "reason": "This message is a critique but it is expressed in a respectful and non-offensive manner.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

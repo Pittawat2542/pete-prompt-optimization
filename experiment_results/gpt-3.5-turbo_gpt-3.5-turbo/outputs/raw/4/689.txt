@@ -1,0 +1,7 @@
+```json
+{
+"message": "YEP",
+"reason": "The predicted category is 'clean' because the text 'YEP' does not contain any toxic or offensive language. It is a simple and neutral response that does not violate any community guidelines or rules.",
+"predicted": "clean"
+}
+```

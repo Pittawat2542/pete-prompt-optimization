@@ -1,0 +1,8 @@
+{
+  "message": "my god the stupidity of people",
+  "reason": "The message contains negative sentiment and derogatory language, indicating a toxic tone.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

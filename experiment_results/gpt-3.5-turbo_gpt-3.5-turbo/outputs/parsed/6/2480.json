@@ -1,0 +1,8 @@
+{
+  "message": "@animoputt I get it dude. just pokin ya.",
+  "reason": "The message is classified as 'clean'. The predicted category is based on the absence of any toxic or offensive language in the message. The model has likely identified the use of friendly and casual language ('dude', 'pokin ya') which indicates a non-toxic conversation.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

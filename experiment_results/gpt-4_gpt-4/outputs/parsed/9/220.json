@@ -1,0 +1,8 @@
+{
+  "message": "Fuck up a turret dive as graves and went afk",
+  "reason": "The message contains a swear word which is considered offensive language.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

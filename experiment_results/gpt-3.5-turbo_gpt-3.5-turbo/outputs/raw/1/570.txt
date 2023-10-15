@@ -1,0 +1,7 @@
+```json
+{
+  "message": "you W'd there because you were anticipating flash 4Head",
+  "reason": "The message contains a sarcastic emote '4Head' which is often used in a toxic manner to mock or belittle someone. Additionally, the use of 'W'd' suggests that the person made a mistake or failed in some way. These elements contribute to a toxic tone in the message.",
+  "predicted": "toxic"
+}
+```

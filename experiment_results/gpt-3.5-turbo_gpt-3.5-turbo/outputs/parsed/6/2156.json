@@ -1,0 +1,8 @@
+{
+  "message": "DendiFace gg",
+  "reason": "The message contains the term 'DendiFace', which is likely a reference to a Twitch emote. Emotes are often used in a playful or positive manner, indicating that the message is clean.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

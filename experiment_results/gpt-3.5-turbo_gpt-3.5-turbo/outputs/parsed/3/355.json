@@ -1,0 +1,8 @@
+{
+  "message": "oh shit guys",
+  "reason": "The predicted category is 'toxic' because the phrase 'oh shit' is considered profanity and can be offensive or disrespectful in some contexts.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

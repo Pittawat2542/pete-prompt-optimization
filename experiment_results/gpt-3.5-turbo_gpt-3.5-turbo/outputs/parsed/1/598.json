@@ -1,0 +1,8 @@
+{
+  "message": "last time i played talon, talon jungle was not legitimately playable, is that still true",
+  "reason": "The message is asking a question about the current state of a champion in the game. It does not contain any offensive or harmful language, and the tone is neutral. Therefore, it can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

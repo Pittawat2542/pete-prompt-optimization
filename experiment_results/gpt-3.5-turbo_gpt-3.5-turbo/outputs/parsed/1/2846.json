@@ -1,0 +1,8 @@
+{
+  "message": "the hell was that",
+  "reason": "The message contains a mild profanity ('hell'), but it does not contain any explicit or offensive language. It is a relatively harmless expression of surprise or confusion.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

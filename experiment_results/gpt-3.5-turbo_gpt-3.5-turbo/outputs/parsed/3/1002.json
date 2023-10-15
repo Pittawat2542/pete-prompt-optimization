@@ -1,0 +1,8 @@
+{
+  "message": "so its not the fucking card",
+  "reason": "The message contains offensive language ('fucking'), which is a strong indicator of toxicity.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

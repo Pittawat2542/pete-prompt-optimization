@@ -1,0 +1,8 @@
+{
+  "message": "hes too smart",
+  "reason": "The message 'hes too smart' does not contain any explicit toxic language or offensive content. It is a neutral statement that simply states that someone is intelligent. Therefore, it can be classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

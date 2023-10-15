@@ -1,0 +1,8 @@
+{
+  "message": "Dont bother with salty lol he's tryna make yall look like an idiot when he is the moron himself",
+  "reason": "The text contains derogatory language ('idiot' and 'moron') and insults ('salty' and 'moron'). This indicates a toxic tone and negative sentiment towards the person mentioned. The model predicted the category as 'toxic', which aligns with the presence of offensive language and insults.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

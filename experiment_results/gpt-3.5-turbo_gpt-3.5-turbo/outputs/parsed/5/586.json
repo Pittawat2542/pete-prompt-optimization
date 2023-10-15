@@ -1,0 +1,8 @@
+{
+  "message": "YAMI STOP YOU'RE GOOD",
+  "reason": "The message is classified as clean. The word 'good' indicates a positive sentiment, which is typically associated with a clean message. Additionally, the absence of any offensive or toxic language in the message supports the clean classification.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

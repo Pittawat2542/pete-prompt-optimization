@@ -1,0 +1,7 @@
+```json
+{
+"message": "I like League of legends because I had a guy say I don't care about the role I got I'm playing what I want, then he went 1/9",
+"reason": "The message does not contain any toxic language or offensive content. It is a personal anecdote about a player in League of Legends who did not perform well in a match. The message expresses the speaker's preference for the game and their experience with another player. Therefore, the message can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

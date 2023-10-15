@@ -1,0 +1,8 @@
+{
+  "message": "DD",
+  "reason": "The message 'DD' does not contain any offensive or disrespectful language. It could be an abbreviation or acronym, but without context, it's not possible to interpret it as toxic.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

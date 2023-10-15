@@ -1,0 +1,8 @@
+{
+  "message": "Look at these vacuums",
+  "reason": "The message is a simple statement without any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

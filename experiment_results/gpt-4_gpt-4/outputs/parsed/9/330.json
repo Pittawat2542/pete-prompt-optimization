@@ -1,0 +1,8 @@
+{
+  "message": "I'm sorry, but I don't think I can help with that.",
+  "reason": "The message is polite and does not contain any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

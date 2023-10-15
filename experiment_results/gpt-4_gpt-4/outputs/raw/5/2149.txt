@@ -1,0 +1,7 @@
+```json
+{
+"message": "tglGG",
+"reason": "The message does not contain any offensive or disrespectful language. It appears to be a random string of characters or possibly an acronym, but without context, it's not possible to determine any toxicity.",
+"predicted": "clean"
+}
+```

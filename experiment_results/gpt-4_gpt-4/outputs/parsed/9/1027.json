@@ -1,0 +1,8 @@
+{
+  "message": "why did pubg add this creepy shit?",
+  "reason": "The message uses a profanity which is considered disrespectful and offensive.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

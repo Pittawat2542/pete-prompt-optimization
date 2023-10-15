@@ -1,0 +1,7 @@
+```json
+{
+"message": "@adooool18 on the way danucdSaspisas",
+"reason": "The text contains a username and some random characters. It does not contain any offensive or toxic language. Therefore, it can be classified as clean.",
+"predicted": "clean"
+}
+```

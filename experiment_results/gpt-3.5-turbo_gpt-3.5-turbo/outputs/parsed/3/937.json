@@ -1,0 +1,8 @@
+{
+  "message": "The fuck was that Fiora thinking? Diving base against 4 people and typing wtf in all chat so dumb",
+  "reason": "The message contains offensive language ('fuck', 'dumb') and negative sentiment ('wtf', 'so dumb'). It also criticizes another player's decision ('The fuck was that Fiora thinking?'). These elements indicate a toxic tone and behavior.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

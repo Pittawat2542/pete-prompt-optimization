@@ -1,0 +1,8 @@
+{
+  "message": "last time i played talon, talon jungle was not legitimately playable, is that still true",
+  "reason": "The text does not contain any offensive or harmful language, and it is not attacking or insulting anyone. It is a question about the viability of playing Talon as a jungle champion in a game. Therefore, it can be classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

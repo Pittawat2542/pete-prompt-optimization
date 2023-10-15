@@ -1,0 +1,7 @@
+```json
+{
+"message": "laners dying even with vision ðŸ¤¡",
+"reason": "The message contains frustration and an emoji, which suggests a negative tone. The phrase 'laners dying even with vision' indicates that players are dying despite having vision, which can be seen as a complaint or criticism. This negative sentiment and frustration indicate that the message is toxic.",
+"predicted": "toxic"
+}
+```

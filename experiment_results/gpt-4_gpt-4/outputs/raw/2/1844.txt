@@ -1,0 +1,39 @@
+Message: "You're such a loser, can't even win a single game."
+
+```json
+{
+"message": "You're such a loser, can't even win a single game.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I really enjoyed the game, well played!"
+
+```json
+{
+"message": "I really enjoyed the game, well played!",
+"reason": "This message is positive and respectful, it contains no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "Your gameplay is so boring, it's like watching paint dry."
+
+```json
+{
+"message": "Your gameplay is so boring, it's like watching paint dry.",
+"reason": "This message is considered toxic due to its disrespectful and negative tone directed at someone's gameplay.",
+"predicted": "toxic"
+}
+```
+
+Message: "Can you share some tips on how you achieved that level?"
+
+```json
+{
+"message": "Can you share some tips on how you achieved that level?",
+"reason": "This message is polite and respectful, it contains no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

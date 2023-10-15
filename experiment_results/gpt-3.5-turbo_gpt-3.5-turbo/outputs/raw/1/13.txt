@@ -1,0 +1,7 @@
+```json
+{
+  "message": "love how i cant win even with me playing well",
+  "reason": "The message expresses frustration and disappointment, but it does not contain any offensive or harmful language. It is a common sentiment in online gaming communities when players feel they are not being rewarded for their efforts. Therefore, the message can be classified as clean.",
+  "predicted": "clean"
+}
+```

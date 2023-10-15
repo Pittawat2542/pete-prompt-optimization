@@ -1,0 +1,8 @@
+{
+  "message": "wtf is this nice @Grizz shit",
+  "reason": "The text contains a profanity ('wtf') and a derogatory term ('shit'), which indicates a toxic language.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

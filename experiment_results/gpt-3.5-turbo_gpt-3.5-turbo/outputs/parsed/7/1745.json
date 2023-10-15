@@ -1,0 +1,8 @@
+{
+  "message": "WeirdChamp",
+  "reason": "The message contains a term that is commonly used in online communities to express disapproval or mockery. This term is often associated with toxic behavior and negative sentiments.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

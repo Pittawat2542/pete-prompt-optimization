@@ -1,0 +1,7 @@
+```json
+{
+"message": "control setting and dpi",
+"reason": "The message is about control settings and dpi, which are technical terms related to computer settings. It does not contain any offensive or harmful content.",
+"predicted": "clean"
+}
+```

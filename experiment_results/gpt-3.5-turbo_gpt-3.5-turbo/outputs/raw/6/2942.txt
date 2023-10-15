@@ -1,0 +1,7 @@
+```json
+{
+"message": "daaaaam",
+"reason": "The message is classified as toxic because it contains repetitive characters ('aaaaa') which is often associated with aggressive or offensive language.",
+"predicted": "toxic"
+}
+```

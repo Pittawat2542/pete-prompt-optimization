@@ -1,0 +1,9 @@
+```json
+{
+"message": "> Yo Riot wtf \n fuck brand he always deals the most damage for some reason EVERY GANE",
+"reason": "toxic",
+"predicted": "toxic"
+}
+```
+
+The message contains offensive language and negative sentiment towards Riot and Brand. The model predicted the category as "toxic" which aligns with the toxic language and negative sentiment expressed in the message.

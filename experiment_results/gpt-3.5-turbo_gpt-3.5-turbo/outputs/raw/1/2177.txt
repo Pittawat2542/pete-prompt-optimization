@@ -1,0 +1,7 @@
+```json
+{
+  "message": "@escamoli yeah",
+  "reason": "The message contains a simple agreement response 'yeah' to another user's comment. There is no offensive or harmful language used, and the message does not display any toxic behavior.",
+  "predicted": "clean"
+}
+```

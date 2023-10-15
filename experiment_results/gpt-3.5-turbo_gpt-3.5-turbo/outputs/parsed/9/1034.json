@@ -1,0 +1,8 @@
+{
+  "message": "> cod is crap which one?",
+  "reason": "The message contains a derogatory term ('crap') which is considered toxic. Additionally, the message expresses a negative sentiment towards 'cod' (presumably referring to the video game 'Call of Duty').",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+```json
+{
+"message": "Northwood League of Legends finishes (5-3) on the weekend and takes 3rd place in the @DruryEsports invitational! ðŸº#wolfpack",
+"reason": "clean",
+"predicted": "clean"
+}
+```
+
+The text is classified as "clean" because it does not contain any toxic or offensive language. The "Prediction result" section also confirms that the text is classified as "clean" with a high confidence score.

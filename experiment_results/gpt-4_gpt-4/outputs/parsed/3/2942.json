@@ -1,0 +1,8 @@
+{
+  "message": "daaaaam",
+  "reason": "The message does not contain any offensive, impolite, or disrespectful language. It seems to be an expression of surprise or admiration.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-4"
+}

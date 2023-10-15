@@ -1,0 +1,7 @@
+```json
+{
+"message": "shit is so cringe and over done",
+"reason": "The message contains offensive language ('shit') which is considered toxic. Additionally, the phrase 'so cringe and over done' expresses a negative sentiment and can be seen as derogatory or disrespectful.",
+"predicted": "toxic"
+}
+```

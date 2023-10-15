@@ -1,0 +1,8 @@
+{
+  "message": "I think you're mistaken about that. Here's a link to some information that might help clarify things for you.",
+  "reason": "The message is polite and informative, offering help to clarify a misunderstanding.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

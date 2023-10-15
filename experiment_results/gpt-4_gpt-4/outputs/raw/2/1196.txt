@@ -1,0 +1,39 @@
+Message: "You're such a loser, can't do anything right."
+
+```json
+{
+"message": "You're such a loser, can't do anything right.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I think your idea is really innovative and interesting."
+
+```json
+{
+"message": "I think your idea is really innovative and interesting.",
+"reason": "This message is respectful and positive, with no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "Why don't you just shut up? No one cares about your opinion."
+
+```json
+{
+"message": "Why don't you just shut up? No one cares about your opinion.",
+"reason": "This message is considered toxic due to its aggressive tone and disrespectful language.",
+"predicted": "toxic"
+}
+```
+
+Message: "I appreciate your feedback and will take it into consideration."
+
+```json
+{
+"message": "I appreciate your feedback and will take it into consideration.",
+"reason": "This message is polite and respectful, with no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

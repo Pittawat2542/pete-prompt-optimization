@@ -1,0 +1,8 @@
+{
+  "message": "noice team work forsenCD",
+  "reason": "The message contains a positive statement about teamwork, indicating a positive and supportive tone.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

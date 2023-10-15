@@ -1,0 +1,7 @@
+```json
+{
+"message": "faxGG faxGG faxGG",
+"reason": "The message consists of repetitive text without any context or meaning. It does not contain any offensive or harmful language. Therefore, it can be classified as clean.",
+"predicted": "clean"
+}
+```

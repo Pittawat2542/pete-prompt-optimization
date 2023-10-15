@@ -1,0 +1,7 @@
+```json
+{
+"message": "Support always",
+"reason": "The message is encouraging and positive, without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

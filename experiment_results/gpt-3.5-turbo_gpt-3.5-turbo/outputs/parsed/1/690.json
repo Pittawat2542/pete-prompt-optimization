@@ -1,0 +1,8 @@
+{
+  "message": "BALANCED KEKW",
+  "reason": "The message 'BALANCED KEKW' does not contain any offensive or harmful language. It appears to be a combination of the word 'BALANCED' and the Twitch emote 'KEKW', which is often used to express laughter or amusement. Therefore, the message can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

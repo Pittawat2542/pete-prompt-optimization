@@ -1,0 +1,7 @@
+```json
+{
+"message": "@melihozkiremitci cya",
+"reason": "The message is classified as 'clean' because it is a simple and polite way of saying goodbye. There is no offensive or harmful language used in the message.",
+"predicted": "clean"
+}
+```

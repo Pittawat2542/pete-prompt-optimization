@@ -1,0 +1,8 @@
+{
+  "message": "stupid morgana players",
+  "reason": "The message contains a derogatory term ('stupid') and targets a specific group of players ('morgana players'). This language is disrespectful and offensive, indicating a toxic tone.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "@ty_gets_rekt eleven10Gooba eleven10Gooba eleven10Gooba",
+  "reason": "The message does not contain any offensive, rude or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

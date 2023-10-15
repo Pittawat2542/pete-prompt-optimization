@@ -1,0 +1,7 @@
+```json
+{
+"message": "215 cs",
+"reason": "The message does not contain any offensive or harmful language. It appears to be a simple statement about the number of 'cs' (creep score) in a game. Therefore, it can be classified as clean.",
+"predicted": "clean"
+}
+```

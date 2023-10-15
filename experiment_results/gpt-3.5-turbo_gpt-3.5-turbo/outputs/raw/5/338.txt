@@ -1,0 +1,7 @@
+```json
+{
+"message": "this fucking yi",
+"reason": "The message contains a profanity ('fucking') which is considered toxic. The use of profanity can be offensive and disrespectful, creating a negative and hostile environment. Therefore, the message is classified as toxic.",
+"predicted": "toxic"
+}
+```

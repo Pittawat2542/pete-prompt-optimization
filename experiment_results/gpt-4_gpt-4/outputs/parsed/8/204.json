@@ -1,0 +1,8 @@
+{
+  "message": "I think your idea is not very good. It lacks originality and depth.",
+  "reason": "The message is critical but does not contain offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

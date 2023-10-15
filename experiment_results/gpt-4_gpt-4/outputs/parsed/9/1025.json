@@ -1,0 +1,8 @@
+{
+  "message": "I'm really sorry, but I can't help you with that.",
+  "reason": "The message is polite and respectful, even though it delivers a negative response.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

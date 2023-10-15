@@ -1,0 +1,8 @@
+{
+  "message": "no katarina in 0/5/2 we won't gank your yasuo",
+  "reason": "The message does not contain any offensive or harmful language. It is a statement about the game situation and a decision not to gank a specific player's champion. It does not exhibit any toxic behavior.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

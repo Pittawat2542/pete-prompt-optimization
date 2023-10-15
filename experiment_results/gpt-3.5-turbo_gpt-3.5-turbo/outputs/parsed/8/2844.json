@@ -1,0 +1,8 @@
+{
+  "message": "i hate the camps, i always come out with shit loot",
+  "reason": "The text expresses a negative sentiment towards the camps and mentions receiving poor loot. This indicates a negative experience or frustration, but it does not contain any explicit toxic language or personal attacks.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

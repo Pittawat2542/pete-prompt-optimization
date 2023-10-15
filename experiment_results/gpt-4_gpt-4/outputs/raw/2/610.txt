@@ -1,0 +1,39 @@
+Message: "I think your ideas are stupid and you should feel bad."
+
+```json
+{
+"message": "I think your ideas are stupid and you should feel bad.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I disagree with your point of view, but I respect your right to have it."
+
+```json
+{
+"message": "I disagree with your point of view, but I respect your right to have it.",
+"reason": "This message is considered clean as it expresses disagreement in a respectful and polite manner.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser, it's pathetic."
+
+```json
+{
+"message": "You're such a loser, it's pathetic.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I appreciate your feedback and will take it into consideration."
+
+```json
+{
+"message": "I appreciate your feedback and will take it into consideration.",
+"reason": "This message is considered clean as it expresses gratitude and openness to feedback in a respectful manner.",
+"predicted": "clean"
+}
+```

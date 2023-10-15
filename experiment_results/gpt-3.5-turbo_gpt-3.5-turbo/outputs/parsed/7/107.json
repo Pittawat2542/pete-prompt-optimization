@@ -1,0 +1,8 @@
+{
+  "message": "In 12 mins",
+  "reason": "The message does not contain any offensive or harmful language. It is a neutral statement indicating a time duration.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

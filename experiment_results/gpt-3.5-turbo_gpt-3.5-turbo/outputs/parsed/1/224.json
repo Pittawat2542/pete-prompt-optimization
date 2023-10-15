@@ -1,0 +1,8 @@
+{
+  "message": "LETS FUCKING GOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+  "reason": "The message contains offensive language and excessive use of exclamation marks, indicating a high level of excitement or aggression. The use of profanity suggests a toxic tone.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "white_medium_star:",
+"reason": "The text 'white_medium_star:' does not contain any meaningful words or context, making it difficult to determine its category.",
+"predicted": "clean"
+}
+```

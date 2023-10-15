@@ -1,0 +1,8 @@
+{
+  "message": "i hate the camps, i always come out with shit loot",
+  "reason": "The message contains offensive language.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-4"
+}

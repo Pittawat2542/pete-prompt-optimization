@@ -1,0 +1,7 @@
+```json
+{
+"message": "BALANCED KEKW",
+"reason": "The message does not contain any offensive or harmful language. It appears to be a playful or humorous comment.",
+"predicted": "clean"
+}
+```

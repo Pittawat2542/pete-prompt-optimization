@@ -1,0 +1,8 @@
+{
+  "message": "chocotGotem chocotGotem chocotGotem",
+  "reason": "The message does not contain any explicit toxic language or harmful content. It appears to be a repetition of the phrase 'chocotGotem'. Without any context or additional information, it is difficult to determine the intent or meaning behind this message. Therefore, it can be classified as a 'clean' message.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "@melihozkiremitci danucdHi danucdHi",
+"reason": "The message contains a mention (@melihozkiremitci) and repeated words (danucdHi danucdHi), which are common patterns in toxic messages.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "kekwwwwwwww",
+"reason": "The message 'kekwwwwwwww' does not contain any explicit or offensive language. It appears to be a nonsensical or playful expression, which does not contribute to a toxic conversation.",
+"predicted": "clean"
+}
+```

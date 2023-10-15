@@ -1,0 +1,8 @@
+{
+  "message": "daaaaam",
+  "reason": "The message is classified as 'clean' because it does not contain any explicit or offensive language. The word 'daaaaam' is not inherently toxic or offensive.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

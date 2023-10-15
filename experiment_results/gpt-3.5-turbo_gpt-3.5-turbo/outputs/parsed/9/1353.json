@@ -1,0 +1,8 @@
+{
+  "message": "@xDEEDAN bot danucdDanu2",
+  "reason": "The message contains a mention (@xDEEDAN) and a combination of words (bot, danucdDanu2) that do not appear in the examples of clean messages. This suggests that the message may be toxic or inappropriate.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

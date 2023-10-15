@@ -1,0 +1,7 @@
+```json
+{
+"message": "Spoopy hamtime",
+"reason": "The message 'Spoopy hamtime' does not contain any explicit toxic language or harmful content. It appears to be a playful and harmless phrase, possibly referring to a spooky or funny moment involving ham. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

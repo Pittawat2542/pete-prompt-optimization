@@ -1,0 +1,7 @@
+```json
+{
+"message": "Wiping shit WutFace",
+"reason": "The text contains a vulgar term ('shit'), which is likely to be classified as toxic.",
+"predicted": "toxic"
+}
+```

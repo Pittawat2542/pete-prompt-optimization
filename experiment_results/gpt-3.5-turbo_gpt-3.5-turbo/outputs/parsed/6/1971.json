@@ -1,0 +1,8 @@
+{
+  "message": "dizzy_face:",
+  "reason": "The message does not contain any text, only an emoji. Therefore, it does not fall into any of the specified categories.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

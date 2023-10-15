@@ -1,0 +1,8 @@
+{
+  "message": "STOP DOING WHAT I THINK IS SHIT STREAMER",
+  "reason": "The predicted category is 'toxic' because the message contains offensive language ('shit'). The model has correctly identified this message as toxic based on the presence of such language.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

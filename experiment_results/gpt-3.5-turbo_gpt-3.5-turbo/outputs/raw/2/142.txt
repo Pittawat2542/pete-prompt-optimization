@@ -1,0 +1,7 @@
+```json
+{
+"message": "My mains were magic exo and the brawler",
+"reason": "The message is classified as clean because it does not contain any toxic or offensive language. It simply mentions the user's main characters in a game.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "my god the stupidity of people",
+"reason": "The message contains a negative sentiment and expresses frustration towards people's stupidity. This can be seen as a toxic comment as it is derogatory and insulting towards others.",
+"predicted": "toxic"
+}
+```

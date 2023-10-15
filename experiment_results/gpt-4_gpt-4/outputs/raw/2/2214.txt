@@ -1,0 +1,39 @@
+Message: "You're such a loser, can't even play the game right."
+
+```json
+{
+"message": "You're such a loser, can't even play the game right.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone's ability.",
+"predicted": "toxic"
+}
+```
+
+Message: "I think the new update has improved the game a lot."
+
+```json
+{
+"message": "I think the new update has improved the game a lot.",
+"reason": "This message is clean as it contains no offensive language and expresses a positive opinion about a game update.",
+"predicted": "clean"
+}
+```
+
+Message: "Why don't you just quit? You're ruining the game for everyone."
+
+```json
+{
+"message": "Why don't you just quit? You're ruining the game for everyone.",
+"reason": "This message is considered toxic due to its aggressive tone and disrespectful suggestion for someone to quit the game.",
+"predicted": "toxic"
+}
+```
+
+Message: "Can anyone help me with the new level? I'm stuck."
+
+```json
+{
+"message": "Can anyone help me with the new level? I'm stuck.",
+"reason": "This message is clean as it contains no offensive language and is a polite request for help.",
+"predicted": "clean"
+}
+```

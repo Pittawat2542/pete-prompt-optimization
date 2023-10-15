@@ -1,0 +1,8 @@
+{
+  "message": "danucdChair",
+  "reason": "The message 'danucdChair' does not contain any explicit toxic language or offensive content. It appears to be a random combination of words or a username. Therefore, it can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

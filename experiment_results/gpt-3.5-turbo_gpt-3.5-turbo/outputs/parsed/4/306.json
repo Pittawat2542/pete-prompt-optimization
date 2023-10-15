@@ -1,0 +1,8 @@
+{
+  "message": "Samira is sick as fuck omg",
+  "reason": "The predicted category is 'toxic'. The word 'fuck' is a strong profanity and is likely the reason for the toxic classification.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

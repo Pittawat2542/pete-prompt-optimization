@@ -1,0 +1,8 @@
+{
+  "message": "Good shit",
+  "reason": "The message 'Good shit' is classified as 'clean' based on the prediction result. Although the word 'shit' can be considered vulgar or offensive in some contexts, it is commonly used in informal conversations to express approval or excitement. In this case, the word 'good' preceding 'shit' indicates a positive sentiment, suggesting that the message is not intended to be toxic or offensive.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "fuck that",
+  "reason": "The message contains offensive language, specifically the word 'fuck', which is considered vulgar and disrespectful. This type of language is generally classified as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

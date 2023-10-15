@@ -1,0 +1,8 @@
+{
+  "message": "too E Z",
+  "reason": "The message does not contain any offensive, impolite, or disrespectful language. It seems to be a casual or playful comment on something being easy.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-4"
+}

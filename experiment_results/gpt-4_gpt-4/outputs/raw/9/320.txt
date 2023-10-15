@@ -1,0 +1,9 @@
+Message: I think you're mistaken. The event is scheduled for next week, not this week.
+
+```json
+{
+"message": "I think you're mistaken. The event is scheduled for next week, not this week.",
+"reason": "The message is informative and polite, without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

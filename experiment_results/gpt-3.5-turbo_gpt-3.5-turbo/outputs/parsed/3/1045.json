@@ -1,0 +1,8 @@
+{
+  "message": "oh crap ruby u awake ??",
+  "reason": "The message contains a mild profanity ('crap'), which can be considered as toxic language. Additionally, the use of excessive punctuation ('??') can be seen as aggressive or confrontational. These elements contribute to the toxic nature of the message.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

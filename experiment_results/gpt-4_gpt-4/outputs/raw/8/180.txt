@@ -1,0 +1,9 @@
+Message: I can't believe you're so ignorant.
+
+```json
+{
+"message": "I can't believe you're so ignorant.",
+"reason": "The message contains disrespectful language aimed at a person.",
+"predicted": "toxic"
+}
+```

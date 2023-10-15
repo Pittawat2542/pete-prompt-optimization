@@ -1,0 +1,39 @@
+Message: "You're such a loser, you can't even play the game properly."
+
+```json
+{
+"message": "You're such a loser, you can't even play the game properly.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone's gaming skills.",
+"predicted": "toxic"
+}
+```
+
+Message: "I think your strategy in the last game was really effective."
+
+```json
+{
+"message": "I think your strategy in the last game was really effective.",
+"reason": "This message is clean as it contains no offensive language and conveys a positive sentiment towards someone's gaming strategy.",
+"predicted": "clean"
+}
+```
+
+Message: "Why don't you just quit? You're ruining the game for everyone."
+
+```json
+{
+"message": "Why don't you just quit? You're ruining the game for everyone.",
+"reason": "This message is considered toxic due to its aggressive tone and disrespectful suggestion for someone to quit the game.",
+"predicted": "toxic"
+}
+```
+
+Message: "I appreciate your help in the last round. Thanks!"
+
+```json
+{
+"message": "I appreciate your help in the last round. Thanks!",
+"reason": "This message is clean as it contains no offensive language and expresses gratitude towards someone's help in the game.",
+"predicted": "clean"
+}
+```

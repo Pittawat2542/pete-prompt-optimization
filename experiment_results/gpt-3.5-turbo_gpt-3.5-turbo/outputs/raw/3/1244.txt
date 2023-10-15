@@ -1,0 +1,7 @@
+```json
+{
+"message": "white_medium_star:",
+"reason": "The message does not contain any text or meaningful content. It appears to be a non-toxic or clean message.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "but it sucks that we dont have enough player to do that now @hambinooo",
+  "reason": "The text does not contain any offensive or harmful language. It expresses disappointment about the lack of players, but does not attack or insult anyone.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

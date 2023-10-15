@@ -1,0 +1,7 @@
+```json
+{
+"message": "@RuralBiscuits damn - i knew it!",
+"reason": "The message does not contain any offensive language, slurs, personal attacks, or violent threats. The term 'damn' is used here as an expression of surprise or frustration, not as an insult or offensive language.",
+"predicted": "clean"
+}
+```

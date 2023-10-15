@@ -1,0 +1,8 @@
+{
+  "message": "nb3LUL nb3LUL nb3LUL",
+  "reason": "The message consists of repetitive text 'nb3LUL'. Although it is not clear what 'nb3LUL' means, the repetition of the text can be considered as spam or trolling behavior. This falls under the 'toxic' category.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

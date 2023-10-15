@@ -1,0 +1,8 @@
+{
+  "message": "Who else hate their life?",
+  "reason": "The message expresses negative emotions and indicates a dislike for one's own life, which can be considered as a sign of distress or unhappiness. It may potentially trigger or contribute to a toxic environment.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

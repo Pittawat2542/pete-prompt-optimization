@@ -1,0 +1,8 @@
+{
+  "message": "!subs",
+  "reason": "The message '!subs' is a command commonly used in online communities to request information about the number of subscribers or followers. It does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. Therefore, it can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

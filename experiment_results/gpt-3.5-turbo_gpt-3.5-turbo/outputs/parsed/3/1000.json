@@ -1,0 +1,8 @@
+{
+  "message": "this suck",
+  "reason": "The text contains a negative sentiment and uses informal language ('suck'). This indicates a negative tone and can be classified as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

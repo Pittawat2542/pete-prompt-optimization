@@ -1,0 +1,7 @@
+```json
+{
+"message": "hecarim is busted more",
+"reason": "The message is about a video game character and does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

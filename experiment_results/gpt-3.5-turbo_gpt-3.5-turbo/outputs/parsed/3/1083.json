@@ -1,0 +1,8 @@
+{
+  "message": "They suck",
+  "reason": "The text falls into the 'toxic' category because the model predicted a high probability of toxicity. The word 'suck' is often used in a negative and derogatory manner, which indicates a negative sentiment and potentially offensive language.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "HELL NO",
+  "reason": "The message is written in all caps, which is often interpreted as shouting in online communication. The phrase 'HELL NO' can be seen as aggressive or confrontational.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

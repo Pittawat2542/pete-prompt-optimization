@@ -1,0 +1,8 @@
+{
+  "message": "dont know why every game i get people like this on my team",
+  "reason": "The message does not contain any explicit toxic language or offensive content. It appears to be a general frustration expressed by the user about the people they encounter in their games. Therefore, the message can be classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

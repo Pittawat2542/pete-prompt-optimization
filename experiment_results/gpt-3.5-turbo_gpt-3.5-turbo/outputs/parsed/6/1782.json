@@ -1,0 +1,8 @@
+{
+  "message": "jd",
+  "reason": "The message 'jd' does not contain any explicit toxic language or offensive content. It appears to be a neutral or non-toxic message.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

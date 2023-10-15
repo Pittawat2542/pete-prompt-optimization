@@ -1,0 +1,8 @@
+{
+  "message": "I like League of legends because I had a guy say I don't care about the role I got I'm playing what I want, then he went 1/9",
+  "reason": "The message is about a personal experience in a game and does not contain any offensive, rude, or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

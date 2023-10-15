@@ -1,0 +1,8 @@
+{
+  "message": "oh shit man... great stuff!",
+  "reason": "The message contains a mild swear word, which can be considered offensive in some contexts. However, the overall tone of the message is positive and complimentary.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

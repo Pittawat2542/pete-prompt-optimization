@@ -1,0 +1,8 @@
+{
+  "message": "PepeLaugh",
+  "reason": "The message 'PepeLaugh' does not contain any explicit toxic language or harmful content. It appears to be an emote or expression commonly used in online communities. Therefore, it can be classified as a 'clean' message.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

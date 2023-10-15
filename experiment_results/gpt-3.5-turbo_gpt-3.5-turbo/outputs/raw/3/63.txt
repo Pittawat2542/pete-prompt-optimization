@@ -1,0 +1,7 @@
+```json
+{
+"message": "JESUS CHRIST",
+"reason": "The text is classified as 'clean' because it does not contain any offensive or harmful language. The model has predicted it as 'clean' based on the absence of toxic words or phrases in the text.",
+"predicted": "clean"
+}
+```

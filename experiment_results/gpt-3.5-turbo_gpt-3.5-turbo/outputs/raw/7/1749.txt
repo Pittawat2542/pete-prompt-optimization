@@ -1,0 +1,7 @@
+```json
+{
+"message": "Well,rip clips alisaYikes",
+"reason": "The message contains a combination of words that could be considered toxic, such as 'rip' and 'Yikes'. The presence of these words suggests a negative or offensive tone, which is indicative of a toxic message.",
+"predicted": "toxic"
+}
+```

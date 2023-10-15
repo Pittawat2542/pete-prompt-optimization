@@ -1,0 +1,7 @@
+```json
+{
+"message": "Cuz of that stupid strat",
+"reason": "The message contains derogatory language ('stupid') used to describe a strategy ('strat'). This can be seen as disrespectful or offensive.",
+"predicted": "toxic"
+}
+```

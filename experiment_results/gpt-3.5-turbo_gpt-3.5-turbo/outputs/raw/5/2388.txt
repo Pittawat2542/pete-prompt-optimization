@@ -1,0 +1,7 @@
+```json
+{
+"message": "LUL LUL LUL LUL LUL LUL LUL LUL",
+"reason": "The message consists of repeated instances of the word 'LUL'. Based on the given information, it is not possible to determine the exact meaning or context of this message. However, since the message does not contain any explicit toxic language or harmful content, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

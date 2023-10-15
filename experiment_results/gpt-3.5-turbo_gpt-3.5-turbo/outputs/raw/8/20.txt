@@ -1,0 +1,7 @@
+```json
+{
+"message": "so he decided its my fault and wanted to ruin everyons game",
+"reason": "The text contains negative sentiment and implies that someone is blaming the author and trying to ruin the game for everyone. This indicates toxic behavior.",
+"predicted": "toxic"
+}
+```

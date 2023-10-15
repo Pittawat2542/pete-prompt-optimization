@@ -1,0 +1,7 @@
+```json
+{
+"message": "too E Z",
+"reason": "The message 'too E Z' is classified as toxic. The term 'E Z' is commonly used in online gaming communities as a derogatory term to belittle or mock other players. This indicates a negative and disrespectful tone, which is characteristic of toxic behavior.",
+"predicted": "toxic"
+}
+```

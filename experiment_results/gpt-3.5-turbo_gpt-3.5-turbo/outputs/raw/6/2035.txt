@@ -1,0 +1,7 @@
+```json
+{
+"message": "asia sever is many china player..",
+"reason": "The message contains a generalization about a group of people based on their nationality, which can be considered as a form of discrimination or bias. This indicates a toxic behavior.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "FUCK IT, VLAD IT IS",
+  "reason": "The message contains offensive language, specifically the use of the word 'FUCK'. This language is considered toxic and inappropriate for online communities.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

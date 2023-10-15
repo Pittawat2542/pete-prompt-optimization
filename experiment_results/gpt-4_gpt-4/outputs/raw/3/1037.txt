@@ -1,0 +1,7 @@
+```json
+{
+"message": "Its my stupid earphones",
+"reason": "The message contains a negative adjective, but it is directed towards an object (earphones) and not a person. Therefore, it is not offensive or disrespectful towards anyone.",
+"predicted": "clean"
+}
+```

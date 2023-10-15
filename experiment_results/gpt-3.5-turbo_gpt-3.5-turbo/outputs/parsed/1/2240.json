@@ -1,0 +1,8 @@
+{
+  "message": "you need to say niu bi instead of number one",
+  "reason": "The message is suggesting an alternative phrase to use instead of 'number one'. Although the phrase 'niu bi' may be considered vulgar or offensive in some contexts, it is not inherently toxic or harmful. Therefore, the message can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

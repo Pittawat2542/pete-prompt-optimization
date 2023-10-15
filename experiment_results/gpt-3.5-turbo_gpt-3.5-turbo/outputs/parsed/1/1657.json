@@ -1,0 +1,8 @@
+{
+  "message": "Look at these vacuums",
+  "reason": "The message is a simple statement inviting others to look at vacuums. There is no offensive or harmful language used, and the tone of the message is neutral. Therefore, it can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

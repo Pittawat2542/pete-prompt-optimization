@@ -1,0 +1,7 @@
+```json
+{
+"message": "@Adooool18 Thanks for the gift sub! soggyWow brkSmaK soggyWow brkSmaK soggyPog brkTSM",
+"reason": "The message does not contain any offensive or harmful language. It is a positive message expressing gratitude for a gift sub in an online community.",
+"predicted": "clean"
+}
+```

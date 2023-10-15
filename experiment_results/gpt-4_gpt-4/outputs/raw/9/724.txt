@@ -1,0 +1,9 @@
+Message: "I think you're mistaken about that. Here's a link to the correct information."
+
+```json
+{
+"message": "I think you're mistaken about that. Here's a link to the correct information.",
+"reason": "The message is polite and respectful, providing information without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

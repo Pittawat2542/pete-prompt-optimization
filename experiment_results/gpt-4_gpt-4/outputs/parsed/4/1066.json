@@ -1,0 +1,8 @@
+{
+  "message": "Hell nahh",
+  "reason": "The message uses informal language and expresses disagreement, but it does not contain offensive, rude, or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

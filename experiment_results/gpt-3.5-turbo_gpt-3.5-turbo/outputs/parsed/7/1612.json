@@ -1,0 +1,8 @@
+{
+  "message": "danucdNo Fattttttiiiiiiiiiiiiiiiiiiiiiiii",
+  "reason": "The message contains derogatory language and insults, with elongated letters and repeated characters. This indicates a toxic and offensive tone.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "white_medium_star:\u0001",
+  "reason": "The text 'white_medium_star:\u0001' does not contain any meaningful words or context, making it difficult to determine its category.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

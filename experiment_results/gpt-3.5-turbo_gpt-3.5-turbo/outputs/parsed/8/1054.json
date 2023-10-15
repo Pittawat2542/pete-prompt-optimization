@@ -1,0 +1,8 @@
+{
+  "message": "Get the hell out",
+  "reason": "The text contains strong language and is aggressive in nature, which indicates toxicity.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

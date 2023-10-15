@@ -1,0 +1,39 @@
+Message: "You're such a loser!"
+
+```json
+{
+"message": "You're such a loser!",
+"reason": "The message uses derogatory language to insult or belittle someone, which is considered offensive and disrespectful.",
+"predicted": "toxic"
+}
+```
+
+Message: "I disagree with your point of view."
+
+```json
+{
+"message": "I disagree with your point of view.",
+"reason": "The message expresses a difference in opinion in a respectful and non-offensive manner.",
+"predicted": "clean"
+}
+```
+
+Message: "All women are stupid."
+
+```json
+{
+"message": "All women are stupid.",
+"reason": "The message contains sexist language that generalizes and degrades a specific gender, which is considered offensive and disrespectful.",
+"predicted": "toxic"
+}
+```
+
+Message: "Can you please explain this concept to me?"
+
+```json
+{
+"message": "Can you please explain this concept to me?",
+"reason": "The message is a polite request for information or clarification, and contains no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "@Thebausffs just scared the shit out of my dog",
+"reason": "The message contains a mild swear word, but it's not directed towards any individual in a disrespectful or offensive manner.",
+"predicted": "clean"
+}
+```

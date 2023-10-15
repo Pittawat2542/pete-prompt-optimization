@@ -1,0 +1,8 @@
+{
+  "message": "hey",
+  "reason": "The message is classified as 'clean' because it is a simple greeting without any offensive or harmful content. The prediction result shows that the model has consistently classified similar messages as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

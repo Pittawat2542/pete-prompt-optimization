@@ -1,0 +1,7 @@
+```json
+{
+"message": "BALANCED KEKW",
+"reason": "The message is classified as 'clean' because it does not contain any toxic or offensive language. The model's prediction result also indicates a high probability of the message being clean.",
+"predicted": "clean"
+}
+```

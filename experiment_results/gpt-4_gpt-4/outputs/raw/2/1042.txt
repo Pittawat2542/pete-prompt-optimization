@@ -1,0 +1,49 @@
+Message: > I can't believe you're so stupid to think that!
+
+```json
+{
+"message": "I can't believe you're so stupid to think that!",
+"reason": "The message is considered toxic due to the use of derogatory language directed at someone's intelligence.",
+"predicted": "toxic"
+}
+```
+
+Message: > That's a great idea, thanks for sharing!
+
+```json
+{
+"message": "That's a great idea, thanks for sharing!",
+"reason": "This message is polite and appreciative, with no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: > You're such a loser, get a life!
+
+```json
+{
+"message": "You're such a loser, get a life!",
+"reason": "The message is considered toxic due to the use of derogatory language and disrespectful tone.",
+"predicted": "toxic"
+}
+```
+
+Message: > I appreciate your help on this project.
+
+```json
+{
+"message": "I appreciate your help on this project.",
+"reason": "This message is polite and appreciative, with no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: > You're a disgrace to your race.
+
+```json
+{
+"message": "You're a disgrace to your race.",
+"reason": "The message is considered toxic due to the use of racist language and disrespectful tone.",
+"predicted": "toxic"
+}
+```

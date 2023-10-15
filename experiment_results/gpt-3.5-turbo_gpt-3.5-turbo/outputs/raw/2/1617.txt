@@ -1,0 +1,7 @@
+```json
+{
+"message": "Greetings from New Orleans",
+"reason": "The message is classified as clean because it does not contain any offensive or harmful language. It is a simple greeting from a location.",
+"predicted": "clean"
+}
+```

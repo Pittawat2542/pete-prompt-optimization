@@ -1,0 +1,7 @@
+```json
+{
+"message": "!subs",
+"reason": "The message '!subs' is a command used to request information about subscriptions. It does not contain any toxic or offensive language.",
+"predicted": "clean"
+}
+```

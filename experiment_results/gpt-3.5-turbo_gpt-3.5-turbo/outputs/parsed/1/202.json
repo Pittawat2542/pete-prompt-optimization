@@ -1,0 +1,8 @@
+{
+  "message": "Quite the shit",
+  "reason": "The message contains a profanity, which is considered offensive and disrespectful. The word 'shit' is a vulgar term and can be offensive to some people.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

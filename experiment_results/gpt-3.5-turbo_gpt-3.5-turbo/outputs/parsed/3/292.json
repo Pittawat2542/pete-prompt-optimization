@@ -1,0 +1,8 @@
+{
+  "message": "Being memed for releasing an overpowered adc and being shit on by the whole community.Rito after a few months: \u00e2\u20ac\u0153 I\u00e2\u20ac\u2122ll fucking do it again.\u00e2\u20ac\u009d",
+  "reason": "The message contains profanity and negative sentiment, indicating toxic behavior.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

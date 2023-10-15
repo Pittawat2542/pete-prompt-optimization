@@ -1,0 +1,7 @@
+```json
+{
+  "message": "im stupid hbu?ðŸ™‡",
+  "reason": "The message contains a self-deprecating statement and an abbreviation that could be interpreted as a negative emotion. This indicates a negative tone and potentially toxic behavior.",
+  "predicted": "toxic"
+}
+```

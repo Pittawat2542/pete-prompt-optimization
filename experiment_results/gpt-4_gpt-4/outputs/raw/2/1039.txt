@@ -1,0 +1,39 @@
+Message: "I can't stand your constant complaining. It's so annoying."
+
+```json
+{
+"message": "I can't stand your constant complaining. It's so annoying.",
+"reason": "This message is considered toxic due to its aggressive tone and disrespectful language.",
+"predicted": "toxic"
+}
+```
+
+Message: "I think we should consider other options before making a decision."
+
+```json
+{
+"message": "I think we should consider other options before making a decision.",
+"reason": "This message is clean as it is polite, respectful and does not contain any offensive language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser. No one likes you."
+
+```json
+{
+"message": "You're such a loser. No one likes you.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative sentiment.",
+"predicted": "toxic"
+}
+```
+
+Message: "I appreciate your help with this project."
+
+```json
+{
+"message": "I appreciate your help with this project.",
+"reason": "This message is clean as it expresses gratitude and does not contain any offensive language.",
+"predicted": "clean"
+}
+```

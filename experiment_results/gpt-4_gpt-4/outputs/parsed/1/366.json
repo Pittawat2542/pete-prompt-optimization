@@ -1,0 +1,8 @@
+{
+  "message": "stupid morgana players",
+  "reason": "The message contains offensive language directed towards a group of players.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

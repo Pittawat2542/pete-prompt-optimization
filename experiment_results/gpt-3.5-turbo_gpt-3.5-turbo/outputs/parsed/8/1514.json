@@ -1,0 +1,8 @@
+{
+  "message": "@SmirnofSoldier all good and you... danucdRespect danucdHi",
+  "reason": "The text is classified as 'clean' because it does not contain any offensive or toxic language. The model's prediction result also supports this classification as it has a high probability for the 'clean' category.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

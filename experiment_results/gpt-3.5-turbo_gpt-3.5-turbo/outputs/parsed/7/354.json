@@ -1,0 +1,8 @@
+{
+  "message": "what the hell??",
+  "reason": "The message contains a strong exclamation ('hell') which is often associated with negative or offensive language. This suggests that the message is likely to be toxic.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

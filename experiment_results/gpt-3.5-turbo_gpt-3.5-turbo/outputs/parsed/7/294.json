@@ -1,0 +1,8 @@
+{
+  "message": "Im not a fucking loser",
+  "reason": "The message contains offensive language ('fucking') which is indicative of toxic behavior.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

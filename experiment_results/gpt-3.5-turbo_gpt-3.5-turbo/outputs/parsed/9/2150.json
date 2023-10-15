@@ -1,0 +1,8 @@
+{
+  "message": "rawryyLaugh NT NT",
+  "reason": "The message contains a combination of letters and abbreviations that do not provide any meaningful context. It is difficult to determine the intent or tone of the message based on the given content.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

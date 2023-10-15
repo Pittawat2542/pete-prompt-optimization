@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdSaspisas danucdSASPISHAS",
+"reason": "The message does not contain any offensive or disrespectful language. It appears to be a nonsensical or coded message, but without any clear negative connotations.",
+"predicted": "clean"
+}
+```

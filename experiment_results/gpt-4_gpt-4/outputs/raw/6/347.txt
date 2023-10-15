@@ -1,0 +1,7 @@
+```json
+{
+"message": "this shit is like adc graves",
+"reason": "The message contains a slang term that is often considered offensive or vulgar.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "Have a great day/night bananas, i gotta go . danucdHi Later danucdBukulove",
+  "reason": "The message doesn't contain any offensive or disrespectful language. It seems like a friendly farewell message.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

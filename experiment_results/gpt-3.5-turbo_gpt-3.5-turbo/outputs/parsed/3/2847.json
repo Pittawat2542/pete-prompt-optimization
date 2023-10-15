@@ -1,0 +1,8 @@
+{
+  "message": "Shootin the shit smokin sum herb",
+  "reason": "The predicted category is 'toxic'. The text contains offensive language ('shootin the shit') and references drug use ('smokin sum herb'), which are indicators of toxic behavior.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

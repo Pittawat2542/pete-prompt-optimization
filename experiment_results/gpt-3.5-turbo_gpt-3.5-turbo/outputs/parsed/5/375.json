@@ -1,0 +1,8 @@
+{
+  "message": "no fuck off",
+  "reason": "The message contains offensive language ('fuck off'), which is a characteristic of toxic content. The model predicted the category as 'toxic', which aligns with the presence of offensive language.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

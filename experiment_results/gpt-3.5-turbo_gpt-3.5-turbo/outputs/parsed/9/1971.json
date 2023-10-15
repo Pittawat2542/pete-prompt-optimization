@@ -1,0 +1,8 @@
+{
+  "message": "dizzy_face:",
+  "reason": "The message consists of an emoji 'dizzy_face:'. It does not contain any text or context, making it impossible to determine its intent or meaning. Therefore, it cannot be classified into any specific category.",
+  "predicted": null,
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

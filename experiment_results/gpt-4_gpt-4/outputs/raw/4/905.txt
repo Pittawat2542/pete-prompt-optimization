@@ -1,0 +1,7 @@
+```json
+{
+"message": "HOLY SHIT karthus busted KEKW",
+"reason": "The message contains obscene language.",
+"predicted": "toxic"
+}
+```

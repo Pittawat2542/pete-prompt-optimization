@@ -1,0 +1,8 @@
+{
+  "message": "I fucking love those videos",
+  "reason": "The message contains explicit language ('fucking') which is considered toxic.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

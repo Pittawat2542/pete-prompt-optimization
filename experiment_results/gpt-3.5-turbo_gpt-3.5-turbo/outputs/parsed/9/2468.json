@@ -1,0 +1,8 @@
+{
+  "message": "Does ranked solos have 100 players? @hambinooo",
+  "reason": "The message is a question about the number of players in ranked solos. It does not contain any offensive or harmful language, and there is no indication of toxicity or any violation of community guidelines.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

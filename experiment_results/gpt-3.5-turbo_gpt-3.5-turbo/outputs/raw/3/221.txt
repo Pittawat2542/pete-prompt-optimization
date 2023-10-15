@@ -1,0 +1,7 @@
+```json
+{
+"message": "this feels so shit",
+"reason": "The predicted category is 'toxic' because the text contains a negative sentiment. The word 'shit' is a strong negative term, which indicates a toxic tone.",
+"predicted": "toxic"
+}
+```

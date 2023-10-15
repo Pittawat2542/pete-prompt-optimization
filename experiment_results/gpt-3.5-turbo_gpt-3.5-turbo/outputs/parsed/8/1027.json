@@ -1,0 +1,8 @@
+{
+  "message": "why did pubg add this creepy shit?",
+  "reason": "The text contains a negative sentiment and uses offensive language ('creepy shit'). This indicates that the text is toxic.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

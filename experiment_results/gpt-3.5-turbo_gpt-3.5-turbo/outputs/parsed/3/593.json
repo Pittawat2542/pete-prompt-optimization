@@ -1,0 +1,8 @@
+{
+  "message": "5Head",
+  "reason": "The predicted category is 'clean'. The term '5Head' does not contain any offensive or toxic language. It appears to be a slang term or an inside joke within the online community. The model correctly classified it as a clean message.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

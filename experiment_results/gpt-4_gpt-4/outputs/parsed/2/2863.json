@@ -1,0 +1,8 @@
+{
+  "message": "I think this game is really fun, I've been playing it for hours!",
+  "reason": "This message is positive and contains no offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

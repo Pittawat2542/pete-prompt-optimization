@@ -1,0 +1,8 @@
+{
+  "message": "DD",
+  "reason": "The message 'DD' does not provide any context or content to determine its meaning. It is too short and lacks any information to classify it as toxic or clean.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

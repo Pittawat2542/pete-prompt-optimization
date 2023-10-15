@@ -1,0 +1,7 @@
+```json
+{
+"message": "And wtf are u a winrate friend? Who gives a fuck",
+"reason": "The message contains offensive language and insults ('wtf' and 'fuck'), which are characteristic of toxic behavior. The use of derogatory language and the dismissive tone ('Who gives a fuck') further contribute to the toxic nature of the message.",
+"predicted": "toxic"
+}
+```

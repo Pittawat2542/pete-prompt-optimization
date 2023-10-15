@@ -1,0 +1,9 @@
+Message: "I think your point of view is interesting, but I respectfully disagree."
+
+```json
+{
+"message": "I think your point of view is interesting, but I respectfully disagree.",
+"reason": "The message is expressing disagreement in a respectful and polite manner without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

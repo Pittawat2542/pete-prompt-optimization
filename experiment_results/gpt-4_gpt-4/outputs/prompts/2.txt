@@ -1,0 +1,37 @@
+In this task, you are required to classify text messages in the context of interactions within an online community. Your goal is to determine and classify whether each message is "toxic" or "clean". 
+
+"Toxic" refers to any messages that contain offensive content, impolite remarks, racist or sexist language, disrespectful or aggressive tones. "Clean", in contrast, refers to messages that are devoid of such attributes. A clean message might be informative, polite, respectful or neutral in tone, and free of explicit, harmful or offensive content.
+
+You will need to provide your classification output in a JSON format presented within a Markdown block (demarcated by the symbols ```json and ```). The JSON output should include the actual "message", the "reason" supporting your classification decision, and the "predicted" label. 
+
+Let's illustrate with Message: <message>
+
+The format of your output should adhere to this structure:
+```json
+{
+"message": "<the actual message content>",
+"reason": "<justification or explanation for your classification>",
+"predicted": "<predicted category - either 'toxic' or 'clean'>"
+}
+```
+You will replace the placeholder text within "<>" with relevant data from the actual message. 
+
+Here is how this may look in practice:
+
+If the message contains offensive or disrespectful language, your output might resemble:
+```json
+{
+"message": "You are an idiot!",
+"reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+"predicted": "toxic"
+}
+```
+If the message is polite, respectful or neutral, your output might look like this:
+```json
+{
+"message": "Congratulations on your promotion!",
+"reason": "This message contains no offensive language and conveys a positive sentiment.",
+"predicted": "clean"
+}
+```
+Hence, the task involves careful reading, text analysis, and an appropriate categorization of each provided message.

@@ -1,0 +1,9 @@
+Message: "I think your idea is not very practical."
+
+```json
+{
+"message": "I think your idea is not very practical.",
+"reason": "This message is considered clean as it is a polite expression of disagreement or differing opinion, without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

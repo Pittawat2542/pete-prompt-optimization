@@ -1,0 +1,8 @@
+{
+  "message": "shit is so cringe and over done",
+  "reason": "The message contains profanity ('shit') which is considered toxic. Additionally, the phrase 'so cringe and over done' can be interpreted as negative and derogatory, contributing to the toxic nature of the message.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

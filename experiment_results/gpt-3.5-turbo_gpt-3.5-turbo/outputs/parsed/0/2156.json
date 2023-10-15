@@ -1,0 +1,8 @@
+{
+  "message": "DendiFace gg",
+  "reason": "The message contains a combination of letters and a word that does not make sense in the context of the conversation.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

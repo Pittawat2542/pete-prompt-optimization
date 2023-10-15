@@ -1,0 +1,8 @@
+{
+  "message": "I think your idea is not feasible.",
+  "reason": "This message is considered clean as it is a polite expression of disagreement or differing opinion, without any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

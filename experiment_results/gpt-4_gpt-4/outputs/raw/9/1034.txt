@@ -1,0 +1,9 @@
+Message: > I think the new update is not as good as the previous one. What do you think?
+
+```json
+{
+"message": "I think the new update is not as good as the previous one. What do you think?",
+"reason": "The message is expressing an opinion in a respectful manner and is asking for others' opinions as well.",
+"predicted": "clean"
+}
+```

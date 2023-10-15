@@ -1,0 +1,9 @@
+```json
+{
+"message": "Bose QC20 (apple version). Ibi uses in ears instead of a headset because he has to use in ears at LANs. This way he gets used to it ibiW",
+"reason": "clean",
+"predicted": "clean"
+}
+```
+
+The given message is classified as "clean" based on the information provided. The message does not contain any offensive or toxic language. It is a discussion about a specific product (Bose QC20) and the user's preference for using in-ear headphones instead of a headset at LANs. The message does not violate any community guidelines or show any signs of toxicity.

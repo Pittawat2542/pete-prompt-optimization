@@ -1,0 +1,8 @@
+{
+  "message": "get out rogue",
+  "reason": "The message is disrespectful and offensive, as it is telling someone to leave in a rude manner.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

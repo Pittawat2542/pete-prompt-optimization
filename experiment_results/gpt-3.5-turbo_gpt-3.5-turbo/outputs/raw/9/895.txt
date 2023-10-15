@@ -1,0 +1,7 @@
+```json
+{
+"message": "@buttery_butt1094 YEAH shit funny af",
+"reason": "The message contains profanity ('shit') and is likely to be considered offensive or disrespectful. The use of profanity suggests a toxic tone.",
+"predicted": "toxic"
+}
+```

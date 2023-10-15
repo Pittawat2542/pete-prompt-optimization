@@ -1,0 +1,8 @@
+{
+  "message": "you need to say niu bi instead of number one",
+  "reason": "The message is classified as toxic because it contains derogatory language ('niu bi') which is considered offensive and disrespectful. The use of such language can create a negative and hostile environment in the online community.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

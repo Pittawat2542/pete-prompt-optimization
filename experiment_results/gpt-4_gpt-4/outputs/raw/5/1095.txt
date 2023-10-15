@@ -1,0 +1,7 @@
+```json
+{
+"message": "the hell is a karak?",
+"reason": "The message contains a mild form of profanity, which could be interpreted as disrespectful or offensive.",
+"predicted": "toxic"
+}
+```

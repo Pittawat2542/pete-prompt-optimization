@@ -1,0 +1,8 @@
+{
+  "message": "hamb10 hamb10",
+  "reason": "The message contains repetitive and nonsensical text, which is a characteristic of toxic content.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "dizzy_face:",
+  "reason": "The message contains an emoji which does not convey any harmful or offensive content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

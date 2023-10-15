@@ -1,0 +1,8 @@
+{
+  "message": "@melihozkiremitci danucdHi danucdHi",
+  "reason": "The message consists of usernames and greetings, which are common in online communities. There is no offensive or harmful language used in the message.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

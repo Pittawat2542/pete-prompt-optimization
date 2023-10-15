@@ -1,0 +1,8 @@
+{
+  "message": "last time i played talon, talon jungle was not legitimately playable, is that still true",
+  "reason": "The message is a simple question about a game and does not contain any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-4"
+}

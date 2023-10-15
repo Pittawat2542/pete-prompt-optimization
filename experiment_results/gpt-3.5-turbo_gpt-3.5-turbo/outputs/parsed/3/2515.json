@@ -1,0 +1,8 @@
+{
+  "message": "have you ever played with clib? @hambinooo",
+  "reason": "The message does not contain any offensive or harmful language. It is a simple question about playing with clib. Therefore, it can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

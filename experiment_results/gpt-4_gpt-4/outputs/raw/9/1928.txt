@@ -1,0 +1,9 @@
+Message: danucdChair
+
+```json
+{
+"message": "danucdChair",
+"reason": "The message does not contain any disrespectful, offensive, rude, or abusive language or sentiments.",
+"predicted": "clean"
+}
+```

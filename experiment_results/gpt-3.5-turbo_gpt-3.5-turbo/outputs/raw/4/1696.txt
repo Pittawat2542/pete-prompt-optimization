@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdPotato LUL",
+"reason": "The message is classified as 'clean' because it does not contain any offensive or harmful language. The word 'Potato' is not considered toxic or offensive in this context.",
+"predicted": "clean"
+}
+```

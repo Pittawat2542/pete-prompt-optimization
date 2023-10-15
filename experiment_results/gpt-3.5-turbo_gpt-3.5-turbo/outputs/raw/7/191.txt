@@ -1,0 +1,9 @@
+```json
+{
+"message": "> Yo Riot wtf \n fuck brand he always deals the most damage for some reason EVERY GANE",
+"reason": "toxic",
+"predicted": "toxic"
+}
+```
+
+The message is classified as "toxic" because it contains offensive language ("wtf" and "fuck") and expresses frustration towards a specific player ("brand") in an aggressive manner. The use of capital letters and exclamation marks also indicates a negative and confrontational tone. This classification is supported by the "Prediction result" section, where similar messages were classified as "toxic".

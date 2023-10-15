@@ -1,0 +1,8 @@
+{
+  "message": "Yami is my best friend",
+  "reason": "The message is positive and expresses a friendly sentiment towards someone. There is no evidence of any toxic or offensive language.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

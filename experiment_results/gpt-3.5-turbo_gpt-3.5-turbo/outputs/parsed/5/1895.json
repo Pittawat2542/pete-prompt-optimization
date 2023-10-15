@@ -1,0 +1,8 @@
+{
+  "message": "Support always",
+  "reason": "The message 'Support always' is classified as a clean message. The prediction result shows that the model has a high confidence score for the clean category. Additionally, the message itself does not contain any offensive or toxic language, and it promotes a positive sentiment of support.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

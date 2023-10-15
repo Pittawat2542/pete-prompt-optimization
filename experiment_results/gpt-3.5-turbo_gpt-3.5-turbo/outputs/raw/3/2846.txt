@@ -1,0 +1,7 @@
+```json
+{
+"message": "the hell was that",
+"reason": "The text is classified as toxic because it contains strong language ('hell'). The model has predicted it as toxic based on the presence of such offensive or aggressive language.",
+"predicted": "toxic"
+}
+```

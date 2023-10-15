@@ -1,0 +1,8 @@
+{
+  "message": "I think you're mistaken, but I respect your opinion.",
+  "reason": "The message is polite and respectful, even though it disagrees with someone else's opinion.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

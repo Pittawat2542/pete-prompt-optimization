@@ -1,0 +1,3210 @@
+{
+  "total": 400,
+  "correct": 205,
+  "incorrect": 195,
+  "accuracy": 0.5125,
+  "correct_messages": [
+    {
+      "message": "so its not the fucking card",
+      "reason": "The message contains a swear word which is considered offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hmm I have never played this game, should I play squad or solo? fuck it lets play squad so i can fuck up my squadmates retard starter pack",
+      "reason": "The message contains offensive language and disrespectful sentiments towards potential squadmates in a game.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "why did pubg add this creepy shit?",
+      "reason": "The message uses a profanity which is considered disrespectful and offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "stop bypassing the chat you idiot",
+      "reason": "The message contains disrespectful language and name-calling.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message is disrespectful and offensive, belittling the recipient's abilities.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I suck at all but at least I dont die in the beginning smfh",
+      "reason": "The message contains the term 'smfh' which is an acronym for a phrase that includes profanity.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Dont bother with salty lol he's tryna make yall look like an idiot when he is the moron himself",
+      "reason": "The message contains disrespectful language and is insulting another person.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong. The data clearly shows a different trend.",
+      "reason": "The message is a disagreement but it is expressed in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong. The data clearly shows a different trend.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Hes deceptilvely tanky and does not give a hairy rats ass about CC.",
+      "reason": "The message uses a mildly offensive phrase, but it seems to be used in a non-abusive context, referring to a character or person's resilience or indifference.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I'm so excited for the new update! Can't wait to see what's in store.",
+      "reason": "The message expresses excitement and anticipation, and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hamit) Weather for Hamit, TR: Clear sky with a temperature of 21 C (69.8 F). Wind is blowing from the East at 10.3 kph (6.4 mph) and the humidity is 21%",
+      "reason": "The message is providing weather information and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danu) Weather for Danu, MD: Overcast clouds with a temperature of 12.5 C (54.5 F). Wind is blowing from the North at 3.2 kph (1.99 mph) and the humidity is 92%",
+      "reason": "The message is simply providing weather information and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "thanks for the giffted sub who ever gave it me @DanucD",
+      "reason": "The message is expressing gratitude and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdRespect danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance danucdDance2 danucdDance danucdDance2 danucdDance danucdDance2 danucdDance forsenPls SourPls",
+      "reason": "The message consists of repeated phrases that seem to be non-offensive and are likely related to an online game or community. There is no disrespectful or rude language present.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "The message contains disrespectful language and insults directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "alisaGG alisaGG alisaGG alisaGG naught14Luv naught14Luv naught14Nuts naught14Nuts naught14Nuts naught14Luv naught14Nuts naught14Luv naught14Nuts",
+      "reason": "The message consists of repeated usernames or nicknames, and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG",
+      "reason": "The message consists of emotes or codes for emotes, which are not offensive or disrespectful.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@xDEEDAN bot danucdDanu2",
+      "reason": "The message seems to be a mention of a user and a bot, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@Adooool18 Thanks for the gift sub! soggyWow brkSmaK soggyWow brkSmaK soggyPog brkTSM",
+      "reason": "The message is expressing gratitude and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really great! I would love to hear more about it.",
+      "reason": "The message is positive and encouraging, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I'm sorry, but I don't agree with your point of view.",
+      "reason": "The message is expressing disagreement in a polite and respectful manner.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect",
+      "reason": "The message is repetitive but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdNo Fattttttiiiiiiiiiiiiiiiiiiiiiiii",
+      "reason": "The message does not contain any disrespectful, offensive, rude, or abusive language or sentiments.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdHypePrime",
+      "reason": "The message does not contain any disrespectful, offensive, rude, or abusive language or sentiments.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I don't think that's a good idea.",
+      "reason": "The message is expressing a personal opinion in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I don't think that's a good idea. You should reconsider.",
+      "reason": "The message is providing advice and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner",
+      "reason": "The message is repetitive but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Yo Riot wtf \n fuck brand he always deals the most damage for some reason EVERY GANE",
+      "reason": "The message contains offensive language and disrespectful tone towards the game character.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdChair",
+      "reason": "The message does not contain any disrespectful, offensive, rude, or abusive language or sentiments.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "https://specs.gg/tgltn",
+      "reason": "The message is a URL, it does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "how do i get these fucking things off my recommended",
+      "reason": "The message contains a swear word which is considered offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "YEAH U WERE RIGHT BITCH JUST THE OTHER JUNGLER",
+      "reason": "The message contains offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Lol when adc became weak as shit I was like wtf happened did I just become ass turns out it wasn\u00e2\u20ac\u2122t me",
+      "reason": "The message contains offensive language such as 'shit' and 'ass'.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong. The data clearly shows a different trend.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I don't think you're right about that.",
+      "reason": "The message is expressing a disagreement in a polite and respectful manner.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "THIS GAME MIGHT AS WELL RESET MY FUCKING LP TO 0",
+      "reason": "The message contains offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but it is done in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "70 mana for that shit",
+      "reason": "The message uses a vulgar term which can be considered as offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a simple disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "WHAT THE FUCKING FUCK IS THIS FUCKING RECALL ANIMATION  recall animation may be shit, but holy fuck the effects and animation are good",
+      "reason": "The message contains multiple instances of offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "WHAT THE FUCKING FUCK IS THIS FUCKING RECALL ANIMATION",
+      "reason": "The message contains strong offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Hi there! I just wanted to let you know that I really appreciate your help. You're doing an awesome job and I'm so grateful for your assistance.",
+      "reason": "The message carries a positive sentiment, uses polite language, and expresses gratitude.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but it is done in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Fuck up a turret dive as graves and went afk",
+      "reason": "The message contains a swear word which is considered offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I don't think that's a good idea.",
+      "reason": "The message is expressing a personal opinion in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I don't think that's a good idea.",
+      "reason": "The message is expressing a personal opinion in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful and polite manner.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. The data clearly shows a different trend.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "the fuck you talking about brother?",
+      "reason": "The message contains offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck these team mates",
+      "reason": "The message uses explicit language to express negative sentiment towards others.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Bose QC20 (apple version). Ibi uses in ears instead of a headset because he has to use in ears at LANs. This way he gets used to it ibiW",
+      "reason": "The message is informative and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "oh fuck i got one of those omnistone bards in my ranked game",
+      "reason": "The message contains a profanity which is considered disrespectful and offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Fuck, I just died by the twitch. look at death recap",
+      "reason": "The message contains a curse word which is considered offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I'm sorry, but I don't agree with your point of view.",
+      "reason": "The message is expressing disagreement in a polite and respectful manner.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong. The data clearly shows a different trend.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think we should consider other options before making a decision.",
+      "reason": "The message is polite and respectful, suggesting a course of action without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "may I ask why the fuck shen is a thing?",
+      "reason": "The message contains offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Obligatory \"fuck Udyr\"",
+      "reason": "The message contains explicit language directed towards an individual or entity, which is considered disrespectful and offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "who the fuck uses D for flashbanning whoever says me",
+      "reason": "The message contains offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I'm sorry, but I don't think that's correct. Could you please check again?",
+      "reason": "The message is polite and respectful, expressing disagreement without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "why the fuck i get the code of conduct shit every time i open league clientPromise you will be a good player?",
+      "reason": "The message contains offensive language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Hey Ham. sorry for spam but you took a toiletbreak,quick question. Do you know how PUBG gives you teammates in squad and duo if you are playing without friends? It seems like i always get the new players when i try to team up. You know if they choose players by hidden rank or is it just random? The question was not as quick tho.. Haha, GG's! Have a great stream, as always hambLove",
+      "reason": "The message is a polite inquiry about a game mechanism. It does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "win the fight, die to a fucking mushroom walking away",
+      "reason": "The message contains a curse word which is considered offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "she's listening through the door, shut the fuck up dad",
+      "reason": "The message contains offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "how the fuck that last bullet didn't kill you",
+      "reason": "The message contains a profanity which is considered disrespectful and offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "HOW LE FUCK DO I FIGHT AHRI",
+      "reason": "The message contains offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "i hate the camps, i always come out with shit loot",
+      "reason": "The message contains a swear word which is considered offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "this map is dog shit for squads. absolute dog shit",
+      "reason": "The message uses offensive language to express dissatisfaction.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "and tell you that kayle is ugly and stupid and is a loser",
+      "reason": "The message contains disrespectful and offensive language targeted at an individual.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that way.",
+      "reason": "The message uses disrespectful language to insult someone's intelligence.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message is disrespectful and offensive, belittling the recipient's abilities.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Being memed for releasing an overpowered adc and being shit on by the whole community.Rito after a few months: \u00e2\u20ac\u0153 I\u00e2\u20ac\u2122ll fucking do it again.\u00e2\u20ac\u009d",
+      "reason": "The message contains offensive language and disrespectful sentiments towards a community.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "then ezreal says shut the fuck up mutedthen they both die to the first gank of the game 10 seconds after it was warnedand then they say jungle diff",
+      "reason": "The message contains offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I'm really proud of you for getting that promotion!",
+      "reason": "The message carries a positive sentiment and does not contain any offensive language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "but fuck riven",
+      "reason": "The message contains offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "shit",
+      "reason": "The message contains a profanity, which is considered disrespectful and offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I fucking hate lux",
+      "reason": "The message uses offensive language and expresses a strong negative sentiment.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I'm sorry, but I don't think I can help with that.",
+      "reason": "The message is polite and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "where le fuck is psyops kayle",
+      "reason": "The message contains offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "this fucking yi",
+      "reason": "The message uses offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "feed them and said what the fuck could i do",
+      "reason": "The message contains a profanity, which is considered disrespectful and offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck support yuumi",
+      "reason": "The message uses offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "who the FUCK plays asol i BAN aury sol",
+      "reason": "The message contains offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "dont u dare put the yuumi passive in there fuck u",
+      "reason": "The message contains offensive language and shows disrespect.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I wanna cry when I get them on my team useless sack of shit but when. Other team has them they just disappear and reappearing while somehow doing more damage with a blow dart then a fucking rek si",
+      "reason": "The message contains offensive language and disrespectful sentiments towards others.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "this shit is like adc graves",
+      "reason": "The message contains a swear word which is considered offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "o m y fucking god AGAIN?",
+      "reason": "The message contains a swear word which is considered offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "gold is such a shit hole man",
+      "reason": "The message uses offensive language to describe something.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck that champion and his entire bullshit kit",
+      "reason": "The message contains explicit and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "he has 60 fucking dashes",
+      "reason": "The message contains a swear word which is considered offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "wiat then what the fuck",
+      "reason": "The message contains offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "nexus blitz is ass",
+      "reason": "The message uses a derogatory term to express a negative opinion, which can be considered disrespectful.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "man yuumi jng is fucking annoying",
+      "reason": "The message contains a swear word which is considered offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "it was the evelynn game, he even stole my fucking champ",
+      "reason": "The message contains a curse word which is considered offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I'm safe for now so fuck you guys",
+      "reason": "The message contains offensive language directed towards others.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "sucks ass",
+      "reason": "The message uses offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "And my friend had to fucking choose tahm kench",
+      "reason": "The message contains a swear word which is considered offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@RiotSupport hi is there any update when riot will make a new and usable client for league of legends? Thanks",
+      "reason": "The message is a polite inquiry about a game update and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@RisenEsportsNA Just doing the right thing @RisenEsportsNA. However, I better not catch you doing the same thing for your League of Legends team competing in @UpsurgeGG.",
+      "reason": "The message does not contain any offensive, disrespectful, or rude language. It seems to be a warning or advice rather than a toxic message.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken, but I respect your opinion.",
+      "reason": "The message is polite and respectful, even though it disagrees with the other person's opinion.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message is disrespectful and offensive, belittling the recipient's abilities.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "BTW. I'm going to keep streaming, because I genuinely like it. Expect them all to be super late though because that's legit the ONLY time I am able to stream. I am only streaming League of Legends because that's all I care to play these days. Hope you enjoyed my dose of reality",
+      "reason": "The message is about the sender's personal preferences and plans, and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "expose yourself :\n\n1.nop\n2. No\n3. No\n4. Blue , pink\n5. M\n6. Hiii let's play league of legends\n7. Both\n8. Idk\n9. Idk they don't even reply me-\n10. No\n11. Ye\n12. No\n13. \u00f0\u0178\u00a4\u00a1\n\ndrop an emoji and i\u00e2\u20ac\u2122ll send you the questions",
+      "reason": "The message does not contain any disrespectful, offensive, rude, or abusive language or sentiments.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I'm sorry, but I don't agree with your point of view.",
+      "reason": "The message is expressing disagreement in a polite and respectful manner.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I'm sorry, but I don't think I can help with that.",
+      "reason": "The message is polite and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@Yamikazexz who's your twitch crush? like a female streamer not taco LUL",
+      "reason": "The message is asking a question in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I don't think that's a good idea.",
+      "reason": "The message is expressing a personal opinion in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "what matchups do you take elec on talon and what champs do u take conq on him?",
+      "reason": "The message is asking for advice on a game, it does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The data shows a different trend.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that. Here's a link to the correct information.",
+      "reason": "The message is polite and respectful, providing information without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "700 true dmg on 1 Q there KEKW",
+      "reason": "The message is about a game and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "HOLY SHIT karthus busted KEKW",
+      "reason": "The message contains a profanity which is considered disrespectful and offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "or until u get shit on LUL",
+      "reason": "The message contains offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "The fuck was that Fiora thinking? Diving base against 4 people and typing wtf in all chat so dumb",
+      "reason": "The message contains offensive language and disrespectful remarks about another player's actions.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "smd = shake my dick?",
+      "reason": "The message contains a vulgar phrase which is considered disrespectful and offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "because cosmic 1st is shit @Thebausffs",
+      "reason": "The message uses offensive language to express a negative opinion.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@der_bisang he can miss it, long cd, needs grit. camille? she doesn't give a shit, spam Q for 1k true dmg YEP",
+      "reason": "The message contains a profanity, which is considered disrespectful and offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you did that. You're such a jerk!",
+      "reason": "The message contains disrespectful language and negative sentiment.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    }
+  ],
+  "incorrect_messages": [
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're doing a great job!",
+      "reason": "The message carries a positive sentiment and does not contain any offensive language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're doing a great job!",
+      "reason": "The message carries a positive sentiment and does not contain any offensive language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I'm really sorry, but I can't help you with that.",
+      "reason": "The message is polite and respectful, even though it delivers a negative response.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think the new update is not as good as the previous one. What do you think?",
+      "reason": "The message is expressing an opinion in a respectful manner and is asking for others' opinions as well.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but it is done in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think the new update is really cool!",
+      "reason": "The message expresses a positive opinion about a new update and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that. Here's a link to the correct information.",
+      "reason": "The message is polite and informative, providing a correction without using offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that. Let's discuss it further.",
+      "reason": "The message is polite and respectful, inviting further discussion without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that. Here's a link to the correct information.",
+      "reason": "The message is polite and informative, providing a correction without using offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The data shows a different trend.",
+      "reason": "The message is polite and respectful, disagreeing with a previous statement based on data, without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but does it in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think we should consider other options.",
+      "reason": "The message is polite and respectful, suggesting a different approach or solution without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that.",
+      "reason": "The message contains disrespectful language and insults the intelligence of the recipient.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that.",
+      "reason": "The message contains disrespectful language and insults the intelligence of the recipient.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "The message contains disrespectful language and insults directed at the recipient.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "The message contains disrespectful language and insults directed at the recipient.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message is disrespectful and offensive, belittling the recipient's abilities.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I really appreciate your help!",
+      "reason": "The message carries a positive sentiment and expresses gratitude, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message carries a positive sentiment and does not contain any offensive language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is polite and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The data shows a different trend.",
+      "reason": "The message is polite and respectful, disagreeing with a previous statement but providing a reason for the disagreement.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "it's here!!!! What the fuck is that?",
+      "reason": "The message contains offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "The message contains disrespectful language and insults directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "The message contains disrespectful language and insults directed at the recipient.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. Get a life!",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message is disrespectful and offensive, belittling the recipient's abilities.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message is disrespectful and offensive, belittling the recipient's abilities.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "The message contains disrespectful language and insults directed at the recipient.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "The message contains disrespectful language and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "The message uses disrespectful language to insult someone.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I'm really sorry to hear about your loss. My deepest condolences to you and your family.",
+      "reason": "The message is expressing sympathy and condolences, and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message carries a positive sentiment and does not contain any offensive language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I really appreciate your help with this project.",
+      "reason": "The message expresses gratitude and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're doing a great job. Keep it up!",
+      "reason": "The message is positive and encouraging, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The event is scheduled for next week, not this week.",
+      "reason": "The message is informative and polite, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken, but I respect your opinion.",
+      "reason": "The message is polite and respectful, even though it disagrees with someone else's opinion.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message carries a positive sentiment and does not contain any offensive language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message carries a positive sentiment and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I'm so proud of you! You've worked hard for this.",
+      "reason": "The message carries a positive sentiment and does not contain any offensive language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The event is scheduled for next week.",
+      "reason": "The message is polite and informative, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I'm so happy for you! You've worked hard for this.",
+      "reason": "The message carries a positive sentiment and does not contain any offensive language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "FUCK IT, VLAD IT IS",
+      "reason": "The message uses offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The data shows a different trend.",
+      "reason": "The message is polite and respectful, disagreeing with a previous statement based on data, without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you're having a great day!",
+      "reason": "The message carries a positive sentiment and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're doing a great job!",
+      "reason": "The message carries a positive sentiment and does not contain any offensive language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that. Here's a link to the correct information.",
+      "reason": "The message is polite and informative, providing a correction without using offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The data shows a different trend.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but it is done in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is expressing a disagreement in a polite and respectful manner.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. The data clearly shows a different trend.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is polite and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement but does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think we should reconsider our approach.",
+      "reason": "The message is polite and respectful, suggesting a change in strategy without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is polite and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message carries a positive sentiment and does not contain any offensive language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that. Here's a link to some information that might help clarify things for you.",
+      "reason": "The message is polite and informative, offering help to clarify a misunderstanding.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is polite and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The event is scheduled for next week, not this week.",
+      "reason": "The message is informative and polite, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The data shows a different trend.",
+      "reason": "The message is polite and respectful, disagreeing with a previous statement based on data, without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The data shows a different trend.",
+      "reason": "The message is polite and respectful, disagreeing without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The data clearly shows a different trend.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The event is scheduled for next week.",
+      "reason": "The message is polite and informative, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The event is next week, not this week.",
+      "reason": "The message is informative and polite, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that. Here's a link to the correct information.",
+      "reason": "The message is polite and informative, providing a correction without using offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is polite and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is polite and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're really talented!",
+      "reason": "The message carries a positive sentiment and does not contain any offensive language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is polite and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is polite and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The event is tomorrow, not today.",
+      "reason": "The message is polite and informative, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "shit is so cringe and over done",
+      "reason": "The message contains a swear word which is considered offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The event is scheduled for next week.",
+      "reason": "The message is polite and informative, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The data shows a different trend.",
+      "reason": "The message is polite and respectful, disagreeing with a previous statement based on data, without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is polite and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "but they do it such a i dont give a shit way",
+      "reason": "The message contains a disrespectful phrase.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message carries a positive sentiment and does not contain any offensive language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong. The data clearly shows a different trend.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that. You're a joke.",
+      "reason": "The message contains disrespectful and offensive language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. The data clearly shows a different trend.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. The data clearly shows a different trend.",
+      "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "The message contains disrespectful language and insults directed at the recipient.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that way.",
+      "reason": "The message contains disrespectful language and insults the intelligence of the recipient.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that.",
+      "reason": "The message contains disrespectful language and insults the intelligence of the recipient.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "The message contains disrespectful language and insults.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "The message contains disrespectful and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're doing a great job!",
+      "reason": "The message is positive and encouraging, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're doing a great job!",
+      "reason": "The message is positive and encouraging, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think we should consider other options before making a decision.",
+      "reason": "The message is polite and respectful, suggesting a course of action without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The data shows a different trend.",
+      "reason": "The message is polite and respectful, disagreeing with a previous statement based on data, without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful and polite manner.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're really talented!",
+      "reason": "The message carries a positive sentiment and does not contain any offensive language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "The message is expressing disagreement in a respectful manner and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The event is scheduled for next week.",
+      "reason": "The message is polite and informative, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "The message is a polite disagreement and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "that harvesting shit mythic with gragas is insane tbh",
+      "reason": "The message uses a mild swear word, but it's used to emphasize the speaker's opinion about a game strategy, not to insult or offend anyone.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-4"
+    }
+  ]
+}

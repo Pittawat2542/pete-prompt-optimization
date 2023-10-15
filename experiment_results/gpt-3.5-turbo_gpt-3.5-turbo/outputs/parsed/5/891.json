@@ -1,0 +1,8 @@
+{
+  "message": "shit happens",
+  "reason": "The message 'shit happens' is classified as toxic because it contains a profanity ('shit'). The presence of profanity is often an indicator of toxic language.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

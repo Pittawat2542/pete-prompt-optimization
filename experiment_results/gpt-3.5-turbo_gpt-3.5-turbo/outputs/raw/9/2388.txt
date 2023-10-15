@@ -1,0 +1,7 @@
+```json
+{
+"message": "LUL LUL LUL LUL LUL LUL LUL LUL",
+"reason": "The message consists of repeated instances of the word 'LUL'. This repetitive pattern is often associated with spam or trolling behavior, which falls under the 'toxic' category.",
+"predicted": "toxic"
+}
+```

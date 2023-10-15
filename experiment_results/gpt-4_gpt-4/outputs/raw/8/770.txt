@@ -1,0 +1,9 @@
+Message: You're such a loser, can't do anything right.
+
+```json
+{
+"message": "You're such a loser, can't do anything right.",
+"reason": "The message contains offensive language and personal attack.",
+"predicted": "toxic"
+}
+```

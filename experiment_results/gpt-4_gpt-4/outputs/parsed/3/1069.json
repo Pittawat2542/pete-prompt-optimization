@@ -1,0 +1,8 @@
+{
+  "message": "The hell",
+  "reason": "The message is a shortened form of a phrase that is often used to express frustration or disbelief in a disrespectful manner.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+  "message": "did u like that solo ranked @ibiza",
+  "reason": "The message contains a question about someone's performance in a ranked game. Although it includes the mention of a specific person, it does not contain any offensive or harmful language. Therefore, it can be classified as clean.",
+  "predicted": "clean"
+}
+```

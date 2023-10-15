@@ -1,0 +1,7 @@
+```json
+{
+"message": "you can try this to them ciao nee mud",
+"reason": "The predicted category is 'clean'. The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It appears to be a harmless and neutral message.",
+"predicted": "clean"
+}
+```

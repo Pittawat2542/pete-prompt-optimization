@@ -1,0 +1,7 @@
+```json
+{
+"message": "ahhh gotcha",
+"reason": "The message is classified as 'clean' because it does not contain any offensive or harmful language. The phrase 'ahhh gotcha' is a common expression used to indicate understanding or agreement, and it does not exhibit any toxic behavior or intent.",
+"predicted": "clean"
+}
+```

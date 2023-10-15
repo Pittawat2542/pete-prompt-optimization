@@ -1,0 +1,8 @@
+{
+  "message": "wtffffffffffffff",
+  "reason": "The message contains a term that is often used to express frustration or anger, which can be seen as impolite or disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-4"
+}

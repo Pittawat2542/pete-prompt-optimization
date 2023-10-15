@@ -1,0 +1,7 @@
+```json
+{
+"message": "Its my stupid earphones",
+"reason": "The message contains a negative sentiment, but it is not directed towards an individual or group, and is not offensive, rude, or disrespectful.",
+"predicted": "clean"
+}
+```

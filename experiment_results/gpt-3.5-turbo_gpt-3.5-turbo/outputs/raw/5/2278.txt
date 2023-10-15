@@ -1,0 +1,7 @@
+```json
+{
+"message": "smh thats why i use the m4 long range",
+"reason": "The message does not contain any offensive or harmful language. It appears to be a statement about the speaker's preference for using the M4 long range weapon in a game or online community. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

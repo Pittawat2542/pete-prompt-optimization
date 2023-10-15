@@ -1,0 +1,7 @@
+```json
+{
+"message": "as an OG pubg player who has taken like 6 months off, the sounds are wack to get used too.",
+"reason": "The text does not contain any offensive or harmful language. It is a statement expressing the user's opinion about the sounds in the game. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

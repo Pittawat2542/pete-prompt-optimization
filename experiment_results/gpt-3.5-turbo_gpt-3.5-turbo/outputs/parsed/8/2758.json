@@ -1,0 +1,8 @@
+{
+  "message": "the best",
+  "reason": "The text 'the best' is classified as 'clean' because it does not contain any toxic or offensive language. The model has a high confidence score of 0.98 for the 'clean' category.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

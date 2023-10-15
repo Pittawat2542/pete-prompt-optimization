@@ -1,0 +1,8 @@
+{
+  "message": "holy shit PogU",
+  "reason": "The message contains a profanity ('shit'), which is considered toxic language.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

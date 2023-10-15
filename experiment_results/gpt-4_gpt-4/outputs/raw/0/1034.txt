@@ -1,0 +1,7 @@
+```json
+{
+"message": "cod is crap which one?",
+"reason": "The message contains a negative opinion about a topic (possibly a game called 'cod'), but it does not contain any offensive or harmful content.",
+"predicted": "clean",
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "he has 60 fucking dashes",
+  "reason": "The message contains the use of a profanity which is considered offensive and disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

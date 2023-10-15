@@ -1,0 +1,8 @@
+{
+  "message": "@RuralBiscuits damn - i knew it!",
+  "reason": "The message contains the word 'damn' which can be considered as a mild swear word. However, in this context, it doesn't seem to be used with the intention to offend or disrespect, but rather as an expression of surprise or frustration.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,39 @@
+Message: "You're such a loser! Can't believe you messed up again."
+
+```json
+{
+"message": "You're such a loser! Can't believe you messed up again.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I think you did a great job on the project. Well done!"
+
+```json
+{
+"message": "I think you did a great job on the project. Well done!",
+"reason": "This message is positive and encouraging, with no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "Why can't you just shut up? You're so annoying."
+
+```json
+{
+"message": "Why can't you just shut up? You're so annoying.",
+"reason": "This message is considered toxic due to its aggressive tone and disrespectful language directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "Thank you for your help today. I really appreciate it."
+
+```json
+{
+"message": "Thank you for your help today. I really appreciate it.",
+"reason": "This message is polite and expresses gratitude, with no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

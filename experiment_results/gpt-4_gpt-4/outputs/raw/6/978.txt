@@ -1,0 +1,7 @@
+```json
+{
+"message": "because cosmic 1st is shit @Thebausffs",
+"reason": "The message uses a vulgar term to express a negative opinion about something or someone, which can be considered offensive.",
+"predicted": "toxic"
+}
+```

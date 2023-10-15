@@ -1,0 +1,8 @@
+{
+  "message": "HOW LE FUCK DO I FIGHT AHRI",
+  "reason": "The message contains offensive language, which is disrespectful and rude.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

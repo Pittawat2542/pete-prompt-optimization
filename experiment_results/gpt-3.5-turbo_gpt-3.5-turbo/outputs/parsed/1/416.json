@@ -1,0 +1,8 @@
+{
+  "message": "because its fucking bronze",
+  "reason": "The message contains offensive language ('fucking') which is considered toxic. The use of derogatory language suggests a negative and disrespectful tone.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

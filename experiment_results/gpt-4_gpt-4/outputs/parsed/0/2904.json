@@ -1,0 +1,8 @@
+{
+  "message": "its banana its banana",
+  "reason": "The message is non-offensive and does not contain any harmful or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

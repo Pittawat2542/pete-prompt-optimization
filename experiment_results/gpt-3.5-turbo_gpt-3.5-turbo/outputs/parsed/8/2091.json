@@ -1,0 +1,8 @@
+{
+  "message": "ahhh gotcha",
+  "reason": "The text is classified as 'clean' because it does not contain any offensive or toxic language. The 'Prediction result' section also shows that the model has a high confidence score for the 'clean' category.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

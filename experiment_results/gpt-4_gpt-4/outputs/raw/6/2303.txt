@@ -1,0 +1,7 @@
+```json
+{
+"message": "hello sir how are u",
+"reason": "The message is polite and respectful, without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

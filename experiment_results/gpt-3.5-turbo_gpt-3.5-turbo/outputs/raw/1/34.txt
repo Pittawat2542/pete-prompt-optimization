@@ -1,0 +1,7 @@
+```json
+{
+  "message": "laners dying even with vision ðŸ¤¡",
+  "reason": "The message contains the phrase 'laners dying even with vision', which suggests frustration or disappointment with the performance of the laners. However, the use of the emoji 'ðŸ¤¡' indicates a sarcastic or joking tone, rather than genuine toxicity. Therefore, the message can be classified as clean.",
+  "predicted": "clean"
+}
+```

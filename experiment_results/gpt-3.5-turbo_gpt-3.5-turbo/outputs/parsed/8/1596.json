@@ -1,0 +1,8 @@
+{
+  "message": "yeah",
+  "reason": "The text 'yeah' is a simple and neutral response that does not contain any offensive or harmful language. It does not exhibit any toxic behavior.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

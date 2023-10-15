@@ -1,0 +1,8 @@
+{
+  "message": "cause im an idiot lol",
+  "reason": "The message contains self-deprecating humor, which is not offensive or disrespectful to others.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

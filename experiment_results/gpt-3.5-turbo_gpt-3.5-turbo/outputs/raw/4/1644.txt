@@ -1,0 +1,7 @@
+```json
+{
+"message": "PogChamp PogChamp PogChamp",
+"reason": "The message consists of repeated use of the term 'PogChamp', which is a popular emote used in online gaming communities to express excitement or hype. This does not contain any offensive or harmful language, and therefore can be classified as clean.",
+"predicted": "clean"
+}
+```

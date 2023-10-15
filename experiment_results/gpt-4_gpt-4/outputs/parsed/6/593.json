@@ -1,0 +1,8 @@
+{
+  "message": "5Head",
+  "reason": "The message is a popular Twitch emote used to indicate that someone has made a smart or clever comment. It doesn't contain any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

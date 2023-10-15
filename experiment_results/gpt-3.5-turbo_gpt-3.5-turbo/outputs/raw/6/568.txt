@@ -1,0 +1,7 @@
+```json
+{
+"message": "11649 times KEKW",
+"reason": "The message does not contain any offensive or harmful language. It appears to be a repetition of the phrase 'KEKW' 11649 times, which is not inherently toxic or offensive.",
+"predicted": "clean"
+}
+```

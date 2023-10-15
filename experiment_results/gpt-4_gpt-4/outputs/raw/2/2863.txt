@@ -1,0 +1,39 @@
+Message: "I think this game is really fun, I've been playing it for hours!"
+
+```json
+{
+"message": "I think this game is really fun, I've been playing it for hours!",
+"reason": "This message is positive and contains no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser, I can't believe you messed up again."
+
+```json
+{
+"message": "You're such a loser, I can't believe you messed up again.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative tone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I don't agree with your point of view, but I respect your right to have it."
+
+```json
+{
+"message": "I don't agree with your point of view, but I respect your right to have it.",
+"reason": "This message, despite expressing disagreement, is respectful and does not contain offensive language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're a waste of space, nobody wants you here."
+
+```json
+{
+"message": "You're a waste of space, nobody wants you here.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative sentiment.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "Like Hell Do I Care.",
+  "reason": "The message uses the phrase 'Like Hell', which is often used to express strong negative emotions or to emphasize a point in a rude or disrespectful manner.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

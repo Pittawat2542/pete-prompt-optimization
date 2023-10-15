@@ -1,0 +1,7 @@
+```json
+{
+  "message": "gg",
+  "reason": "The message 'gg' is commonly used in online gaming communities as a short form of 'good game' to express sportsmanship and respect towards opponents. It is a positive and friendly message, indicating that the game was enjoyable. Therefore, the message can be classified as clean.",
+  "predicted": "clean"
+}
+```

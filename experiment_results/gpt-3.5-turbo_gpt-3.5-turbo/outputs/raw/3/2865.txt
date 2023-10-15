@@ -1,0 +1,7 @@
+```json
+{
+"message": "Have you tried sleeping ass up?",
+"reason": "The predicted category is 'toxic' because the message contains inappropriate language and sexual content. The model has correctly identified this message as toxic based on the presence of explicit language.",
+"predicted": "toxic"
+}
+```

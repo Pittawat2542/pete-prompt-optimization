@@ -1,0 +1,8 @@
+{
+  "message": "Message",
+  "reason": "The predicted category for the message is 'clean'. The model has determined that the message does not contain any toxic or offensive language based on the provided prediction result.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

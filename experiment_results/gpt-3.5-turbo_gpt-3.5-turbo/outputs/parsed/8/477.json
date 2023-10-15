@@ -1,0 +1,8 @@
+{
+  "message": "I like League of legends because I had a guy say I don't care about the role I got I'm playing what I want, then he went 1/9",
+  "reason": "The text is classified as toxic because it contains negative sentiment and derogatory language towards another player.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "but they do it such a i dont give a shit way",
+  "reason": "The message includes offensive language and shows a disrespectful attitude.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-4"
+}

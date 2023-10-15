@@ -1,0 +1,8 @@
+{
+  "message": "@Thebausffs just scared the shit out of my dog",
+  "reason": "The message uses a mild obscenity but it is not directed towards any individual in a disrespectful or offensive manner. It does not contain personal attacks, hate speech or any form of disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

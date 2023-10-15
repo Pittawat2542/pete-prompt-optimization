@@ -1,0 +1,7 @@
+```json
+{
+"message": "Still waitin for update on xbox I'm buying on pc next week annoyed lol",
+"reason": "The message contains a mild expression of annoyance, but it does not contain any explicit or harmful language. Therefore, it can be classified as clean.",
+"predicted": "clean"
+}
+```

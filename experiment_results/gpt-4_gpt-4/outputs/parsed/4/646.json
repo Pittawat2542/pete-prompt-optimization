@@ -1,0 +1,8 @@
+{
+  "message": "are you twitch single?",
+  "reason": "The message does not contain any offensive, rude, or disrespectful language. It seems to be a simple question.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

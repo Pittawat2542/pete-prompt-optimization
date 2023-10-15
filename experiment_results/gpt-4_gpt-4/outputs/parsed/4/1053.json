@@ -1,0 +1,8 @@
+{
+  "message": "Hell no ew",
+  "reason": "The message contains strong negative language that can be interpreted as rude or disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

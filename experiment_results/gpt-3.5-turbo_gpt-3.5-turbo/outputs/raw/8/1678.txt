@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdHypePrime",
+"reason": "The text 'danucdHypePrime' does not contain any explicit toxic language or offensive content. It appears to be a username or a phrase used in an online community. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

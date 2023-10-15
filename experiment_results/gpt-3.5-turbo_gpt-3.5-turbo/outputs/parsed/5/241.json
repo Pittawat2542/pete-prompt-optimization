@@ -1,0 +1,8 @@
+{
+  "message": "fuck these team mates",
+  "reason": "The message contains offensive language ('fuck') which is considered toxic. The use of derogatory language towards others indicates a negative and disrespectful attitude, making it fall into the 'toxic' category.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

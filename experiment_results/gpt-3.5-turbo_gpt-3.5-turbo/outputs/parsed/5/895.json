@@ -1,0 +1,8 @@
+{
+  "message": "@buttery_butt1094 YEAH shit funny af",
+  "reason": "The message contains a profanity ('shit'), which indicates a toxic category. Additionally, the use of 'af' (as fuck) intensifies the profanity, further supporting the toxic classification.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

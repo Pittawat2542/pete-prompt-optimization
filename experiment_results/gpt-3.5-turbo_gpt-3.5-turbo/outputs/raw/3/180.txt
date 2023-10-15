@@ -1,0 +1,7 @@
+```json
+{
+"message": "my god the stupidity of people",
+"reason": "The text is classified as toxic because it contains negative sentiment and derogatory language ('stupidity'). The model has predicted it as toxic based on the presence of such language.",
+"predicted": "toxic"
+}
+```

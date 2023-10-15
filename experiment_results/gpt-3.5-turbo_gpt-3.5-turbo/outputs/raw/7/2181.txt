@@ -1,0 +1,7 @@
+```json
+{
+"message": "rando squad?",
+"reason": "The message is classified as 'clean' because it does not contain any offensive or toxic language. It is a simple question asking if anyone wants to form a random squad.",
+"predicted": "clean"
+}
+```

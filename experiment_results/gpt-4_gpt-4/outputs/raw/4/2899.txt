@@ -1,0 +1,7 @@
+```json
+{
+"message": "how are you banananas today",
+"reason": "The message does not contain any offensive, rude, or disrespectful language. It seems to be a playful or humorous way of asking someone how they are doing.",
+"predicted": "clean"
+}
+```

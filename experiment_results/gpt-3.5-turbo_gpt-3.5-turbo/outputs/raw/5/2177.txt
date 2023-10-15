@@ -1,0 +1,7 @@
+```json
+{
+"message": "@escamoli yeah",
+"reason": "The message does not contain any explicit toxic language or harmful content. It is a simple response of agreement or acknowledgement. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

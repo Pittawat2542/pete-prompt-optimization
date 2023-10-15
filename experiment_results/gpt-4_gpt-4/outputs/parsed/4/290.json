@@ -1,0 +1,8 @@
+{
+  "message": "eat shit riot",
+  "reason": "The message contains offensive language directed towards someone or something referred to as 'riot'.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

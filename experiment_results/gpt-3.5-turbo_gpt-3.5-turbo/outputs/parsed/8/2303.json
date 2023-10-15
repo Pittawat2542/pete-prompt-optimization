@@ -1,0 +1,8 @@
+{
+  "message": "hello sir how are u",
+  "reason": "The text is classified as 'clean' because the model predicts a low probability of toxicity. The predicted category is based on the highest probability score, which is below the threshold for toxicity.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "!hs",
+  "reason": "The message '!hs' does not contain any offensive or toxic language. It appears to be a command or abbreviation used in the online community.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

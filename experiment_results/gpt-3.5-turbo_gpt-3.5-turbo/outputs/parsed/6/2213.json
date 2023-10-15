@@ -1,0 +1,8 @@
+{
+  "message": "how do you play with such high ping",
+  "reason": "The message does not contain any offensive or harmful language. It is a question about playing with high ping, which is a technical issue in online gaming. Therefore, it can be classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "rawryyLaugh NT NT",
+  "reason": "The message contains a combination of letters and symbols that do not form coherent words or sentences. It appears to be random characters and does not convey any meaningful information. Therefore, it can be classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

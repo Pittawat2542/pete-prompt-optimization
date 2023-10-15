@@ -1,0 +1,7 @@
+```json
+{
+"message": "oh so jg duo means you roam and shit together?",
+"reason": "The message contains a mild swear word but it's used in a non-offensive, non-insulting context. It seems to be more of a casual or colloquial language use rather than an attempt to offend or disrespect someone.",
+"predicted": "clean"
+}
+```

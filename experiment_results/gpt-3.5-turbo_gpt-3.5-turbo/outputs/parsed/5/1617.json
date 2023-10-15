@@ -1,0 +1,8 @@
+{
+  "message": "Greetings from New Orleans",
+  "reason": "The message is classified as 'clean' because it does not contain any toxic or offensive language. The model's prediction result also confirms this, as it does not mention any toxic or offensive categories.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

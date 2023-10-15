@@ -1,0 +1,7 @@
+```json
+{
+"message": "HOW THE HELL IS THIS AN A",
+"reason": "The message contains strong language and is considered offensive, which falls under the 'toxic' category. The model's prediction is consistent with this as it classified the message as 'toxic'.",
+"predicted": "toxic"
+}
+```

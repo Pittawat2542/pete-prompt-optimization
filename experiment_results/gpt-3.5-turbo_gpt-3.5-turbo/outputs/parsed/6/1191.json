@@ -1,0 +1,8 @@
+{
+  "message": "Still waitin for update on xbox I'm buying on pc next week annoyed lol",
+  "reason": "The message does not contain any offensive or harmful language. It is a simple expression of frustration and impatience regarding the update on Xbox. The presence of 'annoyed lol' indicates the user's emotional state, but it does not make the message toxic.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

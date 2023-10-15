@@ -1,0 +1,8 @@
+{
+  "message": "Nt",
+  "reason": "The message consists of only two characters, which makes it difficult to determine the intent or meaning behind it.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

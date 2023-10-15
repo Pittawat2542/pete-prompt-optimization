@@ -1,0 +1,7 @@
+```json
+{
+  "message": "I suck so bad loool",
+  "reason": "The message contains self-deprecating language and the use of 'loool' indicates that the person is laughing at themselves. This suggests that the message is not intended to be harmful or offensive, but rather a lighthearted expression of frustration or self-awareness.",
+  "predicted": "clean"
+}
+```

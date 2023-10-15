@@ -1,0 +1,39 @@
+Message: "I think your idea is great! Let's try it out."
+
+```json
+{
+"message": "I think your idea is great! Let's try it out.",
+"reason": "This message is positive and supportive, with no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser, can't do anything right."
+
+```json
+{
+"message": "You're such a loser, can't do anything right.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative tone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I disagree with your point, but I respect your opinion."
+
+```json
+{
+"message": "I disagree with your point, but I respect your opinion.",
+"reason": "This message is respectful and polite, despite expressing disagreement.",
+"predicted": "clean"
+}
+```
+
+Message: "You're so stupid, can't understand a simple thing."
+
+```json
+{
+"message": "You're so stupid, can't understand a simple thing.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+"predicted": "toxic"
+}
+```

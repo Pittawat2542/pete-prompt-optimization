@@ -1,0 +1,7 @@
+```json
+{
+  "message": "it was the evelynn game, he even stole my fucking champ",
+  "reason": "The use of profanity and the expression of frustration indicate a negative and toxic tone in the message.",
+  "predicted": "toxic"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "Melanie is in hell now",
+"reason": "The predicted category is 'toxic' because the message contains negative and harmful language. The word 'hell' is associated with suffering and punishment, which contributes to a toxic atmosphere.",
+"predicted": "toxic"
+}
+```

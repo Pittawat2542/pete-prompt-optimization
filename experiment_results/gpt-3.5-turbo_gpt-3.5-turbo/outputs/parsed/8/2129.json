@@ -1,0 +1,8 @@
+{
+  "message": "ha ha ha",
+  "reason": "The text 'ha ha ha' is classified as 'clean' because it consists of repeated laughter, which is typically considered as a positive and non-toxic expression.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

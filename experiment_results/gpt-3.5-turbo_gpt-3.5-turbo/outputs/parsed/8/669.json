@@ -1,0 +1,8 @@
+{
+  "message": "215 cs",
+  "reason": "The text '215 cs' does not contain any toxic or offensive language. It appears to be a short message or comment that does not violate any community guidelines.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

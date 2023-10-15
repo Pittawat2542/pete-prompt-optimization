@@ -1,0 +1,8 @@
+{
+  "message": "toxic spammer @hamitcankilic",
+  "reason": "The message contains the term 'toxic spammer' which indicates that the user is engaging in toxic behavior by spamming. Additionally, the mention of '@hamitcankilic' suggests that the user is targeting a specific individual, which further contributes to the toxic nature of the message.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

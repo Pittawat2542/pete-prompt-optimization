@@ -1,0 +1,8 @@
+{
+  "message": "@mfyntz tgl5Head",
+  "reason": "The text contains a username mention (@mfyntz) followed by an alphanumeric string (tgl5Head). There is no explicit toxic or offensive language present in the text.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

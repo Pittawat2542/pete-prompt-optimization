@@ -1,0 +1,8 @@
+{
+  "message": "I hate my life",
+  "reason": "The message 'I hate my life' expresses negative emotions and indicates a feeling of dissatisfaction or unhappiness. This can be classified as a toxic message because it reflects a negative and harmful mindset.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

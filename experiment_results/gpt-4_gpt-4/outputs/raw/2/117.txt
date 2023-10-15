@@ -1,0 +1,39 @@
+Message: "You're such a loser, can't even win a single game."
+
+```json
+{
+"message": "You're such a loser, can't even win a single game.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "Good job on winning the game!"
+
+```json
+{
+"message": "Good job on winning the game!",
+"reason": "This message contains no offensive language and conveys a positive sentiment.",
+"predicted": "clean"
+}
+```
+
+Message: "I can't believe you're so stupid to make that move."
+
+```json
+{
+"message": "I can't believe you're so stupid to make that move.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "That was a smart move, well done!"
+
+```json
+{
+"message": "That was a smart move, well done!",
+"reason": "This message contains no offensive language and conveys a positive sentiment.",
+"predicted": "clean"
+}
+```

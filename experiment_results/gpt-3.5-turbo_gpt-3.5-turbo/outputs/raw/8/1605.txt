@@ -1,0 +1,7 @@
+```json
+{
+"message": "Nt",
+"reason": "The text 'Nt' is too short to determine its meaning or intent. Without further context, it is difficult to classify it as toxic or clean.",
+"predicted": "clean"
+}
+```

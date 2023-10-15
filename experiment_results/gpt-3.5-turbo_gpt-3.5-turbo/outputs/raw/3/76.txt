@@ -1,0 +1,7 @@
+```json
+{
+"message": "hecarim is busted more",
+"reason": "The message does not contain any offensive or harmful language, and it does not attack or insult any individual or group. Therefore, it can be classified as clean.",
+"predicted": "clean"
+}
+```

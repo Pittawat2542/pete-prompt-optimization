@@ -1,0 +1,8 @@
+{
+  "message": "been 2 weeks 1since i've been able to lunch with ham!",
+  "reason": "The message is devoid of any offensive, rude, abusive or disrespectful language or sentiments.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-4"
+}

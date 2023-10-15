@@ -1,0 +1,7 @@
+```json
+{
+"message": "DendiFace gg",
+"reason": "The message 'DendiFace gg' is classified as toxic because it contains the term 'DendiFace' which is likely a derogatory or offensive term. The 'gg' at the end of the message could also be interpreted as a sarcastic or mocking remark, contributing to the toxic classification.",
+"predicted": "toxic"
+}
+```

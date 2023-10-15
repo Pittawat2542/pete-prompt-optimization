@@ -1,0 +1,7 @@
+```json
+{
+"message": "any way i can use my pubg on console on pc ? Dont got enough to get pubg on pc",
+"reason": "The message is a simple question and does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

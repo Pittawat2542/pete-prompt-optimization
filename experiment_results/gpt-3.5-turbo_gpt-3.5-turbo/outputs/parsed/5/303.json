@@ -1,0 +1,8 @@
+{
+  "message": "fuck this team",
+  "reason": "The message contains explicit language and is derogatory towards the team. This indicates a toxic category.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

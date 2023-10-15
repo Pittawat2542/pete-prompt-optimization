@@ -1,0 +1,39 @@
+Message: "I don't agree with your point of view."
+
+```json
+{
+"message": "I don't agree with your point of view.",
+"reason": "This message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser, can't believe you think that way."
+
+```json
+{
+"message": "You're such a loser, can't believe you think that way.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I think your idea could use some improvement."
+
+```json
+{
+"message": "I think your idea could use some improvement.",
+"reason": "This message is providing constructive criticism without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "Your idea is stupid and you're an idiot for thinking that."
+
+```json
+{
+"message": "Your idea is stupid and you're an idiot for thinking that.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+"predicted": "toxic"
+}
+```

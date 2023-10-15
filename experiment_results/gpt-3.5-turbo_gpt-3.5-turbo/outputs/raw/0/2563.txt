@@ -1,0 +1,7 @@
+```json
+{
+"message": "@hf_spinach happy thursday!!",
+"reason": "The message is positive and friendly, expressing happiness and wishing someone a happy Thursday.",
+"predicted": "clean"
+}
+```

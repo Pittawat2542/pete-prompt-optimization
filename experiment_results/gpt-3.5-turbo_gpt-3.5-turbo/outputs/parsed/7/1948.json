@@ -1,0 +1,8 @@
+{
+  "message": "rawryyLaugh @cinnova",
+  "reason": "The message does not contain any offensive or harmful language. It is a simple mention of another user in the online community.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Support always",
+  "reason": "The message is classified as 'clean' because it does not contain any toxic or offensive language. The model has consistently predicted it as 'clean' in the provided examples.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

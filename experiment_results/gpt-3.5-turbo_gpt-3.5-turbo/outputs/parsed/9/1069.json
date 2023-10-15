@@ -1,0 +1,8 @@
+{
+  "message": "The hell",
+  "reason": "The phrase 'The hell' can be interpreted as an expression of surprise or disbelief, but it does not contain any explicit toxic or offensive language. It is a relatively mild expression and does not seem to be intended to harm or insult anyone.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

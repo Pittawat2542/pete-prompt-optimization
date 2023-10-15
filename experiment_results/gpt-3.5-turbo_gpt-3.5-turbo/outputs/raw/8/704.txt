@@ -1,0 +1,7 @@
+```json
+{
+"message": "gg",
+"reason": "The text 'gg' is classified as clean because it does not contain any toxic or offensive language. The model has predicted it as clean with a high confidence score of 0.98.",
+"predicted": "clean"
+}
+```

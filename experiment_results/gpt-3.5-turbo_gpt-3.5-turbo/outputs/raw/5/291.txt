@@ -1,0 +1,7 @@
+```json
+{
+"message": "fuck",
+"reason": "The predicted category for the message 'fuck' is 'toxic'. The word 'fuck' is a profanity and is generally considered offensive and disrespectful. It is commonly used to express anger, frustration, or to insult someone. The presence of such explicit language indicates a toxic nature of the message.",
+"predicted": "toxic"
+}
+```

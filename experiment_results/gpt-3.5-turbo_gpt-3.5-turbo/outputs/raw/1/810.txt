@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Ur not an assassin if u donÕt one tap the adc",
+  "reason": "The message contains slang and abbreviations commonly used in online gaming communities. It also includes a statement that implies a certain skill level is required to be considered an assassin in the game. While the tone may come across as competitive or aggressive, it does not contain any explicit insults or offensive language.",
+  "predicted": "toxic"
+}
+```

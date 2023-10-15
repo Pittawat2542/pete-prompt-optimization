@@ -1,0 +1,8 @@
+{
+  "message": "Stupid net tbh",
+  "reason": "The message is classified as toxic because it contains a derogatory term ('stupid') which is likely to be offensive or insulting to others.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

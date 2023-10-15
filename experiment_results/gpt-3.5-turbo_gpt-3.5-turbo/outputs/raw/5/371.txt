@@ -1,0 +1,7 @@
+```json
+{
+"message": "thats shit",
+"reason": "The predicted category for the message 'thats shit' is 'toxic'. The word 'shit' is considered offensive and vulgar, which falls under the toxic category. The model has correctly identified this message as toxic based on the presence of this word.",
+"predicted": "toxic"
+}
+```

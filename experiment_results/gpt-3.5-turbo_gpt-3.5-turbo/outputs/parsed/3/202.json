@@ -1,0 +1,8 @@
+{
+  "message": "Quite the shit",
+  "reason": "The predicted category is 'toxic' because the word 'shit' is considered offensive and vulgar. The model has likely classified this message as toxic based on the presence of this word.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

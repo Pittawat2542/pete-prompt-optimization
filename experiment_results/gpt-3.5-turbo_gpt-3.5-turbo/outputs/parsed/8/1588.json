@@ -1,0 +1,8 @@
+{
+  "message": "PeepoWeen",
+  "reason": "The text does not contain any offensive or harmful language. It appears to be a term related to a holiday or event. The predicted category is 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

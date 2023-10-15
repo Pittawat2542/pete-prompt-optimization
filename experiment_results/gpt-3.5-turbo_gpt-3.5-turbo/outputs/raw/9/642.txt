@@ -1,0 +1,7 @@
+```json
+{
+"message": "Sooooo if u say u have a GF ur actually lying so 5head",
+"reason": "The message contains derogatory language and insults, such as 'lying' and '5head'. It is intended to belittle and mock someone for claiming to have a girlfriend. This falls under the 'toxic' category.",
+"predicted": "toxic"
+}
+```

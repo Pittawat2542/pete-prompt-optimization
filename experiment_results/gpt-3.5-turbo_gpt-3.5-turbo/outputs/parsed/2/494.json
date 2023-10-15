@@ -1,0 +1,8 @@
+{
+  "message": "@RisenEsportsNA Just doing the right thing @RisenEsportsNA.\n\nHowever, I better not catch you doing the same thing for your League of Legends team competing in @UpsurgeGG.",
+  "reason": "The message does not contain any offensive or harmful language. It seems to be a comment about someone doing the right thing and a warning about not doing the same thing for their League of Legends team. The tone of the message is neutral and does not exhibit any toxic behavior.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

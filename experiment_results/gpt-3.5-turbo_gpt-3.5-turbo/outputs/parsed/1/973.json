@@ -1,0 +1,8 @@
+{
+  "message": "holy shit PogU",
+  "reason": "The message contains a mild profanity ('shit'), but it is followed by the emote 'PogU', which is commonly used to express excitement or amazement in a positive way. The overall tone of the message seems to be positive and enthusiastic.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

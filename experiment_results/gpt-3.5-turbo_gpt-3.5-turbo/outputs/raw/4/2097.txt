@@ -1,0 +1,7 @@
+```json
+{
+"message": "My sens is irrelevant to you, do what's comfortable for you. Copying other people's sens won't make you good at the game, we have different length arms and grips and different resistance mousepads / mouse feet - some mouse sensors are even different.",
+"reason": "The message does not contain any offensive or harmful language. It encourages the reader to find their own comfort and acknowledges the differences in physical attributes and equipment that can affect gameplay. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

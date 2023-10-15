@@ -1,0 +1,7 @@
+```json
+{
+"message": "114 kills again? you're a legend",
+"reason": "The message is classified as clean because it contains positive sentiment and praise towards the person mentioned. The words 'legend' and 'again' indicate admiration and previous success, which are not indicative of toxic behavior.",
+"predicted": "clean"
+}
+```

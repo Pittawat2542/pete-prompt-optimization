@@ -1,0 +1,8 @@
+{
+  "message": "Hell no ew",
+  "reason": "The message contains negative language ('Hell no') and an expression of disgust ('ew'). These elements suggest a negative and potentially offensive tone, indicating that the message is toxic.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

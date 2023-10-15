@@ -1,0 +1,7 @@
+```json
+{
+"message": "i hate the camps, i always come out with shit loot",
+"reason": "The user is expressing frustration about a game. The language used is not offensive or harmful towards any individual or group.",
+"predicted": "clean",
+}
+```

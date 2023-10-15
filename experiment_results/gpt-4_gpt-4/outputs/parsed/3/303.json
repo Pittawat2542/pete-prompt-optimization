@@ -1,0 +1,8 @@
+{
+  "message": "fuck this team",
+  "reason": "The message includes offensive language directed towards a group.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-4"
+}

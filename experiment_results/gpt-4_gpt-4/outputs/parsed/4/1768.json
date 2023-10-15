@@ -1,0 +1,8 @@
+{
+  "message": "@melihozkiremitci cya",
+  "reason": "The message is a short form for 'see you', which is a common and polite way of saying goodbye. It does not contain any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

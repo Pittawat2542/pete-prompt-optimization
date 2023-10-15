@@ -1,0 +1,7 @@
+```json
+{
+"message": "@drsoils no need to be sorry, I liked it. LOL",
+"reason": "The message is positive and friendly, with no signs of toxicity or harmful intent.",
+"predicted": "clean"
+}
+```

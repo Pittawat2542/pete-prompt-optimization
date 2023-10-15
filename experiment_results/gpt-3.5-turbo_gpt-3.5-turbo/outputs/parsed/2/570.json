@@ -1,0 +1,8 @@
+{
+  "message": "you W'd there because you were anticipating flash 4Head",
+  "reason": "The message contains gaming jargon and a Twitch emote ('4Head'), which suggests that it is related to gaming culture. The use of 'W'd' and 'flash' indicates that the message is discussing a specific action or strategy in a game. This type of conversation is common in online gaming communities and does not appear to contain any toxic or offensive language.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

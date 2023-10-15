@@ -1,0 +1,7 @@
+```json
+{
+"message": "i like how you dont talk shit about your dick neighbour cause he prob gonna rewatch your stream",
+"reason": "The message contains offensive language ('talk shit') and derogatory terms ('dick'). This indicates a toxic tone and disrespectful behavior towards the neighbor.",
+"predicted": "toxic"
+}
+```

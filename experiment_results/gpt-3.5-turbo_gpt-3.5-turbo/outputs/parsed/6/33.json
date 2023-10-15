@@ -1,0 +1,8 @@
+{
+  "message": "well\na champ remains in the game forever so",
+  "reason": "The message does not contain any offensive or harmful language. It is a positive statement about a champion remaining in the game forever.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

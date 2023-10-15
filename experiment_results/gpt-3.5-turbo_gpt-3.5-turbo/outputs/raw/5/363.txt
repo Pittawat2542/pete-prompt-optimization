@@ -1,0 +1,7 @@
+```json
+{
+"message": "this game is annoying as fuck",
+"reason": "The message contains strong profanity ('fuck'), which is indicative of toxic language. The use of such language suggests a negative sentiment and can be considered offensive or disrespectful. Therefore, the message is classified as toxic.",
+"predicted": "toxic"
+}
+```

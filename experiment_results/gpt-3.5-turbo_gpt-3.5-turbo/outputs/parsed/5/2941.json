@@ -1,0 +1,8 @@
+{
+  "message": "wtffffffffffffff",
+  "reason": "The message contains a string of repeated characters, which is often associated with frustration or anger. This repetitive and exaggerated expression suggests a negative tone, indicating that the message is toxic.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

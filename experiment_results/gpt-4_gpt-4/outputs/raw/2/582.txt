@@ -1,0 +1,39 @@
+Message: "You're so stupid, can't you do anything right?"
+
+```json
+{
+"message": "You're so stupid, can't you do anything right?",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I disagree with your point of view."
+
+```json
+{
+"message": "I disagree with your point of view.",
+"reason": "This message is clean as it expresses a differing opinion in a respectful manner.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser, no one likes you."
+
+```json
+{
+"message": "You're such a loser, no one likes you.",
+"reason": "This message is considered toxic due to its use of derogatory language and personal attack.",
+"predicted": "toxic"
+}
+```
+
+Message: "Thank you for your help."
+
+```json
+{
+"message": "Thank you for your help.",
+"reason": "This message is clean as it expresses gratitude in a polite manner.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "fiesta fiesta pluma pluma gay",
+"reason": "The message is in Spanish and translates to 'party party feather feather gay'. It doesn't contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

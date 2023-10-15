@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Arm E D",
+  "reason": "The message contains a short phrase that does not provide enough context to accurately classify it. It could be interpreted as a harmless statement or a potentially toxic one depending on the context. Without further information, it is difficult to determine the intended meaning.",
+  "predicted": "clean"
+}
+```

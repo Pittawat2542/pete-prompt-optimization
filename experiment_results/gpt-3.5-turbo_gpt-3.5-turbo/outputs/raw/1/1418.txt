@@ -1,0 +1,7 @@
+```json
+{
+  "message": "ooo we get a chickirhinooooo",
+  "reason": "The message does not contain any offensive or harmful language. It appears to be a playful expression or excitement about something.",
+  "predicted": "clean"
+}
+```

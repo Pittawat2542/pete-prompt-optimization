@@ -1,0 +1,8 @@
+{
+  "message": "I suck at all but at least I dont die in the beginning smfh",
+  "reason": "The message contains negative language and self-deprecating remarks, indicating a negative sentiment. The use of the word 'suck' and the abbreviation 'smfh' (shaking my f***ing head) contribute to the toxic tone of the message.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

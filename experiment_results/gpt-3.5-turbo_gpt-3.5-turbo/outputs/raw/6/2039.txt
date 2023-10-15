@@ -1,0 +1,7 @@
+```json
+{
+"message": "XD I am gonna get that catch-phrased I promise Tig lol",
+"reason": "The message is classified as 'clean' because it contains positive and playful language ('XD', 'lol') without any offensive or harmful content. The use of phrases like 'I am gonna get that catch-phrased' and 'I promise Tig' suggests a lighthearted and friendly tone.",
+"predicted": "clean"
+}
+```

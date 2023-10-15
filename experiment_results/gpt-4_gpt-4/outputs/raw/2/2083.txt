@@ -1,0 +1,39 @@
+Message: "You're such a loser, can't even play the game right."
+
+```json
+{
+"message": "You're such a loser, can't even play the game right.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I think you made a mistake in your calculation."
+
+```json
+{
+"message": "I think you made a mistake in your calculation.",
+"reason": "This message is clean as it is providing constructive feedback without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're so stupid, can't even understand a simple thing."
+
+```json
+{
+"message": "You're so stupid, can't even understand a simple thing.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I appreciate your help with the project."
+
+```json
+{
+"message": "I appreciate your help with the project.",
+"reason": "This message is clean as it expresses gratitude without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

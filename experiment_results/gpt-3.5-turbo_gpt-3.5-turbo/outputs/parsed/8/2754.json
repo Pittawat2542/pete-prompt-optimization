@@ -1,0 +1,8 @@
+{
+  "message": "too E Z",
+  "reason": "The text is classified as toxic because it contains a derogatory term. The model has correctly identified it as toxic based on the prediction result, which shows a high probability for the toxic category.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "Ur not an assassin if u donÕt one tap the adc",
+"reason": "The message contains slang and abbreviations commonly used in online gaming communities. The phrase 'one tap the adc' refers to quickly eliminating the enemy adc (attack damage carry) in a game. While the message may sound aggressive, it is not explicitly offensive or harmful. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "70 mana for that shit",
+  "reason": "The message uses a vulgar term which can be considered as offensive language.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

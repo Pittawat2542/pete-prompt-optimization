@@ -1,0 +1,7 @@
+```json
+{
+"message": "PogChamp PogChamp PogChamp",
+"reason": "The message contains no offensive language, slurs, personal attacks, or violent threats. 'PogChamp' is a term used in online gaming communities to express excitement or hype.",
+"predicted": "clean"
+}
+```

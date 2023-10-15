@@ -1,0 +1,8 @@
+{
+  "message": "PLAY SOME NIGHTCORE WEEB SHIT",
+  "reason": "The message contains derogatory language ('shit') and a term ('weeb') that is often used to insult or mock individuals with an interest in Japanese culture. This indicates a disrespectful and potentially toxic attitude.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

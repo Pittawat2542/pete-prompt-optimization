@@ -1,0 +1,7 @@
+```json
+{
+  "message": "LUL LUL LUL LUL LUL LUL LUL LUL",
+  "reason": "The message consists of repeated instances of 'LUL', which is an abbreviation for 'laugh out loud'. This indicates that the message is meant to express amusement or laughter, and does not contain any offensive or harmful content.",
+  "predicted": "clean"
+}
+```

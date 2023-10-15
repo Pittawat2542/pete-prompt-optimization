@@ -1,0 +1,9 @@
+Message: I'm really sorry, but I can't help you with that.
+
+```json
+{
+"message": "I'm really sorry, but I can't help you with that.",
+"reason": "The message is polite and respectful, even though it delivers a negative response.",
+"predicted": "clean"
+}
+```

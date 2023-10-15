@@ -1,0 +1,8 @@
+{
+  "message": "damnnn",
+  "reason": "The message is classified as toxic because it contains an excessive number of 'n' characters. The model has likely learned that repeating characters in this manner is often associated with toxic or aggressive language.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

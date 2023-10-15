@@ -1,0 +1,9 @@
+Message: I think you're really talented!
+
+```json
+{
+"message": "I think you're really talented!",
+"reason": "The message carries a positive sentiment and does not contain any offensive language.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "expose yourself",
+  "reason": "This message can be interpreted as a request for inappropriate or private information, which is disrespectful and potentially harmful.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

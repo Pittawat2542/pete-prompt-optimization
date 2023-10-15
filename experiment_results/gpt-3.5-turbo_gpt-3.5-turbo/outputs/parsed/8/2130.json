@@ -1,0 +1,8 @@
+{
+  "message": "tgl3Head",
+  "reason": "The text 'tgl3Head' does not provide enough information to determine its category. It does not contain any explicit toxic or offensive language, and there is no context provided to make an informed classification.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

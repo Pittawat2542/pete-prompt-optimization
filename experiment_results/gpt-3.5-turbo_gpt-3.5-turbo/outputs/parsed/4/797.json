@@ -1,0 +1,8 @@
+{
+  "message": "Pepega",
+  "reason": "The text falls into the 'toxic' category because the 'Prediction result' section shows that the model has a high confidence score for the 'toxic' category. Additionally, the word 'Pepega' is often used as an emote in online communities to mock or insult someone, which indicates a toxic tone.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

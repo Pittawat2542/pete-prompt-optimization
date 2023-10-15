@@ -1,0 +1,7 @@
+```json
+{
+"message": "tgl3Head",
+"reason": "The message 'tgl3Head' does not provide any context or content that can be classified as toxic or clean. It appears to be a random string of characters with no discernible meaning or intent.",
+"predicted": "clean"
+}
+```

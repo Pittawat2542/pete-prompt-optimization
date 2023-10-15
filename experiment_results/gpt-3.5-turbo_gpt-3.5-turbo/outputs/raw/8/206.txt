@@ -1,0 +1,7 @@
+```json
+{
+"message": "THIS GAME MIGHT AS WELL RESET MY FUCKING LP TO 0",
+"reason": "The text contains strong profanity ('FUCKING') which is likely to be classified as toxic.",
+"predicted": "toxic"
+}
+```

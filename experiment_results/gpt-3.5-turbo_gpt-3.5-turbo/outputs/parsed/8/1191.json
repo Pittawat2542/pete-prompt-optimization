@@ -1,0 +1,8 @@
+{
+  "message": "Still waitin for update on xbox I'm buying on pc next week annoyed lol",
+  "reason": "The text is classified as 'clean' because it does not contain any offensive or toxic language. Although the user expresses annoyance, there is no explicit aggression or harmful intent in the message.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

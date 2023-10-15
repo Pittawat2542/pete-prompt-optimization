@@ -1,0 +1,7 @@
+```json
+{
+"message": "yes ionians are fun as fuck",
+"reason": "The message contains obscene language, but it is not directed towards anyone or used in a derogatory manner. It is expressing a positive sentiment towards 'ionians'.",
+"predicted": "clean"
+}
+```

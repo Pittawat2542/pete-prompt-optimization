@@ -1,0 +1,9 @@
+Message: I'm really sorry to hear about your loss. My deepest condolences to you and your family.
+
+```json
+{
+"message": "I'm really sorry to hear about your loss. My deepest condolences to you and your family.",
+"reason": "The message is expressing sympathy and condolences, and does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

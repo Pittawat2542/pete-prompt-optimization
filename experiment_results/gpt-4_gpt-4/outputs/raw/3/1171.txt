@@ -1,0 +1,7 @@
+```json
+{
+"message": "When is ps4 and xbox pts server finished? What date and time (uk) please? Thanks",
+"reason": "The message is a polite request for information and includes a thank you. There is no offensive or disrespectful language used.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "too E Z",
+  "reason": "The message contains a common toxic phrase 'E Z', which is often used to taunt or belittle others. This phrase is frequently associated with toxic behavior in online communities.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

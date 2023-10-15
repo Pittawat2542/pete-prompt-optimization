@@ -1,0 +1,8 @@
+{
+  "message": "ewqawertqerqawertesaqweewtqa",
+  "reason": "The message consists of random characters and does not contain any meaningful words or context. It does not exhibit any toxic behavior or offensive language.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

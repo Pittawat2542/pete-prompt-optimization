@@ -1,0 +1,8 @@
+{
+  "message": "Nt",
+  "reason": "The message 'Nt' does not provide enough context to accurately classify it as toxic or clean. Additional information is needed to make a determination.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

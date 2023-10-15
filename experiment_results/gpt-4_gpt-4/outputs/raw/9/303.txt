@@ -1,0 +1,9 @@
+Message: I think we should reconsider our approach.
+
+```json
+{
+"message": "I think we should reconsider our approach.",
+"reason": "The message is polite and respectful, suggesting a change in strategy without using any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

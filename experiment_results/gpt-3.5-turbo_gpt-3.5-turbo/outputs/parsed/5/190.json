@@ -1,0 +1,8 @@
+{
+  "message": "I see HoB more",
+  "reason": "The message does not contain any offensive or harmful language. It appears to be a neutral statement expressing the author's observation or preference. Therefore, it can be classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "4X m249 op on sanhok",
+"reason": "The text does not contain any offensive or harmful language, and it does not seem to be targeting or attacking anyone. It appears to be a discussion about a specific weapon and its effectiveness on the Sanhok map in an online gaming community.",
+"predicted": "clean"
+}
+```

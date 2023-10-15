@@ -1,0 +1,7 @@
+```json
+{
+  "message": "PogChamp PogChamp PogChamp",
+  "reason": "The message consists of repeated use of the term 'PogChamp'.",
+  "predicted": "clean"
+}
+```

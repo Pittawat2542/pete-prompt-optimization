@@ -1,0 +1,8 @@
+{
+  "message": "HOLY SHIT karthus busted KEKW",
+  "reason": "The use of profanity and the phrase 'HOLY SHIT' suggests a toxic tone. Additionally, the term 'busted' implies a negative connotation towards the character Karthus. The use of the emote 'KEKW' may also indicate a sarcastic or mocking tone.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

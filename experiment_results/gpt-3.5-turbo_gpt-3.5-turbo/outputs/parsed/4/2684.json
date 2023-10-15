@@ -1,0 +1,8 @@
+{
+  "message": "!gift @shanabana",
+  "reason": "The message does not contain any toxic or offensive language. It is a simple command to gift something to the user @shanabana.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

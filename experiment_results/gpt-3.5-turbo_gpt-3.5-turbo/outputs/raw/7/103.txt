@@ -1,0 +1,7 @@
+```json
+{
+"message": "Just due to their sheer kits and presence they have",
+"reason": "The message does not contain any offensive or harmful language. It seems to be discussing the appearance or qualities of something or someone. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

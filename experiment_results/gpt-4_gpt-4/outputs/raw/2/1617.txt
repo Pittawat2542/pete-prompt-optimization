@@ -1,0 +1,39 @@
+Message: "You're such a loser, can't do anything right."
+
+```json
+{
+"message": "You're such a loser, can't do anything right.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I hope you have a great day!"
+
+```json
+{
+"message": "I hope you have a great day!",
+"reason": "This message is clean as it contains no offensive language and conveys a positive sentiment.",
+"predicted": "clean"
+}
+```
+
+Message: "All women are terrible drivers."
+
+```json
+{
+"message": "All women are terrible drivers.",
+"reason": "This message is considered toxic due to its sexist language and generalization about a specific gender.",
+"predicted": "toxic"
+}
+```
+
+Message: "Can anyone help me with this math problem?"
+
+```json
+{
+"message": "Can anyone help me with this math problem?",
+"reason": "This message is clean as it is a polite request for help with no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

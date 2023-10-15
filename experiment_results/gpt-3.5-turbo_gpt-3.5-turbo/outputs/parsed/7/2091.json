@@ -1,0 +1,8 @@
+{
+  "message": "ahhh gotcha",
+  "reason": "The message does not contain any offensive or toxic language. It is a simple expression of understanding or realization.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

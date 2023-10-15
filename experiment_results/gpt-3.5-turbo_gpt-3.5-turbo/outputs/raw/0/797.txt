@@ -1,0 +1,7 @@
+```json
+{
+"message": "Pepega",
+"reason": "The message consists of a single word that does not provide any context or information. It is a popular emote in Twitch chat, often used to mock or make fun of someone. However, without any additional context, it is difficult to determine if the message is intended to be toxic or not.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+  "message": "I suck at all but at least I dont die in the beginning smfh",
+  "reason": "The message contains self-deprecating language ('I suck at all') but also includes a positive aspect ('at least I dont die in the beginning'). The abbreviation 'smfh' indicates frustration or annoyance. However, overall, the message does not contain any explicit offensive or harmful language.",
+  "predicted": "clean"
+}
+```

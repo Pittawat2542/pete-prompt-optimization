@@ -1,0 +1,8 @@
+{
+  "message": "bruh what the fuck is this match making",
+  "reason": "The message contains offensive language ('fuck') which is indicative of a toxic category.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

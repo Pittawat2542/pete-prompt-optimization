@@ -1,0 +1,8 @@
+{
+  "message": "danucdPotato LUL",
+  "reason": "The message contains the word 'Potato' which is not offensive or harmful. The 'LUL' at the end indicates laughter, suggesting a positive and non-toxic tone.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

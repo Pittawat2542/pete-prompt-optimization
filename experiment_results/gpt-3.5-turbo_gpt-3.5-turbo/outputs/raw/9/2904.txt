@@ -1,0 +1,7 @@
+```json
+{
+"message": "its banana its banana",
+"reason": "The message contains repetitive and nonsensical content, which is characteristic of toxic behavior.",
+"predicted": "toxic"
+}
+```

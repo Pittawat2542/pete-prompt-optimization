@@ -1,0 +1,39 @@
+Message: "You're such a loser! Can't believe you're still playing this game."
+
+```json
+{
+"message": "You're such a loser! Can't believe you're still playing this game.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards the recipient.",
+"predicted": "toxic"
+}
+```
+
+Message: "Hey, I noticed you're new here. Welcome to the community!"
+
+```json
+{
+"message": "Hey, I noticed you're new here. Welcome to the community!",
+"reason": "This message is clean as it contains no offensive language and conveys a welcoming sentiment.",
+"predicted": "clean"
+}
+```
+
+Message: "Your gameplay is so pathetic. You should just quit."
+
+```json
+{
+"message": "Your gameplay is so pathetic. You should just quit.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative sentiment towards the recipient's gameplay.",
+"predicted": "toxic"
+}
+```
+
+Message: "Great job on the last match! You were amazing."
+
+```json
+{
+"message": "Great job on the last match! You were amazing.",
+"reason": "This message is clean as it contains no offensive language and conveys a positive sentiment.",
+"predicted": "clean"
+}
+```

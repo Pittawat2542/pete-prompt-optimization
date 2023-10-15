@@ -1,0 +1,7 @@
+```json
+{
+"message": "tglGG",
+"reason": "The message 'tglGG' does not provide enough context to accurately classify it as toxic or clean. Additional information is needed to determine the category.",
+"predicted": "unknown"
+}
+```

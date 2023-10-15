@@ -1,0 +1,8 @@
+{
+  "message": "u succ LUL",
+  "reason": "The message uses disrespectful language, 'u succ', which is a derogatory term implying that the person is a failure or not good at something.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

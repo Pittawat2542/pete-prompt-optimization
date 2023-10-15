@@ -1,0 +1,8 @@
+{
+  "message": "bruh what the fuck is this match making",
+  "reason": "The message contains explicit language which can be considered as offensive or inappropriate in a community setting.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

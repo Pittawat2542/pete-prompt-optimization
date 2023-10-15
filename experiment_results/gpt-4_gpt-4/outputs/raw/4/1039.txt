@@ -1,0 +1,7 @@
+```json
+{
+"message": "emojis here suck tbh",
+"reason": "The message contains negative language expressing dissatisfaction with the emojis on the platform. However, it does not attack or disrespect any individual or group, and does not contain obscene language or hate speech.",
+"predicted": "clean"
+}
+```

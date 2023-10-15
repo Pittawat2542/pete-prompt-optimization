@@ -1,0 +1,8 @@
+{
+  "message": "the fuck you talking about brother?",
+  "reason": "The message contains offensive language ('fuck') which is indicative of toxic behavior.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

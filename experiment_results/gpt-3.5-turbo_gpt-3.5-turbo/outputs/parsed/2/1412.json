@@ -1,0 +1,8 @@
+{
+  "message": "@HamitCanKilic why i cant donate without login in with my fb or soemthing",
+  "reason": "The message is clean because it does not contain any offensive or harmful language. It is a simple question about the functionality of the platform.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "> cod is crap which one?",
+  "reason": "The text contains negative sentiment and derogatory language, indicating a toxic category.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

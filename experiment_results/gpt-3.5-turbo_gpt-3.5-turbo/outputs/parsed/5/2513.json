@@ -1,0 +1,8 @@
+{
+  "message": "winking_face:",
+  "reason": "The message 'winking_face:' is a clean message. It is a simple emoji representation of a winking face. Emojis are generally considered harmless and do not contain any toxic or offensive content.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

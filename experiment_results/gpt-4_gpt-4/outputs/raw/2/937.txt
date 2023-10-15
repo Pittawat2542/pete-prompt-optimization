@@ -1,0 +1,39 @@
+Message: "I think you're wrong about that. Here's why..."
+
+```json
+{
+"message": "I think you're wrong about that. Here's why...",
+"reason": "This message is considered clean as it expresses a disagreement in a respectful and polite manner.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser. Can't believe you messed up again."
+
+```json
+{
+"message": "You're such a loser. Can't believe you messed up again.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative tone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I don't agree with your point of view, but I respect your right to have it."
+
+```json
+{
+"message": "I don't agree with your point of view, but I respect your right to have it.",
+"reason": "This message is considered clean as it expresses disagreement in a respectful and polite manner.",
+"predicted": "clean"
+}
+```
+
+Message: "You're a disgrace to the team. You should quit."
+
+```json
+{
+"message": "You're a disgrace to the team. You should quit.",
+"reason": "This message is considered toxic due to its use of disrespectful language and negative tone.",
+"predicted": "toxic"
+}
+```

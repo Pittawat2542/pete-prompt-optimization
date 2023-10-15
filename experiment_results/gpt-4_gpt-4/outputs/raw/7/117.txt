@@ -1,0 +1,7 @@
+```json
+{
+"message": "TOP 0.1% popularity 33.3% win rate",
+"reason": "The message is a factual statement about game statistics and does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

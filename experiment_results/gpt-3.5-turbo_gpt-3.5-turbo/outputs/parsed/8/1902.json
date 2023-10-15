@@ -1,0 +1,8 @@
+{
+  "message": "A giveaway for: game has started! Subscribers can Join!",
+  "reason": "The text is classified as 'clean' because it does not contain any toxic or offensive language. The model has predicted it as 'clean' with a high confidence score of 0.987.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

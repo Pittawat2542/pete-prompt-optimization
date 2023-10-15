@@ -1,0 +1,7 @@
+```json
+{
+"message": "MsRoselyn nairidHerz nairidHerz danucdHi parunaHi",
+"reason": "The message does not contain any offensive or harmful language. It appears to be a series of usernames or greetings, which does not violate any community guidelines.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,9 @@
+Message: I can't believe you did that. You're such a jerk!
+
+```json
+{
+"message": "I can't believe you did that. You're such a jerk!",
+"reason": "The message contains disrespectful language and negative sentiment.",
+"predicted": "toxic"
+}
+```

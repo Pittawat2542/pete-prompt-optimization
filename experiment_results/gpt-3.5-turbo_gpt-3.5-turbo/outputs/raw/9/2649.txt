@@ -1,0 +1,7 @@
+```json
+{
+"message": "doooooo it",
+"reason": "The message consists of repeated characters, which is a common characteristic of toxic messages. The repeated characters can be seen as aggressive or confrontational, indicating a potentially toxic intent.",
+"predicted": "toxic"
+}
+```

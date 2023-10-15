@@ -1,0 +1,7 @@
+```json
+{
+"message": "4X m249 op on sanhok",
+"reason": "The message does not contain any offensive or harmful language, and it does not seem to be intended to insult or attack anyone. It appears to be a discussion about a specific weapon and its effectiveness in the game Sanhok.",
+"predicted": "clean"
+}
+```

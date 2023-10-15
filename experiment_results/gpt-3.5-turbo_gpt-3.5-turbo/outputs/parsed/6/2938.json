@@ -1,0 +1,8 @@
+{
+  "message": "@RuralBiscuits damn - i knew it!",
+  "reason": "The message contains a profanity ('damn'), which is considered toxic language.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

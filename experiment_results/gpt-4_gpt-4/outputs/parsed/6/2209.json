@@ -1,0 +1,8 @@
+{
+  "message": "I think you're mistaken. The data you provided doesn't match with the official records.",
+  "reason": "The message is polite and respectful, even though it is pointing out a mistake. There is no offensive or disrespectful language used.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

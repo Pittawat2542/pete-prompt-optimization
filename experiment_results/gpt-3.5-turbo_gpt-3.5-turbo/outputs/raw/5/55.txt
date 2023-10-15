@@ -1,0 +1,7 @@
+```json
+{
+"message": "just dont care",
+"reason": "The message 'just dont care' does not contain any explicit toxic language or harmful content. It appears to be a neutral statement expressing indifference or lack of concern. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

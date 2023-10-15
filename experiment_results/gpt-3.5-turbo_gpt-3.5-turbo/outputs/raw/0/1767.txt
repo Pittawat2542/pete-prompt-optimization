@@ -1,0 +1,7 @@
+```json
+{
+  "message": "is G fuel good",
+  "reason": "The message is asking for opinions about a product.",
+  "predicted": "clean"
+}
+```

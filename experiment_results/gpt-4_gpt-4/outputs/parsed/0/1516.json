@@ -1,0 +1,8 @@
+{
+  "message": "!hs",
+  "reason": "The message is not offensive, harmful, or inappropriate. It seems to be a command or a code, not a toxic message.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

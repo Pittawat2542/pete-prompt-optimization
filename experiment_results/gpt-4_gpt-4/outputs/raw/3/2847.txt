@@ -1,0 +1,7 @@
+```json
+{
+"message": "Shootin the shit smokin sum herb",
+"reason": "The message contains slang and informal language, but it does not include any offensive, impolite, or disrespectful tones or language.",
+"predicted": "clean"
+}
+```

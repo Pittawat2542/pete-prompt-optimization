@@ -1,0 +1,8 @@
+{
+  "message": "Its my stupid earphones",
+  "reason": "The message does not contain any offensive or harmful language. It is a simple statement expressing frustration with the earphones.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

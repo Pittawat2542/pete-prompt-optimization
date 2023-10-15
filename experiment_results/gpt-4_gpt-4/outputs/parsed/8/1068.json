@@ -1,0 +1,8 @@
+{
+  "message": "I think your idea is not practical. It's better to consider other options.",
+  "reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

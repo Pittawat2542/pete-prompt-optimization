@@ -1,0 +1,39 @@
+Message: "You're such a loser. You can't do anything right."
+
+```json
+{
+"message": "You're such a loser. You can't do anything right.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I really appreciate your help on this project."
+
+```json
+{
+"message": "I really appreciate your help on this project.",
+"reason": "This message is polite and expresses gratitude, hence it is considered clean.",
+"predicted": "clean"
+}
+```
+
+Message: "I can't believe you're so stupid to think that."
+
+```json
+{
+"message": "I can't believe you're so stupid to think that.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "Thank you for your feedback. I will take it into consideration."
+
+```json
+{
+"message": "Thank you for your feedback. I will take it into consideration.",
+"reason": "This message is polite and respectful, hence it is considered clean.",
+"predicted": "clean"
+}
+```

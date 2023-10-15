@@ -1,0 +1,8 @@
+{
+  "message": "guys where to watch ??",
+  "reason": "The text is a simple question asking for information. It does not contain any offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "EZ GG",
+"reason": "The message is a common phrase used in online gaming, meaning 'easy good game'. It does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

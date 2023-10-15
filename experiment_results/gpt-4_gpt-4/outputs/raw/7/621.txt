@@ -1,0 +1,7 @@
+```json
+{
+"message": "PepeLaugh",
+"reason": "The message is a reference to a popular internet meme and does not contain any offensive, rude, abusive or disrespectful language or sentiments.",
+"predicted": "clean"
+}
+```

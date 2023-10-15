@@ -1,0 +1,7 @@
+```json
+{
+"message": "tgl3Head",
+"reason": "The message 'tgl3Head' does not provide enough information to determine its category. It appears to be a random string of characters and does not contain any meaningful content.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+  "message": "@ty_gets_rekt eleven10Gooba eleven10Gooba eleven10Gooba",
+  "reason": "The message contains repetitive and nonsensical text, which does not contribute to the conversation. This behavior is often associated with spam or trolling, which can be considered toxic in an online community.",
+  "predicted": "toxic"
+}
+```

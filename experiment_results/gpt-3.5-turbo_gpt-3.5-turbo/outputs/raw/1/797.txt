@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Pepega",
+  "reason": "The message consists of a single word, 'Pepega', which is a popular emote used in Twitch chat. It is not inherently toxic or offensive, but rather a playful way to express sarcasm or mock someone. Therefore, the message can be classified as clean.",
+  "predicted": "clean"
+}
+```

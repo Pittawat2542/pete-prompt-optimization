@@ -1,0 +1,7 @@
+```json
+{
+"message": "Greetings from New Orleans",
+"reason": "The message is classified as clean because it does not contain any toxic or offensive language. The predicted category is based on the model's analysis of the text and its comparison to the training data.",
+"predicted": "clean"
+}
+```

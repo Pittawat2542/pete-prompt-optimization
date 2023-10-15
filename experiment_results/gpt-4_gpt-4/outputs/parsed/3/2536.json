@@ -1,0 +1,8 @@
+{
+  "message": "!hype",
+  "reason": "The message does not contain any offensive, impolite, or disrespectful language. It seems to be a positive expression or a command in a game or live stream.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-4"
+}

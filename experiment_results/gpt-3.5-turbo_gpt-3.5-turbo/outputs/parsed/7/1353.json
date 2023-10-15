@@ -1,0 +1,8 @@
+{
+  "message": "@xDEEDAN bot danucdDanu2",
+  "reason": "The message does not contain any offensive or harmful language. It appears to be a mention or reference to a bot or user named 'danucdDanu2'.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

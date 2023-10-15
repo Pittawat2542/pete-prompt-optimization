@@ -1,0 +1,8 @@
+{
+  "message": "love how i cant win even with me playing well",
+  "reason": "The message expresses frustration and disappointment, but it does not contain any explicit toxic or offensive language. It seems to be a complaint about not being able to win despite playing well.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

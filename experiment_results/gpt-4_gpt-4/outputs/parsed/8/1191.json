@@ -1,0 +1,8 @@
+{
+  "message": "I think your idea is stupid and you should feel bad.",
+  "reason": "The message contains disrespectful language and negative sentiment towards another person's idea.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

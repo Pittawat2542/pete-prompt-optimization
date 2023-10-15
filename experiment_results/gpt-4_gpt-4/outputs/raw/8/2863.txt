@@ -1,0 +1,9 @@
+Message: I think this is a great idea! Let's do it.
+
+```json
+{
+"message": "I think this is a great idea! Let's do it.",
+"reason": "The message is positive and supportive, with no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "laners dying even with vision ðŸ¤¡",
+"reason": "The message is expressing frustration about a situation in a game, but it does not contain offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

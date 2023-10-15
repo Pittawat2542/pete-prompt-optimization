@@ -1,0 +1,39 @@
+Message: "You're such a loser, can't even play the game right."
+
+```json
+{
+"message": "You're such a loser, can't even play the game right.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I really enjoyed the game, looking forward to the next update."
+
+```json
+{
+"message": "I really enjoyed the game, looking forward to the next update.",
+"reason": "This message is positive and respectful, expressing enjoyment and anticipation for future updates.",
+"predicted": "clean"
+}
+```
+
+Message: "Why are you even here? You contribute nothing."
+
+```json
+{
+"message": "Why are you even here? You contribute nothing.",
+"reason": "This message is considered toxic due to its disrespectful and aggressive tone, implying that the recipient is worthless.",
+"predicted": "toxic"
+}
+```
+
+Message: "Great job on the project, your hard work really paid off."
+
+```json
+{
+"message": "Great job on the project, your hard work really paid off.",
+"reason": "This message is positive and respectful, acknowledging someone's hard work and success.",
+"predicted": "clean"
+}
+```

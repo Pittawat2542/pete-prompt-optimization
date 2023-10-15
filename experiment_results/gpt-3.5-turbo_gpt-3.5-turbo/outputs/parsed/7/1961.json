@@ -1,0 +1,8 @@
+{
+  "message": "!subs",
+  "reason": "The message '!subs' is classified as 'clean' because it does not contain any toxic or offensive language. It appears to be a request for information or a command related to subscriptions.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

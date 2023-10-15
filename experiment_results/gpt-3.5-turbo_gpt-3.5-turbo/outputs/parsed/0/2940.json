@@ -1,0 +1,8 @@
+{
+  "message": "damnnn",
+  "reason": "The message contains slang and repeated letters, which can be interpreted as expressing excitement or surprise. However, without further context, it is difficult to determine the exact intention behind the message.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

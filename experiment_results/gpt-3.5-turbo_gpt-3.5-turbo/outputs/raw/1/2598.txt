@@ -1,0 +1,7 @@
+```json
+{
+  "message": "as an OG pubg player who has taken like 6 months off, the sounds are wack to get used too.",
+  "reason": "The message does not contain any offensive or harmful language. It is a statement expressing the speaker's opinion about the sounds in the game. Although the word 'wack' can be seen as negative, it is not used in a toxic or offensive manner.",
+  "predicted": "clean"
+}
+```

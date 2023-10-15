@@ -1,0 +1,7 @@
+```json
+{
+"message": "!subs",
+"reason": "The message '!subs' is classified as a clean category. The word '!subs' does not contain any toxic or offensive language. It is likely a request for subscriptions or subscribers in an online community.",
+"predicted": "clean"
+}
+```

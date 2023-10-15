@@ -1,0 +1,7 @@
+```json
+{
+"message": "Hes deceptilvely tanky and does not give a hairy rats ass about CC.",
+"reason": "The message contains some strong language and negative sentiment, indicating a potentially toxic tone. The phrase 'does not give a hairy rats ass about CC' suggests a dismissive and disrespectful attitude towards others, which is characteristic of toxic behavior.",
+"predicted": "toxic"
+}
+```

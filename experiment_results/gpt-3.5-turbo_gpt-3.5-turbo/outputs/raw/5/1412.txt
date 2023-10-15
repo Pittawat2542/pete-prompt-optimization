@@ -1,0 +1,7 @@
+```json
+{
+"message": "@HamitCanKilic why i cant donate without login in with my fb or soemthing",
+"reason": "The message is classified as clean because it does not contain any offensive or harmful language. The user is simply asking a question about why they are unable to donate without logging in with their Facebook account or something similar. The message does not display any toxic behavior or intent.",
+"predicted": "clean"
+}
+```

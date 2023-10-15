@@ -1,0 +1,8 @@
+{
+  "message": "that harvesting shit mythic with gragas is insane tbh",
+  "reason": "The text does not contain any explicit or offensive language. It is a positive statement expressing admiration for a gameplay strategy.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

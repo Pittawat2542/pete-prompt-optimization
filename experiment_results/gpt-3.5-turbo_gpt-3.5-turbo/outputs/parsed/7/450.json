@@ -1,0 +1,8 @@
+{
+  "message": "sucks ass",
+  "reason": "The message contains offensive language, specifically the phrase 'sucks ass', which is derogatory and disrespectful. This falls under the 'toxic' category.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

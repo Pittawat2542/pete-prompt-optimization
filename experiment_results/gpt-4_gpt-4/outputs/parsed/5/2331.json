@@ -1,0 +1,8 @@
+{
+  "message": "Scrims at 1900 CET to be streamed at (stream: tba)",
+  "reason": "The message is providing information about an event and does not contain any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

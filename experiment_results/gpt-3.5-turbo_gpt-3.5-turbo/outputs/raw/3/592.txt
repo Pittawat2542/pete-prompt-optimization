@@ -1,0 +1,7 @@
+```json
+{
+"message": "DD",
+"reason": "The predicted category is not provided in the 'Prediction result' section.",
+"predicted": "unknown"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "JESUS CHRIST",
+  "reason": "The message is not offensive, rude, or disrespectful. It does not contain any personal attacks, obscene language, or hate speech.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

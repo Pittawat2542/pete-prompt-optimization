@@ -1,0 +1,7 @@
+```json
+{
+"message": "get out rogue",
+"reason": "The message contains a negative or hostile tone, which can be interpreted as an attempt to exclude or expel someone from the conversation.",
+"predicted": "toxic",
+}
+```

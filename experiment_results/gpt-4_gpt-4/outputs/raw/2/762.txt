@@ -1,0 +1,39 @@
+Message: "I think your idea is really great. It's innovative and unique."
+
+```json
+{
+"message": "I think your idea is really great. It's innovative and unique.",
+"reason": "This message is polite and respectful, expressing positive sentiment towards someone's idea.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser, can't do anything right."
+
+```json
+{
+"message": "You're such a loser, can't do anything right.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I disagree with your point, but I respect your opinion."
+
+```json
+{
+"message": "I disagree with your point, but I respect your opinion.",
+"reason": "This message is clean as it expresses disagreement in a respectful manner.",
+"predicted": "clean"
+}
+```
+
+Message: "You're so stupid, can't understand a simple thing."
+
+```json
+{
+"message": "You're so stupid, can't understand a simple thing.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "I'm sorry, but I don't think that's correct. Could you please check again?",
+  "reason": "The message is polite and respectful, expressing disagreement without using any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

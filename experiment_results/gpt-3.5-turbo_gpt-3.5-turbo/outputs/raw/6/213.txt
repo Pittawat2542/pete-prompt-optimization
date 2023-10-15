@@ -1,0 +1,7 @@
+```json
+{
+"message": "WHAT THE FUCKING FUCK IS THIS FUCKING RECALL ANIMATION",
+"reason": "The message contains offensive language and is highly aggressive in tone, indicating a toxic category.",
+"predicted": "toxic"
+}
+```

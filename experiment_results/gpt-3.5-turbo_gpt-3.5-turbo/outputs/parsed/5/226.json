@@ -1,0 +1,8 @@
+{
+  "message": "which is dumb as fuck lmao",
+  "reason": "The message contains offensive language ('dumb as fuck') which is derogatory and disrespectful. This indicates a toxic category.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

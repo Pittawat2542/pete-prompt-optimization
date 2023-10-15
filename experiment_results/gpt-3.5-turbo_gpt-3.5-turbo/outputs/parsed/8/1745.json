@@ -1,0 +1,8 @@
+{
+  "message": "WeirdChamp",
+  "reason": "The text 'WeirdChamp' is classified as toxic because it contains a derogatory term. The model has consistently classified similar texts as toxic in the 'Prediction result' section.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

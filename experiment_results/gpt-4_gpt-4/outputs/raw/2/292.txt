@@ -1,0 +1,39 @@
+Message: "I think the new update is really cool, it has improved the game a lot."
+
+```json
+{
+"message": "I think the new update is really cool, it has improved the game a lot.",
+"reason": "This message is considered clean as it contains no offensive language and expresses a positive opinion about a game update.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a noob, can't even play properly."
+
+```json
+{
+"message": "You're such a noob, can't even play properly.",
+"reason": "This message is considered toxic due to its use of derogatory language directed at someone's gaming skills.",
+"predicted": "toxic"
+}
+```
+
+Message: "I don't agree with the changes, but I appreciate the effort."
+
+```json
+{
+"message": "I don't agree with the changes, but I appreciate the effort.",
+"reason": "This message is considered clean as it expresses a disagreement in a respectful manner.",
+"predicted": "clean"
+}
+```
+
+Message: "This game is trash, the developers are idiots."
+
+```json
+{
+"message": "This game is trash, the developers are idiots.",
+"reason": "This message is considered toxic due to its use of derogatory language directed at the game and its developers.",
+"predicted": "toxic"
+}
+```

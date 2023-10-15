@@ -1,0 +1,8 @@
+{
+  "message": "dont u dare put the yuumi passive in there fuck u",
+  "reason": "The message contains offensive language and an aggressive tone, with the use of profanity and a derogatory term. It shows a disrespectful and hostile attitude towards the recipient.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

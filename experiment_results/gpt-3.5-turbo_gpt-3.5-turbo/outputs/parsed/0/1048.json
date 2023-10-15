@@ -1,0 +1,8 @@
+{
+  "message": "shady as hell",
+  "reason": "The message contains negative language and implies suspicious or dishonest behavior.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

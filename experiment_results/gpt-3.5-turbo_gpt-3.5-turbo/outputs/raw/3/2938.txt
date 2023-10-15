@@ -1,0 +1,7 @@
+```json
+{
+"message": "@RuralBiscuits damn - i knew it!",
+"reason": "The predicted category is 'toxic' because the message contains a profanity ('damn') which is likely to be considered offensive or disrespectful.",
+"predicted": "toxic"
+}
+```

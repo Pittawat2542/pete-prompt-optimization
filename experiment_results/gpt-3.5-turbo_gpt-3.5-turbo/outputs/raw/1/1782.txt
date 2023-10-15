@@ -1,0 +1,7 @@
+```json
+{
+  "message": "jd",
+  "reason": "The message 'jd' does not provide any context or content to determine its category. It could be an abbreviation or a typo. Without further information, it is not possible to classify it as toxic or clean.",
+  "predicted": "clean"
+}
+```

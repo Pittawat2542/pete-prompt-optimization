@@ -1,0 +1,9 @@
+The provided message is a URL, which does not contain any text to evaluate for toxicity or cleanliness. Therefore, it's not possible to categorize this message as either "toxic" or "clean". 
+
+```json
+{
+"message": "https://specs.gg/tgltn",
+"reason": "The message is a URL, which does not contain any text to evaluate for toxicity or cleanliness.",
+"predicted": "Not applicable"
+}
+```

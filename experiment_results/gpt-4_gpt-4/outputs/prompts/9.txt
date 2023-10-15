@@ -1,0 +1,36 @@
+In this task, you will analyze and classify a provided text snippet, referred to as the "message", under the categories "clean" or "toxic". This "message" is taken from a conversation in an online community and can contain varied forms of communication - light-hearted, informative, offensive, etc.
+
+The definition of "toxic" for this task includes messages that contain disrespectful, offensive, rude, or abusive language or sentiments. On the other hand, a "clean" message signifies a lack of such negative components and maintains a respectful and polite tone throughout.
+
+To provide your classification, you will use a JSON format embedded within a Markdown block (enclosed between ```json and ```). This JSON format should contain these specific attributes: "message" for the actual text message, "reason" for the explanation underpinning your classification decision, and "predicted" for the predicted category.
+
+Your input will appear as:
+Message: <message>
+
+The expected layout for your output is as follows:
+```json
+{
+"message": "<actual message from input>",
+"reason": "<brief explanation supporting your classification>",
+"predicted": "<predicted category i.e., 'toxic' or 'clean'>"
+}
+```
+You need to replace all placeholders within angle brackets with the respective real data from the input.
+
+For instance, if you encounter a message with offensive language, your output should look like this:
+```json
+{
+"message": "You are a fool",
+"reason": "The message directly uses offensive language.",
+"predicted": "toxic"
+}
+```
+Conversely, for a polite and respectful message, your output should resemble this:
+```json
+{
+"message": "Congratulations on your achievement!",
+"reason": "The message carries a positive sentiment and does not contain any offensive language.",
+"predicted": "clean"
+}
+```
+Lastly, it's crucial to carefully analyze each message, take into account its context and language usage, and assign it the correct category based on its content.

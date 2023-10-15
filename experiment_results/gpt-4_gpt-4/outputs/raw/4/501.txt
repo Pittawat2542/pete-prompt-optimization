@@ -1,0 +1,7 @@
+```json
+{
+"message": "Iâ€™m married to the game and the game is league of legends and I want a divorce",
+"reason": "The message does not contain any offensive, rude, or disrespectful language. It seems to be a metaphorical expression of the user's relationship with a game.",
+"predicted": "clean"
+}
+```

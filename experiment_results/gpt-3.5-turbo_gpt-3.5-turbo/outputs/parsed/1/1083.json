@@ -1,0 +1,8 @@
+{
+  "message": "They suck",
+  "reason": "The message contains a negative statement without any context or explanation. It is derogatory and disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

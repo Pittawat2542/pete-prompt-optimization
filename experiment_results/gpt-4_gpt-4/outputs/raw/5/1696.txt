@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdPotato LUL",
+"reason": "The message seems to be a username followed by a term 'LUL' which is an acronym for 'laugh out loud' in online slang. There is no offensive or disrespectful language used.",
+"predicted": "clean"
+}
+```

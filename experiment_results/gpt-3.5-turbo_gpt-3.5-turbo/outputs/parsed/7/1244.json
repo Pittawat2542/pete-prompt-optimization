@@ -1,0 +1,8 @@
+{
+  "message": "white_medium_star:\u0001",
+  "reason": "The message does not contain any meaningful text or context. It appears to be a random string of characters or an emoji. Without any meaningful content, it is not possible to classify the message as toxic or clean.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

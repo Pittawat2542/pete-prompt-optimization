@@ -1,0 +1,8 @@
+{
+  "message": "FUCKING HELL",
+  "reason": "The message contains strong profanity, which is indicative of toxic language. The use of all capital letters and the intensity of the expletive further emphasize the toxic nature of the message.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

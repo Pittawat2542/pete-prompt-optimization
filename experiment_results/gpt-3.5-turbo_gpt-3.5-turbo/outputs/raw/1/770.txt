@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Yami is my best friend",
+  "reason": "The message is positive and expresses a friendly sentiment towards someone. There is no indication of any harmful or offensive content.",
+  "predicted": "clean"
+}
+```

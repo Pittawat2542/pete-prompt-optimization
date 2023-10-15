@@ -1,0 +1,7 @@
+```json
+{
+"message": "I suck so bad loool",
+"reason": "The message contains self-deprecating humor, but it does not include any offensive, impolite, or disrespectful tones or language towards others.",
+"predicted": "clean"
+}
+```

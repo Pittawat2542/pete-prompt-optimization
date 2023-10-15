@@ -1,0 +1,8 @@
+{
+  "message": "he said frist time FPP",
+  "reason": "The message is a simple statement about someone's experience in a game mode (FPP - First Person Perspective). It does not contain any offensive, disrespectful or harmful content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

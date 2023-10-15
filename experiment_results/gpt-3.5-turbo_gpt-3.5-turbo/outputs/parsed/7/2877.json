@@ -1,0 +1,8 @@
+{
+  "message": "Good shit",
+  "reason": "The message is classified as 'clean' because it does not contain any offensive or harmful language. The word 'good' is positive and 'shit' is used in a colloquial sense to mean something impressive or excellent.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

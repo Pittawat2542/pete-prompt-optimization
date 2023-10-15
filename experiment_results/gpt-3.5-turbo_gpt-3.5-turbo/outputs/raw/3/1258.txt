@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdSaspisas danucdSASPISHAS",
+"reason": "The message contains a combination of uppercase and lowercase letters, which is not indicative of any toxic or offensive content. The message does not contain any explicit or offensive language. Therefore, it can be classified as clean.",
+"predicted": "clean"
+}
+```

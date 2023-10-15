@@ -1,0 +1,7 @@
+```json
+{
+"message": "EZ GG",
+"reason": "The message is classified as 'toxic' because it contains the abbreviation 'GG', which is commonly used in online gaming to mean 'good game'. In this context, 'EZ' is used sarcastically to belittle or mock the opponent, indicating a toxic and unsportsmanlike attitude.",
+"predicted": "toxic"
+}
+```

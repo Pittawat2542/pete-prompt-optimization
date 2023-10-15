@@ -1,0 +1,8 @@
+{
+  "message": "Its my stupid earphones",
+  "reason": "The message contains a negative adjective 'stupid' which is used to express frustration or dissatisfaction. However, it is not directed towards any individual or group, hence it is not offensive or disrespectful.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

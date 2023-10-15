@@ -1,0 +1,8 @@
+{
+  "message": "dizzy_face:",
+  "reason": "The text 'dizzy_face:' does not contain any toxic or offensive language. It appears to be an emoji or an expression used to convey a feeling of dizziness or disorientation. Therefore, it can be classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

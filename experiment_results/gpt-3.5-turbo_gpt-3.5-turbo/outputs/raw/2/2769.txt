@@ -1,0 +1,7 @@
+```json
+{
+"message": "@drsoils no need to be sorry, I liked it. LOL",
+"reason": "The message is classified as clean because it contains no offensive or harmful language. It is a positive response to someone's apology, expressing enjoyment with the content.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG",
+"reason": "The message consists of emotes or codes for emotes, which are not offensive or disrespectful.",
+"predicted": "clean"
+}
+```

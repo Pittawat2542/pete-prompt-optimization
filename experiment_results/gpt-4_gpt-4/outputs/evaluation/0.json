@@ -1,0 +1,3210 @@
+{
+  "total": 400,
+  "correct": 228,
+  "incorrect": 172,
+  "accuracy": 0.57,
+  "correct_messages": [
+    {
+      "message": "so its not the fucking card",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "here I just an administrator up my ass",
+      "reason": "The message contains a disrespectful phrase towards an administrator, which can be considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hmm I have never played this game, should I play squad or solo? \"fuck it lets play squad so i can fuck up my squadmates\" retard starter pack",
+      "reason": "The message contains offensive language and derogatory terms.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Who put me on the RNG shit list?",
+      "reason": "The message contains a swear word which can be considered as offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Just due to their sheer kits and presence they have",
+      "reason": "The message is a neutral statement about someone's kits and presence. It doesn't contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Like Hell Do I Care.",
+      "reason": "The message contains a negative tone and disrespectful language, which can be considered as toxic.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "stop bypassing the chat you idiot",
+      "reason": "The message contains offensive language and is disrespectful towards another user.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "stop bypassing the chat you idiot",
+      "reason": "The message contains offensive language and is disrespectful towards another user.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hell yeaaahh",
+      "reason": "The message is expressing enthusiasm or agreement, and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Get the hell out",
+      "reason": "The message contains aggressive language and can be perceived as offensive or threatening.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Dont bother with salty lol he's tryna make yall look like an idiot when he is the moron himself",
+      "reason": "The message contains derogatory language and is insulting another user, which is considered toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Shit up",
+      "reason": "The message contains a profanity which is considered as a toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Stupid net tbh",
+      "reason": "The message contains a derogatory term which can be considered as offensive or disrespectful.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "The only idiot is you.",
+      "reason": "The message contains an insult directed at another user, which is considered toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Meebot is shit",
+      "reason": "The message contains a derogatory term which is used to insult or demean.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "That\u00e2\u20ac\u2122s pretty pathetic. I stick with the One X I think. First time in my 30+ years of gaming that I haven\u00e2\u20ac\u2122t been excited for a next gen console.",
+      "reason": "The message contains a negative opinion about a gaming console, but it does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "When is ps4 and xbox pts server finished? What date and time (uk) please? Thanks",
+      "reason": "The message is asking for information politely, without any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Hes deceptilvely tanky and does not give a hairy rats ass about CC.",
+      "reason": "The message contains strong language but it's not offensive or harmful. It seems to be discussing a character or player's abilities in a game.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hamit) Weather for Hamit, TR: Clear sky with a temperature of 21 C (69.8 F). Wind is blowing from the East at 10.3 kph (6.4 mph) and the humidity is 21%",
+      "reason": "The message is providing information about the weather. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danu) Weather for Danu, MD: Overcast clouds with a temperature of 12.5 C (54.5 F). Wind is blowing from the North at 3.2 kph (1.99 mph) and the humidity is 92%",
+      "reason": "The message is providing information about the weather. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "white_medium_star:\u0001",
+      "reason": "The message contains a non-offensive emoji, with no text that could be interpreted as toxic.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdSaspisas danucdSASPISHAS",
+      "reason": "The message does not contain any offensive, disrespectful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hey",
+      "reason": "The message is a simple greeting and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "thanks for the giffted sub who ever gave it me @DanucD",
+      "reason": "The message is expressing gratitude and doesn't contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "EZ GG",
+      "reason": "The message is a common gaming term which stands for 'Easy Good Game', indicating that the game was not challenging. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdRespect danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance danucdDance2 danucdDance danucdDance2 danucdDance danucdDance2 danucdDance forsenPls SourPls",
+      "reason": "The message contains emotes and usernames, which are not offensive or harmful.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "alisaGG alisaGG alisaGG alisaGG naught14Luv naught14Luv naught14Nuts naught14Nuts naught14Nuts naught14Luv naught14Nuts naught14Luv naught14Nuts",
+      "reason": "The message consists of repeated usernames or game tags, but does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG",
+      "reason": "The message contains non-offensive words and seems to be a series of emoticons or usernames, which doesn't contain any harmful or toxic content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "1G$",
+      "reason": "The message does not contain any offensive, disrespectful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@xDEEDAN bot danucdDanu2",
+      "reason": "The message does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Please chat only in English here",
+      "reason": "The message is a polite request and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Arm E D",
+      "reason": "The message does not contain any offensive, disrespectful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@HamitCanKilic why i cant donate without login in with my fb or soemthing",
+      "reason": "The message is a question about a technical issue, it doesn't contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "ooo we get a chickirhinooooo",
+      "reason": "The message is non-offensive and does not contain any harmful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "My mains were magic exo and the brawler",
+      "reason": "The message is about the user's main characters or strategies in a game, and doesn't contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@Scoom danucdRespect mitKalp",
+      "reason": "The message is a respectful shoutout to another user, it doesn't contain any offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdRespect danucdPOG danucdRespect danucdPOG danucdRespect danucdPOG danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect",
+      "reason": "The message is repetitive but it doesn't contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@Adooool18 Thanks for the gift sub! soggyWow brkSmaK soggyWow brkSmaK soggyPog brkTSM",
+      "reason": "The message is expressing gratitude and using community-specific emotes. There is no offensive or harmful language used.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@jrrod91 do you think a new clip is a spam",
+      "reason": "The message is a simple question and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@Adooool18 thank you gift ddanucdBukulove",
+      "reason": "The message is a positive one, expressing gratitude and possibly sharing a gift. There are no offensive or harmful words used.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@SmirnofSoldier all good and you... danucdRespect danucdHi",
+      "reason": "The message is a friendly interaction with another user and does not contain any offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "!hs",
+      "reason": "The message is not offensive, harmful, or inappropriate. It seems to be a command or a code, not a toxic message.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@jrrod91, This item is on cooldown",
+      "reason": "The message is providing information about an item's status in a game or a discussion. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "how old she is",
+      "reason": "The message is a simple question and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect",
+      "reason": "The message is repetitive but it does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "yeah",
+      "reason": "The message is a simple affirmation and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdNo Fattttttiiiiiiiiiiiiiiiiiiiiiiii",
+      "reason": "The message does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Greetings from New Orleans",
+      "reason": "The message is a friendly greeting and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@adooool18 on the way danucdSaspisas",
+      "reason": "The message does not contain any offensive or harmful language. It seems to be a normal conversation or comment.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Look at these vacuums",
+      "reason": "The message is a simple statement about vacuums and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "MsRoselyn nairidHerz nairidHerz danucdHi parunaHi",
+      "reason": "The message seems to be a series of usernames or greetings, with no offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdHypePrime",
+      "reason": "The message seems to be a username or a code, it doesn't contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdPotato LUL",
+      "reason": "The message is a harmless comment, possibly referring to a username or a joke within the community. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@melihozkiremitci danucdHi danucdHi",
+      "reason": "The message is a simple greeting or acknowledgement to another user, without any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hello and bye @melihozkiremitci",
+      "reason": "The message is a simple greeting and farewell, without any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "is G fuel good",
+      "reason": "The message is asking a question about a product and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@melihozkiremitci cya",
+      "reason": "The message is a simple farewell, without any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@Frank_Drebin451 yes danucd using it too",
+      "reason": "The message is a simple statement or response to another user. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "jd",
+      "reason": "The message does not contain any offensive, disrespectful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "my god the stupidity of people",
+      "reason": "The message contains negative sentiment and is disrespectful towards others, which can be considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Who's victor Kappa",
+      "reason": "The message is a simple question asking about a person or character, with no offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "you mean blind pick?",
+      "reason": "The message is a simple question without any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "can you show us your damage after you finishthe game plz",
+      "reason": "The message is a polite request for information related to a game. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner",
+      "reason": "The message is repetitive but it doesn't contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "NotLikeThis danucdFacepalm chat",
+      "reason": "The message contains common emotes used in online communities and does not contain any offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Support always",
+      "reason": "The message is positive and encouraging, with no use of offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I see HoB more",
+      "reason": "The message is a simple statement without any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "A giveaway for: game has started! Subscribers can Join!",
+      "reason": "The message is about a game giveaway and an invitation for subscribers to join. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Yo Riot wtf fuck brand he always deals the most damage for some reason EVERY GANE",
+      "reason": "The message contains explicit language and aggressive tone.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdChair",
+      "reason": "The message is a username or a non-offensive term, it doesn't contain any harmful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "rawryyLaugh @cinnova",
+      "reason": "The message is a friendly interaction with another user, with no use of offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "!subs",
+      "reason": "The message is a command or request, likely asking for subtitles in a streaming community. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
+      "reason": "The message does not contain any offensive or harmful content. The user is likely referring to a gaming or online persona, not promoting harmful behavior.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "dizzy_face:",
+      "reason": "The message contains an emoji which does not convey any harmful or offensive content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can help you translate chinese",
+      "reason": "The message is offering help and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "YEAH U WERE RIGHT BITCH JUST THE OTHER JUNGLER",
+      "reason": "The message contains a derogatory term which is considered as offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "asia sever is many china player..",
+      "reason": "The message is a simple statement about the number of players from China on an Asia server. It does not contain any offensive, disrespectful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "noice team work forsenCD",
+      "reason": "The message is a positive comment about teamwork, with no offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "they go super drop",
+      "reason": "The message does not contain any offensive, disrespectful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "its really hard with your ping",
+      "reason": "The message is about a technical issue in an online game, not containing any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "ahhh gotcha",
+      "reason": "The message is a casual, non-offensive response indicating understanding or realization. It does not contain any harmful, offensive, or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "My sens is irrelevant to you, do what's comfortable for you. Copying other people's sens won't make you good at the game, we have different length arms and grips and different resistance mousepads / mouse feet - some mouse sensors are even different.",
+      "reason": "The message is providing advice and sharing personal opinion about a game. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "70 mana for that shit",
+      "reason": "The message contains a profanity which can be considered as toxic in a respectful community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "as you can see so clearly with those on low?",
+      "reason": "The message is a simple question and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@mfyntz tgl5Head",
+      "reason": "The message does not contain any offensive or harmful language. It seems to be a username followed by a possible emote or code, which is common in online communities.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "WHAT THE FUCKING FUCK IS THIS FUCKING RECALL ANIMATION",
+      "reason": "The message contains strong profanity and aggressive language.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "tgl3Head",
+      "reason": "The message does not contain any offensive, disrespectful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can translate for ya if u want",
+      "reason": "The message is offering help and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "ha ha ha comms",
+      "reason": "The message is a harmless comment, possibly referring to communication or a specific topic in the chat. It does not contain any offensive, disrespectful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "tglGG",
+      "reason": "The message does not contain any offensive, disrespectful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "rawryyLaugh NT NT",
+      "reason": "The message does not contain any offensive, disrespectful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "DendiFace gg",
+      "reason": "The message is a gaming term, where 'gg' stands for 'good game'. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "shes a girl...DAAAA",
+      "reason": "The message does not contain any offensive or harmful language. It seems to be a sarcastic comment or a joke.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@escamoli yeah",
+      "reason": "The message is a simple acknowledgement or agreement with another user, without any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "only 52 alive?",
+      "reason": "The message is a simple question and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "rando squad?",
+      "reason": "The message is asking a question about a random squad, it doesn't contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "control setting and dpi",
+      "reason": "The message is about control settings and dpi, which are technical terms related to computer settings. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "he said frist time FPP",
+      "reason": "The message is a simple statement about someone's experience in a game mode (FPP - First Person Perspective). It does not contain any offensive, disrespectful or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Fuck up a turret dive as graves and went afk",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "6th guy",
+      "reason": "The message is neutral and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "this feels so shit",
+      "reason": "The message contains a negative sentiment and uses a profanity.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "why asia server ?",
+      "reason": "The message is a simple question about a server location. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "it makes it even more difficult",
+      "reason": "The message is a general statement and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "that he's got none helmet",
+      "reason": "The message does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "i have nothing",
+      "reason": "The message does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "you need to say niu bi instead of number one",
+      "reason": "The message is instructing someone to use a different phrase, but it does not contain any offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "you can try this to them ciao nee mud",
+      "reason": "The message does not contain any offensive or harmful language. It seems to be a suggestion or advice.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "the fuck you talking about brother?",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "smh thats why i use the m4 long range",
+      "reason": "The message is about the user's preference for a specific tool or weapon in a game, and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "4X m249 op on sanhok",
+      "reason": "The message is discussing game strategies, and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "what's the song name",
+      "reason": "The message is a simple question asking for information. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hello sir how are u",
+      "reason": "The message is polite and does not contain any offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Scrims at 1900 CET to be streamed at (stream: tba)",
+      "reason": "The message is about a gaming event schedule and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "LUL LUL LUL LUL LUL LUL LUL LUL",
+      "reason": "The message is just a repetition of a common internet slang 'LUL' which stands for 'Laugh out Loud'. It does not contain any offensive, disrespectful or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "kekwwwwwwww",
+      "reason": "The message does not contain any offensive, disrespectful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "got a song for you @ibiza",
+      "reason": "The message is a friendly interaction, sharing a song with another user. There is no use of offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck these team mates",
+      "reason": "The message contains explicit language and negative sentiment towards others.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "did u like that solo ranked @ibiza",
+      "reason": "The message is a simple question about a game, without any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "some good players",
+      "reason": "The message is a neutral statement about players, without any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Fuck, I just died by the twitch.",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Does ranked solos have 100 players? @hambinooo",
+      "reason": "The message is a question about a game, it doesn't contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Fuck, I just died by the twitch. look at death recap",
+      "reason": "The message contains a profanity which can be considered as toxic in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@animoputt I get it dude. just pokin ya.",
+      "reason": "The message is a friendly banter and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@noswal84 there is a reason for that....typical US Army infantry PLT is around that number",
+      "reason": "The message is a factual statement about the US Army infantry PLT and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "winking_face:",
+      "reason": "The message is a simple emoticon, which does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "have you ever played with clib? @hambinooo",
+      "reason": "The message is a simple question about a game or software, without any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@hambinooo sorry for ruining your fun",
+      "reason": "The message is an apology, not containing any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@ty_gets_rekt eleven10Gooba eleven10Gooba eleven10Gooba",
+      "reason": "The message does not contain any offensive or harmful language. It seems to be a user tagging another user and repeating a phrase, possibly a game or inside joke.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "may I ask why the fuck shen is a thing?",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hamb10 hamb10",
+      "reason": "The message does not contain any offensive, disrespectful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "centralia of the vibes",
+      "reason": "The message does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "What up hamily hambO7 hambO7",
+      "reason": "The message is a friendly greeting and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Obligatory 'fuck Udyr'",
+      "reason": "The message contains a profanity directed towards a character or user, which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@hf_spinach happy thursday!!",
+      "reason": "The message is a friendly greeting with no offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "114 kills again? you're a legend",
+      "reason": "The message is a compliment and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "i def. get the phantom footsteps",
+      "reason": "The message does not contain any offensive, disrespectful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "as an OG pubg player who has taken like 6 months off, the sounds are wack to get used too.",
+      "reason": "The message is a user's opinion about a game's sound effects. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Spoopy hamtime",
+      "reason": "The message does not contain any offensive, disrespectful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "pec a doodle doo hollyw14Verticalforegrip",
+      "reason": "The message does not contain any offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "why the fuck i get the code of conduct shit every time i open league clientPromise you will be a good player?",
+      "reason": "The message contains profanity and aggressive language.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "!gift @shanabana",
+      "reason": "The message is a friendly interaction, likely offering a gift to another user.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Don't fuck it up",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "too E Z",
+      "reason": "The message does not contain any offensive, disrespectful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Hey Ham. sorry for spam but you took a toiletbreak,quick question. Do you know how PUBG gives you teammates in squad and duo if you are playing without friends? It seems like i always get the new players when i try to team up. You know if they choose players by hidden rank or is it just random? The question was not as quick tho.. Haha, GG's! Have a great stream, as always hambLove",
+      "reason": "The message is a friendly interaction with another user, asking a question about a game. There is no offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "the best",
+      "reason": "The message is positive and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@drsoils no need to be sorry, I liked it. LOL",
+      "reason": "The message is positive and friendly, with no signs of toxicity or harmful intent.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@keckzn have a time out, come back when you're done saying dumb shit",
+      "reason": "The message contains offensive language and is disrespectful towards another user.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Its a shit situation!",
+      "reason": "The message contains a profanity which can be considered as offensive or inappropriate in a formal or respectful conversation.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "win the fight, die to a fucking mushroom walking away",
+      "reason": "The message contains a swear word which is considered as toxic language in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "STOP DOING WHAT I THINK IS SHIT STREAMER",
+      "reason": "The message contains aggressive language and is disrespectful towards the streamer.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "shit winds are acomin'!",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Like the fuck am i gonna do with that info.",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "HOW LE FUCK DO I FIGHT AHRI",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "this map is dog shit for squads. absolute dog shit",
+      "reason": "The message contains strong negative language and insults, which can be considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@Tomshepmx going fucking great, you mate?",
+      "reason": "The message contains a profanity which can be considered as toxic in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Start with this and upgrade if it's shit",
+      "reason": "The message contains a profanity which can be considered as offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "eat shit riot",
+      "reason": "The message contains offensive language and is disrespectful.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "toxic spammer @hamitcankilic",
+      "reason": "The message contains a direct insult and accusation towards another user, which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck",
+      "reason": "The message contains explicit language which is considered offensive and inappropriate in a respectful community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "there are many cheaters in china",
+      "reason": "The message is generalizing a group of people negatively, which can be considered as toxic.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck this team",
+      "reason": "The message contains a profanity and is expressing negative sentiment towards a group of people, which is considered toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck this mmr god why",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "but fuck riven",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck man",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "shit",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "like what the actual fuck is that",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "bruh what the fuck is this match making",
+      "reason": "The message contains explicit language which can be considered as offensive or inappropriate in a community setting.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I fucking hate lux",
+      "reason": "The message contains strong language and expresses hate, which can be considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "basically a huge fuck you to all assassins",
+      "reason": "The message contains explicit language and is offensive towards a certain group (assassins in this context).",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "well a champ remains in the game forever so",
+      "reason": "The message is a general statement about a game and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "oh so jg duo means you roam and shit together?",
+      "reason": "The message is a question about game terminology and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "where le fuck is psyops kayle",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "this fucking yi",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "feed them and said what the fuck could i do",
+      "reason": "The message contains profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck support yuumi",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I wanna cry when I get them on my team useless sack of shit but when. Other team has them they just disappear and reappearing while somehow doing more damage with a blow dart then a fucking rek si",
+      "reason": "The message contains strong profanity and offensive language directed towards others.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "oh shit guys",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "who shit on us",
+      "reason": "The message contains a vulgar term which can be considered offensive or inappropriate in a respectful conversation.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "this game is annoying as fuck",
+      "reason": "The message contains a profanity which can be considered as offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "o m y fucking god AGAIN?",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "stupid morgana players",
+      "reason": "The message contains a derogatory term directed at a group of players, which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "thats shit",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "no fuck off",
+      "reason": "The message contains explicit language and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck shen",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck that champion and his entire bullshit kit",
+      "reason": "The message contains strong profanity and negative sentiment.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "played like shit",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "he has 60 fucking dashes",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "wiat then what the fuck",
+      "reason": "The message contains explicit language which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck that",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "nexus blitz is ass",
+      "reason": "The message contains a derogatory term which is used in a negative context, indicating a toxic behavior.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "because its fucking bronze",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "HOLY FUCKING",
+      "reason": "The message contains explicit language which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck off",
+      "reason": "The message contains explicit language and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "sucks ass",
+      "reason": "The message contains vulgar language which is considered offensive and inappropriate in a respectful community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "he fuck",
+      "reason": "The message contains explicit language which is considered offensive and inappropriate in a respectful community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "And my friend had to fucking choose tahm kench",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@RisenEsportsNA Just doing the right thing @RisenEsportsNA. However, I better not catch you doing the same thing for your League of Legends team competing in @UpsurgeGG.",
+      "reason": "The message is a warning or advice to another user about their actions in a competitive gaming context. There is no offensive or harmful language used.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Northwood League of Legends finishes (5-3) on the weekend and takes 3rd place in the @DruryEsports invitational! \u00f0\u0178\u0090\u00ba#wolfpack",
+      "reason": "The message is about a gaming event and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "BTW. I'm going to keep streaming, because I genuinely like it. Expect them all to be super late though because that's legit the ONLY time I am able to stream. I am only streaming League of Legends because that's all I care to play these days. Hope you enjoyed my dose of reality",
+      "reason": "The message is about the user's streaming schedule and game preference. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "expose yourself :\n\n1.nop\n2. No\n3. No\n4. Blue , pink\n5. M\n6. Hiii let's play league of legends\n7. Both\n8. Idk\n9. Idk they don't even reply me-\n10. No\n11. Ye\n12. No\n13. \u00f0\u0178\u00a4\u00a1\n\ndrop an emoji and i\u00e2\u20ac\u2122ll send you the questions",
+      "reason": "The message does not contain any offensive or harmful content. It seems like a list of responses to a set of questions.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "you W'd there because you were anticipating flash 4Head",
+      "reason": "The message is discussing a strategy or move in a game, and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hi yamikaze do you know enthralled?",
+      "reason": "The message is a simple question and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "YOU'RE SO GOOD",
+      "reason": "The message is a compliment and does not contain any offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "YAMI STOP YOU'RE GOOD",
+      "reason": "The message is assertive but not offensive or harmful. It seems to be encouraging or complimenting someone named Yami.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "DD",
+      "reason": "The message is clean as it does not contain any offensive, disrespectful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "JESUS CHRIST",
+      "reason": "The message is not offensive, disrespectful or harmful. It seems to be an exclamation or a reference, not a toxic behavior.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Sooooo if u say u have a GF ur actually lying so 5head",
+      "reason": "The message is not offensive, threatening, or disrespectful. It seems to be a playful or sarcastic comment.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "what did they do to you @Yamikazexz",
+      "reason": "The message is a simple question and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "are you twitch single?",
+      "reason": "The message is a simple question and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "215 cs",
+      "reason": "The message is not offensive or harmful. It seems to be a code or shorthand that doesn't contain any toxic content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "800",
+      "reason": "The message is just a number and doesn't contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "YEP",
+      "reason": "The message is a simple affirmation and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "BALANCED KEKW",
+      "reason": "The message is a harmless comment, possibly referring to a game or a situation. KEKW is a popular emote used in online gaming communities to express laughter.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "gg",
+      "reason": "The message 'gg' is a common online term for 'good game', typically used in a positive or neutral context. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I mean Camille and Sett do so much True Damage so who cares about armor",
+      "reason": "The message is about a game, discussing characters and their abilities. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
+      "reason": "The message is not offensive, threatening, or disrespectful. It seems to be related to a game score or achievement.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Wait a sec, this isnt my favorite champion",
+      "reason": "The message is a simple statement about a game character preference, without any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "700 true dmg on 1 Q there KEKW",
+      "reason": "The message is about a game, discussing damage points. It does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hes too smart",
+      "reason": "The message is a simple statement without any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "ewqawertqerqawertesaqweewtqa",
+      "reason": "The message does not contain any offensive, harmful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Pepega",
+      "reason": "The message is a popular Twitch emote and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "stop watch Pog",
+      "reason": "The message does not contain any offensive or harmful content. 'Pog' is a term used in gaming communities to express excitement or surprise.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "osu? woow",
+      "reason": "The message is a simple expression of surprise or interest, and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "PLAY SOME NIGHTCORE WEEB SHIT",
+      "reason": "The message contains offensive language and is disrespectful towards a certain group of people.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Fuck off chat, that guy deserves to be banned for risking this channels life",
+      "reason": "The message contains strong language and aggressive behavior.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "or until u get shit on LUL",
+      "reason": "The message contains a derogatory phrase which can be considered as offensive or disrespectful.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "The fuck was that Fiora thinking? Diving base against 4 people and typing wtf in all chat so dumb",
+      "reason": "The message contains strong language and is insulting another player's actions in a game, which can be considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "IDIOT STOP COMPLAINING LUILW",
+      "reason": "The message contains an insult and aggressive language.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    }
+  ],
+  "incorrect_messages": [
+    {
+      "message": "this suck",
+      "reason": "The message contains negative sentiment but it's not offensive or harmful, so it's not considered toxic.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "TOP 0.1% popularity 33.3% win rate",
+      "reason": "The message is sharing statistics about a game or player, and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "love how i cant win even with me playing well",
+      "reason": "The message expresses frustration but does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "Well,rip clips alisaYikes",
+      "reason": "The message contains a negative term ('rip') and an emoticon ('alisaYikes'), which can be considered toxic.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "so he decided its my fault and wanted to ruin everyons game",
+      "reason": "The message does not contain any offensive or harmful content. It's just expressing a situation or an event.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "Quite the shit",
+      "reason": "The message contains a profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "LETS FUCKING GOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+      "reason": "The message contains a profanity which can be considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "it's here!!!! What the fuck is that?",
+      "reason": "The message contains profanity which is considered as toxic behavior in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "time to get some free shit",
+      "reason": "The message contains a profanity which can be considered as toxic in an online community.",
+      "predicted": "toxic",
+      "prompt_version": 0,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "how are you banananas today",
+      "reason": "The message is a friendly greeting and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "All the subs because your bananas love you danucdBukulove mtgngHype @DanucD",
+      "reason": "The message is not offensive, disrespectful or harmful. It seems to be a playful or humorous comment in an online community.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "its banana its banana",
+      "reason": "The message is non-offensive and does not contain any harmful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Have a great day/night bananas, i gotta go . danucdHi Later danucdBukulove",
+      "reason": "The message is a friendly farewell with no offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "but it sucks that we dont have enough player to do that now @hambinooo",
+      "reason": "The message contains a negative sentiment but it is not offensive or harmful. It is expressing disappointment about not having enough players.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "daaaaam",
+      "reason": "The message does not contain any offensive, disrespectful or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "RT @PeterXinping: If You Want To Get Girls You Should Just Be Yourself! Unless You\u00e2\u20ac\u2122re 5\u00e2\u20ac\u21228, No Muscles, 3000 Hours League Of Legends, Twit\u00e2\u20ac\u00a6",
+      "reason": "The message is not offensive, threatening, or disrespectful. It's a humorous comment on personal preferences and hobbies.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "why do people say that fortnite is toxic, there literally isnt any proximity chat or ingame text chat or any of that, league of legends is 100x more toxic generally",
+      "reason": "The user is expressing their opinion about the toxicity level in different games, not using offensive or harmful language.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "fiesta fiesta pluma pluma gay",
+      "reason": "The message is a line from a popular Spanish song and does not contain any offensive or harmful content.",
+      "predicted": "clean",
+      "prompt_version": 0,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 0,
+      "model": "gpt-4"
+    }
+  ]
+}

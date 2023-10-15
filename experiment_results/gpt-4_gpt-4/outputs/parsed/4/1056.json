@@ -1,0 +1,8 @@
+{
+  "message": "play this stupid shat",
+  "reason": "The message contains offensive language, using derogatory terms to describe something.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

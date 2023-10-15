@@ -1,0 +1,8 @@
+{
+  "message": "how are you banananas today",
+  "reason": "The message contains a misspelled word 'banananas' which may indicate a casual or playful tone, but overall it does not contain any offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

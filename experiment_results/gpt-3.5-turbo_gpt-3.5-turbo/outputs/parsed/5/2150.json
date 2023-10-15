@@ -1,0 +1,8 @@
+{
+  "message": "rawryyLaugh NT NT",
+  "reason": "The message is classified as 'clean'. Although the message contains some nonsensical words ('rawryyLaugh', 'NT'), it does not contain any offensive or toxic language. The absence of any negative sentiment or harmful content indicates that the message is clean.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

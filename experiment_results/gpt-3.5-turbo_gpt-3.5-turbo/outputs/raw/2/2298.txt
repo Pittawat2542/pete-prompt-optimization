@@ -1,0 +1,7 @@
+```json
+{
+"message": "4X m249 op on sanhok",
+"reason": "The message contains gaming jargon and abbreviations, indicating that it is related to a specific game. The mention of '4X m249 op' suggests that the message is discussing a powerful weapon in the game. This type of discussion is common in online gaming communities and does not contain any toxic or offensive language.",
+"predicted": "clean"
+}
+```

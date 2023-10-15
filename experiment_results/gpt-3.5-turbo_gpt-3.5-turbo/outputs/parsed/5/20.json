@@ -1,0 +1,8 @@
+{
+  "message": "so he decided its my fault and wanted to ruin everyons game",
+  "reason": "The message contains negative sentiment and expresses a desire to ruin the game for everyone. This indicates a toxic behavior.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

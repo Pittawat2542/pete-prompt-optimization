@@ -1,0 +1,8 @@
+{
+  "message": "@buttery_butt1094 YEAH shit funny af",
+  "reason": "The message contains a swear word ('shit'), which can be considered offensive and toxic. However, the overall tone of the message seems light-hearted and positive ('funny af'). Therefore, I classify this message as 'toxic' but with a relatively low level of toxicity.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

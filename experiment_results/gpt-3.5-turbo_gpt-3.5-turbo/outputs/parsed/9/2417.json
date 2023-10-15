@@ -1,0 +1,8 @@
+{
+  "message": "some good players",
+  "reason": "The message contains positive words and does not exhibit any toxic or offensive language. It is a neutral statement about the quality of players.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

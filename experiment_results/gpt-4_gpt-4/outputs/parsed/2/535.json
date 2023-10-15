@@ -1,0 +1,8 @@
+{
+  "message": "I think you're wrong about that. Here's why...",
+  "reason": "This message is considered clean as it expresses a disagreement in a respectful and polite manner, without using any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "the hell was that",
+  "reason": "The text is classified as 'toxic' because it contains strong language ('hell') which is often associated with negative and offensive expressions.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

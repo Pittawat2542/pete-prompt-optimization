@@ -1,0 +1,8 @@
+{
+  "message": "rando squad?",
+  "reason": "The message is classified as 'clean' because it does not contain any offensive or toxic language. The predicted category is consistent with the prediction result which shows a high probability for the 'clean' category.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

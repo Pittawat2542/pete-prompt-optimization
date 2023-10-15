@@ -1,0 +1,9 @@
+Message: I think your idea is brilliant and innovative.
+
+```json
+{
+"message": "I think your idea is brilliant and innovative.",
+"reason": "The message is positive and respectful, with no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

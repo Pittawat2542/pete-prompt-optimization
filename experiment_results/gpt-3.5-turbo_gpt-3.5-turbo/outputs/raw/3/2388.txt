@@ -1,0 +1,7 @@
+```json
+{
+"message": "LUL LUL LUL LUL LUL LUL LUL LUL",
+"reason": "The message consists of repeated instances of the word 'LUL'. This repetitive pattern of text does not contain any toxic or offensive language, and is commonly used in online communities as an expression of laughter or amusement. Therefore, the message can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

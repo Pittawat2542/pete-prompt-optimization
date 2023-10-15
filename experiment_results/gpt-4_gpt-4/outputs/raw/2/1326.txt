@@ -1,0 +1,49 @@
+Message: "You're such a loser!"
+
+```json
+{
+"message": "You're such a loser!",
+"reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I hope you have a great day!"
+
+```json
+{
+"message": "I hope you have a great day!",
+"reason": "This message contains no offensive language and conveys a positive sentiment.",
+"predicted": "clean"
+}
+```
+
+Message: "You're so stupid, can't you do anything right?"
+
+```json
+{
+"message": "You're so stupid, can't you do anything right?",
+"reason": "This message is considered toxic due to its use of derogatory language and negative tone.",
+"predicted": "toxic"
+}
+```
+
+Message: "Thank you for your help!"
+
+```json
+{
+"message": "Thank you for your help!",
+"reason": "This message contains no offensive language and conveys a positive sentiment.",
+"predicted": "clean"
+}
+```
+
+Message: "You're a waste of space."
+
+```json
+{
+"message": "You're a waste of space.",
+"reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+"predicted": "toxic"
+}
+```

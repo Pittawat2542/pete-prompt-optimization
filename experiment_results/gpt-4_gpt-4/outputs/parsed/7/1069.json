@@ -1,0 +1,8 @@
+{
+  "message": "The hell",
+  "reason": "The message is short and lacks context, but it can be interpreted as a mild form of swearing or expressing frustration, which can be seen as disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

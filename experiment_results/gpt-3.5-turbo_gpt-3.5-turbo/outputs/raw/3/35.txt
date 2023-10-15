@@ -1,0 +1,7 @@
+```json
+{
+"message": "no katarina in 0/5/2 we won't gank your yasuo",
+"reason": "The message does not contain any offensive or harmful language. It is a response to a player's request for assistance in the game. The absence of Katarina in the game and the player's poor performance (0/5/2) are mentioned as reasons for not ganking their Yasuo.",
+"predicted": "clean"
+}
+```

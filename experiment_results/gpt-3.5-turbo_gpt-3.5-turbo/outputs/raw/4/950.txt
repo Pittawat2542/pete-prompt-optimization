@@ -1,0 +1,7 @@
+```json
+{
+"message": "smd = shake my dick?",
+"reason": "The message contains a vulgar and offensive term, 'shake my dick', which is considered toxic and inappropriate.",
+"predicted": "toxic"
+}
+```

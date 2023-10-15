@@ -1,0 +1,7 @@
+```json
+{
+  "message": "In 12 mins",
+  "reason": "The message 'In 12 mins' does not contain any offensive or harmful language. It is a neutral statement that does not promote toxicity or negativity.",
+  "predicted": "clean"
+}
+```

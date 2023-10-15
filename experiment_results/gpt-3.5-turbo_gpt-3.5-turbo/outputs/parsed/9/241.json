@@ -1,0 +1,8 @@
+{
+  "message": "fuck these team mates",
+  "reason": "The message contains offensive language, specifically the word 'fuck', which is a strong profanity. This falls under the 'toxic' category.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "no katarina in 0/5/2 we won't gank your yasuo",
+  "reason": "The message is related to a game strategy and does not contain any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

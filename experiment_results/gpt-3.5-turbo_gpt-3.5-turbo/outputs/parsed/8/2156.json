@@ -1,0 +1,8 @@
+{
+  "message": "DendiFace gg",
+  "reason": "The text 'DendiFace gg' does not contain any offensive or toxic language. It appears to be a simple expression or reaction in an online community.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "EZ GG",
+  "reason": "The message is a common gaming term that stands for 'Easy Game, Good Game'. It does not contain any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "stupid morgana players",
+"reason": "The message uses offensive language to describe a group of individuals.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,39 @@
+Message: "You're such a loser, can't do anything right."
+
+```json
+{
+"message": "You're such a loser, can't do anything right.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I think you misunderstood my point. Let me clarify."
+
+```json
+{
+"message": "I think you misunderstood my point. Let me clarify.",
+"reason": "This message is clean as it is polite and respectful, aiming to clarify a misunderstanding.",
+"predicted": "clean"
+}
+```
+
+Message: "All women are terrible drivers."
+
+```json
+{
+"message": "All women are terrible drivers.",
+"reason": "This message is considered toxic due to its sexist language and generalization about a specific gender.",
+"predicted": "toxic"
+}
+```
+
+Message: "Could you please help me with this problem?"
+
+```json
+{
+"message": "Could you please help me with this problem?",
+"reason": "This message is clean as it is polite and respectful, asking for help.",
+"predicted": "clean"
+}
+```

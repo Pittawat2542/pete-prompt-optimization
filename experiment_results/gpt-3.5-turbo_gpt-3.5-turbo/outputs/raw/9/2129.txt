@@ -1,0 +1,7 @@
+```json
+{
+"message": "ha ha ha",
+"reason": "The message consists of repeated laughter, which is typically associated with a positive and lighthearted tone. The word 'ha' is not considered toxic or offensive in itself.",
+"predicted": "clean"
+}
+```

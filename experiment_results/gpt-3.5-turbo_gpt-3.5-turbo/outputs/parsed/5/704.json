@@ -1,0 +1,8 @@
+{
+  "message": "gg",
+  "reason": "The message 'gg' is classified as clean. The term 'gg' is commonly used in online gaming communities as an abbreviation for 'good game' and is considered a polite way to acknowledge the end of a game. It does not contain any toxic or offensive language.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

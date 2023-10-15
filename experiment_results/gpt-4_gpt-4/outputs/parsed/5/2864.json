@@ -1,0 +1,8 @@
+{
+  "message": "oh shit my boy is bigtime",
+  "reason": "The message contains a mild swear word, but it is not directed at anyone or used in a derogatory manner. It seems to be used more as an expression of surprise or excitement.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

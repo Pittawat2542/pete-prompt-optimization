@@ -1,0 +1,7 @@
+```json
+{
+"message": "!gift @shanabana",
+"reason": "The message contains the word 'gift' which suggests a positive and non-toxic intention. It is directed at a specific user '@shanabana' which indicates a friendly interaction. Therefore, the message is classified as clean.",
+"predicted": "clean"
+}
+```

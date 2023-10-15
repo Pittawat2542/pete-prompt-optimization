@@ -1,0 +1,7 @@
+```json
+{
+"message": "700 true dmg on 1 Q there KEKW",
+"reason": "The message is related to a game and does not contain any offensive, rude, or disrespectful language.",
+"predicted": "clean"
+}
+```

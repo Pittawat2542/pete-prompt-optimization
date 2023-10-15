@@ -1,0 +1,8 @@
+{
+  "message": "i have nothing",
+  "reason": "The message doesn't contain any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "hecarim is busted more",
+  "reason": "The text does not contain any offensive or harmful language, and it does not seem to be disrespectful or aggressive. It is a simple statement about the character 'hecarim' being overpowered or strong in the game. Therefore, it can be classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

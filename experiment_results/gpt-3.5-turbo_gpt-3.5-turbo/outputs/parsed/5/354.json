@@ -1,0 +1,8 @@
+{
+  "message": "what the hell??",
+  "reason": "The message contains a strong expletive ('hell') which is considered offensive and inappropriate. This falls under the 'toxic' category.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

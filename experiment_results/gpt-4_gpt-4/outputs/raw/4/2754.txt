@@ -1,0 +1,7 @@
+```json
+{
+"message": "too E Z",
+"reason": "The message does not contain any offensive, rude, or disrespectful language. It seems to be a casual or playful remark, possibly indicating that something is 'too easy'.",
+"predicted": "clean"
+}
+```

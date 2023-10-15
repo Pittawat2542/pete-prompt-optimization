@@ -1,0 +1,7 @@
+```json
+{
+"message": "Cuz of that stupid strat",
+"reason": "The message contains negative language, but it's not offensive or harmful. It seems to be a critique or complaint about a strategy (strat) in a game or other context.",
+"predicted": "clean",
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "i like how you dont talk shit about your dick neighbour cause he prob gonna rewatch your stream",
+  "reason": "The message contains offensive language ('shit' and 'dick') and derogatory terms ('neighbour'). It also implies a negative intention towards the neighbor. These elements indicate a toxic category.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

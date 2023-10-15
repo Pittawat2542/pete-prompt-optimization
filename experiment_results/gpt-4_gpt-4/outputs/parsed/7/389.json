@@ -1,0 +1,8 @@
+{
+  "message": "wiat then what the fuck",
+  "reason": "The message contains offensive language.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

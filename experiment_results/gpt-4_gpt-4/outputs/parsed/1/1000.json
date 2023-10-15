@@ -1,0 +1,8 @@
+{
+  "message": "this suck",
+  "reason": "The message uses negative language which can be considered as disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

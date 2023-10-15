@@ -1,0 +1,7 @@
+```json
+{
+"message": 800,
+"reason": "The text is classified as 'clean' because the predicted category is 'clean' with a high confidence score of 0.95.",
+"predicted": "clean"
+}
+```

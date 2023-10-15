@@ -1,0 +1,7 @@
+```json
+{
+"message": "FUCKING HELL",
+"reason": "The text contains offensive language, specifically the use of profanity. This falls into the 'toxic' category as indicated by the prediction result.",
+"predicted": "toxic"
+}
+```

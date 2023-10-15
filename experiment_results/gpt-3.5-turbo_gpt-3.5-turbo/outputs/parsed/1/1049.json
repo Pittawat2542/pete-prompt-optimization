@@ -1,0 +1,8 @@
+{
+  "message": "hell yeaaahh",
+  "reason": "The message contains slang and excessive use of exclamation marks, which can be interpreted as excitement or enthusiasm. However, it does not contain any offensive or harmful language, and there is no clear intention to harm or insult anyone.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

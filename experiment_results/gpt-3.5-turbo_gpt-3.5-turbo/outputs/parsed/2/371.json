@@ -1,0 +1,8 @@
+{
+  "message": "thats shit",
+  "reason": "The message contains a derogatory term, 'shit', which is considered offensive and disrespectful. This falls into the 'toxic' category.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

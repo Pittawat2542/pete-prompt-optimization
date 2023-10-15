@@ -1,0 +1,8 @@
+{
+  "message": "6th guy",
+  "reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It is a neutral statement that does not violate any community guidelines.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

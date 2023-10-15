@@ -1,0 +1,8 @@
+{
+  "message": "4X m249 op on sanhok",
+  "reason": "The message contains gaming jargon and abbreviations commonly used in online gaming communities. The mention of '4X', 'm249', and 'sanhok' suggests that the message is related to a specific game and its gameplay. It does not contain any offensive or harmful language, and therefore can be classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

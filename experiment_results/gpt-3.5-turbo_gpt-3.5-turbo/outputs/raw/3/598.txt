@@ -1,0 +1,7 @@
+```json
+{
+"message": "last time i played talon, talon jungle was not legitimately playable, is that still true",
+"reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It is a simple question about the current state of playing Talon as a jungle champion. Therefore, the message can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

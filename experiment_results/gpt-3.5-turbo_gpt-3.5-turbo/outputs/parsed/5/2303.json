@@ -1,0 +1,8 @@
+{
+  "message": "hello sir how are u",
+  "reason": "The message is classified as 'clean' because it is a polite and friendly greeting without any offensive or harmful content. The absence of any toxic language or negative sentiment indicates that the message is intended to be positive and respectful.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

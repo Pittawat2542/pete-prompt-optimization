@@ -1,0 +1,7 @@
+```json
+{
+"message": "pec a doodle doo hollyw14Verticalforegrip",
+"reason": "The message does not contain any offensive, rude, or disrespectful language. It seems to be a random combination of words and phrases.",
+"predicted": "clean"
+}
+```

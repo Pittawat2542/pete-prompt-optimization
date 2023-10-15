@@ -1,0 +1,8 @@
+{
+  "message": "I hate my life",
+  "reason": "The predicted category is 'toxic' because the text contains negative sentiment and expresses a strong negative emotion. The model has correctly identified this message as toxic based on the presence of the word 'hate' and the overall negative tone.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

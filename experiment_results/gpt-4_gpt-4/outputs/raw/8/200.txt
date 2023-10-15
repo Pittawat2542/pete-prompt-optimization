@@ -1,0 +1,9 @@
+Message: "I think your idea is not very practical. We should consider other options."
+
+```json
+{
+"message": "I think your idea is not very practical. We should consider other options.",
+"reason": "The message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "PogChamp PogChamp PogChamp",
+  "reason": "The text consists of repeated instances of the word 'PogChamp'. Based on the prediction result, it is likely that this text is classified as 'clean' because it does not contain any toxic content.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

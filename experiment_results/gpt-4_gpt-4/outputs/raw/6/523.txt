@@ -1,0 +1,7 @@
+```json
+{
+"message": "RT @PeterXinping: If You Want To Get Girls You Should Just Be Yourself! Unless Youâ€™re 5â€™8, No Muscles, 3000 Hours League Of Legends, Twitâ€¦",
+"reason": "The message is not offensive or disrespectful. It seems to be a humorous comment about personal preferences and hobbies.",
+"predicted": "clean"
+}
+```

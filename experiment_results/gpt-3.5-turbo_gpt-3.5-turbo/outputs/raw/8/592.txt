@@ -1,0 +1,7 @@
+```json
+{
+"message": "DD",
+"reason": "The text 'DD' does not provide enough information to determine its category. It could be either toxic or clean.",
+"predicted": "clean"
+}
+```

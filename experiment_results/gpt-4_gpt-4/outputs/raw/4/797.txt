@@ -1,0 +1,7 @@
+```json
+{
+"message": "Pepega",
+"reason": "The message is a single word, 'Pepega', which is a popular emote used in Twitch chats. It does not contain any offensive, rude, or disrespectful language.",
+"predicted": "clean"
+}
+```

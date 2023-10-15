@@ -1,0 +1,8 @@
+{
+  "message": "Hes deceptilvely tanky and does not give a hairy rats ass about CC.",
+  "reason": "The text contains mild profanity and negative sentiment, indicating a potentially toxic tone.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

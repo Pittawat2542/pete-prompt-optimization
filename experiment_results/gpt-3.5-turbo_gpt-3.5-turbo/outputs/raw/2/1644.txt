@@ -1,0 +1,7 @@
+```json
+{
+"message": "PogChamp PogChamp PogChamp",
+"reason": "The message consists of repeated instances of the word 'PogChamp'. This phrase is commonly used in online gaming communities to express excitement or enthusiasm. It does not contain any offensive or harmful language, and therefore can be classified as clean.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "fuck shen",
+  "reason": "The message contains a profanity directed towards an individual or entity, which is considered offensive and disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

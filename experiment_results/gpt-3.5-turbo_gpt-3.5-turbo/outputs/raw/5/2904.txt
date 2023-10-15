@@ -1,0 +1,7 @@
+```json
+{
+"message": "its banana its banana",
+"reason": "The message does not contain any explicit toxic language or harmful content. It appears to be a harmless repetition of the phrase 'its banana'. Therefore, it can be classified as clean.",
+"predicted": "clean"
+}
+```

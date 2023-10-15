@@ -1,0 +1,49 @@
+Message: "I think your idea is not very practical."
+
+```json
+{
+"message": "I think your idea is not very practical.",
+"reason": "This message is a critique but it is expressed in a respectful and non-offensive manner.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser, can't do anything right."
+
+```json
+{
+"message": "You're such a loser, can't do anything right.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative tone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I disagree with your point of view."
+
+```json
+{
+"message": "I disagree with your point of view.",
+"reason": "This message is expressing disagreement but it is done in a respectful and non-offensive manner.",
+"predicted": "clean"
+}
+```
+
+Message: "You're a stupid moron."
+
+```json
+{
+"message": "You're a stupid moron.",
+"reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I appreciate your help."
+
+```json
+{
+"message": "I appreciate your help.",
+"reason": "This message contains no offensive language and conveys a positive sentiment.",
+"predicted": "clean"
+}
+```

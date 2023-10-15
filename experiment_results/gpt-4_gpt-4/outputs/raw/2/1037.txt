@@ -1,0 +1,39 @@
+Message: "I can't believe you're so ignorant."
+
+```json
+{
+"message": "I can't believe you're so ignorant.",
+"reason": "This message is considered toxic due to its disrespectful tone and offensive language directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I think you might have misunderstood my point."
+
+```json
+{
+"message": "I think you might have misunderstood my point.",
+"reason": "This message is clean as it is polite and respectful, despite expressing disagreement.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser."
+
+```json
+{
+"message": "You're such a loser.",
+"reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I appreciate your help."
+
+```json
+{
+"message": "I appreciate your help.",
+"reason": "This message is clean as it expresses gratitude in a polite and respectful manner.",
+"predicted": "clean"
+}
+```

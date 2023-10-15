@@ -1,0 +1,8 @@
+{
+  "message": "@escamoli yeah",
+  "reason": "The message contains a simple agreement response 'yeah' to another user's comment. There is no offensive or harmful language used, and the message does not display any toxic behavior.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

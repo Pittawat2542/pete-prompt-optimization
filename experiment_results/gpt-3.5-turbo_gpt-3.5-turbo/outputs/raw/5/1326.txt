@@ -1,0 +1,7 @@
+```json
+{
+"message": "1G$",
+"reason": "The message is classified as toxic. The presence of a dollar sign ($) at the end of the message suggests that it may be related to financial scams or illegal activities. This aligns with the toxic category, which typically includes messages that are offensive, harmful, or intended to deceive or defraud others.",
+"predicted": "toxic"
+}
+```

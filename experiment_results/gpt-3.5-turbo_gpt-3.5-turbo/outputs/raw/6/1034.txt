@@ -1,0 +1,7 @@
+```json
+{
+"message": "> cod is crap which one?",
+"reason": "The message contains a derogatory term ('crap') which indicates a negative sentiment. This suggests that the message is likely to be classified as toxic.",
+"predicted": "toxic"
+}
+```

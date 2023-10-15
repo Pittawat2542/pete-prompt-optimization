@@ -1,0 +1,8 @@
+{
+  "message": "700 true dmg on 1 Q there KEKW",
+  "reason": "The message contains gaming jargon and an emote, indicating that it is likely a comment made during a gaming discussion. The use of 'KEKW' suggests that the message is meant to be humorous or lighthearted. Additionally, the mention of '700 true dmg on 1 Q' refers to a specific action or achievement in the game, which is not inherently toxic. Therefore, the message can be classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

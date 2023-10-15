@@ -1,0 +1,8 @@
+{
+  "message": "love how i cant win even with me playing well",
+  "reason": "The message contains no offensive language, slurs, personal attacks, or violent threats. It seems to be a self-reflection or a complaint about a personal situation.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-4"
+}

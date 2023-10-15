@@ -1,0 +1,7 @@
+```json
+{
+  "message": "1G$",
+  "reason": "The message contains a combination of numbers and symbols that do not form a coherent sentence or have any clear meaning. It appears to be a random string of characters, which is often associated with spam or trolling behavior.",
+  "predicted": "toxic"
+}
+```

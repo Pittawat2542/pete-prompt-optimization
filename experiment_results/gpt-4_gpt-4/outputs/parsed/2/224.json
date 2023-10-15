@@ -1,0 +1,8 @@
+{
+  "message": "I think your idea is really great and could benefit a lot of people.",
+  "reason": "This message is polite and respectful, expressing a positive sentiment towards someone's idea.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

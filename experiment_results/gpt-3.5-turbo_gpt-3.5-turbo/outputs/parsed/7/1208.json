@@ -1,0 +1,8 @@
+{
+  "message": "hamit) Weather for Hamit, TR: Clear sky with a temperature of 21 C (69.8 F). Wind is blowing from the East at 10.3 kph (6.4 mph) and the humidity is 21%",
+  "reason": "The message is classified as clean because it provides weather information for a specific location without containing any offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

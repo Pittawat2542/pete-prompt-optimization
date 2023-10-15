@@ -1,0 +1,8 @@
+{
+  "message": "I think you're mistaken about that.",
+  "reason": "This message is polite and respectful, expressing a differing opinion without resorting to offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,9 @@
+Message: "I think your idea is stupid and you're a fool for suggesting it."
+
+```json
+{
+"message": "I think your idea is stupid and you're a fool for suggesting it.",
+"reason": "The message contains disrespectful language and personal attacks.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "laners dying even with vision ðŸ¤¡",
+"reason": "The message contains a negative sentiment and expresses frustration or disbelief about laners dying despite having vision. This indicates a negative or toxic tone.",
+"predicted": "toxic"
+}
+```

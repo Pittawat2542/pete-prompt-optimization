@@ -1,0 +1,8 @@
+{
+  "message": "kekwwwwwwww",
+  "reason": "The message is classified as 'clean' because it does not contain any explicit or offensive language. The model's prediction result also supports this classification as it has a high probability for the 'clean' category.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

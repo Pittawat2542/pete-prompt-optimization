@@ -1,0 +1,7 @@
+```json
+{
+"message": "rawryyLaugh NT NT",
+"reason": "The message contains the word 'rawryyLaugh' which does not have any toxic connotations. The presence of 'NT' does not provide enough context to determine if the message is toxic or clean.",
+"predicted": "clean"
+}
+```

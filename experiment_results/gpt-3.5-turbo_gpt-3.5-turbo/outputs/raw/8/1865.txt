@@ -1,0 +1,7 @@
+```json
+{
+"message": "faxGG faxGG faxGG",
+"reason": "The text is classified as toxic because it consists of repetitive and nonsensical content. The model has likely learned that such repetitive and nonsensical content is often associated with toxic behavior in online communities.",
+"predicted": "toxic"
+}
+```

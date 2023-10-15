@@ -1,0 +1,8 @@
+{
+  "message": "shady as hell",
+  "reason": "The message contains a negative sentiment and uses the phrase 'shady as hell', which indicates a potentially toxic or negative tone.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

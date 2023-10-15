@@ -1,0 +1,8 @@
+{
+  "message": "hell yeaaahh",
+  "reason": "The message contains positive and enthusiastic language, but it does not contain any offensive or harmful content. Therefore, it can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

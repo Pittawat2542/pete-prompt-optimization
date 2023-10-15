@@ -1,0 +1,8 @@
+{
+  "message": "!hs",
+  "reason": "The message is not offensive or disrespectful. It seems to be a command or a code, not directed towards anyone.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

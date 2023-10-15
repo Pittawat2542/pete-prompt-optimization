@@ -1,0 +1,7 @@
+```json
+{
+"message": "HOW LE FUCK DO I FIGHT AHRI",
+"reason": "The message contains offensive language ('LE FUCK') which indicates a toxic behavior. The use of offensive language is considered disrespectful and inappropriate in an online community.",
+"predicted": "toxic"
+}
+```

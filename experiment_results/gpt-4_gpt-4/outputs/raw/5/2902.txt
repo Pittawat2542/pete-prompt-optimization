@@ -1,0 +1,7 @@
+```json
+{
+"message": "All the subs because your bananas love you danucdBukulove mtgngHype @DanucD",
+"reason": "The message does not contain any offensive or disrespectful language. It seems to be a playful or humorous comment.",
+"predicted": "clean"
+}
+```

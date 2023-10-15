@@ -1,0 +1,7 @@
+```json
+{
+"message": "Wait a sec, this isnt my favorite champion",
+"reason": "The message does not contain any offensive or harmful language. It is a simple statement expressing surprise or disappointment about the current champion selection. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

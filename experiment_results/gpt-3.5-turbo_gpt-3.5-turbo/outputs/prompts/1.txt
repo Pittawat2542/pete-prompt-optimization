@@ -1,0 +1,19 @@
+Classify the following "Message" from chat in an online community into one of the specified categories along with a reason in the specified JSON format provided below in a Markdown code block (between ```json and ```).
+
+Categories: "toxic", "clean"
+
+Message: <message>
+
+Output format:
+```json
+{
+  "message": "<the given message>",
+  "reason": "<your reason for classification>",
+  "predicted": "<the predicted category>",
+}
+```
+
+You need to fill in the following information in the output:
+- Replace `<the given message>` with the actual message from the chat.
+- Provide a justification in `<your reason for classification>` explaining why you classified the message into that category.
+- Replace `<the predicted category>` with the category you believe the message belongs to (either "toxic" or "clean").

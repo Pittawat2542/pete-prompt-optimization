@@ -1,0 +1,8 @@
+{
+  "message": "oh shit guys",
+  "reason": "The message contains an obscene word which is considered offensive.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

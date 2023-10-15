@@ -1,0 +1,8 @@
+{
+  "message": "!subs",
+  "reason": "The message '!subs' is a command used to request information about subscriptions. It does not contain any toxic or offensive language.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

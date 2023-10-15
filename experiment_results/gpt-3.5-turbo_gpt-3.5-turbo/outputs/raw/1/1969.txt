@@ -1,0 +1,7 @@
+```json
+{
+  "message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
+  "reason": "The message contains the phrase 'being bad is now my brand', which suggests a negative or toxic attitude. The use of the word 'bad' implies a willingness to engage in harmful or negative behavior. Therefore, the message can be classified as toxic.",
+  "predicted": "toxic"
+}
+```

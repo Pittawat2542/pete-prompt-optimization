@@ -1,0 +1,8 @@
+{
+  "message": "!gift @shanabana",
+  "reason": "The message is a friendly interaction, likely offering a gift to another user.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

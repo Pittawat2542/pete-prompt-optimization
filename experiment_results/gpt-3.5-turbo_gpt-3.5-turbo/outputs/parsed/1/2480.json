@@ -1,0 +1,8 @@
+{
+  "message": "@animoputt I get it dude. just pokin ya.",
+  "reason": "The message is friendly and light-hearted, with the user acknowledging that they understand the other person's perspective and jokingly poking fun at them. There is no offensive or harmful language used.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

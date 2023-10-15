@@ -1,0 +1,8 @@
+{
+  "message": "chocotGotem chocotGotem chocotGotem",
+  "reason": "The message consists of repetitive and nonsensical words, which does not contribute to any meaningful conversation. This indicates that the message is spam or trolling, making it toxic.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

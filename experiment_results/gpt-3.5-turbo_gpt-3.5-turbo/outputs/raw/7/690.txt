@@ -1,0 +1,7 @@
+```json
+{
+"message": "BALANCED KEKW",
+"reason": "The message 'BALANCED KEKW' is classified as 'clean' because it does not contain any offensive or toxic language. The word 'BALANCED' is a positive term and 'KEKW' is an emote used to express laughter or amusement. Therefore, the message is considered clean.",
+"predicted": "clean"
+}
+```

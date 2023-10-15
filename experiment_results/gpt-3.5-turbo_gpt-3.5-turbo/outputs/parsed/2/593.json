@@ -1,0 +1,8 @@
+{
+  "message": "5Head",
+  "reason": "The message '5Head' does not contain any offensive or harmful language. It appears to be a slang term used in online communities to refer to someone who is intelligent or clever. Therefore, it can be classified as a clean message.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "gg",
+"reason": "The message consists of only two letters 'g' and 'g', which are commonly used as an abbreviation for 'good game' in online gaming communities. It does not contain any offensive or harmful content.",
+"predicted": "clean"
+}
+```

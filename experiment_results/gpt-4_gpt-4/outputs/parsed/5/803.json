@@ -1,0 +1,8 @@
+{
+  "message": "stop watch Pog",
+  "reason": "The message does not contain any offensive or disrespectful language. 'Pog' is a term used in online gaming communities to express excitement or surprise.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

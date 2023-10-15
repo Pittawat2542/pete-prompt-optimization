@@ -1,0 +1,7 @@
+```json
+{
+"message": "@RisenEsportsNA Just doing the right thing @RisenEsportsNA.\n\nHowever, I better not catch you doing the same thing for your League of Legends team competing in @UpsurgeGG.",
+"reason": "The message does not contain any offensive or harmful language. It seems to be a positive comment about someone doing the right thing. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

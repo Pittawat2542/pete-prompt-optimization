@@ -1,0 +1,7 @@
+```json
+{
+"message": "how old she is",
+"reason": "The message is a neutral question asking about someone's age. It does not contain any offensive or harmful language.",
+"predicted": "clean"
+}
+```

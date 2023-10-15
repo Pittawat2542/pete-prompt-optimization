@@ -1,0 +1,8 @@
+{
+  "message": "Greetings from New Orleans",
+  "reason": "The message is a friendly greeting and does not contain any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

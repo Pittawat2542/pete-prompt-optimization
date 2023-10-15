@@ -1,0 +1,8 @@
+{
+  "message": "Nt",
+  "reason": "The message consists of only two characters, which makes it difficult to determine its meaning or intent. Without further context, it is not possible to classify it as toxic or clean.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

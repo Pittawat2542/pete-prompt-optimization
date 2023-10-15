@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner",
+"reason": "The text consists of repetitive phrases without any context or meaningful content. It does not contain any offensive or harmful language. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "HELL NO",
+"reason": "The message contains strong language and is written in all caps, which indicates a negative and aggressive tone. This suggests that the message is toxic.",
+"predicted": "toxic"
+}
+```

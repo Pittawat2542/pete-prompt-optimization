@@ -1,0 +1,7 @@
+```json
+{
+"message": "ha ha ha comms",
+"reason": "The message consists of repetitive laughter and a common abbreviation 'comms'.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "Taking a shit ehun ehun ehun ehun",
+"reason": "The message contains explicit language and is considered offensive and vulgar. The presence of the phrase 'Taking a shit' indicates a disrespectful and inappropriate tone.",
+"predicted": "toxic"
+}
+```

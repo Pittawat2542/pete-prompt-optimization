@@ -1,0 +1,7 @@
+```json
+{
+"message": "Stupid net tbh",
+"reason": "The message is classified as toxic because it contains the word 'stupid', which is derogatory and insulting. The use of such language indicates a negative and disrespectful attitude towards the subject being discussed.",
+"predicted": "toxic"
+}
+```

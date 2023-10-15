@@ -1,0 +1,8 @@
+{
+  "message": "shes a girl...DAAAA",
+  "reason": "The message contains an exclamation mark and the word 'DAAAA', which indicates a strong and potentially aggressive tone. This suggests that the message may be toxic.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

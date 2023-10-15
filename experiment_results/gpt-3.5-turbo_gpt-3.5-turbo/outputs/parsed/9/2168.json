@@ -1,0 +1,8 @@
+{
+  "message": "shes a girl...DAAAA",
+  "reason": "The message contains a derogatory term ('DAAAA') which is likely to be considered toxic. The use of derogatory language towards someone based on their gender is disrespectful and offensive.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

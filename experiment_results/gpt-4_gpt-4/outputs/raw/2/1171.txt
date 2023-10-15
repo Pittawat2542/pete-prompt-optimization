@@ -1,0 +1,39 @@
+Message: "You're such a loser! Can't believe you're still playing this game."
+
+```json
+{
+"message": "You're such a loser! Can't believe you're still playing this game.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards the recipient.",
+"predicted": "toxic"
+}
+```
+
+Message: "I'm stuck at level 3. Can anyone help me out?"
+
+```json
+{
+"message": "I'm stuck at level 3. Can anyone help me out?",
+"reason": "This message is clean as it is a polite request for help without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "This game is so boring. Only idiots would play it."
+
+```json
+{
+"message": "This game is so boring. Only idiots would play it.",
+"reason": "This message is considered toxic due to its disrespectful tone and offensive language directed at players of the game.",
+"predicted": "toxic"
+}
+```
+
+Message: "Just completed the final mission. It was quite challenging but fun."
+
+```json
+{
+"message": "Just completed the final mission. It was quite challenging but fun.",
+"reason": "This message is clean as it shares a personal experience without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

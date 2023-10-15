@@ -1,0 +1,8 @@
+{
+  "message": "XD I am gonna get that catch-phrased I promise Tig lol",
+  "reason": "The message is classified as clean because it contains positive and playful language, such as 'XD', 'gonna', 'catch-phrased', 'promise', and 'lol'. The presence of these elements suggests a friendly and non-toxic tone.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

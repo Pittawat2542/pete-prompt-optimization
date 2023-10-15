@@ -1,0 +1,7 @@
+```json
+{
+"message": "Samira is sick as fuck omg",
+"reason": "The message contains strong profanity ('sick as fuck') which is considered toxic and offensive. The use of such language violates the community guidelines and can create a negative and hostile environment for other users.",
+"predicted": "toxic"
+}
+```

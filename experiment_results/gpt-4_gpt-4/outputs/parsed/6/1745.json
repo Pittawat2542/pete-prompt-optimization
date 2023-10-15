@@ -1,0 +1,8 @@
+{
+  "message": "WeirdChamp",
+  "reason": "The message 'WeirdChamp' is a popular emote used in online gaming communities, particularly on Twitch. It doesn't contain any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

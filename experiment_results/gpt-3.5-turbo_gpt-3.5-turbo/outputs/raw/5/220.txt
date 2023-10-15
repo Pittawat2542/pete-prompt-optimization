@@ -1,0 +1,7 @@
+```json
+{
+"message": "Fuck up a turret dive as graves and went afk",
+"reason": "The message contains offensive language ('Fuck up') which is considered toxic. Additionally, the user admits to intentionally going AFK (away from keyboard) which disrupts the gameplay experience for others. This behavior is also considered toxic in online communities.",
+"predicted": "toxic"
+}
+```

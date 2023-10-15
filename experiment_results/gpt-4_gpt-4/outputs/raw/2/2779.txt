@@ -1,0 +1,39 @@
+Message: "You're always so helpful, thank you!"
+
+```json
+{
+"message": "You're always so helpful, thank you!",
+"reason": "This message is polite and expresses gratitude, without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "This is the dumbest thing I've ever read."
+
+```json
+{
+"message": "This is the dumbest thing I've ever read.",
+"reason": "This message is considered toxic due to its use of derogatory language to belittle someone's contribution or opinion.",
+"predicted": "toxic"
+}
+```
+
+Message: "I don't agree with your point, but I appreciate your perspective."
+
+```json
+{
+"message": "I don't agree with your point, but I appreciate your perspective.",
+"reason": "This message is respectful and polite, expressing disagreement without resorting to offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser, get a life!"
+
+```json
+{
+"message": "You're such a loser, get a life!",
+"reason": "This message is considered toxic due to its use of derogatory language and personal attack.",
+"predicted": "toxic"
+}
+```

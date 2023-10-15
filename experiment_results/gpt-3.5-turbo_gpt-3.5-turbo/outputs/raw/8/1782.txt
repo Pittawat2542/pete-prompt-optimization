@@ -1,0 +1,7 @@
+```json
+{
+"message": "jd",
+"reason": "The text 'jd' does not provide enough information to determine its category. It could be a username or an abbreviation that does not convey any toxic or clean content.",
+"predicted": "clean"
+}
+```

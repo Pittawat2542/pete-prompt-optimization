@@ -1,0 +1,8 @@
+{
+  "message": "> who the FUCK plays asol i BAN aury sol",
+  "reason": "The message contains offensive language ('FUCK') and is directed towards another player ('who the FUCK plays asol'). This indicates a toxic behavior.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

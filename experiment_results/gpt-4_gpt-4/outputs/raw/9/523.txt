@@ -1,0 +1,9 @@
+Message: I think you're wrong about that. The data clearly shows a different trend.
+
+```json
+{
+"message": "I think you're wrong about that. The data clearly shows a different trend.",
+"reason": "The message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

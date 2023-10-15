@@ -1,0 +1,7 @@
+```json
+{
+  "message": "@mfyntz tgl5Head",
+  "reason": "The message contains a username mention followed by an emote. There is no offensive or harmful language used in the message.",
+  "predicted": "clean"
+}
+```

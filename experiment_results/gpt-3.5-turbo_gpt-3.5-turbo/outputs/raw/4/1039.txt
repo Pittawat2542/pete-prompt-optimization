@@ -1,0 +1,7 @@
+```json
+{
+"message": "emojis here suck tbh",
+"reason": "The message contains negative sentiment and expresses dissatisfaction with the emojis. The model predicted the category as 'toxic' based on the presence of negative sentiment.",
+"predicted": "toxic"
+}
+```

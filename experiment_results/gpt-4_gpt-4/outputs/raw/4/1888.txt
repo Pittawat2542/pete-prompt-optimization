@@ -1,0 +1,7 @@
+```json
+{
+"message": "NotLikeThis danucdFacepalm chat",
+"reason": "The message does not contain any offensive, rude, or disrespectful language. It seems to be using emoticons or specific community slang, which does not inherently convey toxicity.",
+"predicted": "clean"
+}
+```

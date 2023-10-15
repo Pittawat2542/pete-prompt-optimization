@@ -1,0 +1,8 @@
+{
+  "message": "dont know why every game i get people like this on my team",
+  "reason": "The message expresses frustration but does not contain offensive language, personal attacks, or disrespectful tones.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-4"
+}

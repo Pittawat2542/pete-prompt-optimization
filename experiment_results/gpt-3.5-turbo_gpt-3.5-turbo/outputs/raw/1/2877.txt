@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Good shit",
+  "reason": "The message contains a positive adjective followed by a slang term. Although the term 'shit' may be considered vulgar in some contexts, in this case, it is used to express approval or excitement. Therefore, the message is classified as clean.",
+  "predicted": "clean"
+}
+```

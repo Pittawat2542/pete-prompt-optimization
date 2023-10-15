@@ -1,0 +1,7 @@
+```json
+{
+  "message": "why asia server ?",
+  "reason": "The message does not contain any offensive or harmful language. It is a simple question about the choice of server.",
+  "predicted": "clean"
+}
+```

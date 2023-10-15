@@ -1,0 +1,8 @@
+{
+  "message": "Hell no ew",
+  "reason": "The message 'Hell no ew' contains the word 'Hell' which can be considered as offensive or toxic. The word 'ew' which is often used to express disgust can also contribute to the toxic nature of the message. Therefore, based on the presence of offensive words, the message is classified as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

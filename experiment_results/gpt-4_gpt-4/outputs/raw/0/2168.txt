@@ -1,0 +1,7 @@
+```json
+{
+"message": "shes a girl...DAAAA",
+"reason": "The message does not contain any offensive or harmful language. It seems to be a sarcastic comment or a joke.",
+"predicted": "clean"
+}
+```

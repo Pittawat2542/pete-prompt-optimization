@@ -1,0 +1,8 @@
+{
+  "message": "fuck",
+  "reason": "The predicted category is 'toxic' because the word 'fuck' is a profanity and is considered offensive and disrespectful. The model has likely classified this message as toxic based on the presence of this explicit language.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

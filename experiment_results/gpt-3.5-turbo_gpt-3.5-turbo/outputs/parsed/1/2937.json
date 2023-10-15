@@ -1,0 +1,8 @@
+{
+  "message": "but it sucks that we dont have enough player to do that now @hambinooo",
+  "reason": "The message expresses disappointment about not having enough players to do something. Although it uses the word 'sucks', it does not contain any offensive or harmful language. The mention of '@hambinooo' suggests that the message is directed at a specific user, but it does not necessarily make the message toxic.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

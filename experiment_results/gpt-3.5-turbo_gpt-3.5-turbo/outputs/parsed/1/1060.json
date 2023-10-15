@@ -1,0 +1,8 @@
+{
+  "message": "why he is calling u idiot tho? \u00f0\u0178\u02dc\u00ae",
+  "reason": "The message contains an offensive term ('idiot') and an emoticon ('\u00f0\u0178\u02dc\u00ae') that indicates negative sentiment. This suggests that the message is toxic and intended to insult or offend someone.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

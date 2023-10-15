@@ -1,0 +1,8 @@
+{
+  "message": "@Thebausffs just scared the shit out of my dog",
+  "reason": "The message contains a mild swear word which can be considered as offensive language.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

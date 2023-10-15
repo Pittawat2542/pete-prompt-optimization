@@ -1,0 +1,8 @@
+{
+  "message": "I fucking love those videos",
+  "reason": "The message contains strong profanity ('fucking'), which indicates a toxic sentiment.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

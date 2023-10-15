@@ -1,0 +1,8 @@
+{
+  "message": "oh so jg duo means you roam and shit together?",
+  "reason": "The message contains a slang term that could be considered vulgar, but it's used in a non-offensive context to describe an action in a game. It does not target or insult anyone.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

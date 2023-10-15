@@ -1,0 +1,7 @@
+```json
+{
+"message": "shady as hell",
+"reason": "The text contains a negative sentiment and uses the phrase 'as hell', which is often associated with strong language. This suggests that the message is likely to be toxic.",
+"predicted": "toxic"
+}
+```

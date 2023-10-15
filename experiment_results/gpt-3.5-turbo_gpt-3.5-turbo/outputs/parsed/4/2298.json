@@ -1,0 +1,8 @@
+{
+  "message": "4X m249 op on sanhok",
+  "reason": "The message does not contain any offensive or harmful language. It appears to be a discussion about a weapon in a video game, specifically the 4X scope and the M249 gun on the Sanhok map. This is a clean message as it does not violate any community guidelines or contain any toxic content.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

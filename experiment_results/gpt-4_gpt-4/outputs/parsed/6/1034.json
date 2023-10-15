@@ -1,0 +1,8 @@
+{
+  "message": "cod is crap which one?",
+  "reason": "The message uses a disrespectful term to describe 'cod' (which could refer to a game like Call of Duty or a type of fish). This can be seen as offensive to some people.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

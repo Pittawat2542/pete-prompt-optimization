@@ -1,0 +1,7 @@
+```json
+{
+"message": "cause im an idiot lol",
+"reason": "The text contains self-deprecating language and the term 'idiot', which can be considered as negative and derogatory. This indicates a toxic tone.",
+"predicted": "toxic"
+}
+```

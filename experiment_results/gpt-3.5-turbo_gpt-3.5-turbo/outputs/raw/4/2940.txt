@@ -1,0 +1,7 @@
+```json
+{
+"message": "damnnn",
+"reason": "The message is classified as toxic because it contains multiple consecutive letters in the word 'damnnn', which is often associated with strong negative emotions or offensive language.",
+"predicted": "toxic"
+}
+```

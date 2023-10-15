@@ -1,0 +1,8 @@
+{
+  "message": "YOU'RE SO GOOD",
+  "reason": "The message is classified as 'clean' because it contains positive sentiment and does not exhibit any toxic or offensive language.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

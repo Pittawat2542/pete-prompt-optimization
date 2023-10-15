@@ -1,0 +1,9 @@
+Message: I think you're wrong about that.
+
+```json
+{
+"message": "I think you're wrong about that.",
+"reason": "The message is a simple disagreement and does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

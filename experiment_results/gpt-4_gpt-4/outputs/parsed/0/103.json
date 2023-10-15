@@ -1,0 +1,8 @@
+{
+  "message": "Just due to their sheer kits and presence they have",
+  "reason": "The message is a neutral statement about someone's kits and presence. It doesn't contain any offensive or harmful content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

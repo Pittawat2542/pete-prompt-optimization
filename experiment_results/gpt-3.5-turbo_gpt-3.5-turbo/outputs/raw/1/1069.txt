@@ -1,0 +1,7 @@
+```json
+{
+  "message": "The hell",
+  "reason": "The message contains a mild expletive, but it is not directed towards anyone or used in a harmful or offensive manner. It is a common expression used to express surprise or disbelief. Therefore, the message can be classified as clean.",
+  "predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "danucdPotato LUL",
+  "reason": "The message contains an emote 'LUL' which is commonly used to express laughter or amusement. It does not contain any offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

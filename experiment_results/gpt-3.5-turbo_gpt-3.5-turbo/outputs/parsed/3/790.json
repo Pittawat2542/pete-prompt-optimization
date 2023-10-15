@@ -1,0 +1,8 @@
+{
+  "message": "ewqawertqerqawertesaqweewtqa",
+  "reason": "The message is classified as 'clean' because it does not contain any recognizable words or meaningful content. The model predicts it as 'clean' based on the absence of toxic language or any other indicators of toxicity.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

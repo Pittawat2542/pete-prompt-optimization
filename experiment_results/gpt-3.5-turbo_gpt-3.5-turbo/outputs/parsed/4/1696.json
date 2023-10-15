@@ -1,0 +1,8 @@
+{
+  "message": "danucdPotato LUL",
+  "reason": "The message is classified as 'clean' because it does not contain any offensive or harmful language. The word 'Potato' is not considered toxic or offensive in this context.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

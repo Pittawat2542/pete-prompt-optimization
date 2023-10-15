@@ -1,0 +1,8 @@
+{
+  "message": "Fuck off chat, that guy deserves to be banned for risking this channels life",
+  "reason": "The message contains offensive language directed towards the chat.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

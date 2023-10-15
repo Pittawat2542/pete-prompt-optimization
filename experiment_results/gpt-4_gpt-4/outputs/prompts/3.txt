@@ -1,0 +1,40 @@
+In this task, you will be performing a text analysis on a provided "Message". The message has been sourced from a conversation taking place in an online community. Based on the content, you are to decide if the statement can be categorized as either "Toxic" or "Clean".
+
+"Toxic" messages are defined as any piece of conversation that includes offensive, impolite, or disrespectful tones or language. This can involve, but isn't limited to, slurs, offensive stereotypes, personal attacks, or violent threats.
+
+In contrast, if a message doesn't entail any of the negative aspects noted above, it is considered "Clean". These are messages that are respectful, polite, and free from offensive language.
+
+Once you have made your prediction, the result should be created in a JSON format within a Markdown block. The block should start with ```json and end with ```. Your result must include the specifics of the "Message", the "Reason" for your classification, and the "Predicted" category. 
+
+Given Message: <message>
+
+Your output should follow the format below:
+```json
+{
+"message": "<the given message>",
+"reason": "<summary for your classification>",
+"predicted": "<predicted category - either 'toxic' or 'clean'>"
+}
+```
+The '<>' placeholders should be replaced with the actual relevant data. Now let's consider a couple of examples:
+
+A message containing offensive language could be represented like below:
+
+```json
+{
+"message": "You are ridiculous",
+"reason": "The message includes disrespectful language towards someone.",
+"predicted": "toxic"
+}
+```
+
+Should the message be respectful and free of offensive language, it might look like this:
+
+```json
+{
+"message": "Congrats on your promotion!",
+"reason": "The message contains no offensive language and is acknowledging someone's achievement.",
+"predicted": "clean"
+}
+```
+This is how you are expected to provide your analysis and categorization of the given message. Be sure to accurately assess the tone and language used within the conversation.

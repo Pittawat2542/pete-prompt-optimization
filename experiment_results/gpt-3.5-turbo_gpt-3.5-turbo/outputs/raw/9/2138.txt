@@ -1,0 +1,7 @@
+```json
+{
+"message": "I can translate for ya if u want",
+"reason": "The message is clean because it is a helpful and polite offer to translate for someone.",
+"predicted": "clean"
+}
+```

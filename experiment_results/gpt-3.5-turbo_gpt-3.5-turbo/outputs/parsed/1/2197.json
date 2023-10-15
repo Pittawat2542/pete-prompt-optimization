@@ -1,0 +1,8 @@
+{
+  "message": "he said frist time FPP",
+  "reason": "The message does not contain any offensive or harmful language. It appears to be a simple statement about someone mentioning 'frist time FPP'.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

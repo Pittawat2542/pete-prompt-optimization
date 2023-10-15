@@ -1,0 +1,8 @@
+{
+  "message": "@Yamikazexz who's your twitch crush? like a female streamer not taco LUL",
+  "reason": "The message is classified as clean. Although the message mentions a twitch crush and a female streamer, there is no explicit toxicity or offensive language present. The use of 'LUL' indicates that the message is meant to be humorous or lighthearted.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

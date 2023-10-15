@@ -1,0 +1,8 @@
+{
+  "message": "there are many cheaters in china",
+  "reason": "The message contains a negative statement about a group of people based on their nationality, which can be considered as a form of discrimination or prejudice. This aligns with the toxic category.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "@xDEEDAN bot danucdDanu2",
+"reason": "The message contains a combination of usernames and the word 'bot', which suggests it may be related to automated or spam content.",
+"predicted": "toxic"
+}
+```

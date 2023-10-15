@@ -1,0 +1,8 @@
+{
+  "message": "oh shit man... great stuff!",
+  "reason": "The text contains a mild profanity ('shit'), but it is followed by a positive sentiment ('great stuff'). The model may have classified it as toxic due to the presence of profanity, but the overall sentiment is positive.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

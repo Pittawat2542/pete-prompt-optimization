@@ -1,0 +1,8 @@
+{
+  "message": "how the fuck that last bullet didn't kill you",
+  "reason": "The message contains offensive language and could be interpreted as a threat or display of hostility.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

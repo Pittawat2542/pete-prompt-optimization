@@ -1,0 +1,8 @@
+{
+  "message": "215 cs",
+  "reason": "The message '215 cs' does not contain any toxic or offensive language. It appears to be a simple statement indicating the number of 'cs' (creep score) achieved in a game. Therefore, it can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

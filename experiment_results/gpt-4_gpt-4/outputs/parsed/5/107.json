@@ -1,0 +1,8 @@
+{
+  "message": "In 12 mins",
+  "reason": "The message is simply stating a time duration and does not contain any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Good shit",
+  "reason": "The message contains a positive adjective followed by a slang term, which can be interpreted as a positive expression.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "hi yamikaze do you know enthralled?",
+"reason": "The text is clean because it is a polite greeting and a question about someone's knowledge.",
+"predicted": "clean"
+}
+```

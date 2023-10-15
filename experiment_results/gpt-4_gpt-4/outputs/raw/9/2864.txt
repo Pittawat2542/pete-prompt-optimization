@@ -1,0 +1,9 @@
+Message: I'm so proud of you! You've worked hard for this.
+
+```json
+{
+"message": "I'm so proud of you! You've worked hard for this.",
+"reason": "The message carries a positive sentiment and does not contain any offensive language.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
+  "reason": "The message contains a mention of another user, but it does not appear to be toxic. The phrase 'getting close to 400 CS DOINB HACK' seems to be a compliment or praise for the user's skill in the game. Therefore, the message can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "@der_bisang he can miss it, long cd, needs grit. camille? she doesn't give a shit, spam Q for 1k true dmg YEP",
+"reason": "The message contains a phrase that can be considered as offensive language ('doesn't give a shit').",
+"predicted": "toxic"
+}
+```

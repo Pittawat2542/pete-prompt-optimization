@@ -1,0 +1,8 @@
+{
+  "message": "basically a huge fuck you to all assassins",
+  "reason": "The message contains offensive language ('fuck you'), which is indicative of toxic behavior.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

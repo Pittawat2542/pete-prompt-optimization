@@ -1,0 +1,8 @@
+{
+  "message": "damnnn",
+  "reason": "The message contains a slang term with multiple 'n's, which is often used to express excitement or surprise. This type of language is commonly used in casual conversations and does not appear to be toxic or offensive.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

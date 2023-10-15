@@ -1,0 +1,7 @@
+```json
+{
+"message": "Start with this and upgrade if it's shit",
+"reason": "The predicted category is 'clean'. The message does not contain any offensive or harmful language. It simply suggests starting with something and upgrading if it is not satisfactory. The absence of toxic language or negative sentiment indicates that the message is clean.",
+"predicted": "clean"
+}
+```

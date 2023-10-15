@@ -1,0 +1,8 @@
+{
+  "message": "guys where to watch ??",
+  "reason": "The message does not contain any offensive or harmful language. It is a simple question asking for recommendations on where to watch something. Therefore, it can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "I can't believe you would say something like that!",
+  "reason": "The message contains strong negative sentiment and expresses disbelief towards something said. This indicates a toxic tone.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

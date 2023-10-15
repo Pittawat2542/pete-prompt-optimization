@@ -1,0 +1,7 @@
+```json
+{
+"message": "@der_bisang he can miss it, long cd, needs grit. camille? she doesn't give a shit, spam Q for 1k true dmg YEP",
+"reason": "The message contains a mild obscenity but it is not directed towards any individual or group, rather it is used to express a point about a game character. The language is not offensive, rude, or disrespectful.",
+"predicted": "clean"
+}
+```

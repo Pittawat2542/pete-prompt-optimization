@@ -1,0 +1,7 @@
+```json
+{
+"message": "Holy fuck you actually did it you madman",
+"reason": "The message contains strong profanity ('fuck') which is considered toxic. Additionally, the use of 'madman' can be interpreted as an insult or derogatory term, contributing to the toxic nature of the message.",
+"predicted": "toxic"
+}
+```

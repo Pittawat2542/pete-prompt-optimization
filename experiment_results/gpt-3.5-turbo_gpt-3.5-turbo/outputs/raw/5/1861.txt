@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner",
+"reason": "The message consists of repetitive text, which does not contain any toxic or harmful content. It appears to be a spam or repetitive message, but it does not violate any community guidelines or contain any offensive language. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

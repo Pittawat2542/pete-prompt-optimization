@@ -1,0 +1,8 @@
+{
+  "message": "ha ha ha",
+  "reason": "The message is simply laughter and contains no offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

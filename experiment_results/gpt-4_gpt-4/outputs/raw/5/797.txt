@@ -1,0 +1,7 @@
+```json
+{
+"message": "Pepega",
+"reason": "The message is a term from the Twitch.tv community, often used to denote a silly or stupid action. It does not contain offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

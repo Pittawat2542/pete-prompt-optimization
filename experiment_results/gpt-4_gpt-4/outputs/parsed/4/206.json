@@ -1,0 +1,8 @@
+{
+  "message": "THIS GAME MIGHT AS WELL RESET MY FUCKING LP TO 0",
+  "reason": "The message contains obscene language and expresses frustration in a disrespectful manner.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

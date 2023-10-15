@@ -1,0 +1,7 @@
+```json
+{
+"message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
+"reason": "The message contains a mention of another user, which is often used in toxic behavior to target and harass individuals.",
+"predicted": "toxic"
+}
+```

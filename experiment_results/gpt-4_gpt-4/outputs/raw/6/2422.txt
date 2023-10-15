@@ -1,0 +1,7 @@
+```json
+{
+"message": "Bose QC20 (apple version). Ibi uses in ears instead of a headset because he has to use in ears at LANs. This way he gets used to it ibiW",
+"reason": "The message is about a user's preference for a particular type of headphones. It does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

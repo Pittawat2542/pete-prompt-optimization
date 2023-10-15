@@ -1,0 +1,8 @@
+{
+  "message": "Scrims at 1900 CET to be streamed at (stream: tba)",
+  "reason": "The message does not contain any offensive or harmful language. It is simply informing the community about scrims that will be streamed. There is no indication of toxicity or any violation of community guidelines.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

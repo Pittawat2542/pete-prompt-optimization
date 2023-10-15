@@ -1,0 +1,8 @@
+{
+  "message": "Im not a fucking loser",
+  "reason": "The predicted category is 'toxic' because the message contains offensive language ('fucking'). The model has likely classified it as toxic based on the presence of this offensive word.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

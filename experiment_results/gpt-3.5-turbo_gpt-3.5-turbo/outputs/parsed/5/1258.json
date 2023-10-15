@@ -1,0 +1,8 @@
+{
+  "message": "danucdSaspisas danucdSASPISHAS",
+  "reason": "The message does not contain any explicit toxic language or offensive content. It appears to be a random combination of characters without any clear meaning or context. Therefore, it can be classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

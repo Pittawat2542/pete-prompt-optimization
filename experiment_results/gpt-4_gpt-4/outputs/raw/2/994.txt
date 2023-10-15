@@ -1,0 +1,39 @@
+Message: "I think your idea is not feasible. We should consider other options."
+
+```json
+{
+"message": "I think your idea is not feasible. We should consider other options.",
+"reason": "This message is considered clean as it is a constructive criticism and does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser! Can't you do anything right?"
+
+```json
+{
+"message": "You're such a loser! Can't you do anything right?",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I disagree with your point of view, but I respect your right to have an opinion."
+
+```json
+{
+"message": "I disagree with your point of view, but I respect your right to have an opinion.",
+"reason": "This message is considered clean as it expresses disagreement in a respectful manner.",
+"predicted": "clean"
+}
+```
+
+Message: "You're so stupid! I can't believe you said that."
+
+```json
+{
+"message": "You're so stupid! I can't believe you said that.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+"predicted": "toxic"
+}
+```

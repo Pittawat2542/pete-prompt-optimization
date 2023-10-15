@@ -1,0 +1,7 @@
+```json
+{
+"message": "@melihozkiremitci cya",
+"reason": "The message is classified as 'clean' because it does not contain any offensive or harmful language. It is a simple and friendly message saying 'cya', which is a common abbreviation for 'see you'.",
+"predicted": "clean"
+}
+```

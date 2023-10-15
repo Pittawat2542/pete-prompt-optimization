@@ -1,0 +1,8 @@
+{
+  "message": "https://specs.gg/tgltn",
+  "reason": "The message is classified as 'clean' because it is a URL and does not contain any text that could be considered toxic.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

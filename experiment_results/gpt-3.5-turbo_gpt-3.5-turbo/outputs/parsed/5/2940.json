@@ -1,0 +1,8 @@
+{
+  "message": "damnnn",
+  "reason": "The message 'damnnn' is classified as toxic because it contains multiple consecutive letters 'n' which is often associated with negative or aggressive expressions. Additionally, the message lacks context and can be interpreted as a derogatory or offensive remark.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

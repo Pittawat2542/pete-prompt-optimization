@@ -1,0 +1,8 @@
+{
+  "message": "Dude tglWtf",
+  "reason": "The message does not contain any offensive, rude, or disrespectful language. It seems to be a casual conversation with the use of internet slang or abbreviations.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

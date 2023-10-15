@@ -1,0 +1,8 @@
+{
+  "message": "@xDEEDAN bot danucdDanu2",
+  "reason": "The message contains a mention of a user (@xDEEDAN) and a mention of a bot (bot danucdDanu2). There is no explicit toxic language or harmful content in the message.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

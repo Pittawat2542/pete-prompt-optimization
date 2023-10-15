@@ -1,0 +1,7 @@
+```json
+{
+"message": "it was the evelynn game, he even stole my fucking champ",
+"reason": "The message contains offensive language ('fucking') which indicates toxicity.",
+"predicted": "toxic"
+}
+```

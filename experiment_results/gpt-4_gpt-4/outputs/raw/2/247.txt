@@ -1,0 +1,39 @@
+Message: > I can't believe you're so stupid to think that way.
+
+```json
+{
+"message": "I can't believe you're so stupid to think that way.",
+"reason": "This message is considered toxic due to its use of derogatory language directed at someone's intelligence.",
+"predicted": "toxic"
+}
+```
+
+Message: > I disagree with your point of view, but I respect your right to have it.
+
+```json
+{
+"message": "I disagree with your point of view, but I respect your right to have it.",
+"reason": "This message is clean as it expresses disagreement in a respectful manner without using offensive language.",
+"predicted": "clean"
+}
+```
+
+Message: > You're such a loser for not understanding this simple concept.
+
+```json
+{
+"message": "You're such a loser for not understanding this simple concept.",
+"reason": "This message is considered toxic due to its use of derogatory language directed at someone's understanding.",
+"predicted": "toxic"
+}
+```
+
+Message: > Thank you for your insightful comment. I hadn't considered that perspective.
+
+```json
+{
+"message": "Thank you for your insightful comment. I hadn't considered that perspective.",
+"reason": "This message is clean as it expresses gratitude and openness to other perspectives without using offensive language.",
+"predicted": "clean"
+}
+```

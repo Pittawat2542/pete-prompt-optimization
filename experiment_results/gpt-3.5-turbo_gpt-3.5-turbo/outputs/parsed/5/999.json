@@ -1,0 +1,8 @@
+{
+  "message": "I suck so bad loool",
+  "reason": "The predicted category is 'toxic'. The phrase 'I suck so bad' is self-deprecating and negative, which can contribute to a toxic atmosphere. The use of 'loool' at the end may indicate sarcasm or mockery, further suggesting a toxic tone.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "11649 times KEKW",
+  "reason": "The text consists of a repeated phrase, 'KEKW', which is a popular emote used in online communities. Since the text does not contain any offensive or harmful language, it can be classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "ha ha ha comms",
+  "reason": "The message is not offensive, rude, or disrespectful. It seems to be a neutral or possibly humorous comment about communications.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

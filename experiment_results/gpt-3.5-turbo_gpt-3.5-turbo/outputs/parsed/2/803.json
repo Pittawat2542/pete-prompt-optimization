@@ -1,0 +1,8 @@
+{
+  "message": "stop watch Pog",
+  "reason": "The message contains the word 'Pog', which is a popular emote used in online gaming communities to express excitement or hype. This suggests that the message is likely positive and not toxic.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

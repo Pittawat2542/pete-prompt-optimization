@@ -1,0 +1,7 @@
+```json
+{
+"message": "bc my stupid dog eat it",
+"reason": "The text contains a misspelled word and uses informal language ('bc' instead of 'because'). The phrase 'my stupid dog eat it' suggests frustration or annoyance, which can be interpreted as toxic behavior.",
+"predicted": "toxic"
+}
+```

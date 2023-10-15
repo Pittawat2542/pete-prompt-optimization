@@ -1,0 +1,8 @@
+{
+  "message": "I fucking love those videos",
+  "reason": "The message contains offensive language, even though it expresses a positive sentiment.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-4"
+}

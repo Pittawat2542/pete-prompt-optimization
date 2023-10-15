@@ -1,0 +1,8 @@
+{
+  "message": "what did they do to you @Yamikazexz",
+  "reason": "The message does not contain any offensive or harmful language. It seems like a genuine question about something that happened to the user @Yamikazexz. There is no indication of toxicity or any negative intent.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

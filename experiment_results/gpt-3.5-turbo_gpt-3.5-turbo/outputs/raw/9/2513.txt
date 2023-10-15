@@ -1,0 +1,7 @@
+```json
+{
+  "message": "winking_face:",
+  "reason": "The message consists of an emoji, specifically a winking face. Emojis are typically neutral and do not convey any toxic or offensive content.",
+  "predicted": "clean"
+}
+```

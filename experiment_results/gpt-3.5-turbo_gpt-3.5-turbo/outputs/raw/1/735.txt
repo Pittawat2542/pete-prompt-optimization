@@ -1,0 +1,7 @@
+```json
+{
+  "message": "I mean Camille and Sett do so much True Damage so who cares about armor",
+  "reason": "The message is discussing the game mechanics of two champions and their ability to deal true damage. Although the tone may come across as dismissive, there is no explicit toxicity or offensive language used.",
+  "predicted": "clean"
+}
+```

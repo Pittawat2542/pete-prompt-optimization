@@ -1,0 +1,7 @@
+```json
+{
+"message": "I hate my life",
+"reason": "The predicted category is 'toxic' because the text contains negative sentiment and expresses a strong negative emotion ('hate'). This indicates that the message is likely to be toxic or harmful.",
+"predicted": "toxic"
+}
+```

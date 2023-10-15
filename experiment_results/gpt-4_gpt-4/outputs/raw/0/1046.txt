@@ -1,0 +1,7 @@
+```json
+{
+"message": "HELL NO",
+"reason": "The message is not offensive or harmful. It's just a strong disagreement or refusal.",
+"predicted": "clean",
+}
+```

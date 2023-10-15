@@ -1,0 +1,8 @@
+{
+  "message": "smd = shake my dick?",
+  "reason": "The message contains explicit and offensive language, which is inappropriate and disrespectful. It uses a vulgar term and implies a sexual connotation. This kind of content is considered toxic and goes against the community guidelines.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "@Adooool18 thank you gift ddanucdBukulove",
+"reason": "The text contains positive words like 'thank you' and 'gift', indicating a positive sentiment. There are no offensive or toxic words present. Therefore, the text can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

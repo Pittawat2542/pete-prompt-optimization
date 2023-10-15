@@ -1,0 +1,7 @@
+```json
+{
+"message": "daaaaam",
+"reason": "The predicted category is 'clean'. The word 'daaaaam' does not contain any explicit or offensive language. It is a simple expression that could be interpreted as surprise or excitement. The model correctly classified it as a clean message.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "HELL NO",
+  "reason": "The message contains strong language and is likely to be considered toxic.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "osu? woow",
+"reason": "The message doesn't contain any offensive or disrespectful language. It seems to be expressing surprise or interest in something.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "hmm I have never played this game, should I play squad or solo? fuck it lets play squad so i can fuck up my squadmates retard starter pack",
+"reason": "The message contains offensive language and derogatory terms directed towards potential squadmates in a game.",
+"predicted": "toxic"
+}
+```

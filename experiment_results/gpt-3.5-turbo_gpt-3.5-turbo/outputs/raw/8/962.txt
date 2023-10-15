@@ -1,0 +1,7 @@
+```json
+{
+"message": "fiesta fiesta pluma pluma gay",
+"reason": "The text contains the words 'fiesta', 'pluma', and 'gay', which are not inherently toxic or offensive. However, without further context, it is difficult to determine the intent or tone of the message. Therefore, the text can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

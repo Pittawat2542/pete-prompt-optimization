@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdSaspisas danucdSASPISHAS",
+"reason": "The message contains a combination of uppercase and lowercase letters, which is a common pattern in toxic messages. Additionally, the message consists of repeated words, which can be indicative of spam or trolling behavior. These patterns align with the toxic category.",
+"predicted": "toxic"
+}
+```

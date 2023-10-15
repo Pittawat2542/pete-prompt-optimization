@@ -1,0 +1,39 @@
+Message: "You're such a loser, can't even get a simple task done."
+
+```json
+{
+"message": "You're such a loser, can't even get a simple task done.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I appreciate your help with the project."
+
+```json
+{
+"message": "I appreciate your help with the project.",
+"reason": "This message is polite and expresses gratitude, hence it is considered clean.",
+"predicted": "clean"
+}
+```
+
+Message: "All women are bad at coding."
+
+```json
+{
+"message": "All women are bad at coding.",
+"reason": "This message is considered toxic due to its sexist language and generalization about a specific gender.",
+"predicted": "toxic"
+}
+```
+
+Message: "Could you please help me with this problem?"
+
+```json
+{
+"message": "Could you please help me with this problem?",
+"reason": "This message is polite and respectful, asking for help in a courteous manner, hence it is considered clean.",
+"predicted": "clean"
+}
+```

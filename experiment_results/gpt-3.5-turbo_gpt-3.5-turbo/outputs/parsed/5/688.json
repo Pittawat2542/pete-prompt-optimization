@@ -1,0 +1,8 @@
+{
+  "message": 800,
+  "reason": "The message cannot be classified into either 'toxic' or 'clean' category based on the given information.",
+  "predicted": "N/A",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

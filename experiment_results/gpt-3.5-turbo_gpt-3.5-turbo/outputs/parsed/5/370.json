@@ -1,0 +1,8 @@
+{
+  "message": "like holy shit make it stop",
+  "reason": "The message contains profanity ('holy shit') which is considered toxic. The use of strong language indicates a negative and potentially offensive tone.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

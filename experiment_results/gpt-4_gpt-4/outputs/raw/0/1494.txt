@@ -1,0 +1,7 @@
+```json
+{
+"message": "@Adooool18 thank you gift ddanucdBukulove",
+"reason": "The message is a positive one, expressing gratitude and possibly sharing a gift. There are no offensive or harmful words used.",
+"predicted": "clean"
+}
+```

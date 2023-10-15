@@ -1,0 +1,8 @@
+{
+  "message": "oh crap ruby u awake ??",
+  "reason": "The message contains a mild expletive, but it's not directed at anyone or used in a derogatory or offensive manner. It seems more like a casual, informal conversation.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

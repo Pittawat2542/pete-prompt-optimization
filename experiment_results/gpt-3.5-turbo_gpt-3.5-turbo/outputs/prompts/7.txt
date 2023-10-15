@@ -1,0 +1,19 @@
+Classify the "Message" provided below from a chat in an online community into one of the specified categories along with a reason in the specified JSON format in a Markdown code block (between `json` and `code`). Utilize the information from the "Prediction result" section to correctly classify the text.
+
+Categories: "toxic", "clean"
+
+Message: <message>
+
+Output format:
+```json
+{
+"message": <message>,
+"reason": <reason>,
+"predicted": <predicted category>
+}
+```
+
+Please adhere to the following rules:
+1. The content of the "Message" and "predicted category" must not be modified.
+2. The "reason" should provide an explanation or justification for the classification, based on the information obtained from the "Prediction result" section.
+3. Consider other examples in the "Prediction result" section to guide your classification. Use the patterns observed in those examples to accurately classify the given message.

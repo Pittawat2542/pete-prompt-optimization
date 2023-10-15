@@ -1,0 +1,7 @@
+```json
+{
+  "message": "BALANCED KEKW",
+  "reason": "The message contains a popular emote 'KEKW' which is often used in online communities to express laughter or amusement. There is no offensive or harmful content in the message.",
+  "predicted": "clean"
+}
+```

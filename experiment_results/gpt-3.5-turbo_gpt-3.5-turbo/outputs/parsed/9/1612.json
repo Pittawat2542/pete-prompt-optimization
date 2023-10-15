@@ -1,0 +1,8 @@
+{
+  "message": "danucdNo Fattttttiiiiiiiiiiiiiiiiiiiiiiii",
+  "reason": "The message contains derogatory language and insults, specifically targeting someone's weight. This falls under the category of toxic behavior.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

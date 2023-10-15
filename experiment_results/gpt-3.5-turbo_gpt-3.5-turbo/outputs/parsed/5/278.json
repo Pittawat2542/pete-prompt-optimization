@@ -1,0 +1,8 @@
+{
+  "message": "win the fight, die to a fucking mushroom walking away",
+  "reason": "The message contains offensive language ('fucking') which indicates toxicity. Additionally, the phrase 'die to a fucking mushroom' can be interpreted as a derogatory or disrespectful comment, suggesting a toxic tone.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

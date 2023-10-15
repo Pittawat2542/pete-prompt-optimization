@@ -1,0 +1,8 @@
+{
+  "message": "PepeLaugh",
+  "reason": "The message 'PepeLaugh' is a popular emote in online communities, particularly on Twitch. It is used to express laughter or amusement. It does not contain any offensive or harmful content, and therefore can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

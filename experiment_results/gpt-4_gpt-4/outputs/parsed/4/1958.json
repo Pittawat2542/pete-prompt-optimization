@@ -1,0 +1,8 @@
+{
+  "message": "https://specs.gg/tgltn",
+  "reason": "The message is a URL, which does not contain any text to evaluate for toxicity or cleanliness.",
+  "predicted": "Not applicable",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "EZ GG",
+  "reason": "The message contains the abbreviation 'EZ' which is commonly used in online gaming to mean 'easy'. Additionally, 'GG' is an abbreviation for 'good game'. Both of these phrases are often used in a positive and sportsmanlike manner, indicating that the message is clean.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

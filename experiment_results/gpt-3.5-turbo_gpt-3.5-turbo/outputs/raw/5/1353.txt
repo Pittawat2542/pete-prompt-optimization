@@ -1,0 +1,7 @@
+```json
+{
+"message": "@xDEEDAN bot danucdDanu2",
+"reason": "The message does not contain any explicit toxic language or harmful content. It appears to be a mention of a bot and a user's username. Therefore, it can be classified as clean.",
+"predicted": "clean"
+}
+```

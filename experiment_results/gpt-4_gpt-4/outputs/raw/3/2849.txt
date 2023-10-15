@@ -1,0 +1,7 @@
+```json
+{
+"message": "Stupid decisions mean stupid result",
+"reason": "The message uses the term 'stupid' which can be considered as disrespectful or offensive.",
+"predicted": "toxic"
+}
+```

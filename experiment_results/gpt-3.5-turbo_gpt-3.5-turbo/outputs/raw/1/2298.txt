@@ -1,0 +1,7 @@
+```json
+{
+  "message": "4X m249 op on sanhok",
+  "reason": "The message contains gaming jargon and abbreviations related to a specific game. It does not contain any offensive or harmful language.",
+  "predicted": "clean"
+}
+```

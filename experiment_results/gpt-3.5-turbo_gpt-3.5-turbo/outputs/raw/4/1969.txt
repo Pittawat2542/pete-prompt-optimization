@@ -1,0 +1,7 @@
+```json
+{
+"message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
+"reason": "The message does not contain any offensive or harmful language. It seems to be a statement about the person's decision to embrace a certain behavior or attitude. Although the phrase 'being bad' might suggest negativity, it is used in the context of creating a personal brand, which does not necessarily indicate toxicity.",
+"predicted": "clean"
+}
+```

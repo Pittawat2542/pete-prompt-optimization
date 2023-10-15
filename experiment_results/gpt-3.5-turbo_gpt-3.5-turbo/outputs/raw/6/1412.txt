@@ -1,0 +1,9 @@
+```json
+{
+"message": "@HamitCanKilic why i cant donate without login in with my fb or soemthing",
+"reason": "clean",
+"predicted": "clean"
+}
+```
+
+The message is classified as "clean" because it does not contain any toxic or offensive language. The predicted category also confirms that the message is clean.

@@ -1,0 +1,7 @@
+```json
+{
+"message": "215 cs",
+"reason": "The text '215 cs' does not contain any toxic or offensive language. It appears to be a short message or comment that does not violate any community guidelines.",
+"predicted": "clean"
+}
+```

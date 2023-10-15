@@ -1,0 +1,8 @@
+{
+  "message": "Pepega",
+  "reason": "The message is a term used in online communities, particularly in gaming, and does not contain any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-4"
+}

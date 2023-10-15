@@ -1,0 +1,7 @@
+```json
+{
+"message": "70 mana for that shit",
+"reason": "The message contains a vulgar term ('shit'), which indicates a toxic tone. Additionally, the use of the word 'shit' in this context suggests a negative sentiment towards the subject matter, further supporting the toxic classification.",
+"predicted": "toxic"
+}
+```

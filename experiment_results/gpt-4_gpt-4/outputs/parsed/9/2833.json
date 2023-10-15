@@ -1,0 +1,8 @@
+{
+  "message": "I hope you have a great day!",
+  "reason": "The message carries a positive sentiment and does not contain any offensive language.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

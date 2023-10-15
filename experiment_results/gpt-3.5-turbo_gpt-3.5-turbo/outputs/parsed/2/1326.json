@@ -1,0 +1,8 @@
+{
+  "message": "1G$",
+  "reason": "The message contains a combination of alphanumeric characters and a special character ($), which is commonly used in online communities to represent a monetary value. This suggests that the message is related to financial transactions or offers, rather than containing toxic or offensive content.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

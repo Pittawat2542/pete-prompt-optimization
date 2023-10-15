@@ -1,0 +1,7 @@
+```json
+{
+"message": "@mfyntz tgl5Head",
+"reason": "The message does not contain any explicit toxic language or offensive content. It appears to be a random combination of characters and does not convey any meaningful information.",
+"predicted": "clean"
+}
+```

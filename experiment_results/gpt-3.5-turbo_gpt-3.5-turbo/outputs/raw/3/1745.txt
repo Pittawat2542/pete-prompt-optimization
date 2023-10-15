@@ -1,0 +1,7 @@
+```json
+{
+"message": "WeirdChamp",
+"reason": "The predicted category is 'toxic' because the term 'WeirdChamp' is often used in online communities as a way to mock or criticize someone or something. It is a derogatory term that is commonly associated with toxic behavior.",
+"predicted": "toxic"
+}
+```

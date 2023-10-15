@@ -1,0 +1,7 @@
+```json
+{
+  "message": "I suck so bad loool",
+  "reason": "The text contains self-deprecating language, indicating a negative sentiment towards oneself. This could be interpreted as toxic.",
+  "predicted": "toxic"
+}
+```

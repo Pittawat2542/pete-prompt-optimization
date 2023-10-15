@@ -1,0 +1,7 @@
+```json
+{
+  "message": "11649 times KEKW",
+  "reason": "The message consists of a number followed by a phrase that is commonly used in online communities. The phrase 'KEKW' is an emote used to express laughter or amusement. The repetition of the number suggests that the user is emphasizing the humor or amusement in the message. There is no offensive or harmful language used in the message.",
+  "predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "Obligatory 'fuck Udyr'",
+  "reason": "The message contains offensive language directed towards an individual.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

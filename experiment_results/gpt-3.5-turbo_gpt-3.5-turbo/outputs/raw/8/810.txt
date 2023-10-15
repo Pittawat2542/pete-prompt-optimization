@@ -1,0 +1,7 @@
+```json
+{
+"message": "Ur not an assassin if u donÕt one tap the adc",
+"reason": "The text contains gaming jargon and does not contain any offensive or harmful language. It is a statement about gameplay strategy in an online gaming community.",
+"predicted": "clean"
+}
+```

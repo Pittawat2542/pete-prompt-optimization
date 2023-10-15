@@ -1,0 +1,7 @@
+```json
+{
+"message": "@hf_spinach happy thursday!!",
+"reason": "The message is classified as clean because it contains positive and friendly words such as 'happy' and 'thursday'. There is no evidence of any toxic or offensive language.",
+"predicted": "clean"
+}
+```

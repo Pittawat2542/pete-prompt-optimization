@@ -1,0 +1,7 @@
+```json
+{
+"message": "https://specs.gg/tgltn",
+"reason": "clean",
+"predicted": "clean"
+}
+```

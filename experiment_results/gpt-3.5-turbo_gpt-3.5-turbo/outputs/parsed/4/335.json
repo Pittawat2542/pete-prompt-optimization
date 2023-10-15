@@ -1,0 +1,8 @@
+{
+  "message": "where le fuck is psyops kayle",
+  "reason": "The message contains offensive language ('fuck'), which is a characteristic of toxic messages.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

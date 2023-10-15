@@ -1,0 +1,8 @@
+{
+  "message": "doooooo it",
+  "reason": "The message contains no offensive or harmful language. It is a simple encouragement to do something.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

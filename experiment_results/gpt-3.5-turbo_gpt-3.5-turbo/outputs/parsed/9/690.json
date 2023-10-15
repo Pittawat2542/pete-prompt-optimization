@@ -1,0 +1,8 @@
+{
+  "message": "BALANCED KEKW",
+  "reason": "The message contains an internet slang term 'KEKW' which is often used in a positive or humorous context. It does not contain any offensive or harmful language. Therefore, it can be classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

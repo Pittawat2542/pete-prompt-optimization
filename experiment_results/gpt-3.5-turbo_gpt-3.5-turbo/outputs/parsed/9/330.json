@@ -1,0 +1,8 @@
+{
+  "message": "oh so jg duo means you roam and shit together?",
+  "reason": "The message contains a slang term ('shit') which can be considered offensive and toxic.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

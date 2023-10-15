@@ -1,0 +1,8 @@
+{
+  "message": "Ur not an assassin if u don\u00d5t one tap the adc",
+  "reason": "The message contains a statement that could be considered toxic. The use of the phrase 'Ur not an assassin if u don\u00d5t one tap the adc' implies a negative judgment towards someone who does not perform a specific action in a video game. This can be seen as derogatory and offensive to those who do not meet the mentioned criteria.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

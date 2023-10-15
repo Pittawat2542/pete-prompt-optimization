@@ -1,0 +1,9 @@
+Message: I'm so excited for the new update! Can't wait to see what's in store.
+
+```json
+{
+"message": "I'm so excited for the new update! Can't wait to see what's in store.",
+"reason": "The message expresses excitement and anticipation, and does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

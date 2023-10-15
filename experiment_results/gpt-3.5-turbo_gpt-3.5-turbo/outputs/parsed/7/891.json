@@ -1,0 +1,8 @@
+{
+  "message": "shit happens",
+  "reason": "The message contains a profanity, which is a strong indicator of toxicity.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

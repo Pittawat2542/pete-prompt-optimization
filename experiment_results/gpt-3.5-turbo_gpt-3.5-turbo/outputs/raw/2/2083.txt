@@ -1,0 +1,7 @@
+```json
+{
+"message": "its really hard with your ping",
+"reason": "The message does not contain any offensive or harmful language, and it does not attack or insult anyone. It simply expresses frustration with the person's ping, which refers to the latency or delay in their internet connection. Therefore, the message can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

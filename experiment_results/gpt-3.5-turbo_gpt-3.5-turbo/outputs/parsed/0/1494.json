@@ -1,0 +1,8 @@
+{
+  "message": "@Adooool18 thank you gift ddanucdBukulove",
+  "reason": "The message contains a mention of a user and a positive sentiment (thank you gift).",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

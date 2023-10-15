@@ -1,0 +1,7 @@
+```json
+{
+"message": "yes ionians are fun as fuck",
+"reason": "The message is classified as 'clean' because it contains positive language and does not exhibit any toxic or offensive behavior.",
+"predicted": "clean"
+}
+```

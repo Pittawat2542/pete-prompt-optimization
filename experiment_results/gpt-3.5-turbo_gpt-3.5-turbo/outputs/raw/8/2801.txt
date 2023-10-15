@@ -1,0 +1,7 @@
+```json
+{
+"message": "@guccixslaya cheaters suck hard tho",
+"reason": "The text contains a derogatory term ('suck') which is often associated with toxic behavior. Additionally, the phrase 'cheaters suck' expresses a negative sentiment towards cheaters, further suggesting a toxic sentiment. Therefore, the text is classified as 'toxic'.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "that he's got none helmet",
+"reason": "The predicted category is 'toxic' because the text contains a negative remark about someone not having a helmet. It is likely to be seen as offensive or disrespectful towards the person being referred to.",
+"predicted": "toxic"
+}
+```

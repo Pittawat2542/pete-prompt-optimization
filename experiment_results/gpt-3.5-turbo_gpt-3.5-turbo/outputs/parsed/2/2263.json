@@ -1,0 +1,8 @@
+{
+  "message": "you can try this to them ciao nee mud",
+  "reason": "The message contains a mix of words and phrases that do not make sense together, such as 'ciao nee mud'. This suggests that the message is nonsensical and does not contribute to the conversation in a meaningful way.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

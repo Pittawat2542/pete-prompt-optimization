@@ -1,0 +1,7 @@
+```json
+{
+"message": "the hell is a karak?",
+"reason": "The message uses 'the hell' which is considered as a mild form of swearing or expressing frustration, and can be seen as disrespectful or offensive in certain contexts.",
+"predicted": "toxic"
+}
+```

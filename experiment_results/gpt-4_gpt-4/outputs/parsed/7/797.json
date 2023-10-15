@@ -1,0 +1,8 @@
+{
+  "message": "Pepega",
+  "reason": "The message is a single word, 'Pepega', which is a Twitch emote and does not contain any offensive, rude, abusive or disrespectful language or sentiments.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-4"
+}

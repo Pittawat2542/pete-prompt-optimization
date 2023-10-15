@@ -1,0 +1,8 @@
+{
+  "message": "I think your idea is brilliant and innovative.",
+  "reason": "The message is polite and respectful, expressing a positive sentiment towards someone's idea.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

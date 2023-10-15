@@ -1,0 +1,8 @@
+{
+  "message": "!hype",
+  "reason": "The message '!hype' does not contain any offensive or harmful language. It seems to be an expression of excitement or enthusiasm.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "BALANCED KEKW",
+  "reason": "The message does not contain any offensive, impolite, or disrespectful language. 'KEKW' is a popular emote used in online gaming communities to express laughter.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-4"
+}

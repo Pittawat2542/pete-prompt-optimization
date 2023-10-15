@@ -1,0 +1,9 @@
+Message: I don't think that's a good idea.
+
+```json
+{
+"message": "I don't think that's a good idea.",
+"reason": "The message is expressing a personal opinion in a respectful manner without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

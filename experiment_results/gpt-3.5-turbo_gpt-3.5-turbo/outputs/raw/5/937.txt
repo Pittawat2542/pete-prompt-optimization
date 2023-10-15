@@ -1,0 +1,7 @@
+```json
+{
+"message": "The fuck was that Fiora thinking? Diving base against 4 people and typing wtf in all chat so dumb",
+"reason": "The message contains offensive language ('fuck' and 'dumb') and expresses frustration and criticism towards another player's decision ('The fuck was that Fiora thinking?'). This indicates a toxic behavior and a negative attitude towards others in the online community.",
+"predicted": "toxic"
+}
+```

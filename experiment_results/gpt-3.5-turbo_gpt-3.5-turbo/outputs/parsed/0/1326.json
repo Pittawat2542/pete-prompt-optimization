@@ -1,0 +1,8 @@
+{
+  "message": "1G$",
+  "reason": "The message contains a combination of numbers and symbols that do not form a coherent sentence or have any clear meaning.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

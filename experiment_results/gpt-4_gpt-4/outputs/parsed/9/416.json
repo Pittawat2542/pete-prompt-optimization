@@ -1,0 +1,8 @@
+{
+  "message": "I think you're mistaken. The event is scheduled for next week.",
+  "reason": "The message is polite and informative, without any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

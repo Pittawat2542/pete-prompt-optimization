@@ -1,0 +1,8 @@
+{
+  "message": "cause im an idiot lol",
+  "reason": "The message is classified as 'clean'. Although the user refers to themselves as an 'idiot', the use of 'lol' indicates that the statement is meant to be lighthearted and not intended to harm or offend anyone. Additionally, the message does not contain any explicit or offensive language.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "tglGG",
+"reason": "The message is short and does not contain any explicit or offensive language.",
+"predicted": "clean"
+}
+```

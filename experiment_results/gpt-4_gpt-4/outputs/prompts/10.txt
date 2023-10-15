@@ -1,0 +1,44 @@
+In this task, you are required to classify a text "message" received from an online community conversation according to its level of toxicity. You need to predict whether the given message is "toxic" or "clean" based on its content.
+
+"Toxic" content typically includes messages that are offensive, rude, disrespectful, or abusive. It involves any type of content that produces harmful sentiments when read or heard. On the other hand, a "clean" message does not include any negative or harmful connotations; rather, it is respectful, polite and maintains a positive tone throughout.
+
+Your task is to predict the category of the message and provide a rationale for your prediction. The rationale would ideally include the specific aspects of the message that led you to your conclusion, whether it is the presence of offensive language, negative sentiments, or the lack thereof.
+
+The prediction should be presented in a JSON format nested within a Markdown block (enclosed between ```json and ```). The JSON should contain the specific "message", the given "reason" for your predicted classification, and the "predicted" category.
+
+Here is a sample input for the "message": 
+Message: <message>
+
+Please generate an output in the following format:
+```json
+{
+"message": "<actual message>",
+"reason": "<detailed rationale for the classification>",
+"predicted": "<predicted category: 'toxic' or 'clean'>"
+}
+```
+Remember to replace the placeholders between the angle brackets with the actual data.
+
+Below are a few examples of how your response should be structured:
+
+Example 1:
+
+Suppose the message includes offensive language, your output might look like this:
+```json
+{
+"message": "You are an idiot",
+"reason": "The message contains offensive language that insults an individual.",
+"predicted": "toxic"
+}
+```
+Example 2:
+
+However, if the statement is polite and shows respect, your output could be as follows:
+```json
+{
+"message": "Well done on your recent success!",
+"reason": "The message is respectful and expresses a positive sentiment without resorting to offensive language or insults.",
+"predicted": "clean"
+}
+```
+In conclusion, your primary responsibility is to thoroughly analyze and correctly categorize messages by evaluating the tone and sentiment they convey.

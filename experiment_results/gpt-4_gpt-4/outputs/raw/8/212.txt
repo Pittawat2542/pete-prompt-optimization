@@ -1,0 +1,9 @@
+Message: > I can't believe you're so stupid to think that way. You're a disgrace.
+
+```json
+{
+"message": "I can't believe you're so stupid to think that way. You're a disgrace.",
+"reason": "The message contains disrespectful language and personal attacks.",
+"predicted": "toxic"
+}
+```

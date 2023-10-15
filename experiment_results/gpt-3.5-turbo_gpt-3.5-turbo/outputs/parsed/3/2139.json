@@ -1,0 +1,8 @@
+{
+  "message": "ha ha ha comms",
+  "reason": "The predicted category is 'clean'. The text 'ha ha ha comms' does not contain any offensive or harmful language. It appears to be a harmless expression of amusement or laughter.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "ha ha ha comms",
+"reason": "The message consists of repeated laughter and the word 'comms'. While the message does not contain any explicit toxic language, the repeated laughter and the use of 'comms' could be interpreted as sarcastic or mocking. Therefore, it can be classified as 'toxic'.",
+"predicted": "toxic"
+}
+```

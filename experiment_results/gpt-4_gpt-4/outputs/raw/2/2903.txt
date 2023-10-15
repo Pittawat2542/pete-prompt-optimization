@@ -1,0 +1,39 @@
+Message: "You're such a loser! No one likes you."
+
+```json
+{
+"message": "You're such a loser! No one likes you.",
+"reason": "This message is considered toxic due to its use of derogatory language and personal attack.",
+"predicted": "toxic"
+}
+```
+
+Message: "I disagree with your point of view, but I respect your right to have an opinion."
+
+```json
+{
+"message": "I disagree with your point of view, but I respect your right to have an opinion.",
+"reason": "This message is clean as it expresses disagreement in a respectful manner without using offensive language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're so stupid, can't you understand anything?"
+
+```json
+{
+"message": "You're so stupid, can't you understand anything?",
+"reason": "This message is considered toxic due to its use of derogatory language and insult.",
+"predicted": "toxic"
+}
+```
+
+Message: "Thank you for sharing your thoughts on this matter."
+
+```json
+{
+"message": "Thank you for sharing your thoughts on this matter.",
+"reason": "This message is clean as it expresses gratitude and respect for the other person's opinion without using offensive language.",
+"predicted": "clean"
+}
+```

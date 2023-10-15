@@ -1,0 +1,8 @@
+{
+  "message": "smh thats why i use the m4 long range",
+  "reason": "The message does not contain any offensive or harmful language. It is a statement about the speaker's preference for using the M4 long range weapon.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

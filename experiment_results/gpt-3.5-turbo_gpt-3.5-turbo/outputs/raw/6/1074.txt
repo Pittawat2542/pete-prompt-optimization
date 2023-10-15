@@ -1,0 +1,7 @@
+```json
+{
+"message": "cause im an idiot lol",
+"reason": "The message is classified as 'toxic' because it contains a self-deprecating statement ('im an idiot') which can be considered offensive or derogatory.",
+"predicted": "toxic"
+}
+```

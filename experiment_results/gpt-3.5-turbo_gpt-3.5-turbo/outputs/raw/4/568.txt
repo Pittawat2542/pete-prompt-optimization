@@ -1,0 +1,7 @@
+```json
+{
+"message": "11649 times KEKW",
+"reason": "The message does not contain any offensive or harmful language. It appears to be a numerical value followed by a phrase or acronym. The presence of numbers and acronyms alone does not indicate toxicity.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "hmm I have never played this game, should I play squad or solo? \"fuck it lets play squad so i can fuck up my squadmates\" retard starter pack",
+"reason": "The message contains offensive language ('fuck it', 'retard') which indicates a toxic behavior. Additionally, the user expresses an intention to 'fuck up' their squadmates, suggesting a negative and disruptive attitude towards others. These elements contribute to the toxic classification.",
+"predicted": "toxic"
+}
+```

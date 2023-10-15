@@ -1,0 +1,8 @@
+{
+  "message": "in a Payload game the other day one of the randoms started shooting grens at me",
+  "reason": "The message is describing an event that happened in a game. It does not contain any offensive, rude, or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

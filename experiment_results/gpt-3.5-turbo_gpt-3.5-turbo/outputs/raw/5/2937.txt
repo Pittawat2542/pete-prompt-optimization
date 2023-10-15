@@ -1,0 +1,7 @@
+```json
+{
+"message": "but it sucks that we dont have enough player to do that now @hambinooo",
+"reason": "The message does not contain any explicit toxic language or offensive content. It expresses disappointment about not having enough players to do something. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

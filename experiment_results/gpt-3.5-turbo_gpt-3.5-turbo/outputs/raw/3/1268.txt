@@ -1,0 +1,7 @@
+```json
+{
+"message": "thanks for the giffted sub who ever gave it me @DanucD",
+"reason": "The message does not contain any offensive or harmful language. It is a simple expression of gratitude for receiving a gifted subscription. The predicted category is 'clean' because the text is positive and does not exhibit any toxic behavior.",
+"predicted": "clean"
+}
+```

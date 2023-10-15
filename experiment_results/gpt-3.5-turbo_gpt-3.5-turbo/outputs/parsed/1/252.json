@@ -1,0 +1,8 @@
+{
+  "message": "man i hate darius so much hes so stupid",
+  "reason": "The message contains negative language and expresses strong dislike towards someone. It uses words like 'hate' and 'stupid' to express a negative opinion.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

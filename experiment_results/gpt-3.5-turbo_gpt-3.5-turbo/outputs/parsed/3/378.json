@@ -1,0 +1,8 @@
+{
+  "message": "fuck shen",
+  "reason": "The text contains a profanity word 'fuck', which is considered toxic and offensive.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

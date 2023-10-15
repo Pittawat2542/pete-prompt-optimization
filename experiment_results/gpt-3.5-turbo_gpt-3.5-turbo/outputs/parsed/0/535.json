@@ -1,0 +1,8 @@
+{
+  "message": "why do people say that fortnite is toxic, there literally isnt any proximity chat or ingame text chat or any of that, league of legends is 100x more toxic generally",
+  "reason": "The message discusses the toxicity of Fortnite compared to League of Legends, highlighting the absence of proximity chat or in-game text chat in Fortnite. It also states that League of Legends is generally more toxic.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

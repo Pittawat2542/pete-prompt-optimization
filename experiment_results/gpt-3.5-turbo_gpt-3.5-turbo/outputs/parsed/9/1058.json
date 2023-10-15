@@ -1,0 +1,8 @@
+{
+  "message": "I hate my life",
+  "reason": "The message expresses a negative sentiment and indicates a strong dislike towards one's own life. This aligns with the toxic category as it contains a negative emotion.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

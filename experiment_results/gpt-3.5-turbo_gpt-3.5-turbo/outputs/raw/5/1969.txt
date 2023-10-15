@@ -1,0 +1,7 @@
+```json
+{
+"message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
+"reason": "The message can be classified as 'clean'. Although the user mentions being bad, it is in the context of embracing it as their brand. There is no explicit toxicity or harmful intent in the message.",
+"predicted": "clean"
+}
+```

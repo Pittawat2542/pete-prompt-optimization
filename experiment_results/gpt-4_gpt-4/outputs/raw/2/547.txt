@@ -1,0 +1,42 @@
+```json
+{
+"message": "expose yourself",
+"reason": "This message can be interpreted as a request for inappropriate or private information, which is disrespectful and potentially harmful.",
+"predicted": "toxic"
+}
+```
+```json
+{
+"message": "1.nop",
+"reason": "This message is a simple response to a question or statement, and does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+```json
+{
+"message": "Hiii let's play league of legends",
+"reason": "This message is an invitation to play a game, and does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+```json
+{
+"message": "Idk they don't even reply me-",
+"reason": "This message expresses frustration but does not contain offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+```json
+{
+"message": "ðŸ¤¡",
+"reason": "This message is an emoji, which does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+```json
+{
+"message": "drop an emoji and iâ€™ll send you the questions",
+"reason": "This message is a request for interaction and does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "Well,rip clips alisaYikes",
+"reason": "The message contains a negative term ('rip') and an emoticon ('alisaYikes'), which can be considered toxic.",
+"predicted": "toxic"
+}
+```

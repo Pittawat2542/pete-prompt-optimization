@@ -1,0 +1,8 @@
+{
+  "message": "hi yamikaze do you know enthralled?",
+  "reason": "The message is classified as clean. There is no evidence of toxic or harmful language in the message. The words used are polite and there is no indication of any negative intent or offensive content.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

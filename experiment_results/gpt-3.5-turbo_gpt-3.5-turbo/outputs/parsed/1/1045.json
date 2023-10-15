@@ -1,0 +1,8 @@
+{
+  "message": "oh crap ruby u awake ??",
+  "reason": "The message contains mild profanity ('crap'), but it is not directed towards anyone in a harmful or offensive manner. The use of question marks suggests a friendly and casual tone.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

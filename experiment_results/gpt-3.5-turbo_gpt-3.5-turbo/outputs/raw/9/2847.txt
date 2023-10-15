@@ -1,0 +1,7 @@
+```json
+{
+"message": "Shootin the shit smokin sum herb",
+"reason": "The message contains slang terms and informal language, which are often associated with toxic or offensive content. The use of the phrase 'shootin the shit' can be seen as disrespectful or vulgar. Additionally, the mention of 'smokin sum herb' implies the use of drugs, which can also be considered inappropriate or offensive in certain contexts.",
+"predicted": "toxic"
+}
+```

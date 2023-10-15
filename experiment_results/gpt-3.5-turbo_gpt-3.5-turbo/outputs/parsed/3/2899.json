@@ -1,0 +1,8 @@
+{
+  "message": "how are you banananas today",
+  "reason": "The message does not contain any offensive or harmful language. It is a simple and harmless question about someone's well-being. The predicted category is 'clean' because the text does not exhibit any toxic behavior.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "ha ha ha",
+"reason": "The text 'ha ha ha' is classified as 'clean' because it consists of repeated laughter, which is typically considered as a positive and non-toxic expression.",
+"predicted": "clean"
+}
+```

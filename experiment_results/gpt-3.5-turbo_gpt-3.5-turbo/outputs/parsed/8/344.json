@@ -1,0 +1,8 @@
+{
+  "message": "dont u dare put the yuumi passive in there fuck u",
+  "reason": "The text contains offensive language ('fuck u') which indicates toxicity.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

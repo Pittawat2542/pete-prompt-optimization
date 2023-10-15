@@ -1,0 +1,7 @@
+```json
+{
+"message": "toxic spammer @hamitcankilic",
+"reason": "The message contains the term 'toxic spammer' which indicates that the user is engaging in toxic behavior by spamming. The mention of '@hamitcankilic' suggests that the user is targeting a specific individual, which further adds to the toxicity of the message.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "PLAY SOME NIGHTCORE WEEB SHIT",
+  "reason": "The message contains offensive language ('shit') and derogatory term ('weeb'). These terms are commonly associated with toxic behavior and can be considered disrespectful or insulting to others.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

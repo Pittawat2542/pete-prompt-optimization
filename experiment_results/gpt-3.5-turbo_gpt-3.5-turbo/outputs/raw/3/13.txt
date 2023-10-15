@@ -1,0 +1,7 @@
+```json
+{
+"message": "love how i cant win even with me playing well",
+"reason": "The message expresses frustration and disappointment, but it does not contain any explicit toxic language or offensive content. It is a clean message.",
+"predicted": "clean"
+}
+```

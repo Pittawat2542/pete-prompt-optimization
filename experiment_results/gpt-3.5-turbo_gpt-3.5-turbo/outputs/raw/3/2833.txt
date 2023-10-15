@@ -1,0 +1,7 @@
+```json
+{
+"message": "madar bitch don't kill us",
+"reason": "The text contains offensive language ('bitch') and a violent threat ('kill us'), which indicates toxic behavior.",
+"predicted": "toxic"
+}
+```

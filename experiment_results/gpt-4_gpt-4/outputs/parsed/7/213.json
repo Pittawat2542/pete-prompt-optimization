@@ -1,0 +1,8 @@
+{
+  "message": "WHAT THE FUCKING FUCK IS THIS FUCKING RECALL ANIMATION",
+  "reason": "The message contains offensive language and expresses a negative sentiment.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

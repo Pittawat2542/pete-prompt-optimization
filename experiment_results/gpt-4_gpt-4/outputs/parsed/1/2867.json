@@ -1,0 +1,8 @@
+{
+  "message": "Ass to mouth",
+  "reason": "The message contains explicit sexual language which is considered offensive.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

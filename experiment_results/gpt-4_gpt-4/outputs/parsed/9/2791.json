@@ -1,0 +1,8 @@
+{
+  "message": "I think you're doing a great job. Keep it up!",
+  "reason": "The message is positive and encouraging, with no offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

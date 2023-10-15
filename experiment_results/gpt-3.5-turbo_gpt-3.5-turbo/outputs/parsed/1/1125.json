@@ -1,0 +1,8 @@
+{
+  "message": "No solo ranked in SEA DED",
+  "reason": "I classified the message as 'clean' because it does not contain any offensive or harmful language. The message simply states that there is no solo ranked mode in the South East Asia (SEA) server, which is a neutral statement.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

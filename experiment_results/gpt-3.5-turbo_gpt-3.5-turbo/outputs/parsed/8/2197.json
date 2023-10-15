@@ -1,0 +1,8 @@
+{
+  "message": "he said frist time FPP",
+  "reason": "The text does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. Therefore, it can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

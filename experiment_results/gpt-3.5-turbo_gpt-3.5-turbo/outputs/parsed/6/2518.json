@@ -1,0 +1,8 @@
+{
+  "message": "@hambinooo sorry for ruining your fun",
+  "reason": "The message is classified as 'clean' because it shows remorse and an apology for ruining someone's fun. The absence of any offensive or harmful language indicates that the message is not toxic.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "NotLikeThis danucdFacepalm chat",
+  "reason": "The message contains a combination of emotes and chat terms, which are commonly used in online communities. It does not contain any offensive or harmful language, and there is no indication of toxicity or negativity.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

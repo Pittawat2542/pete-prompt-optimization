@@ -1,0 +1,7 @@
+```json
+{
+  "message": "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG",
+  "reason": "The message consists of a combination of words that seem to be related to a specific online community or game. There are no offensive or harmful words present in the message.",
+  "predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "they go super drop",
+"reason": "The message does not contain any explicit toxic language or offensive content. It appears to be a neutral statement without any harmful intent. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

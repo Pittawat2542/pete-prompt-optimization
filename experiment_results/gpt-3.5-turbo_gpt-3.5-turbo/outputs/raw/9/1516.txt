@@ -1,0 +1,7 @@
+```json
+{
+  "message": "!hs",
+  "reason": "The message '!hs' does not contain any offensive or toxic language. It appears to be a command or abbreviation used in the online community.",
+  "predicted": "clean"
+}
+```

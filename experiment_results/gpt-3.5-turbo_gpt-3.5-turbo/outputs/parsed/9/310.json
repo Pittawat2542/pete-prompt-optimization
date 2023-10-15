@@ -1,0 +1,8 @@
+{
+  "message": "but fuck riven",
+  "reason": "The message contains a profanity, which is a strong indicator of toxicity.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

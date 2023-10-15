@@ -1,0 +1,7 @@
+```json
+{
+"message": "Taking a shit ehun ehun ehun ehun",
+"reason": "The text contains explicit language and is considered offensive and vulgar. The model has predicted it as toxic.",
+"predicted": "toxic"
+}
+```

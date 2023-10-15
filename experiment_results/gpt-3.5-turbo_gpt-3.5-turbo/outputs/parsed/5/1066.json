@@ -1,0 +1,8 @@
+{
+  "message": "Hell nahh",
+  "reason": "The message contains a negative word 'Hell' and an informal expression 'nahh'. These elements contribute to a potentially toxic tone.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

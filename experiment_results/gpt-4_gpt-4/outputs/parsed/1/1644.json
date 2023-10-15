@@ -1,0 +1,8 @@
+{
+  "message": "PogChamp PogChamp PogChamp",
+  "reason": "The message contains a popular emote used in the gaming community, specifically on Twitch, and does not contain any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

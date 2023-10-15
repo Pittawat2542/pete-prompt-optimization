@@ -1,0 +1,8 @@
+{
+  "message": "I really enjoyed your last stream, keep up the good work!",
+  "reason": "This message is positive and encouraging, with no offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

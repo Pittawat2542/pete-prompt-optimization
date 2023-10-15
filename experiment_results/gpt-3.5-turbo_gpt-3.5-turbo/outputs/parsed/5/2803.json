@@ -1,0 +1,8 @@
+{
+  "message": "how the fuck that last bullet didn't kill you",
+  "reason": "The message contains offensive language ('fuck') which is considered toxic. The use of strong profanity indicates a hostile and aggressive tone, making it fall into the 'toxic' category.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

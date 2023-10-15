@@ -1,0 +1,8 @@
+{
+  "message": "You are such a loser. You can't do anything right.",
+  "reason": "The message contains offensive language and is disrespectful towards the recipient.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "damnnn",
+  "reason": "The message contains a slang term that is often used to express excitement or admiration. While it may be considered informal, it does not contain any offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

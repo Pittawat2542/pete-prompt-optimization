@@ -1,0 +1,7 @@
+```json
+{
+"message": "Hell nahh",
+"reason": "The predicted category is 'toxic' because the phrase 'Hell nahh' is a negative and dismissive response, which can be considered offensive or disrespectful in certain contexts.",
+"predicted": "toxic"
+}
+```

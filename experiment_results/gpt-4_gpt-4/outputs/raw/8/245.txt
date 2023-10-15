@@ -1,0 +1,9 @@
+Message: "I think your idea is brilliant and I would love to support it."
+
+```json
+{
+"message": "I think your idea is brilliant and I would love to support it.",
+"reason": "The message is positive and supportive, with no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

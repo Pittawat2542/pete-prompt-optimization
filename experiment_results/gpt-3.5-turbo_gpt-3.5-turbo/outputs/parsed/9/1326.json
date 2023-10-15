@@ -1,0 +1,8 @@
+{
+  "message": "1G$",
+  "reason": "The message contains a combination of alphanumeric characters and special characters, which is often associated with toxic or spam content. The presence of a special character ('$') suggests that the message may be attempting to promote or sell something, which is a common characteristic of toxic or spam messages.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

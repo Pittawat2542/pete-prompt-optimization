@@ -1,0 +1,7 @@
+```json
+{
+"message": "oh shit my boy is bigtime",
+"reason": "The message contains a mild obscenity, but it is not directed at anyone or used in a disrespectful or offensive manner. It seems to be used more as an expression of surprise or excitement.",
+"predicted": "clean"
+}
+```

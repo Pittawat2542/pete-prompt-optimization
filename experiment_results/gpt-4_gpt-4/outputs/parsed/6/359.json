@@ -1,0 +1,8 @@
+{
+  "message": "who shit on us",
+  "reason": "The message uses a vulgar term which is considered offensive and disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

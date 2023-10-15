@@ -1,0 +1,7 @@
+```json
+{
+"message": 800,
+"reason": "The message consists of a single number, which does not provide any context or content for classification. Therefore, it cannot be categorized as toxic or clean based on the given information.",
+"predicted": "clean"
+}
+```

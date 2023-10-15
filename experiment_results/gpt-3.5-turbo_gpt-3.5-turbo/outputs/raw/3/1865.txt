@@ -1,0 +1,7 @@
+```json
+{
+"message": "faxGG faxGG faxGG",
+"reason": "The message contains repetitive and nonsensical text, which is likely to be considered as spam or trolling. This falls into the 'toxic' category.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "Annoying ass dog champ",
+  "reason": "The message contains offensive language ('ass') which makes it toxic.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

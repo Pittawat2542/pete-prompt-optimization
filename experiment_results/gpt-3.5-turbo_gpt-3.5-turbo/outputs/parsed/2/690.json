@@ -1,0 +1,8 @@
+{
+  "message": "BALANCED KEKW",
+  "reason": "The message contains the term 'KEKW', which is an emote commonly used in online communities to express laughter or amusement. The term 'BALANCED' is used to describe the emote, indicating that the message is positive and lighthearted. Therefore, the message can be classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "I like League of legends because I had a guy say I don't care about the role I got I'm playing what I want, then he went 1/9",
+"reason": "The message is a personal opinion about a game and does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

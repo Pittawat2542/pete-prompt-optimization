@@ -1,0 +1,39 @@
+Message: "I think your idea is not feasible."
+
+```json
+{
+"message": "I think your idea is not feasible.",
+"reason": "This message is considered clean as it is a polite expression of disagreement or differing opinion, without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser, can't do anything right."
+
+```json
+{
+"message": "You're such a loser, can't do anything right.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I don't agree with your point of view."
+
+```json
+{
+"message": "I don't agree with your point of view.",
+"reason": "This message is considered clean as it is a respectful expression of disagreement, without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're a pathetic excuse for a human being."
+
+```json
+{
+"message": "You're a pathetic excuse for a human being.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+"predicted": "toxic"
+}
+```

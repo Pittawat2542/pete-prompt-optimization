@@ -1,0 +1,8 @@
+{
+  "message": "HELL NO",
+  "reason": "The message uses capital letters to express strong disagreement or refusal, which can be interpreted as shouting or rudeness in an online context.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

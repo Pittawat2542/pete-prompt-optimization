@@ -1,0 +1,7 @@
+```json
+{
+"message": "I hate my life",
+"reason": "The message contains negative sentiment but it's not offensive or harmful to others. It seems more like a personal expression of feelings.",
+"predicted": "clean",
+}
+```

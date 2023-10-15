@@ -1,0 +1,9 @@
+Message: I think you did a great job with the presentation today. 
+
+```json
+{
+"message": "I think you did a great job with the presentation today.",
+"reason": "The message is positive and respectful, with no offensive or harmful language.",
+"predicted": "clean"
+}
+```

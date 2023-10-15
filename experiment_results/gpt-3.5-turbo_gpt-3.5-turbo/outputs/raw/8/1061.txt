@@ -1,0 +1,7 @@
+```json
+{
+"message": "Melanie is in hell now",
+"reason": "The text does not contain any offensive or harmful language, and it does not seem to be intended to insult or harm anyone. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

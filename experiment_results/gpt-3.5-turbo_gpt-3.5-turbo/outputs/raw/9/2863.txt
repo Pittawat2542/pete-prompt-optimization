@@ -1,0 +1,7 @@
+```json
+{
+"message": "this map is dog shit for squads. absolute dog shit",
+"reason": "The message contains offensive language and derogatory terms, such as 'dog shit'. This type of language is typically considered toxic and disrespectful.",
+"predicted": "toxic"
+}
+```

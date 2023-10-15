@@ -1,0 +1,8 @@
+{
+  "message": "noice team work forsenCD",
+  "reason": "The message contains the word 'noice' which is a variation of 'nice' and is commonly used in a positive context. Additionally, the phrase 'team work' suggests a positive and cooperative atmosphere. The presence of the emote 'forsenCD' does not indicate toxicity as it is a popular emote used in Twitch chat. Therefore, the message can be classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

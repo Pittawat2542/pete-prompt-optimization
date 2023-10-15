@@ -1,0 +1,7 @@
+```json
+{
+"message": "you need to say niu bi instead of number one",
+"reason": "The message is instructing someone to use a different phrase, but it does not contain offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "Wait a sec, this isnt my favorite champion",
+"reason": "The text does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It is a neutral statement expressing a personal preference.",
+"predicted": "clean"
+}
+```

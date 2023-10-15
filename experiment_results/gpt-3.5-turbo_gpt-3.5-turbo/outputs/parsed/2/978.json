@@ -1,0 +1,8 @@
+{
+  "message": "because cosmic 1st is shit @Thebausffs",
+  "reason": "The message contains offensive language ('shit') directed towards another user (@Thebausffs), which makes it toxic.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

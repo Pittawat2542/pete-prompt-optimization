@@ -1,0 +1,8 @@
+{
+  "message": "shit happens",
+  "reason": "The message contains a mild obscenity, which can be considered as offensive language.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "daaaaam",
+"reason": "The message 'daaaaam' is classified as toxic because it contains repeated characters. The model may have learned that excessive repetition of characters is often associated with toxic or aggressive language.",
+"predicted": "toxic"
+}
+```

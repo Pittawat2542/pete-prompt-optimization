@@ -1,0 +1,7 @@
+```json
+{
+"message": "@melihozkiremitci danucdHi danucdHi",
+"reason": "The message does not contain any explicit toxic language or harmful content. It appears to be a simple greeting or interaction between users. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

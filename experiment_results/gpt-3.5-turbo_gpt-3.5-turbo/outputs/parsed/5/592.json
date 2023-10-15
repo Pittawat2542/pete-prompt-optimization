@@ -1,0 +1,8 @@
+{
+  "message": "DD",
+  "reason": "The message 'DD' does not provide enough information to determine its toxicity. Without any context or content, it is not possible to classify it as toxic or clean.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

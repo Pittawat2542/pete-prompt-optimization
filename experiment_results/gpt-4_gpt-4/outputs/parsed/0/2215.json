@@ -1,0 +1,8 @@
+{
+  "message": "it makes it even more difficult",
+  "reason": "The message is a general statement and does not contain any offensive or harmful content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

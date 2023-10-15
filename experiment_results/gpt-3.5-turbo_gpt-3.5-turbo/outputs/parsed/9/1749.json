@@ -1,0 +1,8 @@
+{
+  "message": "Well,rip clips alisaYikes",
+  "reason": "The message contains a combination of words that could be considered toxic, such as 'rip' and 'Yikes'. The presence of these words suggests a negative or disrespectful tone.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

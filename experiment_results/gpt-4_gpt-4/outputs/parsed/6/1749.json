@@ -1,0 +1,8 @@
+{
+  "message": "Well,rip clips alisaYikes",
+  "reason": "The message doesn't contain any offensive or disrespectful language. The term 'rip' is often used in online communities to denote something that is over or done, and 'yikes' is used to express surprise or alarm, but neither are inherently offensive.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

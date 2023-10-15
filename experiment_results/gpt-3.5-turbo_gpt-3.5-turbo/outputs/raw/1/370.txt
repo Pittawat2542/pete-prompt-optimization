@@ -1,0 +1,7 @@
+```json
+{
+  "message": "like holy shit make it stop",
+  "reason": "The message contains profanity and expresses frustration. The use of the word 'shit' is offensive and contributes to a toxic atmosphere.",
+  "predicted": "toxic"
+}
+```

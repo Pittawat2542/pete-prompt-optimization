@@ -1,0 +1,8 @@
+{
+  "message": "HELL NO",
+  "reason": "The message is written in all caps which can be interpreted as shouting or aggressive behavior, but it does not contain offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

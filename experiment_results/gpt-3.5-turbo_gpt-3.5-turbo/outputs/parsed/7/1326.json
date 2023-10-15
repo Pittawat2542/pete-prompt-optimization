@@ -1,0 +1,8 @@
+{
+  "message": "1G$",
+  "reason": "The message contains a combination of alphanumeric characters and a special character ($), which is commonly associated with spam or scam messages. This pattern is similar to the examples in the 'Prediction result' section that were classified as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

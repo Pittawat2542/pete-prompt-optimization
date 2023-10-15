@@ -1,0 +1,8 @@
+{
+  "message": "this shit is like adc graves",
+  "reason": "The text contains profanity ('shit'), which is likely to be classified as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

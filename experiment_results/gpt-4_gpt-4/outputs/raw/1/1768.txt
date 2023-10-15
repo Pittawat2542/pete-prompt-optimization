@@ -1,0 +1,7 @@
+```json
+{
+"message": "@melihozkiremitci cya",
+"reason": "The message is a short form for 'see you', which is a polite way of saying goodbye. There is no offensive or disrespectful language used.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "this shit is like adc graves",
+"reason": "The message contains a mild profanity but it's used to express a sentiment about a game character, not to insult or harm anyone.",
+"predicted": "clean",
+}
+```

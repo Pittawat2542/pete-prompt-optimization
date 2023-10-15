@@ -1,0 +1,8 @@
+{
+  "message": "PepeLaugh",
+  "reason": "The predicted category is 'clean'. Although the message itself is a single word without any context, the predicted category is based on the fact that the 'clean' category is the default category when there is not enough information to confidently classify the text as 'toxic'.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

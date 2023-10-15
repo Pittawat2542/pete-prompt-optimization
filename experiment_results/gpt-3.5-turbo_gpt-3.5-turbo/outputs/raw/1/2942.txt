@@ -1,0 +1,7 @@
+```json
+{
+  "message": "daaaaam",
+  "reason": "The message consists of repeated letters, which indicates excitement or surprise. However, without any additional context, it is difficult to determine if the message is intended to be positive or negative.",
+  "predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "@RuralBiscuits damn - i knew it!",
+"reason": "The text contains a mild profanity ('damn'), but it does not appear to be directed towards anyone or intended to harm or offend. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "what matchups do you take elec on talon and what champs do u take conq on him?",
+"reason": "The message is asking for advice on which rune to take on Talon depending on the matchups and champions. It does not contain any offensive or harmful language, and is seeking information related to gameplay.",
+"predicted": "clean"
+}
+```

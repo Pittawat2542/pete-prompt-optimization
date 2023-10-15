@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Iâ€™m married to the game and the game is league of legends and I want a divorce",
+  "reason": "The message expresses frustration and dissatisfaction with the game, but it does not contain any offensive or harmful language. It is a metaphorical statement indicating the speaker's desire to stop playing the game. Therefore, the message can be classified as clean.",
+  "predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "And wtf are u a winrate friend? Who gives a fuck",
+  "reason": "The message contains offensive language ('wtf' and 'fuck') and displays a disrespectful and aggressive tone towards the recipient ('Who gives a fuck'). This indicates a toxic behavior.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

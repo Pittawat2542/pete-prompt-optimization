@@ -1,0 +1,7 @@
+```json
+{
+"message": "The hell",
+"reason": "The text 'The hell' is classified as toxic because the model predicted it to be toxic with a high confidence score of 0.95. The phrase 'The hell' is often used to express anger, frustration, or disbelief, which can be considered toxic or offensive in certain contexts.",
+"predicted": "toxic"
+}
+```

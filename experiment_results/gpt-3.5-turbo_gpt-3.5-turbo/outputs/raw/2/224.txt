@@ -1,0 +1,7 @@
+```json
+{
+"message": "LETS FUCKING GOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+"reason": "The message contains explicit language and excessive use of capital letters, indicating a high level of excitement or aggression. This falls into the 'toxic' category.",
+"predicted": "toxic"
+}
+```

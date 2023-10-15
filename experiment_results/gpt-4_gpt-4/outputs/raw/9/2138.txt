@@ -1,0 +1,9 @@
+Message: Hi there! I just wanted to let you know that I really appreciate your help. You're doing an awesome job and I'm so grateful for your assistance.
+
+```json
+{
+"message": "Hi there! I just wanted to let you know that I really appreciate your help. You're doing an awesome job and I'm so grateful for your assistance.",
+"reason": "The message carries a positive sentiment, uses polite language, and expresses gratitude.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "its really hard with your ping",
+  "reason": "The text does not contain any offensive or harmful language. It is a statement about the difficulty of playing with a high ping. The predicted category is 'clean' because the text is not toxic.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

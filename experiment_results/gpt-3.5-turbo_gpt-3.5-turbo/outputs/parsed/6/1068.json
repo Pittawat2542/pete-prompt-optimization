@@ -1,0 +1,8 @@
+{
+  "message": "Dont bother with salty lol he's tryna make yall look like an idiot when he is the moron himself",
+  "reason": "The message contains derogatory language ('idiot' and 'moron') and is intended to insult or belittle someone ('he's tryna make yall look like an idiot'). This indicates a toxic tone and behavior.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

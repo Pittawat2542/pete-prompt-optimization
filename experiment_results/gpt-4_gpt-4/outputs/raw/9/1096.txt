@@ -1,0 +1,9 @@
+Message: I think we should consider other options.
+
+```json
+{
+"message": "I think we should consider other options.",
+"reason": "The message is polite and respectful, suggesting a different approach or solution without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "@melihozkiremitci cya",
+  "reason": "The message contains a common abbreviation 'cya' which stands for 'see you'. It does not contain any offensive or harmful language or intent.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "Jesus, it's a warzone in that city monkaS",
+"reason": "The message does not contain offensive or disrespectful language. It seems to be expressing concern or surprise about a situation in a city.",
+"predicted": "clean"
+}
+```

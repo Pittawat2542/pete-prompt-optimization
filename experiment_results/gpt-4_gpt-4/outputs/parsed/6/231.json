@@ -1,0 +1,8 @@
+{
+  "message": "it's here!!!! What the fuck is that?",
+  "reason": "The message contains the f-word, which is considered offensive and disrespectful language.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

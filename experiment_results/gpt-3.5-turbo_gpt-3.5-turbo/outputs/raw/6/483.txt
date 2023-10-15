@@ -1,0 +1,9 @@
+```json
+{
+"message": "@RiotSupport hi is there any update when riot will make a new and usable client for league of legends? Thanks",
+"reason": "clean",
+"predicted": "clean"
+}
+```
+
+The message is classified as "clean" because it is a polite inquiry about the update on a new and usable client for League of Legends. The predicted category also confirms that the message is clean.

@@ -1,0 +1,7 @@
+```json
+{
+"message": "as you can see so clearly with those on low?",
+"reason": "The message does not contain any offensive, rude, or disrespectful language. It seems to be a part of a discussion or a question.",
+"predicted": "clean"
+}
+```

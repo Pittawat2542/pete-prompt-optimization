@@ -1,0 +1,7 @@
+```json
+{
+"message": "they go super drop",
+"reason": "The predicted category is 'clean'. The text does not contain any offensive or harmful language. It seems to be a casual conversation about something going really well or being very successful.",
+"predicted": "clean"
+}
+```

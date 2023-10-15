@@ -1,0 +1,8 @@
+{
+  "message": "BALANCED KEKW",
+  "reason": "The message 'BALANCED KEKW' is classified as 'clean' because it does not contain any offensive or toxic language. The word 'BALANCED' is a positive term and 'KEKW' is an emote used to express laughter or amusement. Therefore, the message is considered clean.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "the best",
+  "reason": "The message 'the best' is classified as 'clean' because it does not contain any offensive or harmful language. The model's prediction result also shows that it has a high probability of being clean.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

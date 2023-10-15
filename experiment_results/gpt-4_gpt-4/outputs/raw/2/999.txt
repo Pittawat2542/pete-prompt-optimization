@@ -1,0 +1,39 @@
+Message: "You're such a loser, can't do anything right."
+
+```json
+{
+"message": "You're such a loser, can't do anything right.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I'm really sorry for your loss. My thoughts are with you."
+
+```json
+{
+"message": "I'm really sorry for your loss. My thoughts are with you.",
+"reason": "This message is respectful and empathetic, showing support and understanding.",
+"predicted": "clean"
+}
+```
+
+Message: "You're so stupid, can't even understand a simple thing."
+
+```json
+{
+"message": "You're so stupid, can't even understand a simple thing.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "Thank you for your help, I really appreciate it."
+
+```json
+{
+"message": "Thank you for your help, I really appreciate it.",
+"reason": "This message is polite and appreciative, showing gratitude for someone's help.",
+"predicted": "clean"
+}
+```

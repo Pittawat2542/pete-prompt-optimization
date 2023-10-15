@@ -1,0 +1,39 @@
+Message: > I think the new update is really cool! The graphics are much better now.
+
+```json
+{
+"message": "I think the new update is really cool! The graphics are much better now.",
+"reason": "This message is considered clean as it contains no offensive language and expresses a positive opinion about a recent update.",
+"predicted": "clean"
+}
+```
+
+Message: > This game is a total waste of time. The developers are a bunch of morons.
+
+```json
+{
+"message": "This game is a total waste of time. The developers are a bunch of morons.",
+"reason": "This message is considered toxic due to its use of derogatory language directed at the game developers.",
+"predicted": "toxic"
+}
+```
+
+Message: > Can anyone help me with the new level? I'm stuck.
+
+```json
+{
+"message": "Can anyone help me with the new level? I'm stuck.",
+"reason": "This message is considered clean as it contains no offensive language and is asking for help in a polite manner.",
+"predicted": "clean"
+}
+```
+
+Message: > You're all losers! I can't believe you can't beat this level.
+
+```json
+{
+"message": "You're all losers! I can't believe you can't beat this level.",
+"reason": "This message is considered toxic due to its use of derogatory language directed at other players.",
+"predicted": "toxic"
+}
+```

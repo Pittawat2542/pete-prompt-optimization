@@ -1,0 +1,7 @@
+```json
+{
+"message": "1G$",
+"reason": "The message contains a combination of alphanumeric characters and symbols that does not make sense in the context of the online community. It appears to be a random string of characters, which is often associated with spam or malicious content. Therefore, it can be classified as 'toxic'.",
+"predicted": "toxic"
+}
+```

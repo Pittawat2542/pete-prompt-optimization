@@ -1,0 +1,8 @@
+{
+  "message": "hmm I have never played this game, should I play squad or solo? fuck it lets play squad so i can fuck up my squadmates retard starter pack",
+  "reason": "The message includes offensive language and disrespectful tone towards potential squadmates.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-4"
+}

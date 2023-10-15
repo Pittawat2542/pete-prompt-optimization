@@ -1,0 +1,7 @@
+```json
+{
+"message": "what did they do to you @Yamikazexz",
+"reason": "The message does not contain any explicit toxic language or offensive content. It is a simple question directed at another user. Therefore, it can be classified as clean.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "hamb10 hamb10",
+"reason": "The text is classified as 'clean' because the 'toxic' probability is below the threshold of 0.5.",
+"predicted": "clean"
+}
+```

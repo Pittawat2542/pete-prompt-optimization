@@ -1,0 +1,8 @@
+{
+  "message": "I don't think that's a good idea.",
+  "reason": "The message is expressing a personal opinion in a respectful manner without any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

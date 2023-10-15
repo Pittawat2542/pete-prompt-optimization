@@ -1,0 +1,7 @@
+```json
+{
+"message": "any way i can use my pubg on console on pc ? Dont got enough to get pubg on pc",
+"reason": "The message is classified as 'clean' because it does not contain any toxic or offensive language. It is a simple question about using PUBG on console on a PC due to financial constraints.",
+"predicted": "clean"
+}
+```

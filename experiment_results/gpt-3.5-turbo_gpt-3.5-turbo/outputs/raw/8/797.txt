@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Pepega",
+  "reason": "The text 'Pepega' is classified as 'toxic' because it is a popular emote in online communities that is often used to mock or insult someone.",
+  "predicted": "toxic"
+}
+```

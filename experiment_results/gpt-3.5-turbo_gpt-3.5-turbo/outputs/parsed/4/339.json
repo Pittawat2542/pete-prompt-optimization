@@ -1,0 +1,8 @@
+{
+  "message": "feed them and said what the fuck could i do",
+  "reason": "The text contains offensive language ('what the fuck'), which indicates toxicity.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

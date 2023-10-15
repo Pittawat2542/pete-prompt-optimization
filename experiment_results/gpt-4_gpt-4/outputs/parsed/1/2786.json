@@ -1,0 +1,8 @@
+{
+  "message": "STOP DOING WHAT I THINK IS SHIT STREAMER",
+  "reason": "The message contains offensive language and is disrespectful towards someone.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

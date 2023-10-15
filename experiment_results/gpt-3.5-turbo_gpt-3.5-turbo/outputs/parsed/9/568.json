@@ -1,0 +1,8 @@
+{
+  "message": "11649 times KEKW",
+  "reason": "The message consists of a number followed by a phrase that is likely a meme or slang term. It does not contain any offensive or harmful language, and there is no indication of toxicity or negativity.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

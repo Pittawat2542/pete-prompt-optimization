@@ -1,0 +1,7 @@
+```json
+{
+"message": "white_medium_star:",
+"reason": "The message does not contain any offensive, rude, or disrespectful language. It seems to be a neutral emoji or symbol.",
+"predicted": "clean"
+}
+```

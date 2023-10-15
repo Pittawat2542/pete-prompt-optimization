@@ -1,0 +1,8 @@
+{
+  "message": "Taking a shit ehun ehun ehun ehun",
+  "reason": "The predicted category is 'toxic' because the text contains offensive language ('shit'). The model has correctly identified this as toxic based on the prediction result which shows a high toxicity score of 0.95.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

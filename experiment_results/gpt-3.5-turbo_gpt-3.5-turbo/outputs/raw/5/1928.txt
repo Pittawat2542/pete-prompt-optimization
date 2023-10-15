@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdChair",
+"reason": "The message 'danucdChair' does not contain any meaningful text or context. Therefore, it cannot be classified as toxic or clean.",
+"predicted": "clean"
+}
+```

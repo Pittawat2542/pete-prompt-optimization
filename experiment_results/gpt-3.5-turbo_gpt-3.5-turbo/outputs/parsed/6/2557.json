@@ -1,0 +1,8 @@
+{
+  "message": "What up hamily hambO7 hambO7",
+  "reason": "The message contains repetitive and nonsensical words ('hamily', 'hambO7') which are not commonly used in regular conversations. This suggests that the message is likely to be spam or trolling.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

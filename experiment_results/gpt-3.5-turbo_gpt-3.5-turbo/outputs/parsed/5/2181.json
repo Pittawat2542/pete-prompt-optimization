@@ -1,0 +1,8 @@
+{
+  "message": "rando squad?",
+  "reason": "The message 'rando squad?' does not contain any offensive or toxic language. It is a simple question asking if anyone wants to form a random squad. Therefore, it can be classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

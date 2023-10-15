@@ -1,0 +1,8 @@
+{
+  "message": "Hell nahh",
+  "reason": "The text contains a negative sentiment and uses informal language ('nahh'). This could be interpreted as a disrespectful or offensive response, making it fall into the 'toxic' category.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

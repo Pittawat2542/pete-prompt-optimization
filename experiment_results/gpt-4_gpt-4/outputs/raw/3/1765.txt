@@ -1,0 +1,7 @@
+```json
+{
+"message": "@melihozkiremitci danucdHi danucdHi",
+"reason": "The message is a simple greeting or acknowledgement towards a user and contains no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "Shootin the shit smokin sum herb",
+  "reason": "The message contains informal language and references to drug use, which are often associated with toxic behavior. The use of the phrase 'shootin the shit' can be interpreted as engaging in negative or disrespectful conversation. Additionally, the mention of 'smokin sum herb' implies the use of drugs, which can be seen as inappropriate or offensive in many online communities. Therefore, based on the content of the message, it can be classified as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

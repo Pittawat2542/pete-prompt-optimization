@@ -1,0 +1,8 @@
+{
+  "message": "DD",
+  "reason": "The message 'DD' does not contain any explicit or offensive language, and it does not exhibit any toxic behavior. Therefore, it can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

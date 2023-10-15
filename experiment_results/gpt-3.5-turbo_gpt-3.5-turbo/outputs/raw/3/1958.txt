@@ -1,0 +1,7 @@
+```json
+{
+"message": "https://specs.gg/tgltn",
+"reason": "The predicted category is 'clean' because the text does not contain any toxic or offensive language. The model has a high confidence score of 0.98 for the 'clean' category, indicating that the text is most likely not toxic.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "SUCK",
+"reason": "The word 'SUCK' is a derogatory term that is commonly used to insult or belittle someone. It is considered offensive and disrespectful, which aligns with the toxic category.",
+"predicted": "toxic"
+}
+```

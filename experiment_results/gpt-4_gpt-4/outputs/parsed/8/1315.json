@@ -1,0 +1,8 @@
+{
+  "message": "I think your idea is not good enough. You should try to think more creatively.",
+  "reason": "The message is a critique but it is not offensive or disrespectful. It is a suggestion for improvement.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "@HamitCanKilic why i cant donate without login in with my fb or soemthing",
+"reason": "The message is a question and does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

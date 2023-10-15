@@ -1,0 +1,8 @@
+{
+  "message": "DendiFace gg",
+  "reason": "The message contains an emote 'DendiFace' which is not inherently toxic. The term 'gg' is commonly used to mean 'good game' and is not toxic on its own. Therefore, the message does not exhibit any toxic behavior.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

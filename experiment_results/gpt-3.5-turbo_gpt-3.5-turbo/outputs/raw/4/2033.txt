@@ -1,0 +1,7 @@
+```json
+{
+"message": "get out rogue",
+"reason": "The message contains an imperative statement ('get out') which can be interpreted as a command or an aggressive request. The word 'rogue' can be seen as an insult or derogatory term. Therefore, the message can be classified as toxic.",
+"predicted": "toxic"
+}
+```

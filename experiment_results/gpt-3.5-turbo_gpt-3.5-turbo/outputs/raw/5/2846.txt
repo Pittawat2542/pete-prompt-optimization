@@ -1,0 +1,7 @@
+```json
+{
+"message": "the hell was that",
+"reason": "The message contains strong language ('hell') which can be considered toxic or offensive. The phrase 'the hell was that' also expresses frustration or anger, which contributes to the toxic tone of the message.",
+"predicted": "toxic"
+}
+```

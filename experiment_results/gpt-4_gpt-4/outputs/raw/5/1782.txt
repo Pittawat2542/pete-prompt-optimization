@@ -1,0 +1,7 @@
+```json
+{
+"message": "jd",
+"reason": "The message is not offensive or disrespectful. It appears to be an abbreviation or a typo, but it doesn't contain any toxic language.",
+"predicted": "clean"
+}
+```

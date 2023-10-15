@@ -1,0 +1,39 @@
+Message: "I think your idea is stupid and you're a fool for suggesting it."
+
+```json
+{
+"message": "I think your idea is stupid and you're a fool for suggesting it.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone's idea.",
+"predicted": "toxic"
+}
+```
+
+Message: "I appreciate your suggestion, but I have a different perspective on this matter."
+
+```json
+{
+"message": "I appreciate your suggestion, but I have a different perspective on this matter.",
+"reason": "This message is clean as it expresses disagreement in a respectful and polite manner.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser, can't believe you messed up again."
+
+```json
+{
+"message": "You're such a loser, can't believe you messed up again.",
+"reason": "This message is considered toxic due to its use of derogatory language and negative tone.",
+"predicted": "toxic"
+}
+```
+
+Message: "It's okay, we all make mistakes. Let's try again."
+
+```json
+{
+"message": "It's okay, we all make mistakes. Let's try again.",
+"reason": "This message is clean as it conveys understanding and encouragement, without any offensive language or tone.",
+"predicted": "clean"
+}
+```

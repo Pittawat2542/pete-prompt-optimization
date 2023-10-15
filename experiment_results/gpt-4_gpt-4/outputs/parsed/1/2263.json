@@ -1,0 +1,8 @@
+{
+  "message": "you can try this to them ciao nee mud",
+  "reason": "The message does not contain any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

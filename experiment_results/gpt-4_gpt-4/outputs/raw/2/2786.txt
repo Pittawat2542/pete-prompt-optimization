@@ -1,0 +1,39 @@
+Message: "I really enjoyed your last stream, keep up the good work!"
+
+```json
+{
+"message": "I really enjoyed your last stream, keep up the good work!",
+"reason": "This message is positive and encouraging, with no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "Your content is garbage, you should quit streaming."
+
+```json
+{
+"message": "Your content is garbage, you should quit streaming.",
+"reason": "This message is considered toxic due to its negative and disrespectful tone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I think your streams could be improved by adding more variety."
+
+```json
+{
+"message": "I think your streams could be improved by adding more variety.",
+"reason": "This message is constructive and polite, with no offensive language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're the worst streamer I've ever seen."
+
+```json
+{
+"message": "You're the worst streamer I've ever seen.",
+"reason": "This message is considered toxic due to its negative and disrespectful tone.",
+"predicted": "toxic"
+}
+```

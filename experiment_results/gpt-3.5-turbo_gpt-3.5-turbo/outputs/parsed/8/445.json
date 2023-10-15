@@ -1,0 +1,8 @@
+{
+  "message": "> fuck off",
+  "reason": "The text contains offensive language, specifically the phrase 'fuck off', which is highly disrespectful and aggressive.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

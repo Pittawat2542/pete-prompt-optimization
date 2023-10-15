@@ -1,0 +1,8 @@
+{
+  "message": "5Head",
+  "reason": "The message '5Head' is a slang term used in online communities to refer to someone who is intelligent or clever. It does not contain any offensive or harmful language, and there is no indication of toxicity or negativity in the message.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

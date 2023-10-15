@@ -1,0 +1,8 @@
+{
+  "message": "ooo we get a chickirhinooooo",
+  "reason": "The text does not contain any offensive or harmful language. It appears to be a playful and harmless comment.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

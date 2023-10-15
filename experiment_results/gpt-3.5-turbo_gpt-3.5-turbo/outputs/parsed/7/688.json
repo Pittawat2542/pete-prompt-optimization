@@ -1,0 +1,8 @@
+{
+  "message": 800,
+  "reason": "The message is classified as 'clean' because it is a numerical value and does not contain any text that can be classified as toxic.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

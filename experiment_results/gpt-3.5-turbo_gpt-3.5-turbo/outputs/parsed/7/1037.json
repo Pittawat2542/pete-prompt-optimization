@@ -1,0 +1,8 @@
+{
+  "message": "Its my stupid earphones",
+  "reason": "The message is classified as 'clean' because it does not contain any offensive or harmful language. The word 'stupid' is used in a non-toxic context to describe the earphones.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

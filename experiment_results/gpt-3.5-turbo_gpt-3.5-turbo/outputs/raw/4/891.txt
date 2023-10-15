@@ -1,0 +1,7 @@
+```json
+{
+"message": "shit happens",
+"reason": "The text falls into the 'toxic' category because the model predicted it as toxic with a high confidence score of 0.95. The phrase 'shit happens' is commonly used to express frustration or disappointment, and it can be considered offensive or vulgar.",
+"predicted": "toxic"
+}
+```

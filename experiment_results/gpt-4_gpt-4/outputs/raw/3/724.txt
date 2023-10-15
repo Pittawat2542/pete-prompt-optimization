@@ -1,0 +1,9 @@
+Given Message: "I think your idea is really innovative and could bring a lot of positive changes."
+
+```json
+{
+"message": "I think your idea is really innovative and could bring a lot of positive changes.",
+"reason": "The message is respectful and appreciative of someone's idea, with no offensive or disrespectful language used.",
+"predicted": "clean"
+}
+```

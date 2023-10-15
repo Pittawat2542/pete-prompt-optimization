@@ -1,0 +1,39 @@
+Message: "You're such a loser, can't even play the game right."
+
+```json
+{
+"message": "You're such a loser, can't even play the game right.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I think this game could use some improvements in the graphics department."
+
+```json
+{
+"message": "I think this game could use some improvements in the graphics department.",
+"reason": "This message is clean as it provides constructive criticism without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "Why are you even here? You're just a waste of space."
+
+```json
+{
+"message": "Why are you even here? You're just a waste of space.",
+"reason": "This message is considered toxic due to its use of disrespectful language and negative tone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I really enjoyed the storyline of this game, it was very engaging."
+
+```json
+{
+"message": "I really enjoyed the storyline of this game, it was very engaging.",
+"reason": "This message is clean as it expresses a positive sentiment without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

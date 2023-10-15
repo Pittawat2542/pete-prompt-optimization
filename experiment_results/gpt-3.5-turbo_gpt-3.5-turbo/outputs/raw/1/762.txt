@@ -1,0 +1,7 @@
+```json
+{
+  "message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
+  "reason": "The message contains a mention of another user, but the content itself is not offensive or harmful. It is a compliment to the user for achieving a high CS (creep score) in the game. Therefore, the message can be classified as clean.",
+  "predicted": "clean"
+}
+```

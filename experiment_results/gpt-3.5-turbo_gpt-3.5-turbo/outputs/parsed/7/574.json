@@ -1,0 +1,8 @@
+{
+  "message": "Yami has inted 11650 times KEKW",
+  "reason": "The message contains the term 'inted' which is a slang term used in online gaming communities to refer to intentional feeding, which is a form of toxic behavior. Additionally, the number '11650' suggests a high frequency of this behavior, further indicating toxicity.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

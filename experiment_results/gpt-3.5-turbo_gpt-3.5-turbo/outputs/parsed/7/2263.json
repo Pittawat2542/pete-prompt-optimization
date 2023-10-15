@@ -1,0 +1,8 @@
+{
+  "message": "you can try this to them ciao nee mud",
+  "reason": "The message does not contain any offensive or harmful language. It appears to be a random combination of words without any clear meaning or intent.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

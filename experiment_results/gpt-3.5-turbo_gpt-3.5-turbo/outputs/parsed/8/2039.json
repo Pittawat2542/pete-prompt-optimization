@@ -1,0 +1,8 @@
+{
+  "message": "XD I am gonna get that catch-phrased I promise Tig lol",
+  "reason": "The text is classified as 'clean' because it contains positive emoticons ('XD', 'lol') and does not contain any offensive or toxic language. The model's prediction result also supports this classification as it has a high probability for the 'clean' category.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

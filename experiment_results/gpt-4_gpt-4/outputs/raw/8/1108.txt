@@ -1,0 +1,9 @@
+Message: I think your idea is not good enough. You should try to think more creatively.
+
+```json
+{
+"message": "I think your idea is not good enough. You should try to think more creatively.",
+"reason": "The message is a critique but does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

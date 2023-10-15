@@ -1,0 +1,9 @@
+Message: "I think your idea is really innovative and could bring a lot of positive change."
+
+```json
+{
+"message": "I think your idea is really innovative and could bring a lot of positive change.",
+"reason": "The message is respectful and positive, with no offensive or harmful language.",
+"predicted": "clean"
+}
+```

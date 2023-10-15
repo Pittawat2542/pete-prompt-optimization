@@ -1,0 +1,7 @@
+```json
+{
+"message": "@animoputt I get it dude. just pokin ya.",
+"reason": "The message is classified as clean because it does not contain any offensive or harmful language. The phrase 'just pokin ya' indicates that the sender is joking or teasing in a friendly manner.",
+"predicted": "clean"
+}
+```

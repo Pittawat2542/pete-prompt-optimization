@@ -1,0 +1,8 @@
+{
+  "message": "Obligatory \"fuck Udyr\"",
+  "reason": "The text contains offensive language, specifically the word \"fuck\", which is a strong profanity. This indicates that the text is toxic.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

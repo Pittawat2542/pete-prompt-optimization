@@ -1,0 +1,8 @@
+{
+  "message": "why the *fuck* do people in plat just s u c k",
+  "reason": "The message contains offensive language ('fuck') which indicates a toxic tone. Additionally, the message expresses a negative sentiment towards people in the 'plat' category, suggesting a negative attitude towards a specific group of people. These factors contribute to the toxic classification.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

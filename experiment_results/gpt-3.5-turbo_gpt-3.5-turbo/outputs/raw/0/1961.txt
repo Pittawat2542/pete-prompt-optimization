@@ -1,0 +1,7 @@
+```json
+{
+"message": "!subs",
+"reason": "The message is a command to subscribe to something.",
+"predicted": "clean"
+}
+```

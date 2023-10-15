@@ -1,0 +1,8 @@
+{
+  "message": "i have nothing",
+  "reason": "The message does not contain any offensive or harmful language. It is a neutral statement indicating that the person has nothing.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

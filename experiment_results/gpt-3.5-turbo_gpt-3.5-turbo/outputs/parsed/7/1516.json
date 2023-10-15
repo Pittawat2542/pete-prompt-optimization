@@ -1,0 +1,8 @@
+{
+  "message": "!hs",
+  "reason": "The message '!hs' does not contain any explicit toxic language or offensive content. It appears to be a command or request in an online community. Therefore, it can be classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,3210 @@
+{
+  "total": 400,
+  "correct": 145,
+  "incorrect": 255,
+  "accuracy": 0.3625,
+  "correct_messages": [
+    {
+      "message": "You're such a loser!",
+      "reason": "The message uses derogatory language to insult or belittle someone, which is considered toxic.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so ignorant.",
+      "reason": "This message is considered toxic due to its disrespectful tone and offensive language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't stand your constant complaining. It's so annoying.",
+      "reason": "This message is considered toxic due to its aggressive tone and disrespectful language.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "The message is considered toxic due to the use of derogatory language directed at someone's intelligence.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so ignorant!",
+      "reason": "This message is considered toxic due to its disrespectful tone and offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Dont bother with salty lol he's tryna make yall look like an idiot when he is the moron himself",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "The message uses derogatory language to insult or belittle someone, which is considered toxic.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "The message uses derogatory language to insult or belittle someone, which is considered toxic.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "The message uses derogatory language to insult or belittle someone, which is considered toxic.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so ignorant.",
+      "reason": "This message is considered toxic due to its disrespectful tone and offensive language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even win a single game.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I don't agree with your point of view.",
+      "reason": "This message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so ignorant.",
+      "reason": "This message is considered toxic due to its disrespectful tone and offensive language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "This message is considered clean as it expresses a disagreement in a respectful and polite manner.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is great!",
+      "reason": "This message is positive and supportive, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that way.",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really great and could benefit a lot of people.",
+      "reason": "This message is polite and respectful, expressing a positive sentiment towards someone's idea.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that way.",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone's intelligence.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really great. We should definitely try it out.",
+      "reason": "This message is polite and respectful, showing appreciation for someone's idea.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. The data suggests otherwise.",
+      "reason": "This message is considered clean as it is a polite disagreement backed by data, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "This message is considered clean as it is a polite expression of disagreement or differing opinion, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very good.",
+      "reason": "This message is expressing a personal opinion in a respectful manner without using offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that way.",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone's intelligence.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even get a simple thing right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't believe you messed up again.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you messed up again.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't believe you're still here.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even get a simple thing right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! No one likes you.",
+      "reason": "This message is considered toxic due to its use of derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you're still here.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you messed up again.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "The message uses derogatory language to insult or belittle someone, which is considered toxic.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "This message is considered toxic due to its use of derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "The message uses derogatory language to insult or belittle someone, which is considered toxic.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck man",
+      "reason": "This message contains offensive language and should be classified as toxic.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "The message uses derogatory language to insult or belittle someone, which is considered disrespectful and offensive.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even get a simple thing right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really great!",
+      "reason": "This message is polite and respectful, expressing a positive sentiment towards someone's idea.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you messed up again.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that way.",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone's intelligence.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "The message uses derogatory language to insult or belittle someone, which is considered toxic.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "o m y fucking god AGAIN?",
+      "reason": "This message is classified as toxic due to the use of offensive language ('fucking') and aggressive tone ('AGAIN?').",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, get a life!",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "The message uses derogatory language to insult or belittle someone, which is considered toxic.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "The message uses derogatory language to insult or belittle someone, which is considered toxic.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "man yuumi jng is fucking annoying",
+      "reason": "This message is considered toxic due to the use of offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "it was the evelynn game, he even stole my fucking champ",
+      "reason": "This message is considered toxic due to the use of offensive language.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't believe you messed up again.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very practical.",
+      "reason": "This message is a critique but it is expressed in a respectful and non-offensive manner.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "The message uses derogatory language to insult or belittle someone, which is considered toxic.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "The message uses derogatory language to insult or belittle someone, which is considered offensive and disrespectful.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, you can't even play the game properly.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone's gaming skills.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is stupid and you're a loser.",
+      "reason": "This message is considered toxic due to its use of derogatory language and personal insults.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really great!",
+      "reason": "This message is positive and respectful, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "This message is considered clean as it is a polite expression of disagreement or differing opinion, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really great. It's innovative and unique.",
+      "reason": "This message is polite and respectful, expressing positive sentiment towards someone's idea.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you're still here.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. Get a life!",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    }
+  ],
+  "incorrect_messages": [
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is considered clean as it expresses a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. The data suggests otherwise.",
+      "reason": "This message is considered clean as it is a polite disagreement backed by data, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think the new update is really cool!",
+      "reason": "This message is expressing a positive opinion about a new update. It does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is considered clean as it expresses a disagreement in a respectful manner without using offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I don't agree with your point of view.",
+      "reason": "This message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you messed up again.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you're still playing this game.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards the recipient.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even get a simple task done.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is stupid and you're a fool for suggesting it.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone's idea.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you messed up again.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you messed up again.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is stupid and you're a moron for suggesting it.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone's idea.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't believe you're still here.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is stupid and you're a fool for suggesting it.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone's idea.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you messed up again.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is stupid and you're a fool for suggesting it.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone's idea.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you messed up again.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you're still here.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even get a simple thing right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even win a single game.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is stupid and you're a fool for suggesting it.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone's idea.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think the new update is really cool! The graphics are much better now.",
+      "reason": "This message is considered clean as it contains no offensive language and expresses a positive opinion about a recent update.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "This message is considered toxic due to its use of derogatory language and personal attack.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you're still here.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is expressing a disagreement in a respectful manner without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I really enjoyed the last community meetup. Looking forward to the next one.",
+      "reason": "This message is positive and respectful, expressing enjoyment and anticipation for future events.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. The data suggests otherwise.",
+      "reason": "This message is considered clean as it is a polite disagreement backed by data, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even do a simple task!",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is great! Let's try it out.",
+      "reason": "This message is positive and supportive, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you messed up again.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is considered clean as it is a polite disagreement without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "This message is considered clean as it is a polite expression of disagreement or differing opinion, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even do a simple task.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is stupid and you're a fool for suggesting it.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone's idea.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone's ability.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even get a simple task done.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always wrong, can't you do anything right?",
+      "reason": "This message is considered toxic due to its aggressive tone and disrespectful language.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really innovative and could bring a lot of value to our project.",
+      "reason": "This message is respectful and positive, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even win a single game.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone's ability.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is considered clean as it expresses a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even get a simple thing right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is considered clean as it expresses a disagreement in a respectful manner without using offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is stupid and you're a loser.",
+      "reason": "This message is considered toxic due to its use of derogatory language and personal insults.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser.",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't believe you messed up again.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't believe you're still here.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is a polite disagreement without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "This message is considered clean as it is a polite expression of disagreement or differing opinion, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even get a simple thing right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't believe you're still here.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really great and could benefit a lot of people.",
+      "reason": "This message is polite and respectful, expressing a positive sentiment towards someone's idea.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "This message is considered clean as it is a polite expression of disagreement or differing opinion, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you're still here.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you messed up again.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really innovative and could bring a lot of positive changes.",
+      "reason": "This message is polite and respectful, and it conveys a positive sentiment towards someone's idea.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is considered clean as it is a polite disagreement without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I really enjoyed your last stream, keep up the good work!",
+      "reason": "This message is positive and encouraging, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "This message is considered clean as it is a polite expression of disagreement or differing opinion, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really innovative and interesting.",
+      "reason": "This message is polite and respectful, expressing a positive sentiment towards someone's idea.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "This message is considered clean as it is a polite expression of disagreement or criticism without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "This message is considered clean as it is a polite expression of disagreement or differing opinion, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Your work is always so inspiring.",
+      "reason": "This message is positive and complimentary, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think this game is really fun, I've been playing it for hours!",
+      "reason": "This message is positive and contains no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you're still here.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very practical.",
+      "reason": "This message is considered clean as it is a polite expression of disagreement or differing opinion, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very good.",
+      "reason": "This message is considered clean as it is a polite expression of disagreement or differing opinion, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very practical.",
+      "reason": "This message is expressing an opinion in a respectful manner without using offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think the new update is really cool, it has improved the game a lot.",
+      "reason": "This message is considered clean as it contains no offensive language and expresses a positive opinion about a game update.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "This message is considered clean as it expresses disagreement in a respectful and constructive manner.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't believe you messed up again.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is considered clean as it expresses a disagreement in a respectful manner without using offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is considered clean as it expresses a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "This message is considered clean as it is a polite disagreement or critique without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is great!",
+      "reason": "This message is positive and supportive, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very good.",
+      "reason": "This message is expressing a personal opinion in a respectful manner without using offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not very good.",
+      "reason": "This message is expressing a personal opinion in a respectful manner without using offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "This message is considered clean as it is a polite expression of disagreement or differing opinion, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're misunderstanding the point of the discussion. It's not about winning or losing, it's about sharing ideas and learning from each other.",
+      "reason": "This message is respectful and promotes a positive discussion environment. It does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken. The data shows a different trend.",
+      "reason": "This message is considered clean as it is a polite disagreement backed by data, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're mistaken about that.",
+      "reason": "This message is polite and respectful, expressing a differing opinion without resorting to offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "This message is considered clean as it is a polite expression of disagreement or differing opinion, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "This message is considered clean as it is a polite expression of disagreement or differing opinion, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "This message is considered clean as it is a polite disagreement without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really great!",
+      "reason": "This message is positive and respectful, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid to think that!",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is a polite disagreement, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you're still playing this game.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards the recipient.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you messed up again.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't believe you messed up again.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. You can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "This message is considered clean as it expresses a disagreement in a respectful and polite manner, without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "expose yourself",
+      "reason": "This message can be interpreted as a request for inappropriate or private information, which is disrespectful and potentially harmful.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're always so helpful, thank you!",
+      "reason": "This message is polite and expresses gratitude, with no offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're so stupid, can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't believe you messed up again.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your ideas are stupid and you should feel bad.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't believe you messed up again.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't believe you're still here.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser. No one likes you.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative sentiment directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser! Can't you do anything right?",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't even play the game right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone's ability.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're such a loser, can't do anything right.",
+      "reason": "This message is considered toxic due to its use of derogatory language and negative tone directed at someone.",
+      "predicted": "toxic",
+      "prompt_version": 2,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible.",
+      "reason": "This message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. The data suggests otherwise.",
+      "reason": "This message is considered clean as it is a polite disagreement backed by data, without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really great!",
+      "reason": "This message is polite and respectful, expressing a positive sentiment towards someone's idea.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that.",
+      "reason": "This message is considered clean as it is a polite disagreement without any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think you're wrong about that. Here's why...",
+      "reason": "This message is considered clean as it expresses a disagreement in a respectful and polite manner.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really great!",
+      "reason": "This message is polite and respectful, expressing a positive sentiment towards someone's idea.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really innovative and interesting.",
+      "reason": "This message is polite and respectful, expressing a positive sentiment towards someone's idea.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is not feasible. We should consider other options.",
+      "reason": "This message is considered clean as it is a constructive criticism and does not contain any offensive or disrespectful language.",
+      "predicted": "clean",
+      "prompt_version": 2,
+      "label": "toxic",
+      "model": "gpt-4"
+    }
+  ]
+}

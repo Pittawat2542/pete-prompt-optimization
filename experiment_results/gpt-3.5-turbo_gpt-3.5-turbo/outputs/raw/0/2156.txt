@@ -1,0 +1,7 @@
+```json
+{
+"message": "DendiFace gg",
+"reason": "The message contains a combination of letters and a word that does not make sense in the context of the conversation.",
+"predicted": "toxic"
+}
+```

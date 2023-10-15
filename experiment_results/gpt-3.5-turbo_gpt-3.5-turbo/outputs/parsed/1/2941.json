@@ -1,0 +1,8 @@
+{
+  "message": "wtffffffffffffff",
+  "reason": "The message consists of repeated letters and exclamation marks, which indicates frustration or anger. The excessive use of 'f' suggests strong negative emotions. This kind of language is often associated with toxic behavior.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "hamb10 hamb10",
+"reason": "The message does not contain any explicit toxic language or offensive content. It appears to be a repetition of the word 'hamb10'.",
+"predicted": "clean"
+}
+```

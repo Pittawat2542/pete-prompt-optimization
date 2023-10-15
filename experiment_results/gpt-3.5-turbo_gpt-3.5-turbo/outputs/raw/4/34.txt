@@ -1,0 +1,7 @@
+```json
+{
+"message": "laners dying even with vision ðŸ¤¡",
+"reason": "The message does not contain any offensive or harmful language. It is a statement about laners dying despite having vision in the game. It does not attack or insult anyone.",
+"predicted": "clean"
+}
+```

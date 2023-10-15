@@ -1,0 +1,7 @@
+```json
+{
+"message": "there are many cheaters in china",
+"reason": "The message contains a negative statement about a group of people, suggesting that they engage in dishonest behavior. This can be considered toxic as it promotes stereotypes and can lead to discrimination or prejudice.",
+"predicted": "toxic"
+}
+```

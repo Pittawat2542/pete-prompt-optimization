@@ -1,0 +1,8 @@
+{
+  "message": "@hambinooo sorry for ruining your fun",
+  "reason": "The message contains an apology and acknowledges that the sender has ruined someone's fun. It does not contain any offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

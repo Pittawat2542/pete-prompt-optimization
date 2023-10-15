@@ -1,0 +1,8 @@
+{
+  "message": "just dont care",
+  "reason": "The message is classified as 'clean' because it does not contain any explicit or offensive language. The absence of any toxic elements in the message suggests that it is not intended to harm or offend anyone.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

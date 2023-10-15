@@ -1,0 +1,8 @@
+{
+  "message": "What up hamily hambO7 hambO7",
+  "reason": "The message contains some slang words and repeated characters, but it does not contain any offensive or harmful language. It seems to be a casual greeting or expression of excitement.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

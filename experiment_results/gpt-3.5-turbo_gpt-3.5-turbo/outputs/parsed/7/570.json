@@ -1,0 +1,8 @@
+{
+  "message": "you W'd there because you were anticipating flash 4Head",
+  "reason": "The message contains a sarcastic comment and the term '4Head', which is a Twitch emote used to express sarcasm or mockery. This indicates that the message is intended to be humorous and not toxic.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

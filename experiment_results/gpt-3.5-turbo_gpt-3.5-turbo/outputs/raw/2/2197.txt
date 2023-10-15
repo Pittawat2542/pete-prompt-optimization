@@ -1,0 +1,7 @@
+```json
+{
+"message": "he said frist time FPP",
+"reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It appears to be a simple statement about someone mentioning 'FPP' for the first time. Therefore, it can be classified as clean.",
+"predicted": "clean"
+}
+```

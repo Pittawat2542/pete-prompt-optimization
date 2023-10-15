@@ -1,0 +1,7 @@
+```json
+{
+  "message": "fuck this mmr god why",
+  "reason": "The message contains offensive language ('fuck') which is considered toxic. The user is expressing frustration and anger towards the matchmaking rating (mmr) system, which can be seen as a negative and toxic behavior.",
+  "predicted": "toxic"
+}
+```

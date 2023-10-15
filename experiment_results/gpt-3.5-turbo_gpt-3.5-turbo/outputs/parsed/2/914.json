@@ -1,0 +1,8 @@
+{
+  "message": "or until u get shit on LUL",
+  "reason": "The message contains offensive language ('shit') which is considered toxic.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

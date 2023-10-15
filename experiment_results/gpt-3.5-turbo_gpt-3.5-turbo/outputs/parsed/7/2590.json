@@ -1,0 +1,8 @@
+{
+  "message": "114 kills again? you're a legend",
+  "reason": "The message is classified as 'clean' because it contains positive language and does not exhibit any toxic or offensive behavior. The phrase 'you're a legend' indicates admiration and praise, which is not indicative of toxic content.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

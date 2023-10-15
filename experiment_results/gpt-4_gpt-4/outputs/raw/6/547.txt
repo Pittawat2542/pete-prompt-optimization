@@ -1,0 +1,7 @@
+```json
+{
+"message": "expose yourself : 1.nop 2. No 3. No 4. Blue , pink 5. M 6. Hiii let's play league of legends 7. Both 8. Idk 9. Idk they don't even reply me- 10. No 11. Ye 12. No 13. ðŸ¤¡ drop an emoji and iâ€™ll send you the questions",
+"reason": "The message doesn't contain any offensive or disrespectful language. It seems like a casual conversation or a game being played in an online community.",
+"predicted": "clean"
+}
+```

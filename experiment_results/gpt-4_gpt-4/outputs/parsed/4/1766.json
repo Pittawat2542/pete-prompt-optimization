@@ -1,0 +1,8 @@
+{
+  "message": "hello and bye @melihozkiremitci",
+  "reason": "The message is a simple greeting and farewell, without any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

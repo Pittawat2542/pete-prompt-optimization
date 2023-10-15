@@ -1,0 +1,7 @@
+```json
+{
+"message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
+"reason": "The message does not contain any offensive or harmful language. It appears to be a statement about the person's decision to embrace their bad behavior as part of their personal brand. This does not indicate any toxic or harmful intent.",
+"predicted": "clean"
+}
+```

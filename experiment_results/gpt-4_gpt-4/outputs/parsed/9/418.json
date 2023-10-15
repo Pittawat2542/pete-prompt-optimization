@@ -1,0 +1,8 @@
+{
+  "message": "I think you're mistaken. The data shows a different trend.",
+  "reason": "The message is polite and respectful, disagreeing with a previous statement based on data, without using any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

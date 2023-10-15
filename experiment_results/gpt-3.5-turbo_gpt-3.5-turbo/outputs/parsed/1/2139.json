@@ -1,0 +1,8 @@
+{
+  "message": "ha ha ha comms",
+  "reason": "The message consists of laughter and the word 'comms'. There is no offensive or harmful language used, and the context is not clear enough to determine any toxic intent. Therefore, the message can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

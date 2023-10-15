@@ -1,0 +1,7 @@
+```json
+{
+"message": "bc my stupid dog eat it",
+"reason": "The message uses the term 'stupid' to describe a dog, which can be considered as disrespectful language.",
+"predicted": "toxic"
+}
+```

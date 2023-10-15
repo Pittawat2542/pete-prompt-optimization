@@ -1,0 +1,7 @@
+```json
+{
+"message": "JESUS CHRIST",
+"reason": "The message does not contain any offensive or harmful language. It is a common expression that can be used in various contexts, such as surprise or exclamation.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "Well,rip clips alisaYikes",
+"reason": "The message contains the word 'rip' which can be interpreted as a negative or disrespectful comment. Additionally, the word 'Yikes' is often used to express surprise or disapproval. These elements contribute to a toxic tone in the message.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "Well,rip clips alisaYikes",
+  "reason": "The predicted category is toxic. The presence of the word 'rip' suggests a negative or harmful sentiment. Additionally, the use of 'alisaYikes' indicates that the message may contain offensive or derogatory content.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

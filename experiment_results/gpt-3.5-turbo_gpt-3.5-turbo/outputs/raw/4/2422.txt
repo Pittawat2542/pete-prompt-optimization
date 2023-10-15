@@ -1,0 +1,9 @@
+```json
+{
+"message": "Bose QC20 (apple version). Ibi uses in ears instead of a headset because he has to use in ears at LANs. This way he gets used to it ibiW",
+"reason": "clean",
+"predicted": "clean"
+}
+```
+
+The message is classified as "clean" because it does not contain any toxic or offensive language. It is a simple statement about someone using in-ear headphones instead of a headset for LANs. The absence of any harmful or offensive content indicates that the message is clean.

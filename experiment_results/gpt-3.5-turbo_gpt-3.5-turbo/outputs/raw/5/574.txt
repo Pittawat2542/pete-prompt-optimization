@@ -1,0 +1,7 @@
+```json
+{
+"message": "Yami has inted 11650 times KEKW",
+"reason": "The message contains the term 'inted', which is a slang term used in online gaming communities to refer to intentionally feeding or losing the game on purpose. This behavior is often considered toxic and goes against the spirit of fair play. Additionally, the high number of times mentioned (11650) suggests a repetitive pattern of negative behavior. Therefore, the message can be classified as toxic.",
+"predicted": "toxic"
+}
+```

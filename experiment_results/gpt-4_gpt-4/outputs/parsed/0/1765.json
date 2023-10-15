@@ -1,0 +1,8 @@
+{
+  "message": "@melihozkiremitci danucdHi danucdHi",
+  "reason": "The message is a simple greeting or acknowledgement to another user, without any offensive or harmful content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "@jrrod91 do you think a new clip is a spam",
+  "reason": "The message does not contain any offensive or harmful language, and it does not seem to be intended to provoke or insult anyone. Therefore, it can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

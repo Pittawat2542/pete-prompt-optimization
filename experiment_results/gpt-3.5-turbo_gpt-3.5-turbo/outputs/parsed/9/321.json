@@ -1,0 +1,8 @@
+{
+  "message": "I fucking hate lux",
+  "reason": "The message contains strong profanity and expresses hatred towards a specific person or thing. The use of the word 'hate' and the strong expletive 'fucking' indicate a negative and toxic sentiment.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

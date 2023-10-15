@@ -1,0 +1,7 @@
+```json
+{
+"message": "why do people say that fortnite is toxic, there literally isnt any proximity chat or ingame text chat or any of that, league of legends is 100x more toxic generally",
+"reason": "The user is expressing their opinion about the toxicity level in different games, not using offensive or harmful language.",
+"predicted": "clean"
+}
+```

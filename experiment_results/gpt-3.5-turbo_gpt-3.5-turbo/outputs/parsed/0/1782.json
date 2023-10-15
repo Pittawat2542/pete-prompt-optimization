@@ -1,0 +1,8 @@
+{
+  "message": "jd",
+  "reason": "The message consists of only two characters and does not provide any context or information. It is not possible to accurately classify it based on such limited content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

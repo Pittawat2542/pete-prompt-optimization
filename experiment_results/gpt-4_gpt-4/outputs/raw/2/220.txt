@@ -1,0 +1,39 @@
+Message: "I think your idea is really innovative and could bring a lot of value to our project."
+
+```json
+{
+"message": "I think your idea is really innovative and could bring a lot of value to our project.",
+"reason": "This message is respectful and positive, with no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser, can't you do anything right?"
+
+```json
+{
+"message": "You're such a loser, can't you do anything right?",
+"reason": "This message contains offensive language and is disrespectful towards the recipient.",
+"predicted": "toxic"
+}
+```
+
+Message: "I disagree with your point, but I appreciate your perspective."
+
+```json
+{
+"message": "I disagree with your point, but I appreciate your perspective.",
+"reason": "This message is respectful and polite, despite expressing disagreement.",
+"predicted": "clean"
+}
+```
+
+Message: "You're a waste of space, just quit already."
+
+```json
+{
+"message": "You're a waste of space, just quit already.",
+"reason": "This message is offensive and disrespectful, using derogatory language.",
+"predicted": "toxic"
+}
+```

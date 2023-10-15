@@ -1,0 +1,40 @@
+In this exercise, your task is to thoroughly analyze provided textual data, also known as a "message", retrieved from an online community dialogue. The primary goal is to categorize each of these messages as either "toxic" or "clean". 
+
+The term "toxic" refers to any messages loaded with offensive, impolite, harmful, or disrespectful language or sentiments. If a message contains any form of derogatory terms, slurs, personal attacks, threats, or promotes harmful behavior, it should be categorized as "toxic". On the other hand, "clean" messages do not contain any elements that might be classified as offensive or disrespectful. Instead, they maintain a friendly, courteous, respectful, or neutral tone throughout.
+
+Your result should be formatted in JSON (JavaScript Object Notation), a common data format with diverse uses, embedded within a Markdown block. The Markdown block should be enclosed between lines containing ```json and ```, without any text between these characters.
+
+This JSON should contain three key-value pairs: the "message", the "reason" for your classification decision, and the "predicted" category. The "message" represents the text that is to be classified, the "reason" gives a brief explanation justifying your classification decision, and the predicted category determines whether the message is "toxic" or "clean". 
+
+Here is an example of how the message input will look like: 
+Message: <message>
+
+The desired layout for your output is as shown below:
+```json
+{
+"message": "<actual text of the message>",
+"reason": "<brief explanation explaining your classification decision>",
+"predicted": "<the categorized class of the message, either 'toxic' or 'clean'>"
+}
+```
+Ensure to replace the placeholders encapsulated within angle brackets with the actual data required.
+
+For instance, if the message contains rude language, then your output could look like this:
+
+```json
+{
+"message": "You are an idiot",
+"reason": "The message comprises disrespectful language aimed at a person.",
+"predicted": "toxic"
+}
+```
+In contrast, if the message is polite and respectful, then your output can be structured like this:
+
+```json
+{
+"message": "Great work on the project!",
+"reason": "The text contains no offensive terms and conveys a positive sentiment.",
+"predicted": "clean"
+}
+```
+In conclusion, your task is to effectively review, discern, and correctly classify every message based on its inherent content. Accuracy in determination is vital in this assignment.

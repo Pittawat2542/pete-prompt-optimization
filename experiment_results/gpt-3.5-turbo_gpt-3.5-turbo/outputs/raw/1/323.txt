@@ -1,0 +1,7 @@
+```json
+{
+  "message": "basically a huge fuck you to all assassins",
+  "reason": "The message contains offensive language and is directed towards a specific group of people, which indicates a toxic behavior.",
+  "predicted": "toxic"
+}
+```

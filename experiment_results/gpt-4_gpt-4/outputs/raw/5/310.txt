@@ -1,0 +1,7 @@
+```json
+{
+"message": "but fuck riven",
+"reason": "The message contains a profanity directed towards 'riven', which could be a user or a subject. This is considered offensive and disrespectful.",
+"predicted": "toxic"
+}
+```

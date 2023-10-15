@@ -1,0 +1,7 @@
+```json
+{
+"message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
+"reason": "The message contains a statement about embracing being bad and making it their brand. This suggests a negative or toxic attitude.",
+"predicted": "toxic"
+}
+```

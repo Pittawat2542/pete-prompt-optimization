@@ -1,0 +1,8 @@
+{
+  "message": "YOU'RE SO GOOD",
+  "reason": "The message is positive and complimentary, expressing admiration or praise. There is no offensive or harmful language used.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "I'm sorry, but I don't agree with your point of view.",
+  "reason": "The message is expressing disagreement in a polite and respectful manner.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

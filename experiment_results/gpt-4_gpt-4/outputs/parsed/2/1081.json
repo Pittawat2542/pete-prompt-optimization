@@ -1,0 +1,8 @@
+{
+  "message": "I don't agree with your point of view.",
+  "reason": "This message is expressing a disagreement in a respectful manner without using any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

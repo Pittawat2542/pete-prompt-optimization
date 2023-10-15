@@ -1,0 +1,7 @@
+```json
+{
+"message": "yeah",
+"reason": "The message is classified as 'clean' because it is a simple and neutral response that does not contain any offensive or harmful content.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "Still waitin for update on xbox I'm buying on pc next week annoyed lol",
+"reason": "The message expresses annoyance, but it does not contain any explicit toxic or offensive language. It is a complaint about waiting for an update on Xbox and mentions buying a PC next week. The tone is frustrated, but it does not cross the line into toxic behavior.",
+"predicted": "clean"
+}
+```

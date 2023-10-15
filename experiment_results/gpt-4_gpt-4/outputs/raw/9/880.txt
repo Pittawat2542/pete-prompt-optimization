@@ -1,0 +1,9 @@
+Message: I think you're doing a great job!
+
+```json
+{
+"message": "I think you're doing a great job!",
+"reason": "The message is positive and encouraging, without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

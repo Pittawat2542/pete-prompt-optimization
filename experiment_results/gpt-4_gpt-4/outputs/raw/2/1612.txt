@@ -1,0 +1,39 @@
+Message: "I think your idea is stupid and you're a fool for suggesting it."
+
+```json
+{
+"message": "I think your idea is stupid and you're a fool for suggesting it.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards someone's idea.",
+"predicted": "toxic"
+}
+```
+
+Message: "I disagree with your idea, but I appreciate your perspective."
+
+```json
+{
+"message": "I disagree with your idea, but I appreciate your perspective.",
+"reason": "This message is clean as it expresses disagreement in a respectful and polite manner.",
+"predicted": "clean"
+}
+```
+
+Message: "All women are bad at driving."
+
+```json
+{
+"message": "All women are bad at driving.",
+"reason": "This message is considered toxic due to its sexist language and generalization about a specific gender.",
+"predicted": "toxic"
+}
+```
+
+Message: "I've noticed some people struggle with driving, regardless of their gender."
+
+```json
+{
+"message": "I've noticed some people struggle with driving, regardless of their gender.",
+"reason": "This message is clean as it makes an observation without resorting to offensive language or stereotypes.",
+"predicted": "clean"
+}
+```

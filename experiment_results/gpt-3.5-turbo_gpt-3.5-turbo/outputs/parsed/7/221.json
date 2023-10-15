@@ -1,0 +1,8 @@
+{
+  "message": "this feels so shit",
+  "reason": "The message contains a negative sentiment and uses a profane word ('shit'). This indicates a toxic category.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

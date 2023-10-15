@@ -1,0 +1,7 @@
+```json
+{
+"message": "@ty_gets_rekt eleven10Gooba eleven10Gooba eleven10Gooba",
+"reason": "The message contains repetitive and nonsensical words, which are often indicative of spam or trolling behavior. This can be seen from the repeated occurrence of the word 'eleven10Gooba'. Therefore, the message is classified as toxic.",
+"predicted": "toxic"
+}
+```

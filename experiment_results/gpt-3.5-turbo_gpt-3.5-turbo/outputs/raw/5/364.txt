@@ -1,0 +1,7 @@
+```json
+{
+"message": "o m y fucking god AGAIN?",
+"reason": "The message contains offensive language ('fucking') which indicates a toxic tone. The use of capital letters and exclamation marks also suggests frustration or anger. Therefore, the message is classified as toxic.",
+"predicted": "toxic"
+}
+```

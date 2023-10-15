@@ -1,0 +1,8 @@
+{
+  "message": "shes a girl...DAAAA",
+  "reason": "The message does not contain any offensive language, slurs, personal attacks, or violent threats.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-4"
+}

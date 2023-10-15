@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Who's victor Kappa",
+  "reason": "The message is a simple question asking about the identity of someone named Victor. There is no offensive or harmful language used, and the tone of the message appears to be neutral. Therefore, the message can be classified as clean.",
+  "predicted": "clean"
+}
+```

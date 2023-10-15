@@ -1,0 +1,49 @@
+Message: > You're such a loser!
+
+```json
+{
+"message": "You're such a loser!",
+"reason": "This message is considered toxic due to its use of derogatory language directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: > I really appreciate your help.
+
+```json
+{
+"message": "I really appreciate your help.",
+"reason": "This message is polite and expresses gratitude, hence it is considered clean.",
+"predicted": "clean"
+}
+```
+
+Message: > All women are stupid.
+
+```json
+{
+"message": "All women are stupid.",
+"reason": "This message is considered toxic due to its sexist language and generalization about a specific gender.",
+"predicted": "toxic"
+}
+```
+
+Message: > Can you please explain this to me?
+
+```json
+{
+"message": "Can you please explain this to me?",
+"reason": "This message is polite and respectful, asking for help or clarification, hence it is considered clean.",
+"predicted": "clean"
+}
+```
+
+Message: > I hate all black people.
+
+```json
+{
+"message": "I hate all black people.",
+"reason": "This message is considered toxic due to its racist language and generalization about a specific race.",
+"predicted": "toxic"
+}
+```

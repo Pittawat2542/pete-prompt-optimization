@@ -1,0 +1,7 @@
+```json
+{
+  "message": "PepeLaugh",
+  "reason": "The message 'PepeLaugh' is a popular emote in Twitch chat that is used to express laughter or amusement. It does not contain any offensive or toxic language.",
+  "predicted": "clean"
+}
+```

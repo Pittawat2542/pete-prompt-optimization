@@ -1,0 +1,7 @@
+```json
+{
+"message": "u succ LUL",
+"reason": "The message contains the phrase 'u succ', which is a derogatory term. The 'LUL' at the end indicates that the message is intended to be mocking or sarcastic. This type of language and tone is typically associated with toxic behavior.",
+"predicted": "toxic"
+}
+```

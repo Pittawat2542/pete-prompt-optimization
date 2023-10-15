@@ -1,0 +1,8 @@
+{
+  "message": "The only idiot is you.",
+  "reason": "The message uses offensive language, directly insulting someone by calling them an 'idiot'.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

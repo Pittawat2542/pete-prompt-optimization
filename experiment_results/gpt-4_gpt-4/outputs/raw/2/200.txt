@@ -1,0 +1,39 @@
+Message: "I really enjoyed the last community meetup. Looking forward to the next one."
+
+```json
+{
+"message": "I really enjoyed the last community meetup. Looking forward to the next one.",
+"reason": "This message is positive and respectful, expressing enjoyment and anticipation for future events.",
+"predicted": "clean"
+}
+```
+
+Message: "You're all a bunch of losers. Get a life!"
+
+```json
+{
+"message": "You're all a bunch of losers. Get a life!",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards others.",
+"predicted": "toxic"
+}
+```
+
+Message: "Can anyone help me with this coding problem? I'm stuck."
+
+```json
+{
+"message": "Can anyone help me with this coding problem? I'm stuck.",
+"reason": "This message is polite and respectful, asking for help in a non-offensive manner.",
+"predicted": "clean"
+}
+```
+
+Message: "This is the dumbest post I've ever seen. You should be ashamed."
+
+```json
+{
+"message": "This is the dumbest post I've ever seen. You should be ashamed.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone towards the author of the post.",
+"predicted": "toxic"
+}
+```

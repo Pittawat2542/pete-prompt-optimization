@@ -1,0 +1,7 @@
+```json
+{
+"message": "stop watch Pog",
+"reason": "The message does not contain any offensive, impolite, or disrespectful language. 'Pog' is a term used in online gaming communities to express excitement or surprise.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "The hell",
+  "reason": "The text 'The hell' is classified as toxic because it contains a strong negative sentiment. The model has predicted it as toxic with a high confidence score of 0.95.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

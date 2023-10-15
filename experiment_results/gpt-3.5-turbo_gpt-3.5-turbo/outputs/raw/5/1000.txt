@@ -1,0 +1,7 @@
+```json
+{
+"message": "this suck",
+"reason": "The predicted category is 'toxic'. The phrase 'this suck' contains a negative sentiment and can be interpreted as a derogatory comment. The model has likely classified it as toxic based on the presence of negative language.",
+"predicted": "toxic"
+}
+```

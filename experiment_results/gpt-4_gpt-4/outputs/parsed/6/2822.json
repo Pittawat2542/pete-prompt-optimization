@@ -1,0 +1,8 @@
+{
+  "message": "wtf is this nice @Grizz shit",
+  "reason": "The message contains offensive language such as 'wtf' and 'shit', which are considered disrespectful and rude.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

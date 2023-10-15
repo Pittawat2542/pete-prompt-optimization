@@ -1,0 +1,8 @@
+{
+  "message": "tglGG",
+  "reason": "The message 'tglGG' does not contain any explicit or offensive language. It appears to be a short phrase or abbreviation that does not convey any toxic or harmful intent.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

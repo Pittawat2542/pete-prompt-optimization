@@ -1,0 +1,8 @@
+{
+  "message": "Holy fuck you actually did it you madman",
+  "reason": "The message contains profanity ('fuck') which is considered toxic.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

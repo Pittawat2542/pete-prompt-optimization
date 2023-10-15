@@ -1,0 +1,7 @@
+```json
+{
+  "message": "danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner",
+  "reason": "The message consists of repetitive text, which does not contain any toxic or offensive language. It appears to be a celebratory message, possibly indicating that someone named 'danucd' has won something.",
+  "predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "and tell you that kayle is ugly and stupid and is a loser",
+  "reason": "The message contains offensive language and personal attacks, degrading someone's appearance and intelligence.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

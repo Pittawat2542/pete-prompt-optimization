@@ -1,0 +1,8 @@
+{
+  "message": "rando squad?",
+  "reason": "The message is a simple question asking if anyone wants to form a random squad.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

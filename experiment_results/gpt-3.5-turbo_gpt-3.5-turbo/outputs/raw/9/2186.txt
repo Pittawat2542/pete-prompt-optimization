@@ -1,0 +1,7 @@
+```json
+{
+"message": "control setting and dpi",
+"reason": "The message is classified as 'clean' because it is a simple and neutral statement discussing control settings and DPI. It does not contain any offensive or harmful language.",
+"predicted": "clean"
+}
+```

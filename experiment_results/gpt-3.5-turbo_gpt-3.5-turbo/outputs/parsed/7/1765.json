@@ -1,0 +1,8 @@
+{
+  "message": "@melihozkiremitci danucdHi danucdHi",
+  "reason": "The message contains a mention (@melihozkiremitci) and repeated words (danucdHi danucdHi), which are common patterns in toxic messages.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

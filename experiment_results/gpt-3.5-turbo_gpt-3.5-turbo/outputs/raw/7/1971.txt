@@ -1,0 +1,7 @@
+```json
+{
+"message": "dizzy_face:",
+"reason": "The message does not contain any text, only an emoji. Therefore, it does not fall into any of the specified categories.",
+"predicted": "clean"
+}
+```

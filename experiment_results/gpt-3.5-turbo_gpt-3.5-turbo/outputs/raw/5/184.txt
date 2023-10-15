@@ -1,0 +1,7 @@
+```json
+{
+"message": "you mean blind pick?",
+"reason": "The message is classified as clean. The word choice and tone of the message are neutral and there is no evidence of any toxic or offensive language. The predicted category is clean, which is consistent with the content of the message.",
+"predicted": "clean"
+}
+```

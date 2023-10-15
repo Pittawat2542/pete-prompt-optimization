@@ -1,0 +1,7 @@
+```json
+{
+"message": "i hate the camps, i always come out with shit loot",
+"reason": "The message contains a mild swear word, but it is not directed towards any individual or group, and is used to express dissatisfaction with a situation in a game. Therefore, it is not considered toxic.",
+"predicted": "clean"
+}
+```

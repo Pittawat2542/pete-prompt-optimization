@@ -1,0 +1,9 @@
+Message: "it was the evelynn game, he even stole my fucking champ"
+
+```json
+{
+"message": "it was the evelynn game, he even stole my fucking champ",
+"reason": "This message is considered toxic due to the use of offensive language.",
+"predicted": "toxic"
+}
+```

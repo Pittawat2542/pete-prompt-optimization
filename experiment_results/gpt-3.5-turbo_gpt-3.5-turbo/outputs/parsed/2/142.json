@@ -1,0 +1,8 @@
+{
+  "message": "My mains were magic exo and the brawler",
+  "reason": "The message is classified as clean because it does not contain any toxic or offensive language. It simply mentions the user's main characters in a game.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

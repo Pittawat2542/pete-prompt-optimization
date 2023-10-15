@@ -1,0 +1,8 @@
+{
+  "message": "oh crap ruby u awake ??",
+  "reason": "The message contains the word 'crap' which might be considered as a mild swear word in some contexts. However, in this case, it seems to be used more as an expression of surprise or urgency rather than to offend or disrespect.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

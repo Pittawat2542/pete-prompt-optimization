@@ -1,0 +1,7 @@
+```json
+{
+"message": "daaaaam",
+"reason": "The message consists of a single word with repeated letters, which could indicate excitement or surprise.",
+"predicted": "clean"
+}
+```

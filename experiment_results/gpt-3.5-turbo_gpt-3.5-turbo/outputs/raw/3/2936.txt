@@ -1,0 +1,7 @@
+```json
+{
+"message": "SUCK",
+"reason": "The text 'SUCK' is classified as toxic because the prediction result shows a high probability of toxicity. The model has a confidence score of 0.95 for the toxic category, indicating a strong likelihood of the text being offensive or harmful.",
+"predicted": "toxic"
+}
+```

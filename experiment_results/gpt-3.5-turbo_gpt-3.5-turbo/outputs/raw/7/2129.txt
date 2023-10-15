@@ -1,0 +1,7 @@
+```json
+{
+"message": "ha ha ha",
+"reason": "The message consists of repeated laughter, which is typically associated with positive emotions and humor. It does not contain any offensive or harmful language. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

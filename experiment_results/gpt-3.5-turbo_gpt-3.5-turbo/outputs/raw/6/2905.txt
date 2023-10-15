@@ -1,0 +1,7 @@
+```json
+{
+"message": "Have a great day/night bananas, i gotta go . danucdHi Later danucdBukulove",
+"reason": "The message is classified as clean. The presence of positive words like 'great' and 'later' suggests a positive and friendly tone. There are no indicators of toxicity or offensive language in the message.",
+"predicted": "clean"
+}
+```

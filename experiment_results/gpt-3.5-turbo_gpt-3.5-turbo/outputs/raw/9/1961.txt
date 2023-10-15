@@ -1,0 +1,7 @@
+```json
+{
+  "message": "!subs",
+  "reason": "The message '!subs' is a command used in online communities to request information about subscribing to a channel or newsletter. It does not contain any offensive or harmful language, and there is no indication of toxicity or any violation of community guidelines.",
+  "predicted": "clean"
+}
+```

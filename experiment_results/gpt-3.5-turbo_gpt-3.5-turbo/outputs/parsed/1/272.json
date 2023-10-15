@@ -1,0 +1,8 @@
+{
+  "message": "i swear to fucking god",
+  "reason": "The message contains offensive language and is disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

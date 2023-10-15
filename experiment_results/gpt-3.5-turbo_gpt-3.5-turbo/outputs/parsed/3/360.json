@@ -1,0 +1,8 @@
+{
+  "message": "absolute fucking bullshit",
+  "reason": "The text contains offensive language ('fucking') which is likely to be classified as toxic. The word 'bullshit' can also be considered derogatory and offensive. The predicted category is toxic based on the presence of these offensive words.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

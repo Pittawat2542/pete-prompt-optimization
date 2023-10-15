@@ -1,0 +1,7 @@
+```json
+{
+"message": "DendiFace gg",
+"reason": "The message contains the term 'DendiFace', which is likely a reference to a specific person or meme. Without further context, it is difficult to determine the exact meaning of the message. However, based on the prediction result, it is classified as 'clean' because it does not contain any toxic or offensive language.",
+"predicted": "clean"
+}
+```

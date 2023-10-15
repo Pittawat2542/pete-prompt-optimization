@@ -1,0 +1,7 @@
+```json
+{
+"message": "LUL LUL LUL LUL LUL LUL LUL LUL",
+"reason": "The message consists of repetitive use of the 'LUL' acronym. This repetitive use of a specific acronym is often associated with spam or trolling behavior, which can be considered toxic in an online community.",
+"predicted": "toxic"
+}
+```

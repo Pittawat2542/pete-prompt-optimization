@@ -1,0 +1,8 @@
+{
+  "message": "And wtf are u a winrate friend? Who gives a fuck",
+  "reason": "The message contains offensive language and disrespectful tone.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

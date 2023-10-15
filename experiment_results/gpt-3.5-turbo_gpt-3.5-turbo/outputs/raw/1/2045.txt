@@ -1,0 +1,7 @@
+```json
+{
+  "message": "noice team work forsenCD",
+  "reason": "The message contains positive language ('noice' and 'team work') and an emote ('forsenCD'), which suggests a positive and supportive tone. There is no offensive or harmful content in the message.",
+  "predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "why he is calling u idiot tho? \u00f0\u0178\u02dc\u00ae",
+  "reason": "The message is referring to an offensive term used by someone else, but it is not directly offensive or disrespectful.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

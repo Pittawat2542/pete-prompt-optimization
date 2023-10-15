@@ -1,0 +1,8 @@
+{
+  "message": "here I just an administrator up my ass",
+  "reason": "The message contains offensive language and is disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

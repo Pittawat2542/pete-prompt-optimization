@@ -1,0 +1,8 @@
+{
+  "message": "Good shit",
+  "reason": "The message contains a positive sentiment and does not appear to be offensive or harmful.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

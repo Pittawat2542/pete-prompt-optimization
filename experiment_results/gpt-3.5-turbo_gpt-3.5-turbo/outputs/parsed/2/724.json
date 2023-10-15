@@ -1,0 +1,8 @@
+{
+  "message": "This is a great community! Everyone is so helpful and supportive.",
+  "reason": "The message is positive and expresses appreciation for the community. There is no offensive or harmful language used.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

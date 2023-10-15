@@ -1,0 +1,7 @@
+```json
+{
+"message": "gg",
+"reason": "The message 'gg' is a common online abbreviation for 'good game', which is a polite and respectful phrase.",
+"predicted": "clean"
+}
+```

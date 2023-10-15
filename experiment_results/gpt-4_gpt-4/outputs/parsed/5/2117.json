@@ -1,0 +1,8 @@
+{
+  "message": "@mfyntz tgl5Head",
+  "reason": "The message does not contain any offensive or disrespectful language. It appears to be a username mention possibly followed by a code or shorthand that is not inherently toxic.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

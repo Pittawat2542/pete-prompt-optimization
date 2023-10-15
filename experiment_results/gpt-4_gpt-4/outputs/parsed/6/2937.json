@@ -1,0 +1,8 @@
+{
+  "message": "but it sucks that we dont have enough player to do that now @hambinooo",
+  "reason": "The message uses a negative term 'sucks' to express disappointment, but it's not offensive or disrespectful. It's more of a casual expression of frustration or disappointment.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

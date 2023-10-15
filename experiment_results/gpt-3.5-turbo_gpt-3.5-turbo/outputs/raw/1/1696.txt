@@ -1,0 +1,7 @@
+```json
+{
+  "message": "danucdPotato LUL",
+  "reason": "The message contains the emote 'LUL' which is commonly used to indicate laughter or amusement. There is no offensive or harmful language used in the message.",
+  "predicted": "clean"
+}
+```

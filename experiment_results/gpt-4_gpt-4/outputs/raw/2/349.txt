@@ -1,0 +1,39 @@
+Message: "I think you're mistaken. The data shows a different trend."
+
+```json
+{
+"message": "I think you're mistaken. The data shows a different trend.",
+"reason": "This message is considered clean as it is a polite disagreement backed by data, without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser! Can't you do anything right?"
+
+```json
+{
+"message": "You're such a loser! Can't you do anything right?",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I appreciate your help. Thank you."
+
+```json
+{
+"message": "I appreciate your help. Thank you.",
+"reason": "This message is considered clean as it expresses gratitude and appreciation without any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're a waste of space. Nobody cares about your opinion."
+
+```json
+{
+"message": "You're a waste of space. Nobody cares about your opinion.",
+"reason": "This message is considered toxic due to its use of derogatory language and disrespectful tone.",
+"predicted": "toxic"
+}
+```

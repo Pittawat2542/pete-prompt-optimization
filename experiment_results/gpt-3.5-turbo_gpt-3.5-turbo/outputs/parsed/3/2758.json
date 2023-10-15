@@ -1,0 +1,8 @@
+{
+  "message": "the best",
+  "reason": "The predicted category is 'clean' because the text 'the best' does not contain any offensive or harmful language. It is a positive statement that does not violate any community guidelines.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Well,rip clips alisaYikes",
+  "reason": "The message contains the word 'rip' which can be interpreted as a negative or disrespectful comment. Additionally, the word 'Yikes' is often used to express surprise or disappointment, which can contribute to a toxic atmosphere.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+  "message": "YOU'RE SO GOOD",
+  "reason": "The message is positive and complimentary, expressing admiration or praise. There is no offensive or harmful language used.",
+  "predicted": "clean"
+}
+```

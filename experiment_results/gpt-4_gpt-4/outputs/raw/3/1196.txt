@@ -1,0 +1,7 @@
+```json
+{
+"message": "Maybe it?s talking about her smoothie PogChamp",
+"reason": "The message is a casual comment about a possible topic of conversation, and does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

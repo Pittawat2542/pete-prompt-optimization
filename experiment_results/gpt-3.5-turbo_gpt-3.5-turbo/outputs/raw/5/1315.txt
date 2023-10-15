@@ -1,0 +1,7 @@
+```json
+{
+"message": "alisaGG alisaGG alisaGG alisaGG naught14Luv naught14Luv naught14Nuts naught14Nuts naught14Nuts naught14Luv naught14Nuts naught14Luv naught14Nuts",
+"reason": "The message does not contain any explicit toxic language or harmful content. It appears to be a repetition of usernames or phrases, which does not necessarily indicate toxicity. Therefore, the message can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

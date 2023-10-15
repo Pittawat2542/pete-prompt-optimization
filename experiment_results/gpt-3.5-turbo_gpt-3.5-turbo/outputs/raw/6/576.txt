@@ -1,0 +1,7 @@
+```json
+{
+"message": "hi yamikaze do you know enthralled?",
+"reason": "The message does not contain any offensive or harmful language. It is a simple greeting and a question about someone named enthralled. There is no indication of toxicity or any violation of community guidelines.",
+"predicted": "clean"
+}
+```

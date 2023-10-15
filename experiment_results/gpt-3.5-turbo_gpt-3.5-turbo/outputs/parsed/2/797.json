@@ -1,0 +1,8 @@
+{
+  "message": "Pepega",
+  "reason": "The message contains a term that is commonly used in online communities to refer to someone who is silly or foolish. This term is often used in a playful or sarcastic manner, and does not contain any explicit or harmful language. Therefore, the message can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

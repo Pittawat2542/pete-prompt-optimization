@@ -1,0 +1,8 @@
+{
+  "message": "tglGG",
+  "reason": "The message 'tglGG' does not provide enough context to accurately classify it as toxic or clean. Additional information is needed to determine the category.",
+  "predicted": "unknown",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

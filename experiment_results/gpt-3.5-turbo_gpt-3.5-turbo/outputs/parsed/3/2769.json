@@ -1,0 +1,8 @@
+{
+  "message": "@drsoils no need to be sorry, I liked it. LOL",
+  "reason": "The message is classified as 'clean' because it does not contain any toxic or offensive language. The presence of 'LOL' indicates that the message is light-hearted and not intended to be harmful or offensive.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

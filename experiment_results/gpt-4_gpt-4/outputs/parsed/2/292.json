@@ -1,0 +1,8 @@
+{
+  "message": "I think the new update is really cool, it has improved the game a lot.",
+  "reason": "This message is considered clean as it contains no offensive language and expresses a positive opinion about a game update.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

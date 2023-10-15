@@ -1,0 +1,8 @@
+{
+  "message": "LUL LUL LUL LUL LUL LUL LUL LUL",
+  "reason": "The text consists of repeated instances of the word 'LUL'. This repetitive pattern is likely to be classified as 'clean' as it does not contain any offensive or toxic language.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

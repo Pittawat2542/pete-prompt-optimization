@@ -1,0 +1,8 @@
+{
+  "message": "I think your idea is really innovative and could bring a lot of positive change.",
+  "reason": "The message is respectful and positive, with no offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "fiesta fiesta pluma pluma gay",
+  "reason": "The message contains the words 'fiesta', 'pluma', and 'gay'. While these words may not be inherently toxic, they can be used in a derogatory or offensive manner. Without any additional context, it is difficult to determine the intent behind the message. However, the presence of these words suggests a potential for toxicity.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

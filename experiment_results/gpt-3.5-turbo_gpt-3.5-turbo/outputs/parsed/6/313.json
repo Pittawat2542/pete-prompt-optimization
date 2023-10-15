@@ -1,0 +1,8 @@
+{
+  "message": "shit",
+  "reason": "The predicted category for the message is 'toxic'. The word 'shit' is a profanity and is commonly considered offensive and disrespectful. This aligns with the toxic category, which includes messages that contain offensive or harmful language.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "I really enjoyed the last community meetup. Looking forward to the next one.",
+  "reason": "This message is positive and respectful, expressing enjoyment and anticipation for future events.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

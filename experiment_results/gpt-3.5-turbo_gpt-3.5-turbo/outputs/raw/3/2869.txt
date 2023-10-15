@@ -1,0 +1,7 @@
+```json
+{
+"message": "ohh shit summit retired ?",
+"reason": "The predicted category is 'clean'. The message does not contain any offensive or harmful language. It is a simple expression of surprise about someone named 'summit' retiring. The absence of any toxic or negative sentiment in the message indicates that it belongs to the 'clean' category.",
+"predicted": "clean"
+}
+```

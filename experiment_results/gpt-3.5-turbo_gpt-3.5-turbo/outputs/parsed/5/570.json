@@ -1,0 +1,8 @@
+{
+  "message": "you W'd there because you were anticipating flash 4Head",
+  "reason": "The message contains a reference to a specific action in a game (W'd) and a specific term (4Head) that are likely to be understood by members of the online gaming community. The use of these terms suggests that the message is part of a conversation related to gaming, which is a common topic in online communities. There is no offensive or harmful language in the message, and it does not target or attack any individual or group. Therefore, the message can be classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

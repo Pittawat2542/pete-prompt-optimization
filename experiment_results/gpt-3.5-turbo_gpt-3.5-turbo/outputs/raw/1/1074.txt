@@ -1,0 +1,7 @@
+```json
+{
+  "message": "cause im an idiot lol",
+  "reason": "The message contains self-deprecating language and the use of the word 'idiot' suggests that the person is being harsh on themselves. However, the addition of 'lol' indicates that the statement is meant to be lighthearted and not intended to harm or offend anyone.",
+  "predicted": "clean"
+}
+```

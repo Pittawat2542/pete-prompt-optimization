@@ -1,0 +1,7 @@
+```json
+{
+"message": "Lol when adc became weak as shit I was like wtf happened did I just become ass turns out it wasnâ€™t me",
+"reason": "The message contains some profanity ('shit' and 'ass'), which indicates a toxic tone. Additionally, the use of 'wtf' (an abbreviation for 'what the fuck') adds to the toxic nature of the message.",
+"predicted": "toxic"
+}
+```

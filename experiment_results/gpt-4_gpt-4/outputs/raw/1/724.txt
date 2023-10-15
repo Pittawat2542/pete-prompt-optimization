@@ -1,0 +1,9 @@
+Message: "I really appreciate your help on this project."
+
+```json
+{
+"message": "I really appreciate your help on this project.",
+"reason": "The message is polite and shows gratitude, with no offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

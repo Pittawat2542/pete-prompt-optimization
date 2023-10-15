@@ -1,0 +1,7 @@
+```json
+{
+"message": "I completely disagree with your opinion.",
+"reason": "The message expresses a disagreement, but it does not contain any offensive or harmful language. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}
+```

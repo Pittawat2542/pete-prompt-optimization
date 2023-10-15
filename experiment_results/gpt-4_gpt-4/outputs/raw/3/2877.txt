@@ -1,0 +1,7 @@
+```json
+{
+"message": "Good shit",
+"reason": "The message contains a slang term that can be considered offensive in certain contexts. However, in many online communities, this phrase is often used to express approval or admiration. The context of the conversation would ultimately determine the appropriateness of this message.",
+"predicted": "clean"
+}
+```

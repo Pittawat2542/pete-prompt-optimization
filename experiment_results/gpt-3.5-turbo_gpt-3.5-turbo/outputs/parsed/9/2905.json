@@ -1,0 +1,8 @@
+{
+  "message": "Have a great day/night bananas, i gotta go . danucdHi Later danucdBukulove",
+  "reason": "The message does not contain any offensive or harmful language. It is a friendly and positive message wishing others a great day/night. The presence of usernames does not necessarily make the message toxic.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

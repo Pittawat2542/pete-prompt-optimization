@@ -1,0 +1,8 @@
+{
+  "message": "I fucking hate lux",
+  "reason": "The message contains strong profanity ('fucking') which indicates a negative sentiment towards 'lux'. This negative sentiment suggests that the message falls under the 'toxic' category.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

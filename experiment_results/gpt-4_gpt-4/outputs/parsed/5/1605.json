@@ -1,0 +1,8 @@
+{
+  "message": "Nt",
+  "reason": "The message is not offensive or disrespectful. It appears to be an abbreviation or typo, but it doesn't contain any toxic language.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

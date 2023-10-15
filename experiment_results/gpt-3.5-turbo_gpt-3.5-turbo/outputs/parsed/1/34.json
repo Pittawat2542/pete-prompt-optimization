@@ -1,0 +1,8 @@
+{
+  "message": "laners dying even with vision \u00f0\u0178\u00a4\u00a1",
+  "reason": "The message contains the phrase 'laners dying even with vision', which suggests frustration or disappointment with the performance of the laners. However, the use of the emoji '\u00f0\u0178\u00a4\u00a1' indicates a sarcastic or joking tone, rather than genuine toxicity. Therefore, the message can be classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

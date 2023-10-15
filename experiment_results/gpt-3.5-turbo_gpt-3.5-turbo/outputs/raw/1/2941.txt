@@ -1,0 +1,7 @@
+```json
+{
+  "message": "wtffffffffffffff",
+  "reason": "The message consists of repeated letters and exclamation marks, which indicates frustration or anger. The excessive use of 'f' suggests strong negative emotions. This kind of language is often associated with toxic behavior.",
+  "predicted": "toxic"
+}
+```

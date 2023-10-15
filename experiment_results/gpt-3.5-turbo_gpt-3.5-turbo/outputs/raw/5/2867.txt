@@ -1,0 +1,7 @@
+```json
+{
+"message": "Ass to mouth",
+"reason": "The message contains explicit and offensive language, which is typically associated with toxic behavior. The phrase 'Ass to mouth' is considered vulgar and inappropriate, and it is often used to demean or insult others. Therefore, the message falls into the 'toxic' category.",
+"predicted": "toxic"
+}
+```

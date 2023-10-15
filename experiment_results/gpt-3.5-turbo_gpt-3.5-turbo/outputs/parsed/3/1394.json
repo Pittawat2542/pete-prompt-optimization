@@ -1,0 +1,8 @@
+{
+  "message": "Arm E D",
+  "reason": "The predicted category is 'clean' because the message does not contain any offensive or harmful language. It is a short phrase that does not convey any toxic or harmful intent.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "700 true dmg on 1 Q there KEKW",
+"reason": "The text contains gaming jargon and abbreviations commonly used in online gaming communities. The use of '700 true dmg' and '1 Q' indicates a discussion about damage dealt in a game. The presence of 'KEKW' suggests that the text is likely a positive or excited reaction to the damage dealt. Therefore, the text is classified as 'clean'.",
+"predicted": "clean"
+}
+```

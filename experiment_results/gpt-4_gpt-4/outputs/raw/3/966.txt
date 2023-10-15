@@ -1,0 +1,7 @@
+```json
+{
+"message": "IDIOT STOP COMPLAINING LUILW",
+"reason": "The message includes offensive language and disrespectful tone.",
+"predicted": "toxic"
+}
+```

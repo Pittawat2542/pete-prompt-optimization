@@ -1,0 +1,8 @@
+{
+  "message": "@RuralBiscuits damn - i knew it!",
+  "reason": "The message contains a mild swear word ('damn'), which can be considered offensive or disrespectful. However, it does not contain any explicit hate speech or personal attacks. Therefore, I classify it as toxic but not extremely harmful.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

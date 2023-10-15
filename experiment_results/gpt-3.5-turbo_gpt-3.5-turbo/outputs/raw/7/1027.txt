@@ -1,0 +1,7 @@
+```json
+{
+"message": "why did pubg add this creepy shit?",
+"reason": "The message contains offensive language ('creepy shit') which classifies it as toxic.",
+"predicted": "toxic"
+}
+```

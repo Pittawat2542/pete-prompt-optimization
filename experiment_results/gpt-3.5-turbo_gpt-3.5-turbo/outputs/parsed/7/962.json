@@ -1,0 +1,8 @@
+{
+  "message": "fiesta fiesta pluma pluma gay",
+  "reason": "The message contains words that are commonly used as slurs or insults, such as 'pluma' and 'gay'. These words are often used in a derogatory manner towards the LGBTQ+ community. Therefore, the message is classified as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

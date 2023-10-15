@@ -1,0 +1,7 @@
+```json
+{
+"message": "in a Payload game the other day one of the randoms started shooting grens at me",
+"reason": "The message does not contain any offensive or harmful language. It describes an incident in a game where one of the random players started shooting grenades at the author. Although the behavior may be considered disruptive or annoying, it does not meet the criteria for being classified as toxic.",
+"predicted": "clean"
+}
+```

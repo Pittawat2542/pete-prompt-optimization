@@ -1,0 +1,8 @@
+{
+  "message": "kekwwwwwwww",
+  "reason": "The message consists of repeated characters and does not contain any offensive or harmful language. It is a common internet slang used to express laughter or amusement.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

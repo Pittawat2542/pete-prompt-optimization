@@ -1,0 +1,7 @@
+```json
+{
+"message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
+"reason": "The message does not contain any offensive or harmful language. It is simply expressing a personal decision to embrace a negative image.",
+"predicted": "clean"
+}
+```

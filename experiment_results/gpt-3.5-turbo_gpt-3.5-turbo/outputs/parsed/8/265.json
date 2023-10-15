@@ -1,0 +1,8 @@
+{
+  "message": "time to get some free shit",
+  "reason": "The text contains offensive language ('shit'), which indicates a toxic category.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

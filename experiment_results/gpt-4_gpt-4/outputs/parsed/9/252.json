@@ -1,0 +1,8 @@
+{
+  "message": "I think we should consider other options before making a decision.",
+  "reason": "The message is polite and respectful, suggesting a course of action without any offensive or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

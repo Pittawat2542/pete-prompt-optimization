@@ -1,0 +1,7 @@
+```json
+{
+"message": "Yami has inted 11650 times KEKW",
+"reason": "The message does not contain any offensive, rude, or disrespectful language. It seems to be a comment about a player's performance in a game, which is not inherently toxic.",
+"predicted": "clean"
+}
+```

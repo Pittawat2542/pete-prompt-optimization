@@ -1,0 +1,7 @@
+```json
+{
+"message": "rawryyLaugh NT NT",
+"reason": "The message does not contain any explicit toxic language or offensive content. It consists of a username followed by some text that is not clear in meaning. Therefore, it can be classified as clean.",
+"predicted": "clean"
+}
+```

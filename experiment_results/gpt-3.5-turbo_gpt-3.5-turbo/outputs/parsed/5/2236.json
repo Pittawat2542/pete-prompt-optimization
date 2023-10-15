@@ -1,0 +1,8 @@
+{
+  "message": "i have nothing",
+  "reason": "The predicted category is 'clean'. The message does not contain any explicit or offensive language, and there is no indication of toxicity or harmful intent.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

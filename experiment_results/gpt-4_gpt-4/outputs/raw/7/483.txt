@@ -1,0 +1,7 @@
+```json
+{
+"message": "@RiotSupport hi is there any update when riot will make a new and usable client for league of legends? Thanks",
+"reason": "The message is a polite request for information and does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

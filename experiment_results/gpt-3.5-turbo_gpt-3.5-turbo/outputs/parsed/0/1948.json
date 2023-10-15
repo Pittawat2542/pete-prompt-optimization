@@ -1,0 +1,8 @@
+{
+  "message": "rawryyLaugh @cinnova",
+  "reason": "The message contains a username mention and a laughing expression.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

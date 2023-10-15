@@ -1,0 +1,7 @@
+```json
+{
+"message": "5Head",
+"reason": "The message is a common emote used in online communities, particularly on Twitch, and does not contain any offensive or harmful content.",
+"predicted": "clean",
+}
+```

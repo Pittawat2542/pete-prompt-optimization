@@ -1,0 +1,35 @@
+In this task, you need to analyze the given "Message" from a conversation in an online community and predict whether it is "toxic" or "clean". 
+
+"Toxic" refers to any messages that contains offensive, rude or disrespectful language. "Clean", on the other hand, refers to messages free from such attributes.
+
+The result must be provided in the JSON format in a Markdown block (between ```json and ```) and must include the actual "message", the "reason" for your classification and the "predicted" category. 
+
+Message: <message>
+
+Here is the required format for your output:
+```json
+{
+"message": "<the actual message>",
+"reason": "<explanation for your prediction>",
+"predicted": "<predicted category - either 'toxic' or 'clean'>"
+}
+```
+You will have to replace the placeholder text within "<>" with actual data. Here's how you can approach this:
+
+If the message contains offensive language, your output may look like this:
+```json
+{
+"message": "You are stupid",
+"reason": "The message has offensive language directed towards someone.",
+"predicted": "toxic"
+}
+```
+If the message is polite and respectful, your output may look like this:
+```json
+{
+"message": "Good job on winning the game!",
+"reason": "The message has no offensive language and is congratulating someone.",
+"predicted": "clean"
+}
+```
+Thus, you need to read, analyze and categorize the given message appropriately.

@@ -1,0 +1,7 @@
+```json
+{
+"message": "wtffffffffffffff",
+"reason": "The message contains a string of repeated characters, which is often associated with frustration or anger. This could be interpreted as a form of toxic behavior.",
+"predicted": "toxic"
+}
+```

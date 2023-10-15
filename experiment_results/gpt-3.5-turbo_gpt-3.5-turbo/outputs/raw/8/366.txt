@@ -1,0 +1,7 @@
+```json
+{
+"message": "stupid morgana players",
+"reason": "The text contains a derogatory term ('stupid') which is likely to be considered toxic. Additionally, the phrase 'morgana players' could be seen as targeting a specific group of people, which can also contribute to a toxic atmosphere.",
+"predicted": "toxic"
+}
+```

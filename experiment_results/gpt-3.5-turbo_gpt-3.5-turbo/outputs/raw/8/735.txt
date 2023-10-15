@@ -1,0 +1,7 @@
+```json
+{
+"message": "I mean Camille and Sett do so much True Damage so who cares about armor",
+"reason": "The text does not contain any offensive or harmful language. It is a statement about the champions Camille and Sett in a video game, discussing their ability to deal true damage. There is no indication of toxicity or any violation of community guidelines.",
+"predicted": "clean"
+}
+```

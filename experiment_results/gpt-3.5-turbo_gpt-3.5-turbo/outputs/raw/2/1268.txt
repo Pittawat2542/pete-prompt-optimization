@@ -1,0 +1,7 @@
+```json
+{
+"message": "thanks for the giffted sub who ever gave it me @DanucD",
+"reason": "The message expresses gratitude for a gifted subscription, indicating a positive and appreciative tone. There is no evidence of any toxic or offensive language.",
+"predicted": "clean"
+}
+```

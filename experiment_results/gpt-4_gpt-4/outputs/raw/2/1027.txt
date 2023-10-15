@@ -1,0 +1,39 @@
+Message: "I think the new update is really cool!"
+
+```json
+{
+"message": "I think the new update is really cool!",
+"reason": "This message is expressing a positive opinion about a new update. It does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "You're such a loser for not knowing this."
+
+```json
+{
+"message": "You're such a loser for not knowing this.",
+"reason": "This message is considered toxic because it uses derogatory language ('loser') directed at someone.",
+"predicted": "toxic"
+}
+```
+
+Message: "I don't agree with your point of view."
+
+```json
+{
+"message": "I don't agree with your point of view.",
+"reason": "This message is expressing a disagreement but does so in a respectful manner without using any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```
+
+Message: "This is the dumbest thing I've ever seen."
+
+```json
+{
+"message": "This is the dumbest thing I've ever seen.",
+"reason": "This message is considered toxic because it uses derogatory language ('dumbest') to express a negative opinion.",
+"predicted": "toxic"
+}
+```

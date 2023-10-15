@@ -1,0 +1,7 @@
+```json
+{
+"message": 800,
+"reason": "The message cannot be classified into either 'toxic' or 'clean' category based on the given information.",
+"predicted": "N/A"
+}
+```

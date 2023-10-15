@@ -1,0 +1,7 @@
+```json
+{
+"message": "Pepega",
+"reason": "The predicted category is 'toxic' because the term 'Pepega' is often used as an emote in online communities to mock or insult someone. It is considered a derogatory term and can contribute to a toxic atmosphere.",
+"predicted": "toxic"
+}
+```

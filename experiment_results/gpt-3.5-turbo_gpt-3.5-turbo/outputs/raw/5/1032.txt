@@ -1,0 +1,7 @@
+```json
+{
+"message": "Like Hell Do I Care.",
+"reason": "The message can be classified as toxic. The phrase 'Like Hell Do I Care' contains strong language and a dismissive tone, which can be perceived as rude or offensive. The use of 'Hell' adds to the negative sentiment of the message.",
+"predicted": "toxic"
+}
+```

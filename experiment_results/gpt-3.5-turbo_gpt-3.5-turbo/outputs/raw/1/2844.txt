@@ -1,0 +1,7 @@
+```json
+{
+  "message": "i hate the camps, i always come out with shit loot",
+  "reason": "The message contains negative language and expresses frustration towards the camps and the loot obtained from them. This negative sentiment can be considered toxic.",
+  "predicted": "toxic"
+}
+```

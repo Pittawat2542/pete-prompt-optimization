@@ -1,0 +1,8 @@
+{
+  "message": "YEP",
+  "reason": "The text 'YEP' is classified as 'clean' because it does not contain any toxic or offensive language. The model has consistently predicted 'clean' for similar short and neutral texts in the 'Prediction result' section.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

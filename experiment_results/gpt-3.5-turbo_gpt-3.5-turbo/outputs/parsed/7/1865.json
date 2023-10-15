@@ -1,0 +1,8 @@
+{
+  "message": "faxGG faxGG faxGG",
+  "reason": "The message consists of repetitive text, which is a common pattern in toxic messages. Additionally, the message does not contain any meaningful content or context, further indicating that it is likely toxic.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

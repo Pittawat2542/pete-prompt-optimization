@@ -1,0 +1,8 @@
+{
+  "message": "Start with this and upgrade if it's shit",
+  "reason": "The message contains a potentially offensive word 'shit', which indicates a toxic tone.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

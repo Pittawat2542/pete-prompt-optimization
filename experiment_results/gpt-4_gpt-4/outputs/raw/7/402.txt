@@ -1,0 +1,7 @@
+```json
+{
+"message": "man yuumi jng is fucking annoying",
+"reason": "The message contains offensive language that expresses a negative sentiment.",
+"predicted": "toxic"
+}
+```

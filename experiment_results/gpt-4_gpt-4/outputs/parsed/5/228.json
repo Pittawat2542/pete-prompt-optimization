@@ -1,0 +1,8 @@
+{
+  "message": "how can that even be fucking compared?",
+  "reason": "The message contains a profanity which is considered offensive and disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

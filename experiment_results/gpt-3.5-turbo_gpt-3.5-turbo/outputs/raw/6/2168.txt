@@ -1,0 +1,7 @@
+```json
+{
+"message": "shes a girl...DAAAA",
+"reason": "The message contains an exclamation with repeated letters, which indicates a strong emotion. However, the message does not contain any offensive or harmful language. Therefore, it can be classified as clean.",
+"predicted": "clean"
+}
+```

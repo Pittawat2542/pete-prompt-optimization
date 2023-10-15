@@ -1,0 +1,7 @@
+```json
+{
+"message": "play this stupid shat",
+"reason": "The message contains derogatory language which can be considered as offensive or disrespectful.",
+"predicted": "toxic",
+}
+```

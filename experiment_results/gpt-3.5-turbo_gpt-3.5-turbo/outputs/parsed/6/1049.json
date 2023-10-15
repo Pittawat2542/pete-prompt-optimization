@@ -1,0 +1,8 @@
+{
+  "message": "hell yeaaahh",
+  "reason": "The predicted category is 'clean'. Although the message contains exclamation marks and informal language, it does not exhibit any toxic or offensive content. The model has correctly classified it as clean based on the absence of any toxic keywords or patterns.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

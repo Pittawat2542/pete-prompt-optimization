@@ -1,0 +1,7 @@
+```json
+{
+"message": "FUCK IT, VLAD IT IS",
+"reason": "The message contains offensive language ('FUCK') which is considered toxic. The use of all caps and exclamation mark also indicates a strong negative sentiment. Therefore, the message is classified as toxic.",
+"predicted": "toxic"
+}
+```

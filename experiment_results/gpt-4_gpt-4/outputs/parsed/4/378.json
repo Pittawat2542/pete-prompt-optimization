@@ -1,0 +1,8 @@
+{
+  "message": "fuck shen",
+  "reason": "The message contains offensive language directed towards an individual or entity named 'shen'.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

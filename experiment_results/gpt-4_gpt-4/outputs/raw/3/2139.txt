@@ -1,0 +1,7 @@
+```json
+{
+"message": "ha ha ha comms",
+"reason": "The message is a simple, non-offensive statement that appears to be laughing or finding humor in something related to 'comms' (possibly short for communications). There are no personal attacks, slurs, offensive stereotypes, or violent threats present.",
+"predicted": "clean"
+}
+```

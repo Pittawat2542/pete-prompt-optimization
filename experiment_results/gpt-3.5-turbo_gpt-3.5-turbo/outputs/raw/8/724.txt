@@ -1,0 +1,7 @@
+```json
+{
+"message": "Text",
+"reason": "The predicted category is 'toxic' because the model has a high confidence score of 0.95 for the 'toxic' category. Additionally, the model has consistently predicted this text as 'toxic' in other examples.",
+"predicted": "toxic"
+}
+```

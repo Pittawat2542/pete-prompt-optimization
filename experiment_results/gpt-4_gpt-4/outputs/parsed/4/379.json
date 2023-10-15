@@ -1,0 +1,8 @@
+{
+  "message": "fuck that champion and his entire bullshit kit",
+  "reason": "The message contains offensive language and is expressing a negative sentiment towards a 'champion' and his 'kit'.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

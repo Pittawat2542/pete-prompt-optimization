@@ -1,0 +1,8 @@
+{
+  "message": "The hell",
+  "reason": "The text is classified as toxic because it contains a profanity ('hell'). The presence of profanity is often an indicator of toxic language.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

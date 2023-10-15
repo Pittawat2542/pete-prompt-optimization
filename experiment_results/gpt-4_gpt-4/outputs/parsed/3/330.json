@@ -1,0 +1,8 @@
+{
+  "message": "oh so jg duo means you roam and shit together?",
+  "reason": "The message contains no offensive language, slurs, personal attacks, or violent threats. It seems to be a question about game strategy.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-4"
+}
