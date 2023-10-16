@@ -5,7 +5,8 @@ import time
 import tiktoken
 
 from src.config import OUTPUTS_FOLDER, LOGS_FOLDER, PARSED_FOLDER, RAW_FOLDER, EVALUATION_FOLDER, PROMPTS_PATH, \
-    ORIGINAL_PROMPT_PATH, MODIFYING_PROMPT_PATH, STATS_FILE_PATH, STATS_FOLDER, PROMPTS_FOLDER
+    ORIGINAL_PROMPT_PATH, WITH_REASONS_MODIFYING_PROMPT_PATH, RANDOM_MODIFYING_PROMPT_PATH, STATS_FILE_PATH, \
+    STATS_FOLDER, PROMPTS_FOLDER
 
 
 def sleep(seconds: int) -> None:
@@ -67,6 +68,9 @@ def parse_arguments():
     parser.add_argument("-n", "--n", type=int,
                         help='The number of evolution round to run. (Either "number of evolution" or (threshold and '
                              'patience) must be specified.)')
+    parser.add_argument("-e", "--evolution", type=str, default="with-reasons",
+                        choices=["with-reasons", "random"],
+                        help='The evolution strategy to be used.')
 
     _args = parser.parse_args()
 
@@ -108,6 +112,7 @@ def load_previous_values(args):
             last_round = stat_obj['last_round']
         args.task_model = stat_obj['task_model']
         args.modifying_model = stat_obj['modifying_model']
+        args.evolution = stat_obj['evolution_strategy']
 
         with open(PROMPTS_PATH, 'r') as f:
             prompts = json.load(f)["prompts"]
@@ -121,6 +126,7 @@ def load_previous_values(args):
                 "best_prompt_version": last_prompt_version,
                 "task_model": args.task_model,
                 "modifying_model": args.modifying_model,
+                "evolution_strategy": args.evolution
             }
 
             if args.threshold is not None and args.patience is not None:
@@ -160,11 +166,16 @@ def get_prompt_by_version(prompt_version: int) -> str:
         return [p for p in prompts if p["version"] == prompt_version][0]["prompt"]
 
 
-def get_modifying_prompt() -> str:
+def get_modifying_prompt(evolution_strategy: str) -> str:
     """Get the modifying prompt."""
-    with open(MODIFYING_PROMPT_PATH, 'r') as f:
-        prompt = f.read()
-        return prompt
+    if evolution_strategy == "with-reasons":
+        with open(WITH_REASONS_MODIFYING_PROMPT_PATH, 'r') as f:
+            prompt = f.read()
+            return prompt
+    elif evolution_strategy == "random":
+        with open(RANDOM_MODIFYING_PROMPT_PATH, 'r') as f:
+            prompt = f.read()
+            return prompt
 
 
 def get_evaluation_results_by_version(prompt_version: int) -> dict:

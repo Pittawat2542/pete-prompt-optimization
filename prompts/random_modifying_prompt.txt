@@ -1,0 +1,6 @@
+Modify the following prompt for a large language model to correctly classify a text without changing the output format. For example, adding rules to follow, adding explanation about terms, adding more examples. Give a new prompt only without anything else.
+
+# Original prompt
+<prompt>
+
+# New prompt

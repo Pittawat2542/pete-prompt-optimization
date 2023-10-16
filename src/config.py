@@ -2,7 +2,8 @@ from pathlib import Path
 
 DATASET_PATH = Path('data/sampled.csv')
 ORIGINAL_PROMPT_PATH = Path('prompts/original_prompt.txt')
-MODIFYING_PROMPT_PATH = Path('prompts/modifying_prompt.txt')
+WITH_REASONS_MODIFYING_PROMPT_PATH = Path('prompts/with_reasons_modifying_prompt.txt')
+RANDOM_MODIFYING_PROMPT_PATH = Path('prompts/random_modifying_prompt.txt')
 PROMPTS_PATH = Path('prompts') / "prompts.json"
 OUTPUTS_FOLDER = Path('outputs')
 STATS_FOLDER = OUTPUTS_FOLDER / 'stats'

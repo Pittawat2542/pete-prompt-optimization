@@ -7,5 +7,6 @@
   "modifying_model": "gpt-4",
   "n": 10,
   "last_round": 0,
-  "round": 10
+  "round": 10,
+  "evolution_strategy": "with-reasons"
 }

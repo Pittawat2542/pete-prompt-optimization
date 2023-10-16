@@ -32,7 +32,7 @@ if __name__ == "__main__":
             logging.info(f"Starting round {i + 1} of {args.n}.")
             classification(prompt, prompt_version, dataset, args.task_model)
             accuracy = evaluation(prompt_version)
-            new_prompt, new_version = evolution(prompt_version, args.modifying_model)
+            new_prompt, new_version = evolution(prompt_version, args.modifying_model, args.evolution)
             prompt = new_prompt
             prompt_version = new_version
             if accuracy > current_accuracy:
@@ -48,7 +48,7 @@ if __name__ == "__main__":
         while stagnant_count < args.patience:
             classification(prompt, prompt_version, dataset, args.task_model)
             accuracy = evaluation(prompt_version)
-            new_prompt, new_version = evolution(prompt_version, args.modifying_model)
+            new_prompt, new_version = evolution(prompt_version, args.modifying_model, args.evolution)
             prompt = new_prompt
             prompt_version = new_version
             logging.info(f"Current accuracy: {accuracy}")

@@ -130,7 +130,7 @@ def evaluation(prompt_version: int):
     return len(correct_messages) / total
 
 
-def evolution(prompt_version: int, modifying_model: str = "gpt-3.5-turbo"):
+def evolution(prompt_version: int, modifying_model: str = "gpt-3.5-turbo", evolution_strategy: str = "with-reasons"):
     best_prompt_version = get_stat()["best_prompt_version"]
     logging.info(f"Starting evolution for prompt version: {prompt_version} (best prompt used: v{best_prompt_version}).")
 
@@ -151,28 +151,32 @@ def evolution(prompt_version: int, modifying_model: str = "gpt-3.5-turbo"):
         f"Current prompt version: {prompt_version}, Current prompt length: {len(current_prompt)}, Current prompt "
         f"token count: {current_prompt_token_count}")
 
-    modifying_prompt = get_modifying_prompt()
+    modifying_prompt = get_modifying_prompt(evolution_strategy)
     modifying_prompt = modifying_prompt.replace("<prompt>", current_prompt)
-    modifying_prompt_token_count = count_tokens(modifying_prompt)
 
-    left_tokens = max_tokens - modifying_prompt_token_count - new_prompt_token_count
+    if evolution_strategy == "with-reasons":
+        modifying_prompt_token_count = count_tokens(modifying_prompt)
 
-    incorrect_messages = get_evaluation_results_by_version(prompt_version)["incorrect_messages"]
-    incorrect_messages = [m for m in incorrect_messages if m.get('message', None) is not None and m.get('reason', None) is not None and m['message'] != '<ERROR_COULD_NOT_PARSE_JSON>']
+        left_tokens = max_tokens - modifying_prompt_token_count - new_prompt_token_count
 
-    samples = ""
-    while left_tokens > 0 and len(incorrect_messages) > 0:
-        sample = incorrect_messages.pop(random.randrange(len(incorrect_messages)))
-        sample_text = f"---\nMessage: {sample['message']}\nPredicted class: {sample['predicted']}\nPredicted reason: {sample['reason']}\nGround truth: {sample['label']}\n---\n"
-        sample_token_count = count_tokens(sample_text)
-        if (left_tokens - sample_token_count) > 0:
-            samples += sample_text
-            left_tokens -= sample_token_count
-        else:
-            break
-    samples = samples.strip()
+        incorrect_messages = get_evaluation_results_by_version(prompt_version)["incorrect_messages"]
+        incorrect_messages = [m for m in incorrect_messages if
+                              m.get('message', None) is not None and m.get('reason', None) is not None and m[
+                                  'message'] != '<ERROR_COULD_NOT_PARSE_JSON>']
 
-    modifying_prompt.replace("<sample>", samples)
+        samples = ""
+        while left_tokens > 0 and len(incorrect_messages) > 0:
+            sample = incorrect_messages.pop(random.randrange(len(incorrect_messages)))
+            sample_text = f"---\nMessage: {sample['message']}\nPredicted class: {sample['predicted']}\nPredicted reason: {sample['reason']}\nGround truth: {sample['label']}\n---\n"
+            sample_token_count = count_tokens(sample_text)
+            if (left_tokens - sample_token_count) > 0:
+                samples += sample_text
+                left_tokens -= sample_token_count
+            else:
+                break
+        samples = samples.strip()
+
+        modifying_prompt.replace("<sample>", samples)
 
     logging.info(f"Interacting with OpenAI API for prompt version: {prompt_version}.")
     new_prompt = chat_model(modifying_prompt, modifying_model, 1)
