@@ -1,0 +1,8 @@
+{
+  "message": "have you ever played with clib? @hambinooo",
+  "reason": "The message is asking a question about playing with clib and mentioning another user. It does not contain any offensive language or insults.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "They suck",
+"reason": "The message contains a derogatory remark that is disrespectful and could be perceived as a form of bullying. Therefore, it's defined as a 'toxic' message.",
+"predicted": "toxic"
+}
+```

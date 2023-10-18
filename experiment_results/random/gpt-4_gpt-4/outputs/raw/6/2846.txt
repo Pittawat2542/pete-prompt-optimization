@@ -1,0 +1,7 @@
+```json
+{
+"message": "the hell was that",
+"reason": "The message uses a mild profanity ('hell') in a potentially aggressive or confrontational context, which can be seen as a form of incivility.",
+"predicted": "toxic"
+}
+```

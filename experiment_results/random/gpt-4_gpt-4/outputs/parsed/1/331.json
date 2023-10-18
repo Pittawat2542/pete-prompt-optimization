@@ -1,0 +1,8 @@
+{
+  "message": "why the *fuck* do people in plat just s u c k",
+  "reason": "The message contains a profanity and is derogatory towards a group of people, categorised as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "what did they do to you @Yamikazexz",
+  "reason": "The message does not contain offensive, rude, abusive, or disrespectful language. It is a question directed at someone with a username @Yamikazexz.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

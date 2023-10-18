@@ -1,0 +1,5 @@
+{
+"message": "Maybe it?s talking about her smoothie PogChamp",
+"reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It seems to be a comment about someone's smoothie, which is not offensive or disrespectful.",
+"predicted": "clean"
+}

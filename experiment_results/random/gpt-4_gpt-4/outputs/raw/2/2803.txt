@@ -1,0 +1,7 @@
+```json
+{
+"message": "how the fuck that last bullet didn't kill you",
+"reason": "The message contains an obscenity, which is considered inappropriate language. Additionally, it refers to a violent act, which can be seen as offensive or disturbing.",
+"predicted": "toxic"
+}
+```

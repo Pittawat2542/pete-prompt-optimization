@@ -1,0 +1,8 @@
+{
+  "message": "!subs",
+  "reason": "The message is a command often used in live streaming platforms to display the number of subscribers. It does not contain any offensive, rude, or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner",
+  "reason": "The message consists of repetitive and excessive use of the word 'danucdWinner', which does not contribute to the conversation and can be considered spam.",
+  "predicted": "toxic"
+}

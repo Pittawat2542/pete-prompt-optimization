@@ -1,0 +1,9 @@
+"Prediction result": The model predicts the message to be non-toxic with a 98% probability.
+
+```json
+{
+"message": "only 52 alive?",
+"reason": "The model predicts the message to be non-toxic with a 98% probability. The message seems to be a simple question or statement without any offensive or harmful content.",
+"predicted": "clean"
+}
+```

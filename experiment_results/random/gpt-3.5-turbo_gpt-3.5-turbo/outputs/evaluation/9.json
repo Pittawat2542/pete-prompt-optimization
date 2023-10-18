@@ -1,0 +1,3210 @@
+{
+  "total": 400,
+  "correct": 201,
+  "incorrect": 199,
+  "accuracy": 0.5025,
+  "correct_messages": [
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "Hey, could someone please explain how to solve this math problem?",
+      "reason": "The text is seeking help and is not offensive.",
+      "predicted": "clean",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    }
+  ],
+  "incorrect_messages": [
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+      "reason": "The text contains personal insults and is offensive.",
+      "predicted": "toxic",
+      "prompt_version": 9,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    }
+  ]
+}

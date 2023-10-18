@@ -1,0 +1,8 @@
+{
+  "message": "the fuck you talking about brother?",
+  "reason": "The message contains a profanity and can be seen as offensive or inappropriate. The tone of the message also seems confrontational, which can be considered as a form of incivility.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

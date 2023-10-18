@@ -1,0 +1,7 @@
+```json
+{
+"message": "THIS GAME MIGHT AS WELL RESET MY FUCKING LP TO 0",
+"reason": "The message contains offensive language and expresses frustration.",
+"predicted": "toxic"
+}
+```

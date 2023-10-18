@@ -1,0 +1,5 @@
+{
+"message": "danucdRespect danucdPOG danucdRespect danucdPOG danucdRespect danucdPOG danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect",
+"reason": "The message consists of repetitive expressions of respect, praise, or admiration for 'danucd'. While the message may not have any offensive or inappropriate content, its repetitive nature without any substantial context or discussion can be seen as spammy or insincere. Therefore, even though the message is not actively toxic, it lacks genuine engagement and can be categorized as 'clean'.",
+"predicted": "clean"
+}

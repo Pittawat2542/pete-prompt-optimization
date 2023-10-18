@@ -1,0 +1,5 @@
+{
+  "message": "@SmirnofSoldier all good and you... danucdRespect danucdHi",
+  "reason": "The message contains positive and respectful words such as 'all good' and 'respect'.",
+  "predicted": "clean"
+}

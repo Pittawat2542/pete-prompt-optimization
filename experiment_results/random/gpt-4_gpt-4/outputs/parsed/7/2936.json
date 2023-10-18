@@ -1,0 +1,8 @@
+{
+  "message": "SUCK",
+  "reason": "The message is a single word that can be used in a derogatory or offensive manner. It lacks context, but given its potential for misuse and the fact that it is often used in a negative context, it is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

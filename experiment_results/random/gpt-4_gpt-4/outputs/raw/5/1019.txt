@@ -1,0 +1,7 @@
+```json
+{
+"message": "OH SHIT DESYNC YOUR DEAD",
+"reason": "The message contains a swear word, which is considered inappropriate and offensive. Additionally, the phrase 'YOUR DEAD' can be interpreted as a threat or an aggressive statement, contributing to the 'toxic' categorization.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,5 @@
+{
+  "message": "doooooo it",
+  "reason": "The message contains repetitive characters and lacks context.",
+  "predicted": "clean"
+}

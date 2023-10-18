@@ -1,0 +1,5 @@
+{
+"message": "Who else hate their life?",
+"reason": "The message expresses negative emotions and indicates a dislike for one's life. It does not contain any offensive language or personal insults.",
+"predicted": "clean"
+}

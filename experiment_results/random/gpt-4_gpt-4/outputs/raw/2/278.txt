@@ -1,0 +1,7 @@
+```json
+{
+"message": "win the fight, die to a fucking mushroom walking away",
+"reason": "The message contains an obscenity, which is considered inappropriate content.",
+"predicted": "toxic"
+}
+```

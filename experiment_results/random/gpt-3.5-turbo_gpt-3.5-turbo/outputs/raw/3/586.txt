@@ -1,0 +1,7 @@
+```json
+{
+  "message": "YAMI STOP YOU'RE GOOD",
+  "reason": "The message contains a positive sentiment, complimenting the recipient and expressing admiration.",
+  "predicted": "clean"
+}
+```

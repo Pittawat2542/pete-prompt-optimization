@@ -1,0 +1,8 @@
+{
+  "message": "she's listening through the door, shut the fuck up dad",
+  "reason": "The message contains offensive language and is disrespectful towards the person mentioned.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

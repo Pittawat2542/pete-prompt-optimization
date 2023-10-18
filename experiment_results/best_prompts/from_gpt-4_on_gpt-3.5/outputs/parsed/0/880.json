@@ -1,0 +1,8 @@
+{
+  "message": "love how nobody gives a fuck",
+  "reason": "The message contains offensive language and a disrespectful tone.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

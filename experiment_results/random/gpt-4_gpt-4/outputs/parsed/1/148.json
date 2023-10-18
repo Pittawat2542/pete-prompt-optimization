@@ -1,0 +1,8 @@
+{
+  "message": "I dislike games where I carry and my team feeds ;/",
+  "reason": "The message is expressing frustration about a game, but it does not contain offensive or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

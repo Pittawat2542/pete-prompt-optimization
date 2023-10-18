@@ -1,0 +1,7 @@
+```json
+{
+"message": "JESUS CHRIST",
+"reason": "The message does not contain any obscenities, defamatory remarks, offensive or discriminatory language, or any other forms of inappropriate content. It is simply an exclamation or invocation, which is not inherently toxic.",
+"predicted": "clean"
+}
+```

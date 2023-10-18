@@ -1,0 +1,5 @@
+{
+  "message": "TOP 0.1% popularity 33.3% win rate",
+  "reason": "The message contains information about popularity and win rate, which are not inherently toxic or offensive.",
+  "predicted": "clean"
+}

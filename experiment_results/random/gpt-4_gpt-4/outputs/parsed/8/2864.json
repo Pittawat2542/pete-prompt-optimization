@@ -1,0 +1,8 @@
+{
+  "message": "oh shit my boy is bigtime",
+  "reason": "The message contains the word 'shit' which is considered as a mild swear word and can be seen as offensive or inappropriate in certain contexts. However, the overall tone of the message seems to be positive and not intended to insult or disrespect anyone. Therefore, the classification can be subjective based on the tolerance level for mild swearing.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

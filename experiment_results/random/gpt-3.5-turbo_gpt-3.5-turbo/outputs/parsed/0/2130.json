@@ -1,0 +1,8 @@
+{
+  "message": "tgl3Head",
+  "reason": "The message consists of random characters and does not convey any meaningful information or context.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

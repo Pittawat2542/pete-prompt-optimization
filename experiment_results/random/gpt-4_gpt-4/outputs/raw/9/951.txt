@@ -1,0 +1,7 @@
+```json
+{
+"message": "@Thebausffs just scared the shit out of my dog",
+"reason": "The message contains a curse word, which is considered inappropriate and offensive language. This justifies the categorization as 'toxic'.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "fuck that champion and his entire bullshit kit",
+  "reason": "The message contains explicit and offensive language, which is used to express strong negative emotions towards a certain subject. This kind of language is considered disrespectful and uncivil, hence the 'toxic' classification.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

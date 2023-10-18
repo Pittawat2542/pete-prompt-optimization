@@ -1,0 +1,8 @@
+{
+  "message": "Start with this and upgrade if it's shit",
+  "reason": "The message uses a profanity which is considered offensive and inappropriate, thus justifying classification as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

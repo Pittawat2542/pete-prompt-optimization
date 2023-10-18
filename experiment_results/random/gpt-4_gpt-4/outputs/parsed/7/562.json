@@ -1,0 +1,8 @@
+{
+  "message": "u succ LUL",
+  "reason": "The message uses derogatory language ('u succ') which is disrespectful and offensive. The term 'LUL' is an acronym for 'laugh out loud', indicating that the sender is mocking or belittling the recipient. This constitutes a toxic message.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-4"
+}

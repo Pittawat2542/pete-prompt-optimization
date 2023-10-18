@@ -1,0 +1,8 @@
+{
+  "message": "The only idiot is you.",
+  "reason": "The message includes an insult directed at an individual, which is considered disrespectful and offensive. This justifies the classification as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,5 @@
+{
+"message": "only 52 alive?",
+"reason": "The message is not offensive or disrespectful. It is a simple question.",
+"predicted": "clean"
+}

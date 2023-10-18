@@ -1,0 +1,5 @@
+{
+  "message": "The only idiot is you.",
+  "reason": "The message contains an insult directed towards someone.",
+  "predicted": "toxic"
+}

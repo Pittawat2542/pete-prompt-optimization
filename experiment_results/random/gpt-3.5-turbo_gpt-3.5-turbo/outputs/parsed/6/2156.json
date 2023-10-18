@@ -1,0 +1,8 @@
+{
+  "message": "DendiFace gg",
+  "reason": "The message contains an emote and the abbreviation 'gg', which is commonly used to indicate 'good game'. It does not contain any offensive or toxic language.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

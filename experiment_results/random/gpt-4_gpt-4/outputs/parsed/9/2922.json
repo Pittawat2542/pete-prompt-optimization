@@ -1,0 +1,8 @@
+{
+  "message": "Dude tglWtf",
+  "reason": "The message contains the abbreviation 'Wtf' which is a commonly used internet slang that includes a curse word. This makes the message inappropriate and offensive.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

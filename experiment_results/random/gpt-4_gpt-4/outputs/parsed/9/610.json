@@ -1,0 +1,8 @@
+{
+  "message": "@Yamikazexz who's your twitch crush? like a female streamer not taco LUL",
+  "reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior. It seems to be a playful question directed towards a specific user.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

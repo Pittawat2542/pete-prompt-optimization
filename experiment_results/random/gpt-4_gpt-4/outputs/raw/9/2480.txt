@@ -1,0 +1,7 @@
+```json
+{
+"message": "@animoputt I get it dude. just pokin ya.",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior. It seems to be a friendly interaction.",
+"predicted": "clean"
+}
+```

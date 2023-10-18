@@ -1,0 +1,5 @@
+{
+  "message": "Ur not an assassin if u donÕt one tap the adc",
+  "reason": "The message contains slang and abbreviations commonly used in online gaming communities. It also implies a negative attitude towards players who do not perform a specific action.",
+  "predicted": "toxic"
+}

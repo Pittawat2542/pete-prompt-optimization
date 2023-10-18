@@ -1,0 +1,8 @@
+{
+  "message": "@xDEEDAN bot danucdDanu2",
+  "reason": "The message does not contain any offensive, rude, abusive, or disrespectful language. It appears to be a username or a mention in an online conversation.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

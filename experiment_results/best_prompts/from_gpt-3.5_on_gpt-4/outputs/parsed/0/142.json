@@ -1,0 +1,8 @@
+{
+  "message": "My mains were  magic exo and the brawler",
+  "reason": "The message is discussing video game characters, with no offensive or harmful language used. The model prediction also strongly supports this classification.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

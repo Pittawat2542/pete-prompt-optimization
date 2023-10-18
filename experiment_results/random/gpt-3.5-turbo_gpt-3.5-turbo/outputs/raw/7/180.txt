@@ -1,0 +1,5 @@
+{
+"message": "my god the stupidity of people",
+"reason": "The message expresses frustration and uses derogatory language to describe people, which can be considered disrespectful and offensive.",
+"predicted": "toxic"
+}

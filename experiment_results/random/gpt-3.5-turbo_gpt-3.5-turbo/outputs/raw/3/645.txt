@@ -1,0 +1,7 @@
+```json
+{
+  "message": "what did they do to you @Yamikazexz",
+  "reason": "The message contains a mention of another user, which suggests a negative or confrontational tone.",
+  "predicted": "toxic"
+}
+```

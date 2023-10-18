@@ -1,0 +1,5 @@
+{
+"message": "time to get some free shit",
+"reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It is a general statement and does not seek help or engage in a constructive manner.",
+"predicted": "clean"
+}

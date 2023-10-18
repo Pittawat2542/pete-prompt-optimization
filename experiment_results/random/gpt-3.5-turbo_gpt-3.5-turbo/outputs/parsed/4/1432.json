@@ -1,0 +1,8 @@
+{
+  "message": "@Scoom danucdRespect mitKalp",
+  "reason": "The message does not contain offensive language or harmful content.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

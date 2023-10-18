@@ -1,0 +1,8 @@
+{
+  "message": "get out rogue",
+  "reason": "The message contains a command to leave and is offensive.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

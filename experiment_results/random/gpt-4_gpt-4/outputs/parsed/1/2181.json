@@ -1,0 +1,8 @@
+{
+  "message": "rando squad?",
+  "reason": "The message is asking a question about a random squad, possibly in a gaming context. It does not contain any offensive, rude, or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

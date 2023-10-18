@@ -1,0 +1,7 @@
+```json
+{
+"message": "@xDEEDAN bot danucdDanu2",
+"reason": "The message contains mentions and usernames, but it does not contain any offensive or toxic language. It appears to be a command or request related to a bot or user named 'danucdDanu2'.",
+"predicted": "clean"
+}
+```

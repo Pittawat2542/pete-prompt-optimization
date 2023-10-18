@@ -1,0 +1,7 @@
+```json
+{
+"message": "Yami has inted 11650 times KEKW",
+"reason": "The message does not contain any obscenities, defamatory remarks, offensive or discriminatory language. It seems to be a comment about a player's performance in a game, using gaming slang ('inted' means intentionally feeding the enemy team, and 'KEKW' is a laughing emote).",
+"predicted": "clean"
+}
+```

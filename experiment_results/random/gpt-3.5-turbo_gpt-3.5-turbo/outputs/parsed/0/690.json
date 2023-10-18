@@ -1,0 +1,8 @@
+{
+  "message": "BALANCED KEKW",
+  "reason": "The message contains a popular emote 'KEKW' which is often used in online communities to express laughter or amusement. The word 'BALANCED' does not have any inherently toxic or offensive connotations.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

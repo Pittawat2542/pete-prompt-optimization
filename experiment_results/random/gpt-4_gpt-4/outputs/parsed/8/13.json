@@ -1,0 +1,8 @@
+{
+  "message": "love how i cant win even with me playing well",
+  "reason": "The message does not contain any explicit, offensive or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior. It seems to express frustration or disappointment, but it does so without resorting to toxic language or behavior.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

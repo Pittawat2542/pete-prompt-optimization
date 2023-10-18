@@ -1,0 +1,7 @@
+```json
+{
+  "message": "only 52 alive?",
+  "reason": "The message appears to be a question, but it lacks context and could be interpreted as insensitive or disrespectful.",
+  "predicted": "toxic"
+}
+```

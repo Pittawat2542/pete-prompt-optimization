@@ -1,0 +1,5 @@
+{
+  "message": "I suck so bad loool",
+  "reason": "The message contains self-deprecating language and a negative sentiment.",
+  "predicted": "toxic"
+}

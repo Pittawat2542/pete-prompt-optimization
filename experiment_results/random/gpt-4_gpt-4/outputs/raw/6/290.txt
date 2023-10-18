@@ -1,0 +1,7 @@
+```json
+{
+"message": "eat shit riot",
+"reason": "The message contains a profane phrase directed towards an individual or group, which is considered offensive and inappropriate. The language used is aggressive and disrespectful.",
+"predicted": "toxic"
+}
+```

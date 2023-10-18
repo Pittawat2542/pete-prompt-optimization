@@ -1,0 +1,7 @@
+```json
+{
+"message": "its banana its banana",
+"reason": "The message does not contain any offensive, rude, abusive or disrespectful language or sentiments. It is a simple statement mentioning the word 'banana' twice.",
+"predicted": "clean"
+}
+```

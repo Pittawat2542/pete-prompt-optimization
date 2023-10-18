@@ -1,0 +1,8 @@
+{
+  "message": "hi yamikaze do you know enthralled?",
+  "reason": "The message is a simple greeting and a question about someone's knowledge. It does not contain offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

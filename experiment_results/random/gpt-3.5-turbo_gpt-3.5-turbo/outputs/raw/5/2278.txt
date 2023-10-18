@@ -1,0 +1,7 @@
+```json
+{
+  "message": "smh thats why i use the m4 long range",
+  "reason": "The message does not contain offensive, harmful, or disrespectful language.",
+  "predicted": "clean"
+}
+```

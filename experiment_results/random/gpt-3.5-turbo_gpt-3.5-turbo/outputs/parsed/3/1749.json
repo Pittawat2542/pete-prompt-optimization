@@ -1,0 +1,8 @@
+{
+  "message": "Well,rip clips alisaYikes",
+  "reason": "The message contains slang and an emoticon that may be interpreted as negative or disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

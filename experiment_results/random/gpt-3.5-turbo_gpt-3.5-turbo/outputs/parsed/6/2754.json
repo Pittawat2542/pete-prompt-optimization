@@ -1,0 +1,8 @@
+{
+  "message": "too E Z",
+  "reason": "The message consists of a short phrase that is commonly used to mock or belittle someone's skills or achievements. It can be seen as disrespectful or offensive.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

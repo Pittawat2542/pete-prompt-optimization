@@ -1,0 +1,7 @@
+```json
+{
+"message": "Wtf thats stupidðŸ˜‚ðŸ˜‚",
+"reason": "The message contains an abbreviation 'Wtf' which is a commonly used internet slang that includes a curse word. Also, the term 'stupid' can be seen as offensive or derogatory.",
+"predicted": "toxic"
+}
+```

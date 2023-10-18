@@ -1,0 +1,8 @@
+{
+  "message": "oh crap ruby u awake ??",
+  "reason": "The message does not contain any explicit, offensive or inappropriate language, insults, discriminatory remarks, or exhibits any form of uncivil or disrespectful behavior. The term 'crap' might be considered as mild slang but it is not directed towards any individual in a derogatory or offensive manner.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

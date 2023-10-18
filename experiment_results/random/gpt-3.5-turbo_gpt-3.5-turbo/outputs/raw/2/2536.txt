@@ -1,0 +1,5 @@
+{
+  "message": "!hype",
+  "reason": "The message contains an exclamation mark followed by the word 'hype'.",
+  "predicted": "clean"
+}

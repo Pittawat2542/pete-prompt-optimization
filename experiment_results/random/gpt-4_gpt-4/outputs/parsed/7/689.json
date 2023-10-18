@@ -1,0 +1,8 @@
+{
+  "message": "YEP",
+  "reason": "The message is a simple affirmation and does not contain any offensive or inappropriate language, derogatory comments, discriminatory language, or instances of disrespectful behavior.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-4"
+}

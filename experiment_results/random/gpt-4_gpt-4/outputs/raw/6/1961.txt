@@ -1,0 +1,7 @@
+```json
+{
+"message": "!subs",
+"reason": "The message is a common command used in live streaming platforms to subscribe to a channel or to check the number of subscribers. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect",
+  "reason": "The message consists of repetitive text that does not contribute to the conversation. It can be considered spam or disruptive to the chat.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

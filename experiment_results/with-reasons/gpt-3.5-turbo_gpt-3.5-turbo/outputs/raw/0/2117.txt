@@ -1,0 +1,7 @@
+```json
+{
+"message": "@mfyntz tgl5Head",
+"reason": "The message contains a username mention and a random string of characters.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "The hell",
+  "reason": "The message, although brief, uses a mild swear word which can be considered as inappropriate or offensive language. The context is not clear, but the tone can be interpreted as negative or aggressive.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

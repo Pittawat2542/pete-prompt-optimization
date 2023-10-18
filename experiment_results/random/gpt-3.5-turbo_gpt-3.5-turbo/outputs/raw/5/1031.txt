@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Who else hate their life?",
+  "reason": "The message is ambiguous and unclear. It could be a genuine expression of frustration or a cry for help, but it could also be interpreted as a negative statement. However, since there is no offensive or harmful language, it is classified as clean.",
+  "predicted": "clean"
+}
+```

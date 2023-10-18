@@ -1,0 +1,8 @@
+{
+  "message": "jd",
+  "reason": "The message 'jd' does not contain any inappropriate or offensive language, derogatory remarks, discriminatory speech, or any form of uncivil behavior. It appears to be a neutral or non-meaningful input.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "how do i get these fucking things off my recommended",
+  "reason": "The message contains a curse word, which is considered inappropriate and offensive language. This justifies the categorization as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+  "message": "I mean Camille and Sett do so much True Damage so who cares about armor",
+  "reason": "The message contains a dismissive and confrontational tone.",
+  "predicted": "toxic"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "as you can see so clearly with those on low?",
+  "reason": "The message does not contain any offensive, rude, abusive, or disrespectful language. It is a neutral statement that does not express any negative sentiments.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

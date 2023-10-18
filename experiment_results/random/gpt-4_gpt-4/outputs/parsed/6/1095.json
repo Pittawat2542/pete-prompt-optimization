@@ -1,0 +1,8 @@
+{
+  "message": "the hell is a karak?",
+  "reason": "The message uses a mild form of profanity ('hell') in a context that seems to express confusion or frustration. However, it does not target anyone specifically or use any severe offensive or inappropriate language.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

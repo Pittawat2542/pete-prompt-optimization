@@ -1,0 +1,5 @@
+{
+  "message": "@adooool18 on the way danucdSaspisas",
+  "reason": "The message contains random characters and does not make sense.",
+  "predicted": "toxic"
+}

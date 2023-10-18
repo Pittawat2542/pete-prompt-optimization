@@ -1,0 +1,7 @@
+```json
+{
+"message": "Sooooo if u say u have a GF ur actually lying so 5head",
+"reason": "The message is not offensive, threatening, or disrespectful. It seems to be a playful or sarcastic comment.",
+"predicted": "clean"
+}
+```

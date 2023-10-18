@@ -1,0 +1,8 @@
+{
+  "message": "A giveaway for: game has started! Subscribers can Join!",
+  "reason": "The message is simply announcing a game giveaway and inviting subscribers to join. There is no use of inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

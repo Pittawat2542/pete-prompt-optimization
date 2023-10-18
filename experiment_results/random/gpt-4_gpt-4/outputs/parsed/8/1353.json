@@ -1,0 +1,8 @@
+{
+  "message": "@xDEEDAN bot danucdDanu2",
+  "reason": "The message seems to be a mention of a username and a bot command on a web-based platform. There is no explicit, offensive, or inappropriate language, insults, or discriminatory remarks present in the message.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

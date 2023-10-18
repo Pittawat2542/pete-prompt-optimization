@@ -1,0 +1,8 @@
+{
+  "message": "YEAH U WERE RIGHT BITCH JUST THE OTHER JUNGLER",
+  "reason": "The message contains a derogatory term directed at a person, which is considered offensive and disrespectful. Therefore, it is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

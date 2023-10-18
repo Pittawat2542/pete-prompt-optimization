@@ -1,0 +1,5 @@
+{
+  "message": "STOP DOING WHAT I THINK IS SHIT STREAMER",
+  "reason": "The message contains offensive language and insults towards the streamer.",
+  "predicted": "toxic"
+}

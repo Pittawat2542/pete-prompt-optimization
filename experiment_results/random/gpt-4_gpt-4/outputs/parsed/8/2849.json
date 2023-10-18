@@ -1,0 +1,8 @@
+{
+  "message": "Stupid decisions mean stupid result",
+  "reason": "The message uses the term 'stupid' twice, which can be considered as a derogatory term. It may be seen as offensive or disrespectful, especially when used to describe someone's decisions or results.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

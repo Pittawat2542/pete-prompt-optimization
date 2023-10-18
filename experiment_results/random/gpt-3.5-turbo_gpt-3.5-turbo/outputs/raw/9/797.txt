@@ -1,0 +1,6 @@
+```json
+{
+"message": "Hey, could someone please explain how to solve this math problem?",
+"reason": "The text is seeking help and is not offensive.",
+"predicted": "clean"
+}

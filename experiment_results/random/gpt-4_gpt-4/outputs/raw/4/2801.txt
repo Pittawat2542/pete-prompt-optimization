@@ -1,0 +1,7 @@
+```json
+{
+"message": "@guccixslaya cheaters suck hard tho",
+"reason": "The message contains a negative sentiment towards 'cheaters', but it does not include any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. Therefore, it's defined as a 'clean' message.",
+"predicted": "clean"
+}
+```

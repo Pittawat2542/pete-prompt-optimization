@@ -1,0 +1,8 @@
+{
+  "message": "danucdSaspisas danucdSASPISHAS",
+  "reason": "The message contains gibberish and does not convey any meaningful information.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

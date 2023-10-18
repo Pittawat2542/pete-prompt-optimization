@@ -1,0 +1,8 @@
+{
+  "message": "The hell",
+  "reason": "The message contains a swear word, which can be considered offensive.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

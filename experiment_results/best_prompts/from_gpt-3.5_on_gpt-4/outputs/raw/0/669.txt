@@ -1,0 +1,9 @@
+Since the "Prediction result" section is not provided, I'll make an assumption based on the given message.
+
+```json
+{
+"message": "215 cs",
+"reason": "The message does not contain any offensive, disrespectful or inappropriate language.",
+"predicted": "clean"
+}
+```

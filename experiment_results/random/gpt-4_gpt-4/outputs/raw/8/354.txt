@@ -1,0 +1,7 @@
+```json
+{
+"message": "what the hell??",
+"reason": "The phrase 'what the hell' is often used to express surprise or frustration, and while it is not directly offensive or insulting, it can be considered as a mild form of profanity. Therefore, it can be perceived as disrespectful or inappropriate in certain contexts.",
+"predicted": "toxic"
+}
+```

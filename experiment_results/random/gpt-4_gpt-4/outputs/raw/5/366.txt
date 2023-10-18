@@ -1,0 +1,7 @@
+```json
+{
+"message": "stupid morgana players",
+"reason": "The message uses the term 'stupid' to negatively label a group of players, which is considered offensive and inappropriate. This kind of language is disrespectful and uncivil, hence the 'toxic' categorization is warranted.",
+"predicted": "toxic"
+}
+```

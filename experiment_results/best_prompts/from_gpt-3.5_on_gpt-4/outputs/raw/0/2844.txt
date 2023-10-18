@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be non-toxic with a 90% confidence.
+
+```json
+{
+"message": "i hate the camps, i always come out with shit loot",
+"reason": "The message is expressing dissatisfaction with a game experience, not targeting or offending any individual or group.",
+"predicted": "clean"
+}
+```

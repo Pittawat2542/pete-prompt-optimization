@@ -1,0 +1,8 @@
+{
+  "message": "Hell no ew",
+  "reason": "The message, while expressing strong disagreement or distaste, does not contain any offensive or inappropriate language, derogatory comments, discriminatory language, or instances of disrespectful behavior. Therefore, it is classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

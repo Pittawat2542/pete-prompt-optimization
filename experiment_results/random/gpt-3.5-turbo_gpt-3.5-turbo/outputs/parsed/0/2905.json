@@ -1,0 +1,8 @@
+{
+  "message": "Have a great day/night bananas, i gotta go . danucdHi Later danucdBukulove",
+  "reason": "The message is positive and friendly, expressing well wishes and indicating that the sender is leaving. It also includes greetings to specific individuals.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "@Scoom danucdRespect mitKalp",
+  "reason": "The message does not contain any offensive, rude, abusive or disrespectful language or sentiments. It appears to be a combination of usernames or tags, which does not convey any toxic content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

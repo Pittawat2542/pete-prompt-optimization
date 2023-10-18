@@ -1,0 +1,5 @@
+{
+  "message": "@guccixslaya cheaters suck hard tho",
+  "reason": "The message contains derogatory language and expresses a negative sentiment towards cheaters.",
+  "predicted": "toxic"
+}

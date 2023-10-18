@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdPotato LUL",
+"reason": "The message does not contain any inappropriate or offensive language, derogatory remarks, discriminatory speech, or any form of uncivil behavior. It appears to be a username followed by a common internet slang term (LUL) often used to express laughter or amusement.",
+"predicted": "clean"
+}
+```

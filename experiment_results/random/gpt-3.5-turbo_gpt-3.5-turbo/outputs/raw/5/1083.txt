@@ -1,0 +1,7 @@
+```json
+{
+  "message": "They suck",
+  "reason": "The message is ambiguous and could be interpreted as either positive or negative. However, since there is a negative connotation, it is classified as 'clean' to err on the side of caution.",
+  "predicted": "clean"
+}
+```

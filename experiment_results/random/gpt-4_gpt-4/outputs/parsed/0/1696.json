@@ -1,0 +1,8 @@
+{
+  "message": "danucdPotato LUL",
+  "reason": "The message is a non-offensive, non-threatening comment, possibly a joke or a meme reference.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

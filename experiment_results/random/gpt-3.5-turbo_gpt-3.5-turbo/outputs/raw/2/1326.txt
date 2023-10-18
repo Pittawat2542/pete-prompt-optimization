@@ -1,0 +1,5 @@
+{
+  "message": "1G$",
+  "reason": "The message contains a combination of numbers and symbols that does not make sense in the context of the conversation.",
+  "predicted": "toxic"
+}

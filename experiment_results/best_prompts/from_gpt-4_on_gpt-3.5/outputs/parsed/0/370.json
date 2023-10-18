@@ -1,0 +1,8 @@
+{
+  "message": "like holy shit make it stop",
+  "reason": "The message contains offensive language ('holy shit') and expresses frustration ('make it stop').",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

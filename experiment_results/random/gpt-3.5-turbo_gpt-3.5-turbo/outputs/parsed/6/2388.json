@@ -1,0 +1,8 @@
+{
+  "message": "LUL LUL LUL LUL LUL LUL LUL LUL",
+  "reason": "The message consists of repeated laughter, which is not offensive or toxic.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

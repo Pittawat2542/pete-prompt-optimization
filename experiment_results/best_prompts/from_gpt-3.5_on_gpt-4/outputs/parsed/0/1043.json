@@ -1,0 +1,8 @@
+{
+  "message": "stop bypassing the chat you idiot",
+  "reason": "The message contains offensive language and is disrespectful, which is characteristic of toxic behavior in online communities.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

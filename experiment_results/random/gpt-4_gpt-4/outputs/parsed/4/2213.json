@@ -1,0 +1,8 @@
+{
+  "message": "how do you play with such high ping",
+  "reason": "The message is a question about the user's gaming experience and does not contain any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. Therefore, it's defined as a 'clean' message.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

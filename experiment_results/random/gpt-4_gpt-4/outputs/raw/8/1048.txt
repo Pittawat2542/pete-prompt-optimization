@@ -1,0 +1,7 @@
+```json
+{
+"message": "shady as hell",
+"reason": "The message uses a negative tone and could be interpreted as an insult or derogatory remark towards someone or something, implying that they are dishonest or untrustworthy. This justifies the 'toxic' classification.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "Hell nahh",
+"reason": "The message does not contain any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. It is a colloquial way of expressing disagreement or refusal, but it does not involve any forms of hate speech or harmful intent.",
+"predicted": "clean"
+}
+```

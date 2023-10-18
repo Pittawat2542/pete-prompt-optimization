@@ -1,0 +1,8 @@
+{
+  "message": "Get the hell out",
+  "reason": "The message is aggressive and disrespectful, using a phrase that is generally considered offensive and impolite. It is a clear expression of incivility.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

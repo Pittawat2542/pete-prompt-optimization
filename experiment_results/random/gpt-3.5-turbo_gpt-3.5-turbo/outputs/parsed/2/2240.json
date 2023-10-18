@@ -1,0 +1,8 @@
+{
+  "message": "you need to say niu bi instead of number one",
+  "reason": "The message does not contain any offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

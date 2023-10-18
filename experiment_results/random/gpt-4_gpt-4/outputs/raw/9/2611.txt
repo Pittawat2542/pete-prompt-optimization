@@ -1,0 +1,7 @@
+```json
+{
+"message": "Spoopy hamtime",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+  "message": "asia sever is many china player..",
+  "reason": "The message contains a general statement about players from China in the Asia server. While it may not be intentionally toxic, it can be seen as a negative stereotype or generalization, which can be considered toxic.",
+  "predicted": "toxic"
+}
+```

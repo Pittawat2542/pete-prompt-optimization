@@ -1,0 +1,5 @@
+{
+  "message": "They suck",
+  "reason": "Negative sentiment",
+  "predicted": "toxic"
+}

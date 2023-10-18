@@ -1,0 +1,8 @@
+{
+  "message": "@jrrod91, This item is on cooldown",
+  "reason": "The message is simply informing another user about the status of an item, presumably in a game or similar context. It does not contain any obscenities, threats, harassment, or offensive language. Therefore, it's defined as a 'clean' message.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

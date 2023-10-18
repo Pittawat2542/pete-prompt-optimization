@@ -1,0 +1,7 @@
+```json
+{
+"message": "@RiotSupport hi is there any update when riot will make a new and usable client for league of legends? Thanks",
+"reason": "The user is asking a genuine question about the status of a new client for League of Legends.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "hecarim is busted more",
+  "reason": "The message is a statement about a character in a video game (Hecarim from League of Legends). It does not contain any obscenities, threats, harassment, or offensive language. Therefore, it's defined as a 'clean' message.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

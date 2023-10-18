@@ -1,0 +1,8 @@
+{
+  "message": "faxGG faxGG faxGG",
+  "reason": "The message consists of repetitive and meaningless text, which does not convey any specific meaning or intent. It does not contain any offensive or toxic language.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

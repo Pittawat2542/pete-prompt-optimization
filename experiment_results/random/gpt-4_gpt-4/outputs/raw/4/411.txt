@@ -1,0 +1,7 @@
+```json
+{
+"message": "it was the evelynn game, he even stole my fucking champ",
+"reason": "The message contains an obscenity ('fucking'), which is considered inappropriate language. Therefore, it's defined as a 'toxic' message.",
+"predicted": "toxic"
+}
+```

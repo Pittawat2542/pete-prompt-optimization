@@ -1,0 +1,5 @@
+{
+  "message": "got a song for you @ibiza",
+  "reason": "The message is clean because it is a simple statement expressing the intention to share a song with someone.",
+  "predicted": "clean"
+}

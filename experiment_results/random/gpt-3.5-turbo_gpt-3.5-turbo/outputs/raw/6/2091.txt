@@ -1,0 +1,5 @@
+{
+"message": "ahhh gotcha",
+"reason": "The message does not contain any offensive or toxic language. It seems to be a casual expression of understanding.",
+"predicted": "clean"
+}

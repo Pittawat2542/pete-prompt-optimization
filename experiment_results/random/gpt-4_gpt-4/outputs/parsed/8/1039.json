@@ -1,0 +1,8 @@
+{
+  "message": "emojis here suck tbh",
+  "reason": "The message contains a negative opinion about the emojis on the platform, using a somewhat harsh language ('suck'). However, it does not target any individual or group, nor does it contain explicit, offensive, or inappropriate language. Therefore, it is not classified as 'toxic'.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

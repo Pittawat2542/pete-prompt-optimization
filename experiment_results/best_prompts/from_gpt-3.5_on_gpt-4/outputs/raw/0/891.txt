@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be toxic with a confidence of 0.85.
+
+```json
+{
+"message": "shit happens",
+"reason": "The model predicts the message to be toxic with a high confidence of 0.85.",
+"predicted": "toxic"
+}
+```

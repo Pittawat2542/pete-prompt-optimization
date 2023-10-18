@@ -1,0 +1,7 @@
+```json
+{
+"message": "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG",
+"reason": "The message seems to be a series of emoticons or codes for emoticons used in online gaming or streaming platforms. There is no offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "shes a girl...DAAAA",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior. However, the tone could be interpreted as sarcastic or dismissive, but without further context, it's not enough to categorize it as 'toxic'.",
+"predicted": "clean"
+}
+```

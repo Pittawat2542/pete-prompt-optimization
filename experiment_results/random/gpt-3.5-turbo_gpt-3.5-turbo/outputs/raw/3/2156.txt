@@ -1,0 +1,7 @@
+```json
+{
+  "message": "DendiFace gg",
+  "reason": "The message contains an offensive term ('gg') which is often used to mock or insult someone. This indicates a negative and toxic sentiment.",
+  "predicted": "toxic"
+}
+```

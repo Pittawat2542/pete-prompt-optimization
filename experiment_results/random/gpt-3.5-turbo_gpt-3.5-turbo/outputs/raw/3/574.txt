@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Yami has inted 11650 times KEKW",
+  "reason": "The message contains a derogatory term ('KEKW') and implies that Yami has intentionally lost a game multiple times ('inted 11650 times'). This can be considered toxic and disrespectful.",
+  "predicted": "toxic"
+}
+```

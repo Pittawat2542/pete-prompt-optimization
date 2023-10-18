@@ -1,0 +1,7 @@
+```json
+{
+"message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
+"reason": "The message seems to be related to a game, possibly referring to the user's game statistics or achievements. The term 'HACK' could be interpreted as an accusation of cheating, but it's not necessarily offensive or harmful. Therefore, it's defined as a 'clean' message.",
+"predicted": "clean"
+}
+```

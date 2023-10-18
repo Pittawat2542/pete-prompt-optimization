@@ -1,0 +1,5 @@
+{
+  "message": "ha ha ha",
+  "reason": "The message consists of positive laughter, which is generally considered clean and non-toxic.",
+  "predicted": "clean"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "kekwwwwwwww",
+"reason": "The message consists of repeated characters and does not contain any offensive or harmful language.",
+"predicted": "clean"
+}
+```

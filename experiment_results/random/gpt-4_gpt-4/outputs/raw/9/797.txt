@@ -1,0 +1,7 @@
+```json
+{
+"message": "Pepega",
+"reason": "The term 'Pepega' is a popular emote used on the streaming platform Twitch, often used to signify a silly or foolish action. It does not contain any offensive, derogatory, or inappropriate language.",
+"predicted": "clean"
+}
+```

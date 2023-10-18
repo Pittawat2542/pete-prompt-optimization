@@ -1,0 +1,8 @@
+{
+  "message": "Wait a sec, this isnt my favorite champion",
+  "reason": "The message is not offensive and does not contain any personal insults. It does not seek help or ask a question, but it is not disrespectful or engaging in a negative manner. Therefore, it can be classified as a clean message.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

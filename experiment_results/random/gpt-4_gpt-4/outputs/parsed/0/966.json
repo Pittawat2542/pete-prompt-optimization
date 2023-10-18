@@ -1,0 +1,8 @@
+{
+  "message": "IDIOT STOP COMPLAINING LUILW",
+  "reason": "The message contains an insult ('IDIOT') and is written in all caps, which is often interpreted as shouting online. This indicates a hostile tone.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

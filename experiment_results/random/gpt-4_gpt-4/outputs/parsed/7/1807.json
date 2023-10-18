@@ -1,0 +1,8 @@
+{
+  "message": "Who's victor Kappa",
+  "reason": "The message is a simple question asking about a person named Victor Kappa. There is no use of offensive or inappropriate language, derogatory comments, discriminatory language, or disrespectful behavior.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "@guccixslaya cheaters suck hard tho",
+"reason": "The message contains negative language and expresses dislike towards cheaters, but it does not contain any personal insults or direct offensive language.",
+"predicted": "clean"
+}
+```

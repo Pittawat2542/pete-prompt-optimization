@@ -1,0 +1,7 @@
+```json
+{
+"message": "Like what the hell is this",
+"reason": "The message contains a mild obscenity ('hell'), which some people might find offensive. However, it does not contain any direct insults, threats, or discriminatory language. The classification can be subjective and depends on the context and the standards of the forum where it was posted.",
+"predicted": "clean"
+}
+```

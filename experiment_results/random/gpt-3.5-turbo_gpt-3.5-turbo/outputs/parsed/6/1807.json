@@ -1,0 +1,8 @@
+{
+  "message": "Who's victor Kappa",
+  "reason": "The message is asking about the identity of someone named Victor Kappa. It does not contain any offensive or toxic language.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

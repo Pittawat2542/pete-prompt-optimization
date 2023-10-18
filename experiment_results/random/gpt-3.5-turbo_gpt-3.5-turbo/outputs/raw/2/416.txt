@@ -1,0 +1,5 @@
+{
+  "message": "because its fucking bronze",
+  "reason": "The message contains offensive language.",
+  "predicted": "toxic"
+}

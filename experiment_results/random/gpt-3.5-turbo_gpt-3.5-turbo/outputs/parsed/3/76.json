@@ -1,0 +1,8 @@
+{
+  "message": "hecarim is busted more",
+  "reason": "The message contains a negative statement about Hecarim, suggesting that he is overpowered or unfair in the game. This can be seen as toxic behavior in an online gaming community.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,5 @@
+{
+"message": "Scrims at 1900 CET to be streamed at (stream: tba)",
+"reason": "The message is providing information about an upcoming event and does not contain any offensive or toxic language.",
+"predicted": "clean"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Arm E D",
+  "reason": "The message does not contain any offensive, disrespectful or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

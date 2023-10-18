@@ -1,0 +1,8 @@
+{
+  "message": "smd = shake my dick?",
+  "reason": "The message contains a vulgar phrase that is generally considered offensive and inappropriate in most contexts. The use of such language is disrespectful and can be seen as a form of online harassment.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

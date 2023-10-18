@@ -1,0 +1,7 @@
+```json
+{
+"message": "WeirdChamp",
+"reason": "This message is a popular emote used on the streaming platform Twitch, often used to express disbelief or confusion. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or profanity.",
+"predicted": "clean"
+}
+```

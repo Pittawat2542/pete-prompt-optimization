@@ -1,0 +1,5 @@
+{
+"message": "or until u get shit on LUL",
+"reason": "The message contains offensive language and is disrespectful.",
+"predicted": "toxic"
+}

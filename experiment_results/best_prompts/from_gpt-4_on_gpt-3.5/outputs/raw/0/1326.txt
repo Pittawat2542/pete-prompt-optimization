@@ -1,0 +1,7 @@
+```json
+{
+"message": "1G$",
+"reason": "The message consists of a combination of alphanumeric characters and a special character, which does not convey any offensive, rude, abusive, or disrespectful language or sentiments.",
+"predicted": "clean"
+}
+```

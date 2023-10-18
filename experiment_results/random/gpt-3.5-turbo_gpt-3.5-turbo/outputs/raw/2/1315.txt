@@ -1,0 +1,5 @@
+{
+  "message": "alisaGG alisaGG alisaGG alisaGG naught14Luv naught14Luv naught14Nuts naught14Nuts naught14Nuts naught14Luv naught14Nuts naught14Luv naught14Nuts",
+  "reason": "The message consists of repetitive and nonsensical words.",
+  "predicted": "toxic"
+}

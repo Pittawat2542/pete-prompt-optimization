@@ -1,0 +1,8 @@
+{
+  "message": "Hell nahh",
+  "reason": "The message uses a mild curse word, which can be seen as offensive or inappropriate in certain contexts. However, it does not target anyone specifically or contain any derogatory or discriminatory language.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

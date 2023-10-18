@@ -1,0 +1,7 @@
+```json
+{
+"message": "Yeah with what? A short ass hop that gets you nearly nowhere? An ult that is SO fucking long",
+"reason": "The message contains explicit language and swearing, which is considered offensive and inappropriate. Therefore, the 'toxic' categorization is justified.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "5Head",
+  "reason": "The term '5Head' is a Twitch emote used to denote a smart or big-brain move. It does not contain any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. Therefore, it's defined as a 'clean' message.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,5 @@
+{
+"message": "BALANCED KEKW",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It seems to be a random phrase or an inside joke, but it does not fall into the category of toxic behavior.",
+"predicted": "clean"
+}

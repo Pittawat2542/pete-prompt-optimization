@@ -1,0 +1,7 @@
+```json
+{
+"message": "Melanie is in hell now",
+"reason": "The message implies a negative and potentially harmful sentiment towards 'Melanie', suggesting she is in a place of suffering or punishment. This can be seen as a form of harassment or bullying, thus it's classified as 'toxic'.",
+"predicted": "toxic"
+}
+```

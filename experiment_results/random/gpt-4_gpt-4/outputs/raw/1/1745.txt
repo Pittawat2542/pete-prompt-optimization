@@ -1,0 +1,7 @@
+```json
+{
+"message": "WeirdChamp",
+"reason": "The message is a popular emote used in online gaming communities, particularly on Twitch. It does not contain any offensive, rude, or inappropriate content.",
+"predicted": "clean"
+}
+```

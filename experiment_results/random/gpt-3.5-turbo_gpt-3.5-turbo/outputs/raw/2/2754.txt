@@ -1,0 +1,5 @@
+{
+  "message": "too E Z",
+  "reason": "The message contains derogatory language.",
+  "predicted": "toxic"
+}

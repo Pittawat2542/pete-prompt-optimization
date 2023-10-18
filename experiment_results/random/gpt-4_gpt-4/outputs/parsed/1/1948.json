@@ -1,0 +1,8 @@
+{
+  "message": "rawryyLaugh @cinnova",
+  "reason": "The message appears to be a friendly or humorous interaction with another user, with no offensive or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

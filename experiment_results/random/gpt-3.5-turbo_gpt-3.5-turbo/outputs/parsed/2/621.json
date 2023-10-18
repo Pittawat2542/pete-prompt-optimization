@@ -1,0 +1,8 @@
+{
+  "message": "PepeLaugh",
+  "reason": "The message contains an emote commonly associated with mocking or laughing at someone. It can be interpreted as sarcastic or derogatory.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

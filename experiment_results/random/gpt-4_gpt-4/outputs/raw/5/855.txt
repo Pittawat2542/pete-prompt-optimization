@@ -1,0 +1,5 @@
+{
+"message": "osu? woow",
+"reason": "The message does not include any inappropriate or offensive language, derogatory remarks, discriminatory speech, swearing, or any form of uncivil behavior. It is a simple expression that could potentially indicate surprise or excitement. Therefore, the 'clean' categorization is appropriate.",
+"predicted": "clean"
+}

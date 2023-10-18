@@ -1,0 +1,7 @@
+```json
+{
+"message": "how the fuck that last bullet didn't kill you",
+"reason": "The message contains explicit language (swearing) which is considered offensive and inappropriate. The tone of the message also seems aggressive.",
+"predicted": "toxic"
+}
+```

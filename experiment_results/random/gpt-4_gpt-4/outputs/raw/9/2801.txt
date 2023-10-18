@@ -1,0 +1,7 @@
+```json
+{
+"message": "@guccixslaya cheaters suck hard tho",
+"reason": "The message uses a negative phrase 'cheaters suck hard' which can be seen as offensive or inappropriate. Although it does not directly target an individual, it still carries a negative connotation.",
+"predicted": "toxic"
+}
+```

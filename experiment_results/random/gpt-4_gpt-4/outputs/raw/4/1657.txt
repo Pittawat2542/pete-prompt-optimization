@@ -1,0 +1,7 @@
+```json
+{
+"message": "Look at these vacuums",
+"reason": "The message is a simple statement with no offensive, discriminatory, or inappropriate language. It does not contain any form of hate speech, harmful intent, or obscenities.",
+"predicted": "clean"
+}
+```

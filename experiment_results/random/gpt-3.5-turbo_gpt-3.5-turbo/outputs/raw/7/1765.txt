@@ -1,0 +1,5 @@
+{
+"message": "@melihozkiremitci danucdHi danucdHi",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It seems to be a greeting or a casual conversation.",
+"predicted": "clean"
+}

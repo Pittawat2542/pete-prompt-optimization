@@ -1,0 +1,5 @@
+{
+"message": "this map is dog shit for squads. absolute dog shit",
+"reason": "The message contains offensive language and is disrespectful.",
+"predicted": "toxic"
+}

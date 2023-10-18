@@ -1,0 +1,8 @@
+{
+  "message": "Stupid net tbh",
+  "reason": "The message contains an offensive term ('stupid') and is disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

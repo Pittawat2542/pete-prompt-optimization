@@ -1,0 +1,3210 @@
+{
+  "total": 400,
+  "correct": 348,
+  "incorrect": 52,
+  "accuracy": 0.87,
+  "correct_messages": [
+    {
+      "message": "Wtf thats stupid\u00f0\u0178\u02dc\u201a\u00f0\u0178\u02dc\u201a",
+      "reason": "The message uses an abbreviation 'Wtf' which is a profanity and the term 'stupid' which can be seen as offensive or derogatory. The use of these terms makes the message inappropriate and uncivil.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "so its not the fucking card",
+      "reason": "The message contains a profanity, which is considered offensive and inappropriate in a civil conversation. Therefore, the categorization as 'toxic' is justified.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "here I just an administrator up my ass",
+      "reason": "The message contains a vulgar phrase that is disrespectful and offensive. It is inappropriate and can be seen as an expression of incivility.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "How to mute this shit",
+      "reason": "The message contains a profanity, which is considered inappropriate and offensive in a formal communication setting. Therefore, the categorization as 'toxic' is justified.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hmm I have never played this game, should I play squad or solo? fuck it lets play squad so i can fuck up my squadmates retard starter pack",
+      "reason": "The message contains offensive language and derogatory terms, which are considered inappropriate and disrespectful. The use of the term 'retard' is particularly offensive as it is a derogatory term used to insult or belittle someone.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "OH SHIT DESYNC YOUR DEAD",
+      "reason": "The message contains profanity and can be interpreted as a threat or an offensive comment, which makes it inappropriate and offensive.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Who put me on the RNG shit list?",
+      "reason": "The message contains a profanity ('shit'), which is considered inappropriate or offensive language. The overall tone of the message also seems to express frustration or annoyance, which can be seen as a form of incivility.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "why did pubg add this creepy shit?",
+      "reason": "The message contains a profanity, which is considered inappropriate and offensive. The user is expressing dissatisfaction or annoyance, which can be seen as a form of incivility.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Just due to their sheer kits and presence they have",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a neutral statement about someone's kits and presence.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Like Hell Do I Care.",
+      "reason": "The message uses a phrase 'Like Hell' which is often considered as a strong expression of indifference or annoyance. This could be seen as offensive or inappropriate in certain contexts, hence the categorization as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "cod is crap which one?",
+      "reason": "The message uses a derogatory term 'crap' to describe 'cod' (which could be referring to a game, fish, or something else). This can be seen as offensive language, hence the categorization as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "stop bypassing the chat you idiot",
+      "reason": "The message contains a derogatory term 'idiot' aimed at an individual, which is considered offensive and inappropriate. This makes the message 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "stop bypassing the chat you idiot",
+      "reason": "The message contains a derogatory term 'idiot' aimed at an individual, which is considered offensive and inappropriate. This makes the message toxic.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "HELL NO",
+      "reason": "The message is expressed in capital letters, which is often interpreted as shouting in online communication. However, there is no use of offensive language, derogatory comments, prejudiced language, or profanity. The message is strong but not necessarily toxic.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "shady as hell",
+      "reason": "The message uses a negative tone and could be seen as offensive or derogatory depending on the context. The term 'shady' is often used to describe someone as dishonest or untrustworthy, and 'hell' is used as an intensifier, which could be seen as inappropriate language.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hell yeaaahh",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity, or expression of incivility. It is simply an expression of excitement and enthusiasm, which is considered clean and positive.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Get the hell out",
+      "reason": "The message is aggressive and disrespectful, using a phrase that is generally considered offensive and impolite. It is a clear expression of incivility.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "play this stupid shat",
+      "reason": "The message uses a derogatory term 'stupid' and a misspelled profanity 'shat' which is a clear indication of incivility and offensive language. Therefore, it is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "why he is calling u idiot tho? \u00f0\u0178\u02dc\u00ae",
+      "reason": "The message includes a derogatory term 'idiot' which is offensive and disrespectful. Even though the sender of the message is not directly using the term against someone, they are repeating an offensive term used by someone else, which can still be seen as promoting toxic behavior.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Melanie is in hell now",
+      "reason": "The message seems to be offensive and disrespectful towards 'Melanie', implying that she is in a place of suffering or torment. This can be seen as a form of derogatory comment or insult, hence the categorization as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I suck at all but at least I dont die in the beginning smfh",
+      "reason": "The message contains the acronym 'smfh' which stands for 'shaking my f***ing head', a term that includes profanity. However, the overall tone of the message is self-deprecating and not aimed at offending or insulting others.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Dont bother with salty lol he's tryna make yall look like an idiot when he is the moron himself",
+      "reason": "The message contains derogatory language, specifically the term 'moron', which is used to insult or belittle another individual. This makes the message offensive and inappropriate.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "The hell",
+      "reason": "The message is ambiguous and lacks context. However, it can be interpreted as an expression of frustration or disbelief, which can be seen as a mild form of incivility. Therefore, it is categorized as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "In 12 mins",
+      "reason": "This message is a simple statement indicating a time frame. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Shit up",
+      "reason": "The message contains a profanity which is considered offensive and inappropriate in a civil conversation. The phrase 'Shit up' is a derogatory term and is used in a disrespectful manner.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "What the hell is that",
+      "reason": "The message uses a mild profanity ('hell') which can be seen as offensive or inappropriate in certain contexts. However, it does not contain any direct insults, derogatory comments, or prejudiced language.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Stupid net tbh",
+      "reason": "The message uses a derogatory term 'stupid' to describe 'net', which can be seen as offensive. The overall tone of the message is negative.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "They suck",
+      "reason": "The message uses a derogatory term to express a negative opinion about an unspecified group of people. This can be seen as offensive and uncivil.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "The only idiot is you.",
+      "reason": "The message contains a derogatory term directed at an individual, which is considered offensive and inappropriate. This justifies the categorization as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Meebot is shit",
+      "reason": "The message uses a profanity to express a negative opinion about 'Meebot'. This can be seen as offensive and inappropriate language.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "bc my stupid dog eat it",
+      "reason": "The message uses a derogatory term 'stupid' to describe a dog. This can be seen as offensive language, hence the categorization as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "any way i can use my pubg on console on pc ? Dont got enough to get pubg on pc",
+      "reason": "The message is a simple question about a video game, with no offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "No solo ranked in SEA DED",
+      "reason": "The message seems to be a comment about a game, possibly referring to the lack of solo ranked matches in the South East Asia (SEA) server. There is no offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "That\u00e2\u20ac\u2122s pretty pathetic. I stick with the One X I think. First time in my 30+ years of gaming that I haven\u00e2\u20ac\u2122t been excited for a next gen console.",
+      "reason": "The message contains a negative sentiment, but it is not directed towards any individual or group. The term 'pathetic' is used to express disappointment in a situation, not to insult or offend anyone. Therefore, it is not considered toxic.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "When is ps4 and xbox pts server finished? What date and time (uk) please? Thanks",
+      "reason": "The message is a simple question about the completion of a server maintenance for gaming consoles. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Still waitin for update on xbox I'm buying on pc next week annoyed lol",
+      "reason": "The message expresses the user's frustration about waiting for an update on Xbox and their decision to buy on PC next week. However, it does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Maybe it?s talking about her smoothie PogChamp",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. The term 'PogChamp' is a popular emote used on the streaming platform Twitch, often used to express excitement or hype, and is not offensive.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Weather for Hamit, TR: Clear sky with a temperature of 21 C (69.8 F). Wind is blowing from the East at 10.3 kph (6.4 mph) and the humidity is 21%",
+      "reason": "The message is simply providing a weather update for a specific location. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danu) Weather for Danu, MD: Overcast clouds with a temperature of 12.5 C (54.5 F). Wind is blowing from the North at 3.2 kph (1.99 mph) and the humidity is 92%",
+      "reason": "The message is simply providing weather information for a specific location. There is no use of inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "white_medium_star:\u0001",
+      "reason": "The message contains no offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility. It appears to be a neutral symbol or emoji.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdSaspisas danucdSASPISHAS",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It appears to be a nonsensical or coded message, but without any context indicating toxicity.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hey",
+      "reason": "The message is a simple greeting and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "thanks for the giffted sub who ever gave it me @DanucD",
+      "reason": "The message is expressing gratitude towards someone for a gifted subscription. There is no use of inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "EZ GG",
+      "reason": "This message is a common phrase used in online gaming, where 'EZ' stands for 'easy' and 'GG' stands for 'good game'. It is generally used to indicate that a game was easily won. There is no offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility in this message.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "chocotGotem chocotGotem chocotGotem",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be a repetition of a phrase or a username, which does not convey any harmful intent.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdRespect danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance danucdDance2 danucdDance danucdDance2 danucdDance danucdDance2 danucdDance forsenPls SourPls",
+      "reason": "The message consists of repeated phrases, which seem to be usernames or specific codes used in the context of the online forum. There is no use of offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "alisaGG alisaGG alisaGG alisaGG naught14Luv naught14Luv naught14Nuts naught14Nuts naught14Nuts naught14Luv naught14Nuts naught14Luv naught14Nuts",
+      "reason": "The message seems to be a repetition of two usernames or online handles. There is no offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility present in the message.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG",
+      "reason": "The message seems to be a series of emoticons or codes for emoticons used in online gaming or streaming platforms. There is no offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "1G$",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be a random combination of alphanumeric characters and a symbol, which does not convey any offensive or inappropriate meaning.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@xDEEDAN bot danucdDanu2",
+      "reason": "The message seems to be a mention of a user and a bot on a forum. There is no offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Please chat only in English here",
+      "reason": "The message is a polite request for users to communicate in English. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Arm E D",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be a neutral statement or possibly a typo.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@HamitCanKilic why i cant donate without login in with my fb or soemthing",
+      "reason": "The message is a simple query or concern about a process on a platform. There is no use of offensive or inappropriate language, no derogatory comments, and no expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "ooo we get a chickirhinooooo",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. The term 'chickirhinooooo' does not seem to be offensive or inappropriate in any known context.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "My mains were magic exo and the brawler",
+      "reason": "The message is simply stating the user's main characters or roles in a game, presumably. There is no offensive or inappropriate language, no derogatory comments, and no expressions of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@Scoom danucdRespect mitKalp",
+      "reason": "The message seems to be a combination of usernames and possibly a respectful sentiment. There is no offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdRespect danucdPOG danucdRespect danucdPOG danucdRespect danucdPOG danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect",
+      "reason": "The message is repetitive but it doesn't contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility. The terms 'danucdRespect' and 'danucdPOG' seem to be related to a specific context or community, but they don't appear to be offensive or inappropriate.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@Adooool18 Thanks for the gift sub! soggyWow brkSmaK soggyWow brkSmaK soggyPog brkTSM",
+      "reason": "The message is expressing gratitude for a gift subscription. The terms 'soggyWow', 'brkSmaK', 'soggyPog', and 'brkTSM' are likely specific to the platform or community and do not appear to be offensive or inappropriate. There is no use of profanity, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@jrrod91 do you think a new clip is a spam",
+      "reason": "The message is a simple question and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@Adooool18 thank you gift ddanucdBukulove",
+      "reason": "The message seems to be a thank you note or appreciation towards a user. There is no use of offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Jesus, it's a warzone in that city monkaS",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or profanity. The term 'warzone' is used metaphorically to describe the chaotic situation in the city, and 'monkaS' is a popular emoticon used in online communities to express concern or fear. Therefore, the message is not toxic.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@SmirnofSoldier all good and you... danucdRespect danucdHi",
+      "reason": "The message seems to be a friendly interaction between users, with no use of offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "!hs",
+      "reason": "The message '!hs' does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It appears to be a command or a code, which is not offensive or inappropriate.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@jrrod91, This item is on cooldown",
+      "reason": "The message is a simple statement informing a user about the status of an item. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "how old she is",
+      "reason": "The message is a simple question and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect",
+      "reason": "This message consists of repeated words. Although it does not contain any inappropriate or offensive language, it lacks substance and appears to be spam or an attempt to manipulate the system.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "PeepoWeen",
+      "reason": "This message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It appears to be a harmless term or phrase, possibly a username or a specific term in a certain community.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "yeah",
+      "reason": "The message is a simple affirmation and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Nt",
+      "reason": "The message 'Nt' is not offensive, derogatory, or inappropriate. It seems to be an abbreviation or a typo, but it doesn't contain any toxic elements.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdNo Fattttttiiiiiiiiiiiiiiiiiiiiiiii",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be a nonsensical or random string of characters, which does not convey any clear meaning or intent.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Greetings from New Orleans",
+      "reason": "This message is a simple, polite greeting and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "PogChamp PogChamp PogChamp",
+      "reason": "The message contains the term 'PogChamp', which is a popular emote used in the streaming platform Twitch to express excitement or hype. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@adooool18 on the way danucdSaspisas",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be a neutral or positive message, possibly indicating that someone or something is on the way.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Look at these vacuums",
+      "reason": "The message is a simple statement with no offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "MsRoselyn nairidHerz nairidHerz danucdHi parunaHi",
+      "reason": "The message seems to be a series of usernames or greetings, without any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdHypePrime",
+      "reason": "This message appears to be a username or a code, and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdPotato LUL",
+      "reason": "The message seems to be a non-offensive, non-derogatory comment or joke, possibly related to a specific context or inside joke within a gaming community. The term 'LUL' is often used in online gaming communities to signify laughter or amusement. There is no use of inappropriate language, offensive or prejudiced terms, or any form of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "WeirdChamp",
+      "reason": "This message is a popular emote used on the streaming platform Twitch, often used to express disbelief or confusion. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or profanity.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Well,rip clips alisaYikes",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. The term 'Yikes' might indicate a negative reaction or surprise, but it is not inherently toxic or offensive.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@melihozkiremitci danucdHi danucdHi",
+      "reason": "The message seems to be a greeting or a mention of a user, without any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hello and bye @melihozkiremitci",
+      "reason": "The message is a simple greeting and farewell, directed at a specific user. There is no use of inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "is G fuel good",
+      "reason": "The message is a simple question asking for an opinion about a product. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@melihozkiremitci cya",
+      "reason": "The message is a simple farewell, using the acronym 'cya' which stands for 'see you'. There is no use of inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@Frank_Drebin451 yes danucd using it too",
+      "reason": "The message is a simple statement, without any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "jd",
+      "reason": "The message 'jd' does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be an abbreviation or a typo, but it doesn't convey any harmful intent.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "my god the stupidity of people",
+      "reason": "The message contains a derogatory comment about people, generalizing them as 'stupid'. This can be seen as offensive and disrespectful, hence the categorization as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Who's victor Kappa",
+      "reason": "The message is a simple question asking about an individual named Victor Kappa. There is no use of inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "you mean blind pick?",
+      "reason": "The message is a simple question, without any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "can you show us your damage after you finishthe game plz",
+      "reason": "The message is a simple request without any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner",
+      "reason": "The message is repetitive but it does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be a celebratory message or a cheer for a user named 'danucdWinner'.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "faxGG faxGG faxGG",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be a repetition of a term or phrase, which does not carry any offensive or inappropriate connotation.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "NotLikeThis danucdFacepalm chat",
+      "reason": "The message seems to be using Twitch emotes (NotLikeThis, danucdFacepalm) which are generally used to express frustration or disappointment in a humorous or exaggerated way. There is no offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Support always",
+      "reason": "The message is positive and encouraging, without any offensive or inappropriate language, derogatory comments, or expressions of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I see HoB more",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a neutral statement or observation.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "A giveaway for: game has started! Subscribers can Join!",
+      "reason": "The message is simply announcing a game giveaway and inviting subscribers to join. There is no use of inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Yo Riot wtf fuck brand he always deals the most damage for some reason EVERY GANE",
+      "reason": "The message contains profanity and offensive language directed towards a game character or possibly the game developers. The use of 'wtf' and 'fuck' makes the message inappropriate and offensive.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "danucdChair",
+      "reason": "The message appears to be a username or a code, and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "rawryyLaugh @cinnova",
+      "reason": "The message seems to be a playful or humorous interaction with another user, without any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "!subs",
+      "reason": "The message is a common command used in live streaming platforms to subscribe to a channel or to check the number of subscribers. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. The user seems to be expressing a personal decision or change in attitude, which does not target or harm anyone else.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "dizzy_face:",
+      "reason": "The message is simply an emoji description and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can help you translate chinese",
+      "reason": "The message is offering help in translating Chinese, which is a positive and helpful statement. There is no use of inappropriate or offensive language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "how do i get these fucking things off my recommended",
+      "reason": "The message contains a profanity, which is considered offensive and inappropriate in a public communication setting. Therefore, it is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "YEAH U WERE RIGHT BITCH JUST THE OTHER JUNGLER",
+      "reason": "The message contains a derogatory term aimed at an individual, which is considered offensive and inappropriate. The use of all caps also suggests a hostile or aggressive tone.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "asia sever is many china player..",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a simple statement about the number of players from China on an Asian server.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "XD I am gonna get that catch-phrased I promise Tig lol",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a friendly interaction between users.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Lol when adc became weak as shit I was like wtf happened did I just become ass turns out it wasn\u00e2\u20ac\u2122t me",
+      "reason": "The message contains vulgar language such as 'shit' and 'ass', which are considered inappropriate and offensive. The use of such language contributes to a negative and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fessn1 all the clips got deleted to prevent dmca strikes, so theres no command at the moment",
+      "reason": "The message is informative and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "noice team work forsenCD",
+      "reason": "The message is a positive affirmation of teamwork, with no offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "THIS GAME MIGHT AS WELL RESET MY FUCKING LP TO 0",
+      "reason": "The message contains a profanity, which is considered offensive and inappropriate in a public communication forum. The overall tone of the message also seems to be aggressive and frustrated.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "they go super drop",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a neutral statement without any negative connotations.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "FUCKING HELL",
+      "reason": "The message contains profanity and is expressed in a manner that can be perceived as aggressive or offensive.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "its really hard with your ping",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a comment about a technical issue, possibly in the context of online gaming where 'ping' refers to network latency.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "ahhh gotcha",
+      "reason": "The message is a casual expression of understanding or realization, without any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "My sens is irrelevant to you, do what's comfortable for you. Copying other people's sens won't make you good at the game, we have different length arms and grips and different resistance mousepads / mouse feet - some mouse sensors are even different.",
+      "reason": "The message is providing advice to the recipient about gaming. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "70 mana for that shit",
+      "reason": "The message contains a profanity, which is considered inappropriate and offensive. Therefore, it is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "as you can see so clearly with those on low?",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a question or a statement, and without further context, it's hard to determine if it's meant to be sarcastic or genuine. However, based on the given text, it's not toxic.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@mfyntz tgl5Head",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be a username followed by a nonsensical or coded phrase, which does not appear to be offensive or inappropriate in any known context.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "WHAT THE FUCKING FUCK IS THIS FUCKING RECALL ANIMATION  recall animation may be shit, but holy fuck the effects and animation are good",
+      "reason": "The message contains multiple instances of profanity and offensive language. The use of the F-word in various forms and the term 'shit' to describe the recall animation are clear indicators of a toxic message.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "ha ha ha",
+      "reason": "This message is simply a representation of laughter and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "WHAT THE FUCKING FUCK IS THIS FUCKING RECALL ANIMATION",
+      "reason": "The message contains profanity and offensive language, which is inappropriate and disrespectful. The use of such language is considered as an expression of incivility.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "tgl3Head",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It appears to be a random string of characters or possibly a username or code, but without any context, it's impossible to determine any offensive or inappropriate meaning.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can translate for ya if u want",
+      "reason": "The message is offering help in translation, and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "ha ha ha comms",
+      "reason": "The message is a simple expression of laughter followed by a short form for 'communications'. There is no use of offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "tglGG",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It appears to be a random string of characters and does not convey any discernible meaning.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "rawryyLaugh NT NT",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be a non-contextual or random string of words and abbreviations.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "DendiFace gg",
+      "reason": "The message is a combination of a popular Twitch emote 'DendiFace' and 'gg' which is a common abbreviation for 'good game'. There is no offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "shes a girl...DAAAA",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or profanity. However, the tone might be interpreted as sarcastic or dismissive, but it's not explicitly offensive or toxic.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@escamoli yeah",
+      "reason": "The message is a simple acknowledgment or agreement with the user @escamoli. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "only 52 alive?",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a simple question, possibly related to a game or a real-life situation, but without any additional context, it's impossible to determine any negative connotations.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "rando squad?",
+      "reason": "This message appears to be a question about a random squad, possibly in the context of a video game. There is no use of inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "control setting and dpi",
+      "reason": "The message is a simple, neutral statement about control settings and dpi. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "he said frist time FPP",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be a simple statement or comment.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Fuck up a turret dive as graves and went afk",
+      "reason": "The message contains a profanity at the beginning, which is considered offensive and inappropriate in a public communication setting.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "6th guy",
+      "reason": "The message is very brief and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "this feels so shit",
+      "reason": "The message uses a vulgar term to express a negative sentiment, which can be seen as offensive or inappropriate in a formal communication setting.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "how do you play with such high ping",
+      "reason": "This message does not contain any offensive or inappropriate language. It is a simple question inquiring about how to play with high ping in a game. There are no derogatory comments, prejudiced language, or profanity used, making it suitable for the 'clean' category.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "why asia server ?",
+      "reason": "The message is a simple question and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "it makes it even more difficult",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a neutral statement about a situation or task being difficult.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "that he's got none helmet",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be a simple statement or observation.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "i have nothing",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It is a simple statement expressing a lack of something, which is not offensive or inappropriate in any way.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "you need to say niu bi instead of number one",
+      "reason": "The message is instructing someone to use a different phrase, 'niu bi', instead of 'number one'. There is no offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility present in the message.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "which is dumb as fuck lmao",
+      "reason": "The message contains explicit language and derogatory terms, which can be seen as offensive and inappropriate. The use of such language contributes to a negative and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "you can try this to them ciao nee mud",
+      "reason": "This message does not include any inappropriate or offensive language, derogatory comments, prejudiced language, profanity, or incivility. It appears to be a random sentence without any context, mood, or vulgar language. Therefore, it can be categorized as 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "in a Payload game the other day one of the randoms started shooting grens at me",
+      "reason": "The message is about a gaming experience and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "the fuck you talking about brother?",
+      "reason": "The message contains a profanity and can be seen as offensive or inappropriate. The tone of the message also seems confrontational, which can be considered as a form of incivility.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "smh thats why i use the m4 long range",
+      "reason": "The message does not include any offensive or inappropriate language. It appears to be a casual comment expressing opinion about a weapon choice. Therefore, the categorization as 'clean' is justified.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "how can that even be fucking compared?",
+      "reason": "The message contains a profanity, which is considered offensive and inappropriate in a civil conversation. Therefore, it is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "4X m249 op on sanhok",
+      "reason": "This message appears to be related to a video game, possibly discussing game strategies or equipment. There is no offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "what's the song name",
+      "reason": "The message is a simple question asking for information. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hello sir how are u",
+      "reason": "The message is polite and respectful, without any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Scrims at 1900 CET to be streamed at (stream: tba)",
+      "reason": "The message is simply providing information about an upcoming event, with no use of inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "LUL LUL LUL LUL LUL LUL LUL LUL",
+      "reason": "The message consists of the repeated use of 'LUL', which is an acronym for 'laugh out loud' in online communication. There is no use of offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "kekwwwwwwww",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be a random combination of letters and characters, which does not convey any clear meaning.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "got a song for you @ibiza",
+      "reason": "The message is a simple statement without any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a friendly interaction.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "guys where to watch ??",
+      "reason": "The message is a simple question and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck these team mates",
+      "reason": "The message uses profanity and expresses a negative sentiment towards the team mates, which can be seen as offensive and inappropriate.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "did u like that solo ranked @ibiza",
+      "reason": "The message is a simple question directed at a user, without any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "some good players",
+      "reason": "The message is a simple, neutral statement without any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Bose QC20 (apple version). Ibi uses in ears instead of a headset because he has to use in ears at LANs. This way he gets used to it ibiW",
+      "reason": "The message is a simple statement about a person's preference for using in-ear headphones over a headset. There is no use of inappropriate or offensive language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "so fucking dumb",
+      "reason": "The message uses profanity and is derogatory in nature, which is considered offensive and inappropriate.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "oh fuck i got one of those omnistone bards in my ranked game",
+      "reason": "The message contains a profanity ('fuck') which is generally considered offensive and inappropriate in a public communication setting.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Fuck, I just died by the twitch.",
+      "reason": "The message contains a profanity at the beginning, which is considered inappropriate and offensive language. Even though it seems to be used in a non-aggressive context, the use of such language is generally seen as uncivil.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Does ranked solos have 100 players? @hambinooo",
+      "reason": "The message is a simple question about a game, without any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Fuck, I just died by the twitch. look at death recap",
+      "reason": "The message contains a profanity at the beginning, which is generally considered offensive and inappropriate in a public communication setting.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@animoputt I get it dude. just pokin ya.",
+      "reason": "The message seems to be a friendly banter or a light-hearted joke between two individuals. There is no use of offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@noswal84 there is a reason for that....typical US Army infantry PLT is around that number",
+      "reason": "The message is a simple statement providing information about the typical number of people in a US Army infantry PLT. There is no use of inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "winking_face:",
+      "reason": "This message is simply an emoji representation, which is generally used to convey a playful or teasing tone. There is no offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "have you ever played with clib? @hambinooo",
+      "reason": "The message is a simple question directed at a specific user, asking about their experience with 'clib'. There is no use of offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@hambinooo sorry for ruining your fun",
+      "reason": "The message is an apology and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@ty_gets_rekt eleven10Gooba eleven10Gooba eleven10Gooba",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be a neutral message or possibly a coded message, but without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I fucking love those videos",
+      "reason": "The message contains a profanity, which is generally considered inappropriate or offensive. However, in this context, the profanity is used to express a high degree of enthusiasm or passion, rather than to insult or offend. Therefore, the overall tone of the message is not toxic.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "!hype",
+      "reason": "The message '!hype' is a common term used in online communities, especially in live streaming platforms, to express excitement or enthusiasm. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "may I ask why the fuck shen is a thing?",
+      "reason": "The message contains profanity, which is considered offensive and inappropriate in a civil conversation. The use of the f-word is unnecessary and adds a negative tone to the message.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hamb10 hamb10",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be a repetition of a username or a code, which does not convey any harmful intent.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "centralia of the vibes",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. The context and mood of the message are neutral.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "What up hamily hambO7 hambO7",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a casual greeting or a playful message, possibly using a specific jargon or slang.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Obligatory 'fuck Udyr'",
+      "reason": "The message contains a profanity directed towards 'Udyr', which can be seen as offensive and inappropriate. Therefore, the categorization as 'toxic' is justified.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@hf_spinach happy thursday!!",
+      "reason": "The message is a simple, friendly greeting with no offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "who the fuck uses D for flashbanning whoever says me",
+      "reason": "The message contains profanity, which is considered offensive and inappropriate in a civil conversation. Therefore, the categorization as 'toxic' is justified.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "114 kills again? you're a legend",
+      "reason": "The message is a compliment to the recipient, acknowledging their achievement in a game or similar context. There is no use of offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "i def. get the phantom footsteps",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. The context and mood of the message also do not suggest any toxicity.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "as an OG pubg player who has taken like 6 months off, the sounds are wack to get used too.",
+      "reason": "The message is a personal opinion about a video game (PUBG) and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Spoopy hamtime",
+      "reason": "The message does not contain any offensive or inappropriate language. It seems to be a playful and lighthearted phrase, potentially referring to a Halloween-themed event or activity. The use of the word 'spoopy' is a humorous variation of 'spooky'. Overall, there is no indication of any toxic or offensive content.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "pec a doodle doo hollyw14Verticalforegrip",
+      "reason": "The message seems to be a random string of words and doesn't contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "why the fuck i get the code of conduct shit every time i open league clientPromise you will be a good player?",
+      "reason": "The message contains profanity and vulgar language, which is considered offensive and inappropriate in a public communication forum.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "doooooo it",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be a casual, albeit enthusiastic, encouragement or suggestion.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "been 2 weeks 1since i've been able to lunch with ham!",
+      "reason": "The message is a simple statement about the sender's personal experience and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "!gift @shanabana",
+      "reason": "This message appears to be a command or action in a game or online community, possibly gifting something to the user '@shanabana'. There is no offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility present in the message.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "i swear to fucking god",
+      "reason": "The message contains a profanity, which is generally considered offensive and inappropriate in a civil conversation. The tone of the message also seems aggressive, which adds to its toxicity.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Don't fuck it up",
+      "reason": "The message uses profanity, which is considered inappropriate and offensive language. The tone of the message also seems to be aggressive and impolite.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "too E Z",
+      "reason": "The message 'too E Z' is a common gaming slang which means 'too easy'. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Hey Ham. sorry for spam but you took a toiletbreak,quick question. Do you know how PUBG gives you teammates in squad and duo if you are playing without friends? It seems like i always get the new players when i try to team up. You know if they choose players by hidden rank or is it just random? The question was not as quick tho.. Haha, GG's! Have a great stream, as always hambLove",
+      "reason": "The message is polite and respectful. It contains a question about a game and expresses appreciation for the recipient's stream. There is no use of inappropriate or offensive language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "the best",
+      "reason": "This message is positive and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@drsoils no need to be sorry, I liked it. LOL",
+      "reason": "The message is polite and friendly, with no use of inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@keckzn have a time out, come back when you're done saying dumb shit",
+      "reason": "The message contains offensive language and is disrespectful towards the user mentioned. It is derogatory in nature and can be seen as an expression of incivility.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Its a shit situation!",
+      "reason": "The message uses a vulgar term to describe a situation. This can be seen as offensive or inappropriate language, hence the categorization as 'toxic' is justified.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "win the fight, die to a fucking mushroom walking away",
+      "reason": "The message contains a profanity, which is considered offensive and inappropriate in a civil conversation. Therefore, the categorization as 'toxic' is justified.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "she's listening through the door, shut the fuck up dad",
+      "reason": "The message contains a profanity directed towards an individual, which is considered offensive and inappropriate.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "STOP DOING WHAT I THINK IS SHIT STREAMER",
+      "reason": "The message uses a profanity to express dissatisfaction or criticism towards the streamer. This can be seen as offensive and inappropriate, hence the categorization as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "i like how you dont talk shit about your dick neighbour cause he prob gonna rewatch your stream",
+      "reason": "The message contains offensive language and derogatory terms aimed at an individual, which is considered inappropriate and uncivil.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "shit winds are acomin'!",
+      "reason": "The message contains a profanity, which is considered inappropriate and offensive. Therefore, it is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "HOW THE HELL IS THIS AN A",
+      "reason": "The message uses a profanity ('hell') to express frustration or disbelief. This can be seen as a form of incivility, making the message potentially offensive to some.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@guccixslaya cheaters suck hard tho",
+      "reason": "The message uses a negative tone and derogatory language ('suck hard') to express disapproval towards 'cheaters'. This can be seen as offensive and uncivil.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "how the fuck that last bullet didn't kill you",
+      "reason": "The message contains profanity and also implies a violent act, which is inappropriate and offensive. Therefore, it is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Like the fuck am i gonna do with that info",
+      "reason": "The message contains profanity and expresses a negative, dismissive attitude towards the information received, which can be seen as a form of incivility.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "wtf is this nice @Grizz shit",
+      "reason": "The message contains the abbreviation 'wtf' which is a profanity and the term 'shit' which is also considered vulgar. The overall tone of the message is negative and disrespectful.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "HOW LE FUCK DO I FIGHT AHRI",
+      "reason": "The message contains profanity and is written in all caps, which is often interpreted as shouting in online communication. This can be seen as aggressive and uncivil behavior.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "madar bitch don't kill us",
+      "reason": "The message contains offensive language and derogatory terms, which are considered inappropriate and disrespectful. The overall tone of the message is also aggressive and threatening.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Taking a shit ehun ehun ehun ehun",
+      "reason": "The message contains a vulgar term which is generally considered inappropriate in a public communication forum. However, the rest of the message is nonsensical and does not seem to target or insult any individual or group.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "the hell was that",
+      "reason": "The message uses a mild profanity ('hell') in a potentially aggressive or confrontational context, which can be seen as a form of incivility.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Stupid decisions mean stupid result",
+      "reason": "The message uses the term 'stupid' which can be seen as derogatory or offensive. It is used in a negative context, potentially aimed at belittling someone's decisions and results.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "this map is dog shit for squads. absolute dog shit",
+      "reason": "The message uses a vulgar term to express dissatisfaction or frustration. This term is considered offensive and inappropriate in most contexts, hence the message is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "oh shit my boy is bigtime",
+      "reason": "The message contains a profanity ('shit'), which is generally considered inappropriate or offensive in formal and many informal contexts. However, the overall tone of the message does not seem to be derogatory or prejudiced.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Have you tried sleeping ass up?",
+      "reason": "The message uses a slang term which can be considered as vulgar or inappropriate in certain contexts. It may also be seen as offensive or disrespectful depending on the recipient's perspective.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Ass to mouth",
+      "reason": "The message contains a sexually explicit phrase which is considered inappropriate and offensive in most contexts.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "ohh shit summit retired ?",
+      "reason": "The message contains a profanity ('shit'), which is considered inappropriate and offensive language. Even though it might not be directed towards anyone in particular, the use of such language is generally considered as toxic.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Good shit",
+      "reason": "The message contains a slang term that can be considered as profanity. Although it might be used in a positive context in some informal settings, it is generally seen as inappropriate in formal or public communication.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "and tell you that kayle is ugly and stupid and is a loser",
+      "reason": "The message contains derogatory terms and offensive language aimed at an individual, which is considered as inappropriate and uncivil.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "oh shit man... great stuff!",
+      "reason": "The message contains a profanity ('shit'), which is generally considered inappropriate or offensive in formal and many informal contexts. However, the overall sentiment of the message is positive and it does not seem to be intended to insult or offend anyone.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@Tomshepmx going fucking great, you mate?",
+      "reason": "The message contains a profanity which is generally considered as offensive and inappropriate in a formal communication setting. Despite the overall positive sentiment of the message, the use of such language can be seen as a form of incivility.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Start with this and upgrade if it's shit",
+      "reason": "The message uses a vulgar term 'shit' which is considered inappropriate and offensive in a formal communication setting. This justifies the categorization as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "eat shit riot",
+      "reason": "The message contains a profane phrase directed towards an individual or group, which is considered offensive and inappropriate. The language used is aggressive and disrespectful.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "toxic spammer @hamitcankilic",
+      "reason": "The message labels an individual as a 'toxic spammer', which is a derogatory term. This can be seen as offensive and inappropriate, hence the categorization as 'toxic' is justified.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck",
+      "reason": "The message contains a profanity, which is considered offensive and inappropriate in most contexts.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "there are many cheaters in china",
+      "reason": "This message is generalizing a negative trait to a whole group of people based on their geographical location, which can be seen as a prejudiced statement. Therefore, it is categorized as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Being memed for releasing an overpowered adc and being shit on by the whole community.Rito after a few months: \u00e2\u20ac\u0153 I\u00e2\u20ac\u2122ll fucking do it again.\u00e2\u20ac\u009d",
+      "reason": "The message contains profanity and offensive language directed towards a community or group of people. The use of the term 'shit on' is derogatory and the use of the f-word is considered vulgar and inappropriate.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Dude tglWtf",
+      "reason": "The message contains an abbreviation 'Wtf' which is a profanity and is considered offensive and inappropriate in formal and respectful conversations.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "then ezreal says shut the fuck up mutedthen they both die to the first gank of the game 10 seconds after it was warnedand then they say jungle diff",
+      "reason": "The message contains explicit language, specifically the phrase 'shut the fuck up', which is considered offensive and inappropriate. This justifies the categorization as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "SUCK",
+      "reason": "The message is a single word that is often used in a derogatory or offensive manner. It lacks context, but given its common usage as an insult or a form of disrespect, it is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Im not a fucking loser",
+      "reason": "The message contains a profanity which is used in a self-deprecating manner. Despite the self-directed nature of the comment, the use of such language is generally considered inappropriate and offensive.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "wtffffffffffffff",
+      "reason": "The message contains a profanity, which is a form of inappropriate language. The excessive use of 'f' characters also suggests a negative or aggressive tone.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck this team",
+      "reason": "The message uses profanity and expresses a negative sentiment towards a group, which can be seen as offensive and inappropriate.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck this mmr god why",
+      "reason": "The message contains a profanity at the beginning, which is considered offensive and inappropriate in most contexts. The overall tone of the message also seems negative and frustrated.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "but fuck riven",
+      "reason": "The message contains a profanity directed towards 'riven', which can be interpreted as offensive or inappropriate language. Therefore, it is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck man",
+      "reason": "The message contains a profanity which is generally considered offensive and inappropriate in a civil conversation.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "shit",
+      "reason": "The message contains a profanity which is generally considered offensive and inappropriate in most contexts.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "like what the actual fuck is that",
+      "reason": "The message contains profanity, which is considered offensive and inappropriate in a civil conversation. Therefore, it is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "What the fuck is that",
+      "reason": "The message contains a profanity, which is considered offensive and inappropriate in most contexts. Therefore, it is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "bruh what the fuck is this match making",
+      "reason": "The message contains a profanity, which is considered offensive and inappropriate in a civil conversation. The overall tone of the message also seems to express frustration or dissatisfaction, which can contribute to a negative atmosphere.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I fucking hate lux",
+      "reason": "The message contains a profanity and expresses a strong negative sentiment towards 'lux', which could be a person, a character, or a product. This kind of language can be seen as offensive and inappropriate.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "basically a huge fuck you to all assassins",
+      "reason": "The message contains explicit language and is offensive towards a group of people, in this case, 'assassins'. This is a clear expression of incivility and disrespect.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "FUCKING WOWOW",
+      "reason": "The message contains a profanity at the beginning, which is considered offensive and inappropriate in most contexts. Even though the rest of the message ('WOWOW') doesn't seem to be offensive, the use of the profanity at the beginning makes the whole message toxic.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "well\na champ remains in the game forever so",
+      "reason": "This message does not contain any offensive or inappropriate content. It is a positive and encouraging statement, referring to someone as a 'champ' and stating that they remain in the game forever. There is no indication of vulgarity, derogatory language, or incivility. Therefore, the categorization as 'clean' is justified.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "oh so jg duo means you roam and shit together?",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. The term 'shit' in this context is used as a slang term to refer to actions or activities, and is not being used in a derogatory or offensive manner.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "why the *fuck* do people in plat just s u c k",
+      "reason": "The message contains profanity and is derogatory towards a group of people (presumably players in a certain rank or platform). This is considered offensive and uncivil.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "where le fuck is psyops kayle",
+      "reason": "The message contains a profanity, which is considered offensive and inappropriate in a civil conversation. Therefore, it is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "this fucking yi",
+      "reason": "The message contains a profanity which is considered offensive and inappropriate in a civil conversation. Therefore, it is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "feed them and said what the fuck could i do",
+      "reason": "The message contains a profanity, which is considered inappropriate and offensive in most contexts. Therefore, it is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck support yuumi",
+      "reason": "The message contains a profanity at the beginning, which is directed towards a character or player in a game. This is considered offensive and inappropriate language.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "who the FUCK plays asol i BAN aury sol",
+      "reason": "The message contains profanity and is expressed in an aggressive tone, which can be seen as offensive and inappropriate.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "dont u dare put the yuumi passive in there fuck u",
+      "reason": "The message contains explicit language and is offensive towards the recipient. The use of the phrase 'fuck u' is a clear indicator of a toxic message.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I wanna cry when I get them on my team useless sack of shit but when. Other team has them they just disappear and reappearing while somehow doing more damage with a blow dart then a fucking rek si",
+      "reason": "The message contains offensive language and derogatory comments aimed at an individual or group. The use of profanity and the overall negative tone of the message also contribute to its categorization as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "this shit is like adc graves",
+      "reason": "The message contains a profanity ('shit'), which is considered inappropriate and offensive language. Even though it might be used in a casual or non-offensive context, the use of such language is generally considered as toxic.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Yeah with what? A short ass hop that gets you nearly nowhere? An ult that is SO fucking long",
+      "reason": "The message contains profanity and could be seen as offensive or inappropriate, hence it is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "And wtf are u a winrate friend? Who gives a fuck",
+      "reason": "The message contains profanity and offensive language, which is considered inappropriate and disrespectful in a civil conversation. The use of 'wtf' and 'Who gives a fuck' are clear indicators of this.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "what the hell??",
+      "reason": "The message uses a phrase that can be considered as a mild form of profanity. It may be seen as offensive or inappropriate in certain contexts, hence the categorization as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "oh shit guys",
+      "reason": "The message contains a profanity which is generally considered inappropriate or offensive in a formal or public communication setting.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "oh shit",
+      "reason": "The message contains a profanity which is generally considered inappropriate and offensive in a formal or public communication setting.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "who shit on us",
+      "reason": "The message uses a vulgar term which is considered offensive and inappropriate in a civil conversation. The context of the message also seems to be negative, indicating a possible conflict or disagreement.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "absolute fucking bullshit",
+      "reason": "The message contains explicit profanity and is offensive in nature. The use of such language is considered inappropriate and uncivil in a public communication forum.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "He just fucking runs",
+      "reason": "The message contains a profanity, which is generally considered offensive and inappropriate in a civil conversation. Even though it's not directly aimed at someone, the use of such language can contribute to a toxic environment.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "this game is annoying as fuck",
+      "reason": "The message uses profanity to express frustration or annoyance with a game. This kind of language can be seen as offensive or inappropriate in many contexts.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "o m y fucking god AGAIN?",
+      "reason": "The message contains a profanity, which is considered offensive and inappropriate in a civil conversation. The overall tone of the message also seems to express frustration or annoyance, which can be perceived as negative or aggressive.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "stupid morgana players",
+      "reason": "The message uses a derogatory term 'stupid' to describe 'morgana players', which is offensive and disrespectful. This makes the message inappropriate and uncivil.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "like holy shit make it stop",
+      "reason": "The message contains a profanity, which is considered offensive and inappropriate in most contexts. The overall tone of the message also seems to express frustration or annoyance, which can be perceived as negative or aggressive.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "thats shit",
+      "reason": "The message uses a vulgar term which can be seen as offensive or inappropriate. The context or target of the message is not clear, but the language used is generally considered to be disrespectful.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Cuz of that stupid strat",
+      "reason": "The message uses a derogatory term 'stupid' to describe a strategy, which can be seen as offensive or inappropriate. Therefore, the categorization as 'toxic' is justified.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "no fuck off",
+      "reason": "The message uses profanity and is disrespectful, which is considered as offensive and inappropriate language. Therefore, it is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "gold is such a shit hole man",
+      "reason": "The message uses a profanity to describe 'gold', which can be seen as offensive and inappropriate. The language used is uncivil and derogatory.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck shen",
+      "reason": "The message contains a profanity directed towards an individual or entity named 'shen'. This is considered offensive and inappropriate language.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck that champion and his entire bullshit kit",
+      "reason": "The message contains explicit language and derogatory terms, which are considered offensive and inappropriate. The use of such language indicates a negative and disrespectful tone.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "played like shit",
+      "reason": "The message uses a profanity to describe someone's performance, which is considered offensive and inappropriate.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "he has 60 fucking dashes",
+      "reason": "The message contains a profanity, which is considered inappropriate and offensive in a formal communication setting. Therefore, the categorization as 'toxic' is justified.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "wiat then what the fuck",
+      "reason": "The message contains a profanity, which is considered offensive and inappropriate in most contexts. Therefore, the categorization as 'toxic' is justified.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck that",
+      "reason": "The message uses profanity, which is considered inappropriate and offensive language. Therefore, it is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "nexus blitz is ass",
+      "reason": "The message uses a slang term that can be considered as vulgar or offensive language to express a negative opinion about 'nexus blitz'. This makes the message inappropriate and hence, toxic.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "man yuumi jng is fucking annoying",
+      "reason": "The message uses a profanity to express frustration or annoyance, which can be seen as offensive or inappropriate.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "what the fuck?",
+      "reason": "The message contains a profanity, which is considered offensive and inappropriate in most contexts. Therefore, it is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "it was the evelynn game, he even stole my fucking champ",
+      "reason": "The message contains a profanity, which is considered offensive and inappropriate in a civil conversation. Therefore, the categorization as 'toxic' is justified.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "because its fucking bronze",
+      "reason": "The message contains a profanity which is considered as inappropriate language. Even though it's not directly aimed at an individual, the use of such language can be offensive to some people.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "HOLY FUCKING",
+      "reason": "The message contains a profanity, which is considered offensive and inappropriate in most contexts. The use of all caps also suggests a heightened, potentially aggressive tone.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "No fucking shit it is",
+      "reason": "The message contains profanity and is expressed in a rude and disrespectful manner, which is considered offensive and inappropriate in a civil conversation.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I'm safe for now so fuck you guys",
+      "reason": "The message contains a profanity directed towards others, which is considered offensive and inappropriate in a civil conversation.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Fuck that champ",
+      "reason": "The message uses a profanity, which is considered offensive and inappropriate in a civil conversation. Even though it's not directly aimed at an individual, the use of such language can create a hostile environment.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "screw that shit",
+      "reason": "The message uses profanity and vulgar language, which is considered offensive and inappropriate in a civil conversation.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fuck off",
+      "reason": "The message uses a profanity and is a direct, offensive command to another user. This is considered as an expression of incivility and rudeness.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Annoying ass dog champ",
+      "reason": "The message uses a derogatory term to describe someone or something, which can be seen as offensive and inappropriate. The term 'ass' is often considered vulgar and disrespectful.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "sucks ass",
+      "reason": "The message uses a vulgar phrase that can be seen as offensive or inappropriate. It lacks civility and can be considered as a derogatory comment.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "what the fuck is this",
+      "reason": "The message contains a profanity, which is considered offensive and inappropriate in most contexts. Therefore, the categorization as 'toxic' is justified.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "he fuck",
+      "reason": "The message contains a profanity which is considered offensive and inappropriate in most contexts.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "And my friend had to fucking choose tahm kench",
+      "reason": "The message contains a profanity which is used in a negative context, expressing frustration or annoyance. This makes the message inappropriate and offensive.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@RiotSupport hi is there any update when riot will make a new and usable client for league of legends? Thanks",
+      "reason": "The message is a polite inquiry about a game update. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@RisenEsportsNA Just doing the right thing @RisenEsportsNA. However, I better not catch you doing the same thing for your League of Legends team competing in @UpsurgeGG.",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a comment or advice related to a gaming context, specifically League of Legends. The tone might be interpreted as slightly confrontational, but it does not cross the line into toxicity.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Northwood League of Legends finishes (5-3) on the weekend and takes 3rd place in the @DruryEsports invitational! \u00f0\u0178\u0090\u00ba#wolfpack",
+      "reason": "The message is about a gaming event and its results. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "BTW. I'm going to keep streaming, because I genuinely like it. Expect them all to be super late though because that's legit the ONLY time I am able to stream. I am only streaming League of Legends because that's all I care to play these days. Hope you enjoyed my dose of reality",
+      "reason": "The message is about the sender's personal preferences and schedule regarding streaming. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "RT @PeterXinping: If You Want To Get Girls You Should Just Be Yourself! Unless You\u00e2\u20ac\u2122re 5\u00e2\u20ac\u21228, No Muscles, 3000 Hours League Of Legends, Twit\u00e2\u20ac\u00a6",
+      "reason": "The message is subtly derogatory, implying that certain physical attributes and hobbies (like playing League of Legends) are undesirable or unattractive. This can be seen as offensive and disrespectful to individuals who identify with these characteristics.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "expose yourself :\n1.nop\n2. No\n3. No\n4. Blue , pink\n5. M\n6. Hiii let's play league of legends\n7. Both\n8. Idk\n9. Idk they don't even reply me-\n10. No\n11. Ye\n12. No\n13. \u00f0\u0178\u00a4\u00a1\n\ndrop an emoji and i\u00e2\u20ac\u2122ll send you the questions",
+      "reason": "The message seems to be a part of a game or a questionnaire. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "11649 times KEKW",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. KEKW is a popular emote used in online gaming communities to express laughter.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "you W'd there because you were anticipating flash 4Head",
+      "reason": "The message seems to be a comment about a gaming strategy or move, and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Yami has inted 11650 times KEKW",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or profanity. The term 'inted' is a gaming term that means intentionally feeding, which is a strategy in some games. 'KEKW' is an emote used in online gaming communities to express laughter. Therefore, the message is considered 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hi yamikaze do you know enthralled?",
+      "reason": "The message is a simple question and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "YOU'RE SO GOOD",
+      "reason": "The message is a compliment and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "YAMI STOP YOU'RE GOOD",
+      "reason": "The message seems to be encouraging or reassuring someone named Yami. There is no use of offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "nb3LUL nb3LUL nb3LUL",
+      "reason": "The message is composed of a repeated nonsensical phrase, which doesn't contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "DD",
+      "reason": "The message 'DD' does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It appears to be an abbreviation or a typo, but without any context, it's hard to determine its exact meaning. However, based on the given content, it doesn't seem to be toxic.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "5Head",
+      "reason": "The message consists of a single word, '5Head', which on its own does not contain any offensive or inappropriate content. The word '5Head' is a Twitch emote, commonly used to represent someone with a large forehead. It is a lighthearted and playful term without any derogatory, prejudiced, or vulgar connotations. Therefore, the categorization as 'clean' is justified.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "last time i played talon, talon jungle was not legitimately playable, is that still true",
+      "reason": "The message is a simple question about a game, without any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@Yamikazexz who's your twitch crush? like a female streamer not taco LUL",
+      "reason": "The message is a simple question directed at a user, asking about their favorite female streamer on Twitch. There is no use of offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "PepeLaugh",
+      "reason": "This message is a reference to a popular internet meme and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "JESUS CHRIST",
+      "reason": "The message is a religious reference and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "what matchups do you take elec on talon and what champs do u take conq on him?",
+      "reason": "The message is a question about game strategy, specifically about the use of certain abilities on a character in a game. There is no use of inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Sooooo if u say u have a GF ur actually lying so 5head",
+      "reason": "The message implies that the recipient is lying about having a girlfriend, which can be seen as a form of accusation or insult. However, it does not contain explicit offensive language, derogatory comments, prejudiced language, or profanity. The term '5head' is often used in online communities to denote someone as smart or clever, usually in a sarcastic manner. This could be seen as a mild form of incivility, but it's not strong enough to categorize the message as 'toxic'.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "what did they do to you @Yamikazexz",
+      "reason": "The message is a simple question directed towards a user. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "are you twitch single?",
+      "reason": "The message is a simple question and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "215 cs",
+      "reason": "The message is not offensive, derogatory, or inappropriate. It seems to be a random combination of numbers and letters, which doesn't convey any clear meaning or intent.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "800",
+      "reason": "The message is simply a number and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "YEP",
+      "reason": "The message is a simple affirmation and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "BALANCED KEKW",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, or any expression of incivility. 'KEKW' is a popular term used in online gaming communities, often to express laughter or amusement.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "gg",
+      "reason": "The message 'gg' is a common abbreviation used in online communication, typically meaning 'good game'. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I think your idea is really innovative and could potentially bring about a positive change. Keep up the good work!",
+      "reason": "The message is encouraging and positive, with no use of offensive or inappropriate language. It is expressing appreciation for an idea and encouraging the recipient to continue their efforts.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I mean Camille and Sett do so much True Damage so who cares about armor",
+      "reason": "The message is about a game, specifically discussing the abilities of characters. There is no offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hecarim is busted more",
+      "reason": "The message is a comment about a character in a video game, possibly expressing the user's opinion about the character's abilities or performance. There is no use of inappropriate or offensive language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a comment about a game or a player's performance in a game.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Wait a sec, this isnt my favorite champion",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a neutral statement about a personal preference.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Yami is my best friend",
+      "reason": "The message is a simple, positive statement about a personal relationship. There is no use of inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "700 true dmg on 1 Q there KEKW",
+      "reason": "The message seems to be related to a video game, discussing damage points. The term 'KEKW' is a popular emote used in online gaming communities to express laughter. There is no offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "hes too smart",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a simple statement about someone's intelligence.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "ewqawertqerqawertesaqweewtqa",
+      "reason": "The message does not contain any recognizable words, offensive language, derogatory comments, prejudiced language, or any expression of incivility. It appears to be a random string of characters.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Pepega",
+      "reason": "The term 'Pepega' is a popular emote used on the streaming platform Twitch, often used to signify a silly or foolish action. It does not contain any offensive, inappropriate, or derogatory language.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "stop watch Pog",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. 'Pog' is a term used in online gaming communities to express excitement or surprise, and does not carry any negative connotations.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Ur not an assassin if u don\u00d5t one tap the adc",
+      "reason": "The message seems to be related to a gaming context, specifically referring to the role of an 'assassin' and the action of 'one tap the adc'. There is no use of inappropriate or offensive language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "osu? woow",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a neutral or possibly positive reaction to something, possibly related to the game 'osu!'.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "PLAY SOME NIGHTCORE WEEB SHIT",
+      "reason": "The message contains a derogatory term 'weeb' which is often used in a negative context to insult someone who is overly obsessed with Japanese culture. The term 'shit' is also considered as a profanity. The overall tone of the message is aggressive and disrespectful.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "love how nobody gives a fuck",
+      "reason": "The message contains a profanity, which is generally considered offensive and inappropriate. The overall tone of the message also seems negative and dismissive.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Fuck off chat, that guy deserves to be banned for risking this channels life",
+      "reason": "The message contains profanity and is directed in a hostile manner towards the chat and an individual. This is seen as offensive and uncivil, hence the categorization as 'toxic' is justified.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "shit happens",
+      "reason": "The message uses a profanity, which is generally considered inappropriate or offensive in a formal or respectful conversation. However, the phrase 'shit happens' is often used colloquially to express acceptance or resignation in the face of a minor or unavoidable problem, not necessarily intended to offend or insult.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@buttery_butt1094 YEAH shit funny af",
+      "reason": "The message contains profanity and vulgar language, which is considered inappropriate and offensive in a public communication forum.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "HOLY SHIT karthus busted KEKW",
+      "reason": "The message contains a profanity at the beginning, which is considered offensive and inappropriate in many contexts. Even though the rest of the message seems to be related to a game character (Karthus), the use of profanity makes the overall message toxic.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "or until u get shit on LUL",
+      "reason": "The message contains a vulgar phrase that can be seen as offensive or inappropriate. The term 'shit on' is generally considered as a derogatory expression, hence the message is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Wiping shit WutFace",
+      "reason": "The message contains a vulgar term which is generally considered offensive and inappropriate in a civil conversation. The context or intent of the message is unclear, but the use of such language can be seen as toxic.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "The fuck was that Fiora thinking? Diving base against 4 people and typing wtf in all chat so dumb",
+      "reason": "The message contains profanity and derogatory language aimed at an individual, which is considered offensive and inappropriate.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "smd = shake my dick?",
+      "reason": "The message contains a vulgar phrase that is generally considered offensive and inappropriate in most contexts. The use of such language is disrespectful and can be seen as a form of online harassment.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "IDIOT STOP COMPLAINING LUILW",
+      "reason": "The message contains a derogatory term 'IDIOT' aimed at an individual, which is offensive and inappropriate. The overall tone of the message is also aggressive and disrespectful.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "holy shit PogU",
+      "reason": "The message contains a profanity ('shit'), which is generally considered offensive and inappropriate in a civil conversation. Despite the term 'PogU' being a popular emote in online gaming communities and not being offensive, the presence of the profanity makes the overall message toxic.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "because cosmic 1st is shit @Thebausffs",
+      "reason": "The message contains a profanity used to express a negative opinion about something or someone, which is considered offensive and inappropriate in a civil conversation.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "that harvesting shit mythic with gragas is insane tbh",
+      "reason": "The message contains a profanity ('shit') which is considered inappropriate or offensive language. Despite the context being related to a video game, the use of such language makes the message toxic.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@der_bisang he can miss it, long cd, needs grit. camille? she doesn't give a shit, spam Q for 1k true dmg YEP",
+      "reason": "The message contains a profanity ('shit'), which is considered inappropriate or offensive language. Even though it seems to be used in the context of a game discussion, the use of such language can be seen as uncivil.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    }
+  ],
+  "incorrect_messages": [
+    {
+      "message": "this suck",
+      "reason": "The message uses a negative term, which could be seen as a form of incivility or rudeness. However, without a clear context or target, it's hard to definitively categorize it as 'toxic'. It could be a simple expression of dissatisfaction or frustration.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Who else hate their life?",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or profanity. However, it does express a negative sentiment and could potentially be seen as promoting harmful behavior or thoughts. It's a borderline case, but due to the lack of explicit offensive content, it is classified as 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Its my stupid earphones",
+      "reason": "The message contains a negative adjective 'stupid' but it is directed towards an inanimate object (earphones) and not a person. Therefore, it does not contain offensive or inappropriate content towards any individual.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "emojis here suck tbh",
+      "reason": "The message contains a negative opinion about the emojis on the platform, but it does not include any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "oh crap ruby u awake ??",
+      "reason": "The message contains the word 'crap' which can be considered as a mild profanity. However, in this context, it seems to be used as an expression of surprise or urgency rather than an insult or offensive language. Therefore, it is not categorized as 'toxic'.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Hell no ew",
+      "reason": "The message uses strong negative language, but it does not contain any offensive or inappropriate content, derogatory comments, prejudiced language, or profanity. The expression of incivility is also not clear.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Like what the hell is this",
+      "reason": "The message contains a mild profanity ('hell') which can be seen as offensive or inappropriate in certain contexts. However, it does not contain any direct insults, derogatory comments, or prejudiced language. The overall tone of the message seems to express confusion or disbelief rather than hostility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hate my life",
+      "reason": "The message expresses a negative sentiment, but it does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. Therefore, it cannot be classified as 'toxic'.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Hell nahh",
+      "reason": "The message uses informal language, but it does not contain any offensive or inappropriate content, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "im stupid hbu?\u00f0\u0178\u2122\u2021",
+      "reason": "The message contains self-deprecating language, which can be seen as a form of inappropriate language. However, it does not contain any offensive or derogatory language towards others, profanity, or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "cause im an idiot lol",
+      "reason": "The message contains self-deprecating humor, but it does not include any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility towards others.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "the hell is a karak?",
+      "reason": "The message uses a mild form of profanity ('hell') in a context that seems to express confusion or frustration. However, it does not target anyone specifically or use any severe offensive or inappropriate language.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "TOP 0.1% popularity 33.3% win rate",
+      "reason": "The message is a simple statement of facts or statistics. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Hes deceptilvely tanky and does not give a hairy rats ass about CC.",
+      "reason": "The message uses a vulgar phrase 'hairy rats ass' which can be seen as offensive or inappropriate. Although it does not seem to be targeted at an individual, the use of such language can contribute to a toxic environment.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "love how i cant win even with me playing well",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to express frustration or disappointment, but it does so without resorting to toxic language or behavior.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I dislike games where I carry and my team feeds ;/",
+      "reason": "The message expresses dissatisfaction with a gaming scenario, but does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "https://specs.gg/tgltn",
+      "reason": "The message is a URL, which does not contain any text or language that can be evaluated for toxicity or cleanliness. Therefore, it cannot be classified as either 'toxic' or 'clean'.",
+      "predicted": "Not applicable",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "so he decided its my fault and wanted to ruin everyons game",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or profanity. It seems to be a statement about a disagreement or misunderstanding in a game context.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Quite the shit",
+      "reason": "The message uses a vulgar term which can be seen as offensive or inappropriate. The context or target of the message is not clear, but the language used is generally considered to be in bad taste.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "get out rogue",
+      "reason": "The message uses a derogatory term 'rogue' and is commanding someone to 'get out', which can be seen as offensive and disrespectful. This indicates a hostile tone and lack of civility.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "dont know why every game i get people like this on my team",
+      "reason": "The message expresses frustration or disappointment but does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "LETS FUCKING GOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+      "reason": "The message contains a profanity, which is generally considered inappropriate and offensive in a public communication forum.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "it's here!!!! What the fuck is that?",
+      "reason": "The message contains a profanity, which is considered offensive and inappropriate in a civil conversation. Therefore, it is classified as 'toxic'.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "man i hate darius so much hes so stupid",
+      "reason": "The message contains strong negative emotions and derogatory language aimed at an individual, which can be seen as offensive and inappropriate.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "time to get some free shit",
+      "reason": "The message uses a vulgar term, which is considered inappropriate and offensive in many contexts. Therefore, the categorization as 'toxic' is justified.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "i hate the camps, i always come out with shit loot",
+      "reason": "The message contains a mild profanity ('shit') used to express dissatisfaction with the outcome of a game or activity. However, it is not directed at an individual or group, and is not used in a derogatory or offensive manner.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Shootin the shit smokin sum herb",
+      "reason": "The message contains slang and informal language, but it does not contain any offensive or inappropriate content, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "FUCK IT, VLAD IT IS",
+      "reason": "The message contains a profanity at the beginning, which is considered offensive and inappropriate in most contexts. Therefore, the categorization as 'toxic' is justified.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "how are you banananas today",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, or profanity. It seems to be a playful or humorous way of asking someone how they are doing.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "All the subs because your bananas love you danucdBukulove mtgngHype @DanucD",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a playful or nonsensical message, possibly using in-jokes or references specific to the community or individual it is addressing.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "its banana its banana",
+      "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It is a simple, neutral statement.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Have a great day/night bananas, i gotta go . danucdHi Later danucdBukulove",
+      "reason": "The message is polite and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "but it sucks that we dont have enough player to do that now @hambinooo",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or profanity. The term 'sucks' is used here to express disappointment or dissatisfaction, which is not considered toxic in this context.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@RuralBiscuits damn - i knew it!",
+      "reason": "The message contains a mild expletive, but it does not seem to be used in a derogatory or offensive manner. It appears to be more of an expression of surprise or realization rather than an insult or attack. Therefore, it is not classified as 'toxic'.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "damnnn",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be an expression of surprise or emphasis, which is not inherently toxic.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "daaaaam",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be an expression of surprise or admiration, which is not toxic.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Holy fuck you actually did it you madman",
+      "reason": "The message contains profanity and could be seen as offensive or inappropriate. The term 'madman' can also be considered as a derogatory term.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "Samira is sick as fuck omg",
+      "reason": "The message uses a profanity, which is considered inappropriate and offensive in many contexts. Although it's not directly aimed at someone in a derogatory manner, the language used is still considered vulgar.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "yes ionians are fun as fuck",
+      "reason": "The message uses a profanity ('fuck'), which is generally considered inappropriate or offensive in many contexts. Despite the overall positive sentiment of the message, the use of such language can be seen as uncivil or disrespectful.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "laners dying even with vision \u00f0\u0178\u00a4\u00a1",
+      "reason": "The message is a comment about a situation in a game, possibly referring to players not performing well even with advantages. There is no offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "no katarina in 0/5/2 we won't gank your yasuo",
+      "reason": "The message is related to a game scenario and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "shit is so cringe and over done",
+      "reason": "The message uses a profanity ('shit') and expresses a negative sentiment, which can be seen as offensive or inappropriate in a civil conversation.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "but they do it such a i dont give a shit way",
+      "reason": "The phrase 'i dont give a shit' contains profanity, making the message inappropriate. Therefore, the categorization as 'toxic' is justified.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I like League of legends because I had a guy say I don't care about the role I got I'm playing what I want, then he went 1/9",
+      "reason": "The message is about a personal experience in a video game. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "It's like lol bitch you thought",
+      "reason": "The message contains a derogatory term, which is considered offensive and inappropriate. The overall tone of the message is also disrespectful.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I\u00e2\u20ac\u2122m married to the game and the game is league of legends and I want a divorce",
+      "reason": "The message is a metaphorical expression of the user's relationship with a video game, League of Legends. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "why do people say that fortnite is toxic, there literally isnt any proximity chat or ingame text chat or any of that, league of legends is 100x more toxic generally",
+      "reason": "The message is a comparison between two games, Fortnite and League of Legends, in terms of toxicity. There is no use of offensive language, derogatory comments, prejudiced language, or any expression of incivility. The user is expressing an opinion about the games, not targeting or offending any individual or group.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "just dont care",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It is a simple expression of indifference or disinterest, which does not qualify as toxic.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "u succ LUL",
+      "reason": "The message uses an abbreviation that is often used in a derogatory manner to insult or belittle someone. The term 'succ' is often used in a negative context, and 'LUL' is an acronym for 'laugh out loud', indicating mockery or ridicule. Therefore, the message can be seen as offensive or inappropriate.",
+      "predicted": "toxic",
+      "prompt_version": 6,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "@Thebausffs just scared the shit out of my dog",
+      "reason": "The message uses a mild profanity ('shit') to express a situation. However, it does not seem to be used in a derogatory or offensive manner, but rather to emphasize the extent of the scare experienced by the dog. The message does not target any individual or group with offensive or inappropriate language.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "fiesta fiesta pluma pluma gay",
+      "reason": "The message is in Spanish and translates to 'party party feather feather gay'. There is no offensive or inappropriate language, derogatory comments, prejudiced language, or profanity used in this message. The context and mood of the message also do not indicate any form of incivility.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I suck so bad loool",
+      "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a self-deprecating comment made in a light-hearted manner, as indicated by the 'loool' at the end.",
+      "predicted": "clean",
+      "prompt_version": 6,
+      "label": "toxic",
+      "model": "gpt-4"
+    }
+  ]
+}

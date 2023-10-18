@@ -1,0 +1,8 @@
+{
+  "message": "stop watch Pog",
+  "reason": "The message does not contain any offensive or harmful language. It seems to be a combination of random words or phrases that do not have any toxic connotations.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

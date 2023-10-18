@@ -1,0 +1,7 @@
+```json
+{
+"message": "wtf is this nice @Grizz shit",
+"reason": "The message contains the abbreviation 'wtf' which is generally considered as an obscenity, and the term 'shit' which is also considered as a vulgar term. Therefore, the message is classified as toxic.",
+"predicted": "toxic"
+}
+```

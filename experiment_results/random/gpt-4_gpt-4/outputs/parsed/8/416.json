@@ -1,0 +1,8 @@
+{
+  "message": "because its fucking bronze",
+  "reason": "The message contains explicit language, specifically the use of a curse word, which is considered offensive and inappropriate in a respectful conversation. Therefore, it is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

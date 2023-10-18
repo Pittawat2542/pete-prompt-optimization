@@ -1,0 +1,5 @@
+{
+  "message": "hello and bye @melihozkiremitci",
+  "reason": "The message is clean as it consists of a simple greeting and farewell.",
+  "predicted": "clean"
+}

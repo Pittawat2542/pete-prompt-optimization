@@ -1,0 +1,5 @@
+{
+  "message": "dont know why every game i get people like this on my team",
+  "reason": "Negative sentiment and frustration expressed towards teammates",
+  "predicted": "toxic"
+}

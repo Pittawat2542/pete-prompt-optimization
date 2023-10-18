@@ -1,0 +1,7 @@
+```json
+{
+"message": "last time i played talon, talon jungle was not legitimately playable, is that still true",
+"reason": "The message is a question about a game, specifically asking about the playability of a character in a certain role. There is no offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior present.",
+"predicted": "clean"
+}
+```

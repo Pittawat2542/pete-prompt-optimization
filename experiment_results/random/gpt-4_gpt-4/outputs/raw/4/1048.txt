@@ -1,0 +1,7 @@
+```json
+{
+"message": "shady as hell",
+"reason": "The message does not contain any obscenities, defamatory remarks, offensive/discriminatory language, threats, harassment, or bullying. It is a colloquial expression used to describe something or someone as suspicious or untrustworthy, but it is not inherently toxic.",
+"predicted": "clean"
+}
+```

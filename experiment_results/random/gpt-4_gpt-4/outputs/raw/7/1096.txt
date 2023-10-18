@@ -1,0 +1,7 @@
+```json
+{
+"message": "Meebot is shit",
+"reason": "The message uses a profanity to describe 'Meebot', which is disrespectful and offensive. This justifies the classification as 'toxic'.",
+"predicted": "toxic"
+}
+```

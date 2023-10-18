@@ -1,0 +1,8 @@
+{
+  "message": "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful language. It is unclear and does not promote positive discourse, but it does not violate any community guidelines.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

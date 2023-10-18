@@ -1,0 +1,7 @@
+```json
+{
+"message": "STOP DOING WHAT I THINK IS SHIT STREAMER",
+"reason": "The message uses a derogatory term to express dissatisfaction with the streamer's actions. This is considered offensive and uncivil behavior.",
+"predicted": "toxic"
+}
+```

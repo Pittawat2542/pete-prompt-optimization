@@ -1,0 +1,7 @@
+```json
+{
+"message": "why he is calling u idiot tho? ðŸ˜®",
+"reason": "The message includes a derogatory term 'idiot' which is offensive and disrespectful. Even though the sender of the message is not directly using the term against someone, they are repeating an offensive term used by someone else, which can still be seen as promoting toxic behavior.",
+"predicted": "toxic"
+}
+```

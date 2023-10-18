@@ -1,0 +1,8 @@
+{
+  "message": "toxic spammer @hamitcankilic",
+  "reason": "The message contains the word 'toxic' and mentions a specific user with the term 'spammer'. This suggests that the message is negative and potentially harmful.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

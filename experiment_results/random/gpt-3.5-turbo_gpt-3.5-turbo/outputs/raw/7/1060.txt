@@ -1,0 +1,5 @@
+{
+"message": "why he is calling u idiot tho? ðŸ˜®",
+"reason": "The message contains offensive language and is disrespectful.",
+"predicted": "toxic"
+}

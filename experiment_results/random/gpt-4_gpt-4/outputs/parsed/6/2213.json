@@ -1,0 +1,8 @@
+{
+  "message": "how do you play with such high ping",
+  "reason": "This message does not contain any offensive or inappropriate language. It is a simple question inquiring about how to play with high ping in a game. There are no derogatory comments, prejudiced language, or profanity used, making it suitable for the 'clean' category.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

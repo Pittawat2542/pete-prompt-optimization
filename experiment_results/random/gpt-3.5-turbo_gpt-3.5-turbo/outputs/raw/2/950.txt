@@ -1,0 +1,5 @@
+{
+  "message": "smd = shake my dick?",
+  "reason": "The message contains explicit and offensive language.",
+  "predicted": "toxic"
+}

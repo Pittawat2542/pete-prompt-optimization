@@ -1,0 +1,8 @@
+{
+  "message": "jd",
+  "reason": "The message 'jd' does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be an abbreviation or a typo, but it doesn't convey any harmful intent.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

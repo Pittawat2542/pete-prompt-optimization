@@ -1,0 +1,7 @@
+```json
+{
+"message": "well a champ remains in the game forever so",
+"reason": "The message does not contain any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. It is a neutral statement about a game, and does not involve any forms of hate speech or harmful intent.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be toxic with a probability of 0.85.
+
+```json
+{
+"message": "HOW THE HELL IS THIS AN A",
+"reason": "The message contains strong language and is expressed in an aggressive tone, which is why the model classified it as toxic.",
+"predicted": "toxic"
+}
+```

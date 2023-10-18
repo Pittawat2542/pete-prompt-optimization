@@ -1,0 +1,7 @@
+```json
+{
+  "message": "danucdRespect danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance danucdDance2 danucdDance danucdDance2 danucdDance danucdDance2 danucdDance forsenPls SourPls",
+  "reason": "The message consists of emotes and does not contain any offensive or toxic language.",
+  "predicted": "clean"
+}
+```

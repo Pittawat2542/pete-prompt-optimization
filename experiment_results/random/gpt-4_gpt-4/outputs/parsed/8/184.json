@@ -1,0 +1,8 @@
+{
+  "message": "you mean blind pick?",
+  "reason": "The message is a simple question, without any offensive or inappropriate language, insults, or disrespectful behavior. It does not exhibit any form of uncivil behavior, hence it is classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

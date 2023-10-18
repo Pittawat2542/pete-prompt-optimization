@@ -1,0 +1,8 @@
+{
+  "message": "WeirdChamp",
+  "reason": "The message contains an offensive term and can be considered disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

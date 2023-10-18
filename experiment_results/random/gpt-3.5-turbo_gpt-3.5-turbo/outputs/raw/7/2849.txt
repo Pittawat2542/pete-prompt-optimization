@@ -1,0 +1,5 @@
+{
+"message": "Stupid decisions mean stupid result",
+"reason": "The message contains offensive language and is disrespectful.",
+"predicted": "toxic"
+}

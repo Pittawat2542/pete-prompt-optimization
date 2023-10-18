@@ -1,0 +1,8 @@
+{
+  "message": "Like the fuck am i gonna do with that info.",
+  "reason": "The message contains an obscenity, which is considered inappropriate language, thus the toxic categorization.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

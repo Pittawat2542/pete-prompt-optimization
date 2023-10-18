@@ -1,0 +1,7 @@
+```json
+{
+"message": "NotLikeThis danucdFacepalm chat",
+"reason": "The message seems to be using Twitch emotes (NotLikeThis, danucdFacepalm) which are generally used to express frustration or disappointment in a humorous or exaggerated way. There is no offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+"predicted": "clean"
+}
+```

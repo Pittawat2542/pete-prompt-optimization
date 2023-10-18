@@ -1,0 +1,5 @@
+{
+"message": "They suck",
+"reason": "The message contains a negative opinion about someone or something, but it does not contain personal insults or offensive language. Therefore, it can be classified as clean.",
+"predicted": "clean"
+}

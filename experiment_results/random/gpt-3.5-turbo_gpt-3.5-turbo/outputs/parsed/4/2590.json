@@ -1,0 +1,8 @@
+{
+  "message": "114 kills again? you're a legend",
+  "reason": "The message contains positive language and praise.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

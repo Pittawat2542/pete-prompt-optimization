@@ -1,0 +1,8 @@
+{
+  "message": "800",
+  "reason": "The message consists of only a number and does not contain any text or context. It is not possible to determine the category based on this message alone.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

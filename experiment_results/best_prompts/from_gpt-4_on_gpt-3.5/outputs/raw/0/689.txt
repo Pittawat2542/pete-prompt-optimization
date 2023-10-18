@@ -1,0 +1,7 @@
+```json
+{
+"message": "YEP",
+"reason": "The message is short and does not contain any offensive, rude, abusive, or disrespectful language. It is a neutral statement.",
+"predicted": "clean"
+}
+```

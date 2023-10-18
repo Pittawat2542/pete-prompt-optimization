@@ -1,0 +1,8 @@
+{
+  "message": "im stupid hbu?\u00f0\u0178\u2122\u2021",
+  "reason": "The message contains self-deprecating language and a question asking how the recipient is feeling. This could be interpreted as negative and potentially harmful.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

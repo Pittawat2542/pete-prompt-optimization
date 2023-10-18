@@ -1,0 +1,8 @@
+{
+  "message": "time to get some free shit",
+  "reason": "The message uses a profanity, which is considered offensive and inappropriate language. Therefore, it is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-4"
+}

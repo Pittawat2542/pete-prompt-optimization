@@ -1,0 +1,7 @@
+```json
+{
+"message": "nexus blitz is ass",
+"reason": "The message uses a slang term that can be considered as vulgar or offensive language to express a negative opinion about 'nexus blitz'. This makes the message inappropriate and hence, toxic.",
+"predicted": "toxic"
+}
+```

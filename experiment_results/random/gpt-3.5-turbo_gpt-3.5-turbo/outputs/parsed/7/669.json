@@ -1,0 +1,8 @@
+{
+  "message": "215 cs",
+  "reason": "The message is short and does not contain any offensive language or disrespectful behavior. It appears to be a simple statement or abbreviation, which does not fall into the toxic category.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

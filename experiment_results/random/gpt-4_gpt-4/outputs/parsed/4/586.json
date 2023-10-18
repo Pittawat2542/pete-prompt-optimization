@@ -1,0 +1,8 @@
+{
+  "message": "YAMI STOP YOU'RE GOOD",
+  "reason": "The message does not contain any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. It seems to be a form of encouragement or compliment, therefore it's defined as a 'clean' message.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "that he's got none helmet",
+"reason": "The message does not contain offensive, rude, abusive, or disrespectful language. It appears to be a grammatically incorrect sentence, but it does not exhibit any toxic behavior.",
+"predicted": "clean"
+}
+}```

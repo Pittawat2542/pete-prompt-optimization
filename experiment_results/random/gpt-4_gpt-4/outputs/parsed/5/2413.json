@@ -1,0 +1,8 @@
+{
+  "message": "did u like that solo ranked @ibiza",
+  "reason": "The message is a simple question directed towards a user named 'ibiza', asking about their opinion on a solo ranked game. There is no use of offensive or inappropriate language, derogatory remarks, discriminatory speech, or any form of uncivil behavior.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

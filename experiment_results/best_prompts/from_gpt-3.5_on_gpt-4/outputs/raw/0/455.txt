@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be toxic with a confidence of 0.85.
+
+```json
+{
+"message": "what the fuck is this",
+"reason": "The message contains explicit language which is considered offensive and inappropriate in a respectful community. The model predicted this message as toxic with a high confidence of 0.85.",
+"predicted": "toxic"
+}
+```

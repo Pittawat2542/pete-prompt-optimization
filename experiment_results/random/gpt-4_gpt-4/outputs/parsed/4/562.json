@@ -1,0 +1,8 @@
+{
+  "message": "u succ LUL",
+  "reason": "The message contains a derogatory term 'succ' which is used in a negative context to insult or belittle someone. This can be perceived as offensive or a form of online bullying. Therefore, it's defined as a 'toxic' message.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

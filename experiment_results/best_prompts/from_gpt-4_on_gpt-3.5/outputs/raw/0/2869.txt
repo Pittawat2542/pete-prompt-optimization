@@ -1,0 +1,7 @@
+```json
+{
+"message": "ohh shit summit retired ?",
+"reason": "The message contains offensive language ('shit') and is disrespectful in tone.",
+"predicted": "toxic"
+}
+```

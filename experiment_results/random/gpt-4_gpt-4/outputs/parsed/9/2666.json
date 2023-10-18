@@ -1,0 +1,8 @@
+{
+  "message": "been 2 weeks 1since i've been able to lunch with ham!",
+  "reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior. It seems to be a simple statement about the sender's eating habits.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

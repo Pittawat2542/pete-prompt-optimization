@@ -1,0 +1,8 @@
+{
+  "message": "tgl3Head",
+  "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It appears to be a random string of characters or possibly a username or code, but without any context, it's impossible to determine any offensive or inappropriate meaning.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

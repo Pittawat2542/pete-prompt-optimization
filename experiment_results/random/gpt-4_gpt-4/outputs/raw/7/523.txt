@@ -1,0 +1,7 @@
+```json
+{
+"message": "RT @PeterXinping: If You Want To Get Girls You Should Just Be Yourself! Unless Youâ€™re 5â€™8, No Muscles, 3000 Hours League Of Legends, Twitâ€¦",
+"reason": "The message is not offensive or inappropriate. It does not contain foul language, derogatory comments, discriminatory language, use of profanity or instances of disrespectful behavior. However, it does stereotype a certain group of people, which could be seen as mildly offensive to some.",
+"predicted": "clean"
+}
+```

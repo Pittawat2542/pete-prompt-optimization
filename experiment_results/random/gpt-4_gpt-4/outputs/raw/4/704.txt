@@ -1,0 +1,7 @@
+```json
+{
+"message": "gg",
+"reason": "The message 'gg' is an abbreviation commonly used in online gaming and stands for 'good game'. It is a polite and respectful term, and does not contain any offensive or inappropriate content.",
+"predicted": "clean"
+}
+```

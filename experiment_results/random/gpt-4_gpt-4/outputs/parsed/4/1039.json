@@ -1,0 +1,8 @@
+{
+  "message": "emojis here suck tbh",
+  "reason": "The message contains negative language ('suck') which can be considered as mildly offensive or rude. However, it does not contain obscenities, threats, harassment, or any form of hate speech. It seems to be a criticism or negative opinion about the emojis on the platform, which is not necessarily toxic.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

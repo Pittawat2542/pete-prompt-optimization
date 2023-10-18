@@ -1,0 +1,7 @@
+```json
+{
+"message": "The hell",
+"reason": "The message is ambiguous and lacks context. However, it can be interpreted as an expression of frustration or disbelief, which is not necessarily toxic. It does not contain any explicit offensive or derogatory language.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "HOLY SHIT karthus busted KEKW",
+  "reason": "The message contains offensive language ('HOLY SHIT') and an internet slang ('KEKW') which can be considered toxic.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

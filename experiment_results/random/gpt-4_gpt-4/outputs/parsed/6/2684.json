@@ -1,0 +1,8 @@
+{
+  "message": "!gift @shanabana",
+  "reason": "This message appears to be a command or action in a game or online community, possibly gifting something to the user '@shanabana'. There is no offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility present in the message.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

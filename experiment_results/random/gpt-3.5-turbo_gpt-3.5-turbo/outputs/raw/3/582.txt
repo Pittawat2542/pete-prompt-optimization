@@ -1,0 +1,7 @@
+```json
+{
+  "message": "YOU'RE SO GOOD",
+  "reason": "The message contains a positive sentiment, expressing admiration or praise towards the recipient.",
+  "predicted": "clean"
+}
+```

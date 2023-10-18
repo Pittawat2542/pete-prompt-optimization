@@ -1,0 +1,7 @@
+```json
+{
+  "message": "I can translate for ya if u want",
+  "reason": "The message uses informal language and abbreviations, which may be considered as unprofessional or disrespectful in some contexts.",
+  "predicted": "toxic"
+}
+```

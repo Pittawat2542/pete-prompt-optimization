@@ -1,0 +1,7 @@
+```json
+{
+"message": "EZ GG",
+"reason": "This message is a common phrase used in online gaming, where 'EZ' stands for 'easy' and 'GG' stands for 'good game'. It does not contain any obscenities, threats, harassment, or offensive language. Therefore, it's defined as a 'clean' message.",
+"predicted": "clean"
+}
+```

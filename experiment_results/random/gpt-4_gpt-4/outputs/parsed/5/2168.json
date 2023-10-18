@@ -1,0 +1,8 @@
+{
+  "message": "shes a girl...DAAAA",
+  "reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior. However, the tone could be interpreted as sarcastic or dismissive, but it's not explicitly offensive or harmful.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

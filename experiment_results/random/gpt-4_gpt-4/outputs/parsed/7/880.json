@@ -1,0 +1,8 @@
+{
+  "message": "love how nobody gives a fuck",
+  "reason": "The message includes a profanity, which is considered offensive and inappropriate language. The tone of the message also seems to express frustration or negativity, further justifying its classification as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

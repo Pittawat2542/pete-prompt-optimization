@@ -1,0 +1,7 @@
+```json
+{
+"message": "im stupid hbu?ðŸ™‡",
+"reason": "The message contains self-deprecating language, which can be seen as a form of inappropriate language. However, it does not contain any offensive or derogatory language towards others, profanity, or prejudiced language.",
+"predicted": "clean"
+}
+```

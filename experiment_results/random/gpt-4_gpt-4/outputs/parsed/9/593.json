@@ -1,0 +1,8 @@
+{
+  "message": "5Head",
+  "reason": "The message '5Head' is a term often used in online communities, particularly on Twitch, to denote a smart or clever comment. It does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

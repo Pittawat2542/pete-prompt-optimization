@@ -1,0 +1,5 @@
+{
+  "message": "cause im an idiot lol",
+  "reason": "The message contains self-deprecating language.",
+  "predicted": "clean"
+}

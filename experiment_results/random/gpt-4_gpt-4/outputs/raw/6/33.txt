@@ -1,0 +1,5 @@
+{
+"message": "well\na champ remains in the game forever so",
+"reason": "This message does not contain any offensive or inappropriate content. It is a positive and encouraging statement, referring to someone as a 'champ' and stating that they remain in the game forever. There is no indication of vulgarity, derogatory language, or incivility. Therefore, the categorization as 'clean' is justified.",
+"predicted": "clean"
+}

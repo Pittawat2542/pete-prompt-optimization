@@ -1,0 +1,7 @@
+```json
+{
+"message": "this game is annoying as fuck",
+"reason": "The message contains explicit language that is generally considered offensive and inappropriate. Although it is directed towards a game and not an individual, the use of such language contributes to a negative and disrespectful tone.",
+"predicted": "toxic"
+}
+```

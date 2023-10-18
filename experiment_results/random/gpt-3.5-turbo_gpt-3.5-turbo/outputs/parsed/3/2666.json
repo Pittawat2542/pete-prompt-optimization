@@ -1,0 +1,8 @@
+{
+  "message": "been 2 weeks since i've been able to lunch with ham!",
+  "reason": "The message does not contain any offensive or harmful language. It simply states that it has been 2 weeks since the person was able to have lunch with ham.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,5 @@
+{
+"message": "danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner",
+"reason": "The message consists of repetitive text and does not convey any meaningful information. It does not contain any offensive or toxic language.",
+"predicted": "clean"
+}

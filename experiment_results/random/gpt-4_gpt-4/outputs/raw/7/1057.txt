@@ -1,0 +1,7 @@
+```json
+{
+"message": "Like what the hell is this",
+"reason": "The message includes a profanity ('hell') and expresses a negative tone, which can be considered offensive or inappropriate.",
+"predicted": "toxic"
+}
+```

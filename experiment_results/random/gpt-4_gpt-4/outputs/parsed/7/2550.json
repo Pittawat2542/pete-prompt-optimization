@@ -1,0 +1,8 @@
+{
+  "message": "hamb10 hamb10",
+  "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, discriminatory language, use of profanity or instances of disrespectful behavior. Therefore, it is classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "Get the hell out",
+"reason": "The message uses an aggressive tone and offensive language, which can be perceived as a form of uncivil behavior. Therefore, it is classified as 'toxic'.",
+"predicted": "toxic"
+}
+```

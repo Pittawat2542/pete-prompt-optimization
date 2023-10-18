@@ -1,0 +1,8 @@
+{
+  "message": "hey",
+  "reason": "The model predicts the message with a 99% probability to be non-toxic.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+  "message": "WeirdChamp",
+  "reason": "The message is ambiguous and unclear, it does not contain offensive, harmful, or disrespectful language.",
+  "predicted": "clean"
+}
+```

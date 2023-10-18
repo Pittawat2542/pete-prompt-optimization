@@ -1,0 +1,8 @@
+{
+  "message": "alisaGG alisaGG alisaGG alisaGG naught14Luv naught14Luv naught14Nuts naught14Nuts naught14Nuts naught14Luv naught14Nuts naught14Luv naught14Nuts",
+  "reason": "The message consists of repeated phrases or words, which do not contain any obscenities, defamatory remarks, offensive or discriminatory language, or any other forms of inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

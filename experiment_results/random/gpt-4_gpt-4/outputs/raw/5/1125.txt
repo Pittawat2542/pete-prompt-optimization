@@ -1,0 +1,7 @@
+```json
+{
+"message": "No solo ranked in SEA DED",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or any form of uncivil behavior. It seems to be a statement about a game or online activity.",
+"predicted": "clean"
+}
+```

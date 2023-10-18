@@ -1,0 +1,5 @@
+{
+"message": "any way i can use my pubg on console on pc ? Dont got enough to get pubg on pc",
+"reason": "The message is seeking help and is not offensive. The user is asking for a solution to play PUBG on PC without having to purchase it again.",
+"predicted": "clean"
+}

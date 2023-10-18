@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Hiii let's play league of legends",
+  "reason": "The message is a friendly invitation to play a game together.",
+  "predicted": "clean"
+}
+```

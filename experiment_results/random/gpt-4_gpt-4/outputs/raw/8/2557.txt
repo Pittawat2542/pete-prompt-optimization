@@ -1,0 +1,7 @@
+```json
+{
+"message": "What up hamily hambO7 hambO7",
+"reason": "The message seems to be a casual greeting or a playful phrase, possibly using a specific jargon or slang. There are no explicit, offensive, or inappropriate language, insults, or discriminatory remarks detected in the message.",
+"predicted": "clean"
+}
+```

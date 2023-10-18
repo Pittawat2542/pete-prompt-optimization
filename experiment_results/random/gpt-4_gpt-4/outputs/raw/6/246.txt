@@ -1,0 +1,7 @@
+```json
+{
+"message": "Fuck, I just died by the twitch.",
+"reason": "The message contains a profanity at the beginning, which is considered inappropriate and offensive language. Even though it seems to be used in a non-aggressive context, the use of such language is generally seen as uncivil.",
+"predicted": "toxic"
+}
+```

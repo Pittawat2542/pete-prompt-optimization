@@ -1,0 +1,7 @@
+```json
+{
+  "message": "its really hard with your ping",
+  "reason": "The message does not contain any offensive or harmful language, but it is unclear what the sender is referring to. It could be interpreted as a complaint or frustration, but without more context, it is difficult to determine the exact meaning.",
+  "predicted": "clean"
+}
+```

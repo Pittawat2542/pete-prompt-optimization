@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Thatâ€™s pretty pathetic. I stick with the One X I think. First time in my 30+ years of gaming that I havenâ€™t been excited for a next gen console.",
+  "reason": "The message expresses a negative sentiment and lacks enthusiasm.",
+  "predicted": "toxic"
+}
+```

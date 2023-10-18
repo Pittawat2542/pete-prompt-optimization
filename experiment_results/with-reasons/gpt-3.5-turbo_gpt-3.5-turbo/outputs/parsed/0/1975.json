@@ -1,0 +1,8 @@
+{
+  "message": "I can help you translate chinese",
+  "reason": "The message is offering help and does not contain any offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

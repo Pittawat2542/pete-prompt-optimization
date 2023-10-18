@@ -1,0 +1,8 @@
+{
+  "message": "Taking a shit ehun ehun ehun ehun",
+  "reason": "The model classified the message as toxic with a high confidence of 0.85. The use of profanity in the message could have contributed to this classification.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "yes ionians are fun as fuck",
+  "reason": "The message contains explicit language, specifically the term 'fuck'. Despite the overall positive sentiment of the message, the use of such language can be considered offensive or inappropriate in many contexts.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

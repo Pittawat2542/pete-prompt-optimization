@@ -1,0 +1,7 @@
+```json
+{
+"message": "HOW THE HELL IS THIS AN A",
+"reason": "The message uses an aggressive tone and includes the term 'hell' which can be considered as a mild form of swearing. This indicates a level of disrespect and uncivil behavior, hence the 'toxic' classification.",
+"predicted": "toxic"
+}
+```

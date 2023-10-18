@@ -1,0 +1,8 @@
+{
+  "message": "hmm I have never played this game, should I play squad or solo? fuck it lets play squad so i can fuck up my squadmates retard starter pack",
+  "reason": "The message contains offensive language and derogatory remarks. The use of the f-word is considered swearing and the term 'retard' is a derogatory term that is offensive and disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

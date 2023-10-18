@@ -1,0 +1,7 @@
+```json
+{
+  "message": "so he decided its my fault and wanted to ruin everyons game",
+  "reason": "The message does not contain offensive or harmful language. It expresses frustration but does not attack or harm anyone.",
+  "predicted": "clean"
+}
+```

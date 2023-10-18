@@ -1,0 +1,8 @@
+{
+  "message": "there are many cheaters in china",
+  "reason": "The message generalizes and stereotypes a specific group of people (in this case, people from China) as 'cheaters', which is a derogatory and disrespectful statement. This kind of generalization can be harmful and offensive, thus justifying classification as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

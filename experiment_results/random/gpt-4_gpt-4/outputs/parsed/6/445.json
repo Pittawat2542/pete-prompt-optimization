@@ -1,0 +1,8 @@
+{
+  "message": "fuck off",
+  "reason": "The message uses a profanity and is a direct, offensive command to another user. This is considered as an expression of incivility and rudeness.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

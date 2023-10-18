@@ -1,0 +1,8 @@
+{
+  "message": "NotLikeThis danucdFacepalm chat",
+  "reason": "The message does not contain any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. It seems to be using Twitch emotes, which are not inherently offensive or inappropriate.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "FUCKING HELL",
+"reason": "The message contains explicit language which is generally considered offensive and inappropriate. The use of such language is often associated with anger or frustration and can be seen as disrespectful or uncivil.",
+"predicted": "toxic"
+}
+```

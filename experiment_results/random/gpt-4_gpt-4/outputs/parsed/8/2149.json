@@ -1,0 +1,8 @@
+{
+  "message": "tglGG",
+  "reason": "The message does not contain any explicit, offensive, or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior. It appears to be a random string of characters or possibly an acronym, but without any context, it's impossible to determine its meaning. Therefore, it is classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

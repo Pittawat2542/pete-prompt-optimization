@@ -1,0 +1,8 @@
+{
+  "message": "stop bypassing the chat you idiot",
+  "reason": "The message includes a derogatory term 'idiot' directed towards an individual, which is considered offensive and uncivil. Therefore, the message is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

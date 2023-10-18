@@ -1,0 +1,7 @@
+```json
+{
+"message": "Have a great day/night bananas, i gotta go . danucdHi Later danucdBukulove",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior.",
+"predicted": "clean"
+}
+```

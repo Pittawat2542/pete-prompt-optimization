@@ -1,0 +1,8 @@
+{
+  "message": "@jrrod91 do you think a new clip is a spam",
+  "reason": "The message is a simple question asking for an opinion about a clip being spam. It does not contain any offensive or harmful content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

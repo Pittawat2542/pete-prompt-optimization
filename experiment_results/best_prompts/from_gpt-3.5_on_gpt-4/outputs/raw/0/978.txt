@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be toxic with a 90% probability.
+
+```json
+{
+"message": "because cosmic 1st is shit @Thebausffs",
+"reason": "The message contains a derogatory term which is considered offensive and disrespectful, hence it is classified as toxic.",
+"predicted": "toxic"
+}
+```

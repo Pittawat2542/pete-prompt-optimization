@@ -1,0 +1,8 @@
+{
+  "message": "tglGG",
+  "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, discriminatory language, or disrespectful behavior.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-4"
+}

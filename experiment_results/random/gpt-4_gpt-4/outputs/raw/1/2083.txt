@@ -1,0 +1,7 @@
+```json
+{
+"message": "its really hard with your ping",
+"reason": "The message is referring to a technical issue related to internet connection speed, not containing any offensive or inappropriate content.",
+"predicted": "clean"
+}
+```

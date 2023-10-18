@@ -1,0 +1,5 @@
+{
+"message": "some good players",
+"reason": "The message is positive and does not contain any offensive or toxic language.",
+"predicted": "clean"
+}

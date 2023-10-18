@@ -1,0 +1,7 @@
+```json
+{
+"message": "what the hell??",
+"reason": "The message contains a phrase ('what the hell') that is often used to express anger, annoyance, or surprise in a rude or offensive way. This justifies the categorization as 'toxic'.",
+"predicted": "toxic"
+}
+```

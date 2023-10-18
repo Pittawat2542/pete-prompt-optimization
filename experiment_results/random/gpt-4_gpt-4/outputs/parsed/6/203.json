@@ -1,0 +1,8 @@
+{
+  "message": "YEAH U WERE RIGHT BITCH JUST THE OTHER JUNGLER",
+  "reason": "The message contains a derogatory term aimed at an individual, which is considered offensive and inappropriate. The use of all caps also suggests a hostile or aggressive tone.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

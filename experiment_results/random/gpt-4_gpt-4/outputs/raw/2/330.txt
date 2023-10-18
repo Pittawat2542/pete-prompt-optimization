@@ -1,0 +1,7 @@
+```json
+{
+"message": "oh so jg duo means you roam and shit together?",
+"reason": "The message contains a mild obscenity ('shit') which may be considered inappropriate in some contexts. However, it's used in a non-offensive, non-discriminatory, and non-defamatory manner. The context of the message is a discussion about a gaming strategy, not an attack or insult towards an individual.",
+"predicted": "clean"
+}
+```

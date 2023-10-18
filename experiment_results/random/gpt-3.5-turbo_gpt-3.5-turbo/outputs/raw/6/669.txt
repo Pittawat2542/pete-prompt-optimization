@@ -1,0 +1,5 @@
+{
+"message": "215 cs",
+"reason": "The message consists of a numerical value followed by 'cs'. It does not contain any offensive or toxic language.",
+"predicted": "clean"
+}

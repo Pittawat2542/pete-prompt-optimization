@@ -1,0 +1,8 @@
+{
+  "message": "Spoopy hamtime",
+  "reason": "The model predicts the message to be clean with a 98% confidence. The message does not contain any offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

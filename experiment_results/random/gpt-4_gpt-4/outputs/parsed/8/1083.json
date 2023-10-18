@@ -1,0 +1,8 @@
+{
+  "message": "They suck",
+  "reason": "The message uses a derogatory term to describe a person or a group of people, which is disrespectful and offensive. Therefore, it is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

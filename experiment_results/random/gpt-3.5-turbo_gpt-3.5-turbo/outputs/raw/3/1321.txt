@@ -1,0 +1,7 @@
+```json
+{
+  "message": "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG",
+  "reason": "The message contains a combination of positive and neutral words, such as 'Love' and 'GG', which are commonly used in online gaming communities to express support and encouragement. Therefore, the message is classified as clean.",
+  "predicted": "clean"
+}
+```

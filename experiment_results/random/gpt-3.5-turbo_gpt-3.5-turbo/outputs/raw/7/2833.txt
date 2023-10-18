@@ -1,0 +1,5 @@
+{
+"message": "madar bitch don't kill us",
+"reason": "The message contains offensive language and is disrespectful.",
+"predicted": "toxic"
+}

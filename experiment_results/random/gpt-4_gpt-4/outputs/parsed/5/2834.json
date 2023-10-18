@@ -1,0 +1,8 @@
+{
+  "message": "Taking a shit ehun ehun ehun ehun",
+  "reason": "The message contains explicit language that is generally considered inappropriate or offensive in a public or formal communication setting.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

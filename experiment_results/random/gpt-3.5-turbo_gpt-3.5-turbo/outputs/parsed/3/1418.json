@@ -1,0 +1,8 @@
+{
+  "message": "ooo we get a chickirhinooooo",
+  "reason": "The message contains nonsensical words and does not convey any meaningful information.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

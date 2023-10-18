@@ -1,0 +1,5 @@
+{
+"message": "Taking a shit ehun ehun ehun ehun",
+"reason": "The message contains offensive language and is disrespectful.",
+"predicted": "toxic"
+}

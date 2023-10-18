@@ -1,0 +1,8 @@
+{
+  "message": "rawryyLaugh @cinnova",
+  "reason": "The message consists of a username and an emoji, which does not contain any offensive or toxic content.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

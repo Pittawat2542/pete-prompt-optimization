@@ -1,0 +1,8 @@
+{
+  "message": "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG",
+  "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, discriminatory language, or disrespectful behavior. It appears to be a series of usernames or game-related terms, which are not inherently toxic.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-4"
+}

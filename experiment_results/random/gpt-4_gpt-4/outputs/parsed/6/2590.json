@@ -1,0 +1,8 @@
+{
+  "message": "114 kills again? you're a legend",
+  "reason": "The message is a compliment to the recipient, acknowledging their achievement in a game or similar context. There is no use of offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

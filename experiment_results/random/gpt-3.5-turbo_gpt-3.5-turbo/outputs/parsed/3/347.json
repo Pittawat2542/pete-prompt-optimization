@@ -1,0 +1,8 @@
+{
+  "message": "This shit is like adc graves",
+  "reason": "The message contains offensive language ('shit') and compares something negatively ('like adc graves').",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,5 @@
+{
+"message": "rando squad?",
+"reason": "The message is a short question and does not contain any offensive language or disrespectful behavior.",
+"predicted": "clean"
+}

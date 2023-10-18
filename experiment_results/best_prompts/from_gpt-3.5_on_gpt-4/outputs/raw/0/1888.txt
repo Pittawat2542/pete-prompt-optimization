@@ -1,0 +1,9 @@
+Prediction result: The model predicts this message as "clean" with a 98% confidence level.
+
+```json
+{
+"message": "NotLikeThis danucdFacepalm chat",
+"reason": "The message contains no offensive or harmful language. It seems to be using emotes or specific community jargon, which is not toxic.",
+"predicted": "clean"
+}
+```

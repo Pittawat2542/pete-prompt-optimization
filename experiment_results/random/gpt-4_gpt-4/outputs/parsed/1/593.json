@@ -1,0 +1,8 @@
+{
+  "message": "5Head",
+  "reason": "The message '5Head' is a term used in online communities to denote a smart or clever comment. It does not contain any offensive, rude, or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

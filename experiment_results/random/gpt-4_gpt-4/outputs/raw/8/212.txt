@@ -1,0 +1,7 @@
+```json
+{
+"message": "WHAT THE FUCKING FUCK IS THIS FUCKING RECALL ANIMATION  recall animation may be shit, but holy fuck the effects and animation are good",
+"reason": "The message contains explicit and offensive language, which is used in a disrespectful and uncivil manner. The use of the F-word multiple times and the term 'shit' to describe the animation are clear indicators of a toxic message.",
+"predicted": "toxic"
+}
+```

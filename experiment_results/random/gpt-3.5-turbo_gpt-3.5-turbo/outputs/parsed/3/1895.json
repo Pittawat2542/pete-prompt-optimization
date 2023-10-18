@@ -1,0 +1,8 @@
+{
+  "message": "Support always",
+  "reason": "The message is short and does not provide any context. It could be interpreted as either positive or negative depending on the situation and tone of the conversation.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "The hell",
+"reason": "The message is a truncated phrase that could be interpreted as an expression of frustration or disbelief, but it does not contain any explicit obscenities, defamatory remarks, offensive or discriminatory language. Therefore, it is categorized as clean.",
+"predicted": "clean"
+}
+```

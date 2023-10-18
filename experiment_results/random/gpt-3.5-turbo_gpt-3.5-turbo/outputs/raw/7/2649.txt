@@ -1,0 +1,5 @@
+{
+"message": "doooooo it",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It is a short phrase that does not provide enough context to determine its intent. Therefore, it is classified as clean.",
+"predicted": "clean"
+}

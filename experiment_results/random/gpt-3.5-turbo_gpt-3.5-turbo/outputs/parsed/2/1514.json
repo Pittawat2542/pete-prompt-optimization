@@ -1,0 +1,8 @@
+{
+  "message": "@SmirnofSoldier all good and you... danucdRespect danucdHi",
+  "reason": "The message contains positive and respectful words such as 'all good' and 'respect'.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

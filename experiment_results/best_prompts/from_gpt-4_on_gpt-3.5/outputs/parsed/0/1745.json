@@ -1,0 +1,8 @@
+{
+  "message": "WeirdChamp",
+  "reason": "The message contains a term that is commonly used in online communities to mock or criticize someone or something. While it may not be explicitly offensive or disrespectful, it can be considered as a form of sarcasm or mockery, which can be perceived as toxic by some individuals.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

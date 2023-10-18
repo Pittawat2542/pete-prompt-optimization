@@ -1,0 +1,7 @@
+```json
+{
+  "message": "A giveaway for: game has started! Subscribers can Join!",
+  "reason": "The message does not contain offensive, harmful, or disrespectful language. It is a neutral announcement about a giveaway.",
+  "predicted": "clean"
+}
+```

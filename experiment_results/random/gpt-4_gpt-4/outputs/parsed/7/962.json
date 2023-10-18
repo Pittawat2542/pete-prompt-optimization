@@ -1,0 +1,8 @@
+{
+  "message": "fiesta fiesta pluma pluma gay",
+  "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, discriminatory language, or disrespectful behavior. The words 'fiesta' and 'pluma' are Spanish for 'party' and 'feather' respectively, and 'gay' is a term used to describe a person who is attracted to people of the same sex. None of these words are inherently offensive or inappropriate.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

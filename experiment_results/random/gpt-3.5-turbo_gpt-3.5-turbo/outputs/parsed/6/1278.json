@@ -1,0 +1,8 @@
+{
+  "message": "EZ GG",
+  "reason": "The message is short and contains common gaming slang. It is likely a positive comment indicating an easy victory in a game.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

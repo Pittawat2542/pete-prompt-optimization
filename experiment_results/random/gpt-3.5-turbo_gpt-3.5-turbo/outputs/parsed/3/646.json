@@ -1,0 +1,8 @@
+{
+  "message": "are you twitch single?",
+  "reason": "The message appears to be asking about someone's relationship status, which is unrelated to the topic of the online community. It could be considered inappropriate or intrusive.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

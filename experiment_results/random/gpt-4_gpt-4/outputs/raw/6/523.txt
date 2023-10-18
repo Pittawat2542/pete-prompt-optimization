@@ -1,0 +1,7 @@
+```json
+{
+"message": "RT @PeterXinping: If You Want To Get Girls You Should Just Be Yourself! Unless Youâ€™re 5â€™8, No Muscles, 3000 Hours League Of Legends, Twitâ€¦",
+"reason": "The message is subtly derogatory, implying that certain physical attributes and hobbies (like playing League of Legends) are undesirable or unattractive. This can be seen as offensive and disrespectful to individuals who identify with these characteristics.",
+"predicted": "toxic"
+}
+```

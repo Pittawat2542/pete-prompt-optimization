@@ -1,0 +1,5 @@
+{
+"message": "Well,rip clips alisaYikes",
+"reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It is a short statement that does not seek help or ask a question, but it is not offensive or disrespectful.",
+"predicted": "clean"
+}

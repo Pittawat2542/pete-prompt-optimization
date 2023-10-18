@@ -1,0 +1,5 @@
+{
+"message": "control setting and dpi",
+"reason": "The message is discussing technical settings and does not contain any offensive language or insults.",
+"predicted": "clean"
+}

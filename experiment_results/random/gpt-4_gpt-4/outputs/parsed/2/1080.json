@@ -1,0 +1,8 @@
+{
+  "message": "What the hell is that",
+  "reason": "The message contains the phrase 'What the hell' which is often considered as a mild obscenity or profanity, thus the toxic categorization.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

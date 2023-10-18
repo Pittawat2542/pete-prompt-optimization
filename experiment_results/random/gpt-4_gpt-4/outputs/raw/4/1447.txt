@@ -1,0 +1,7 @@
+```json
+{
+"message": "@Adooool18 Thanks for the gift sub! soggyWow brkSmaK soggyWow brkSmaK soggyPog brkTSM",
+"reason": "The message is expressing gratitude and does not contain any offensive or inappropriate language, obscenities, threats, or harassment. The terms 'soggyWow', 'brkSmaK', 'soggyPog', and 'brkTSM' are likely specific to the chat forum or game and do not appear to be offensive or inappropriate.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "Like Hell Do I Care",
+"reason": "The message uses the term 'Hell' in a negative context, which can be seen as offensive or inappropriate. The overall tone of the message is dismissive and uncaring, which can be considered as uncivil behavior.",
+"predicted": "toxic"
+}
+```

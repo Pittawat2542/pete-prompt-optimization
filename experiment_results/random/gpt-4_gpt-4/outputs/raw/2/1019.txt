@@ -1,0 +1,7 @@
+```json
+{
+"message": "OH SHIT DESYNC YOUR DEAD",
+"reason": "The message contains an obscenity ('SHIT'), which is considered inappropriate language. Therefore, the message is classified as toxic.",
+"predicted": "toxic"
+}
+```

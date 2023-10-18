@@ -1,0 +1,8 @@
+{
+  "message": "Nt",
+  "reason": "The message 'Nt' is not offensive, disrespectful, or inappropriate. It seems to be a typo or an abbreviation, but without any context, it's impossible to determine its exact meaning. However, it doesn't contain any explicit language or insults.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

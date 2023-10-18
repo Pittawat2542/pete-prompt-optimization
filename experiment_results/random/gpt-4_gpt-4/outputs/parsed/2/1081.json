@@ -1,0 +1,8 @@
+{
+  "message": "Stupid net tbh",
+  "reason": "The message includes a derogatory term 'Stupid' which is used to express frustration or dissatisfaction, thus the toxic categorization.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

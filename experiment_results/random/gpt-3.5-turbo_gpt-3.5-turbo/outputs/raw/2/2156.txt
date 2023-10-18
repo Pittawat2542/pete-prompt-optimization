@@ -1,0 +1,5 @@
+{
+  "message": "DendiFace gg",
+  "reason": "The message contains an emote and the abbreviation 'gg', which is commonly used to mean 'good game'.",
+  "predicted": "clean"
+}

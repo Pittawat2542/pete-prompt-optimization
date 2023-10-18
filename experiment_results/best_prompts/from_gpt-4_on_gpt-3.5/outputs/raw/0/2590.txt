@@ -1,0 +1,7 @@
+```json
+{
+"message": "114 kills again? you're a legend",
+"reason": "The message contains a positive sentiment and does not incorporate offensive, rude, abusive, or disrespectful language.",
+"predicted": "clean"
+}
+```

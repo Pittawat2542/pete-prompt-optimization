@@ -1,0 +1,8 @@
+{
+  "message": "Ur not an assassin if u don\u00d5t one tap the adc",
+  "reason": "The message contains toxic language and implies a negative attitude towards other players.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

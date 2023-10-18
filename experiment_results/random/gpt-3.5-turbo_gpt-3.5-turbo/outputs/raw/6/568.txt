@@ -1,0 +1,5 @@
+{
+"message": "11649 times KEKW",
+"reason": "The message consists of a repetitive phrase and does not contain any offensive or toxic language.",
+"predicted": "clean"
+}

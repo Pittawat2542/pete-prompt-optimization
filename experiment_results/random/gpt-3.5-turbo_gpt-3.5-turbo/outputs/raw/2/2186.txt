@@ -1,0 +1,5 @@
+{
+  "message": "control setting and dpi",
+  "reason": "The message is related to gaming controls and settings, and does not contain any offensive or harmful language.",
+  "predicted": "clean"
+}

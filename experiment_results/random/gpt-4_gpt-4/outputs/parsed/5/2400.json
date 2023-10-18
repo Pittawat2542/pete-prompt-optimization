@@ -1,0 +1,8 @@
+{
+  "message": "got a song for you @ibiza",
+  "reason": "The message is simply stating that the sender has a song for the recipient. There is no use of inappropriate or offensive language, derogatory remarks, discriminatory speech, swearing or any form of uncivil behavior.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

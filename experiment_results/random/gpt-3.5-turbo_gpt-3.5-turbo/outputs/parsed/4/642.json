@@ -1,0 +1,8 @@
+{
+  "message": "Sooooo if u say u have a GF ur actually lying so 5head",
+  "reason": "The message contains derogatory language and insults.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

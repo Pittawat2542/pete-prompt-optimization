@@ -1,0 +1,7 @@
+```json
+{
+"message": "MsRoselyn nairidHerz nairidHerz danucdHi parunaHi",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It appears to be a random collection of words without any clear meaning or intent. Therefore, it can be classified as a clean message.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "Shootin the shit smokin sum herb",
+  "reason": "The message contains slang and references drug use, which may be considered inappropriate or offensive in some contexts.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "yes ionians are fun as fuck",
+  "reason": "The message contains profanity, which is considered toxic and offensive.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

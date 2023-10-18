@@ -1,0 +1,7 @@
+```json
+{
+  "message": "@guccixslaya cheaters suck hard tho",
+  "reason": "The message contains a negative sentiment and uses derogatory language.",
+  "predicted": "toxic"
+}
+```

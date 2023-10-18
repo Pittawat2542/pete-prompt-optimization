@@ -1,0 +1,8 @@
+{
+  "message": "6th guy",
+  "reason": "The message is very brief and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

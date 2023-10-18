@@ -1,0 +1,7 @@
+```json
+{
+"message": "Pepega",
+"reason": "The term 'Pepega' is a Twitch emote used to signify a silly or stupid action. It does not contain any explicit, offensive, or inappropriate language, insults, or discriminatory remarks. Therefore, it is classified as 'clean'.",
+"predicted": "clean"
+}
+```

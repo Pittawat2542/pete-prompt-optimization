@@ -1,0 +1,8 @@
+{
+  "message": "Hell nahh",
+  "reason": "The message contains a negative and dismissive response, which can be considered toxic.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

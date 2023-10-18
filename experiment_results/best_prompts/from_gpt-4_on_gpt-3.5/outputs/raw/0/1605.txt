@@ -1,0 +1,7 @@
+```json
+{
+"message": "Nt",
+"reason": "The message is too short to determine its content or intent.",
+"predicted": "clean"
+}
+```

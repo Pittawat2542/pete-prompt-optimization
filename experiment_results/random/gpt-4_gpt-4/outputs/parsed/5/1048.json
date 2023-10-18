@@ -1,0 +1,8 @@
+{
+  "message": "shady as hell",
+  "reason": "The message uses a negative descriptor ('shady') and a mild swear word ('hell'). While not overtly offensive or derogatory, it does carry a negative connotation and uses language that may be considered inappropriate in some contexts.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

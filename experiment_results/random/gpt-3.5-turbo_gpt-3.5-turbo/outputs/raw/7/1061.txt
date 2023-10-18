@@ -1,0 +1,5 @@
+{
+"message": "Melanie is in hell now",
+"reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It does not seek help or ask questions either. Therefore, it can be classified as a clean message.",
+"predicted": "clean"
+}

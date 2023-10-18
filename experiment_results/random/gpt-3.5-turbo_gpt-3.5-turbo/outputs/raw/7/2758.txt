@@ -1,0 +1,5 @@
+{
+"message": "the best",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It is a positive statement.",
+"predicted": "clean"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "some good players",
+  "reason": "The message is a neutral statement about players and does not contain any offensive or harmful language. The prediction model also classifies it as non-toxic with a high probability.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "been 2 weeks 1since i've been able to lunch with ham!",
+  "reason": "The message does not contain any offensive or harmful language.",
+  "predicted": "clean"
+}

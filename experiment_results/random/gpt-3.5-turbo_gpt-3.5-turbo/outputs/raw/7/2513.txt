@@ -1,0 +1,5 @@
+{
+"message": "winking_face:",
+"reason": "The message consists of an emoji and does not contain any offensive language or disrespectful behavior.",
+"predicted": "clean"
+}

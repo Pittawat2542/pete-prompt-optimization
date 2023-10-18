@@ -1,0 +1,8 @@
+{
+  "message": "damnnn",
+  "reason": "The message is an expression of surprise or emphasis and does not contain any offensive or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

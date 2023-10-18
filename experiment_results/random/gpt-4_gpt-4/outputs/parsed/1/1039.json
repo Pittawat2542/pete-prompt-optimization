@@ -1,0 +1,8 @@
+{
+  "message": "emojis here suck tbh",
+  "reason": "The message contains negative sentiment but it is not offensive, rude, or inappropriate. It seems to be a critique or opinion about the emojis.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+  "message": "toxic",
+  "reason": "The text message does not contain any explicit toxic language or insults, but it is difficult to determine the context and tone of the message without further information. It is possible that the message could be interpreted as sarcastic or passive-aggressive, which could be considered toxic.",
+  "predicted": "toxic"
+}
+```

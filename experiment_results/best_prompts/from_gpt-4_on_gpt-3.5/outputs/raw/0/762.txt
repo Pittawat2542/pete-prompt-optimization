@@ -1,0 +1,7 @@
+```json
+{
+"message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
+"reason": "The message contains a mention of a user (@Yamikazexz) and a compliment (getting close to 400 CS DOINB HACK), indicating a positive sentiment. There is no offensive, rude, abusive, or disrespectful language used.",
+"predicted": "clean"
+}
+```

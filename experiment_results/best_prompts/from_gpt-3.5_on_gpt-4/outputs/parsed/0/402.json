@@ -1,0 +1,8 @@
+{
+  "message": "man yuumi jng is fucking annoying",
+  "reason": "The message contains a swear word which is often associated with toxic behavior in online communities.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

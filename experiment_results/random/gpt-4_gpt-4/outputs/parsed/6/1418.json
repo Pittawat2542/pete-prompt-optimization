@@ -1,0 +1,8 @@
+{
+  "message": "ooo we get a chickirhinooooo",
+  "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. The term 'chickirhinooooo' does not seem to be offensive or inappropriate in any known context.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "it was the evelynn game, he even stole my fucking champ",
+  "reason": "The message contains a profanity which is considered offensive and inappropriate.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

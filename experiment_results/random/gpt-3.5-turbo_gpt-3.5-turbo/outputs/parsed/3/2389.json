@@ -1,0 +1,8 @@
+{
+  "message": "kekwwwwwwww",
+  "reason": "The message contains repetitive characters and does not convey any meaningful information. It is likely a spam or trolling message.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

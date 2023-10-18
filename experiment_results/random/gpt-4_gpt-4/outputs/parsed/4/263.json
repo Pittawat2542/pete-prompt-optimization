@@ -1,0 +1,8 @@
+{
+  "message": "why the fuck i get the code of conduct shit every time i open league clientPromise you will be a good player?",
+  "reason": "The message contains obscenities such as 'fuck' and 'shit', which are considered inappropriate and offensive language. Therefore, it's defined as a 'toxic' message.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

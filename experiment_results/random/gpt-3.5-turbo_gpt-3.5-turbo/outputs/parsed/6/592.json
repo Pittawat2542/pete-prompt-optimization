@@ -1,0 +1,8 @@
+{
+  "message": "DD",
+  "reason": "The message is very short and does not provide enough context to determine its category.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

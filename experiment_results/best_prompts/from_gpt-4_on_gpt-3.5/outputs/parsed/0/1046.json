@@ -1,0 +1,8 @@
+{
+  "message": "HELL NO",
+  "reason": "The message contains offensive language in all caps, which is considered rude and disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

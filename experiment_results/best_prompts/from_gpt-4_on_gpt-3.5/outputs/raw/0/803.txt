@@ -1,0 +1,7 @@
+```json
+{
+"message": "stop watch Pog",
+"reason": "The message does not contain any offensive, rude, abusive, or disrespectful language. It is a simple statement that does not exhibit any negative aspects.",
+"predicted": "clean"
+}
+```

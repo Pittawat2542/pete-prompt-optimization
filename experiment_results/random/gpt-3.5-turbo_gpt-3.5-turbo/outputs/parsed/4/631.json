@@ -1,0 +1,8 @@
+{
+  "message": "what matchups do you take elec on talon and what champs do u take conq on him?",
+  "reason": "The message is a question about gameplay and does not contain offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

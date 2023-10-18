@@ -1,0 +1,8 @@
+{
+  "message": "Maybe it?s talking about her smoothie PogChamp",
+  "reason": "The message contains a positive reaction to something, specifically a smoothie, which suggests a clean classification.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

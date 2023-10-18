@@ -1,0 +1,8 @@
+{
+  "message": "its really hard with your ping",
+  "reason": "The message is expressing frustration with the ping, but it is not offensive or toxic.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

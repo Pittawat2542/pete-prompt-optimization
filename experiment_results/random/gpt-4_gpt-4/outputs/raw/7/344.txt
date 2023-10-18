@@ -1,0 +1,7 @@
+```json
+{
+"message": "dont u dare put the yuumi passive in there fuck u",
+"reason": "The message contains a profanity directed at a person, which is considered offensive and disrespectful. Therefore, it is classified as 'toxic'.",
+"predicted": "toxic"
+}
+```

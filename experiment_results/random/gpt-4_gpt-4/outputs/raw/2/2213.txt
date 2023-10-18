@@ -1,0 +1,7 @@
+```json
+{
+"message": "how do you play with such high ping",
+"reason": "The message is a question about the user's gaming experience and does not contain any obscenities, defamatory remarks, offensive or discriminatory language, or any other forms of inappropriate content.",
+"predicted": "clean"
+}
+```

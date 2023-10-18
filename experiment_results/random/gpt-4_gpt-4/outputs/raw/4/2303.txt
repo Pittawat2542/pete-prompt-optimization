@@ -1,0 +1,7 @@
+```json
+{
+"message": "hello sir how are u",
+"reason": "The message is polite and respectful, without any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. Therefore, it's defined as a 'clean' message.",
+"predicted": "clean"
+}
+```

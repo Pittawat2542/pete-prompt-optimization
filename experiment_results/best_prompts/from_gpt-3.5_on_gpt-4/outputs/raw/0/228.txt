@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be toxic due to the use of profanity.
+
+```json
+{
+"message": "how can that even be fucking compared?",
+"reason": "The message contains profanity which is considered as toxic behavior in an online community.",
+"predicted": "toxic"
+}
+```

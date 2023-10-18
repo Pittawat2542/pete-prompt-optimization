@@ -1,0 +1,8 @@
+{
+  "message": "@Tomshepmx going fucking great, you mate?",
+  "reason": "The message contains a curse word which is considered offensive and inappropriate in a formal or respectful conversation.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

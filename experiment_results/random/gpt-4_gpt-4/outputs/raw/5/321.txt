@@ -1,0 +1,7 @@
+```json
+{
+"message": "I fucking hate lux",
+"reason": "The message contains a swear word and expresses a strong negative sentiment, which can be perceived as offensive or inappropriate. Therefore, the 'toxic' categorization is justified.",
+"predicted": "toxic"
+}
+```

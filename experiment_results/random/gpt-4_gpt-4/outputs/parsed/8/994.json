@@ -1,0 +1,8 @@
+{
+  "message": "@der_bisang he can miss it, long cd, needs grit. camille? she doesn't give a shit, spam Q for 1k true dmg YEP",
+  "reason": "The message contains explicit language ('shit') which is considered offensive and inappropriate in a respectful conversation. Therefore, it is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "well a champ remains in the game forever so",
+"reason": "The message is a positive affirmation about perseverance and does not contain any offensive or inappropriate language, derogatory comments, or disrespectful behavior.",
+"predicted": "clean"
+}
+```

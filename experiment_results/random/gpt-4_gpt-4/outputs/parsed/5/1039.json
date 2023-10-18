@@ -1,0 +1,8 @@
+{
+  "message": "emojis here suck tbh",
+  "reason": "The message expresses dissatisfaction with the emojis on the platform, but it does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior. The term 'suck' might be seen as informal or slightly negative, but it is not generally considered offensive or inappropriate in this context.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "LETS FUCKING GOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+  "reason": "The message contains the use of an explicit language (the F-word), which is generally considered offensive and inappropriate in a civil conversation.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,5 @@
+{
+"message": "WeirdChamp",
+"reason": "The message contains an offensive term and can be considered disrespectful.",
+"predicted": "toxic"
+}

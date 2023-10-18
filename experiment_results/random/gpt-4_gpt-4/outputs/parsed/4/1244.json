@@ -1,0 +1,8 @@
+{
+  "message": "white_medium_star:\u0001",
+  "reason": "The message appears to be a non-verbal emoji or symbol, and does not contain any obscenities, defamatory remarks, offensive/discriminatory language, threats, harassment, or bullying. Therefore, it's defined as a 'clean' message.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

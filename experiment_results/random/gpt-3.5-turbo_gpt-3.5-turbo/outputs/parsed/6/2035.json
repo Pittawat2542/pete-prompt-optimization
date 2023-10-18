@@ -1,0 +1,8 @@
+{
+  "message": "asia sever is many china player..",
+  "reason": "The message seems to be making a generalization about players from China, which could be seen as offensive or discriminatory.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

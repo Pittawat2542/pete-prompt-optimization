@@ -1,0 +1,8 @@
+{
+  "message": "hamb10 hamb10",
+  "reason": "The message does not contain any offensive language or disrespectful behavior. It appears to be a random string of characters and does not convey any meaningful content.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

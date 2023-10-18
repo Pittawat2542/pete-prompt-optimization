@@ -1,0 +1,5 @@
+{
+  "message": "thanks for the giffted sub who ever gave it me @DanucD",
+  "reason": "The message expresses gratitude for a gifted subscription and mentions the username of the person who gave it. There is no negative or harmful content in the message.",
+  "predicted": "clean"
+}

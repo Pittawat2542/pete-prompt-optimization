@@ -1,0 +1,8 @@
+{
+  "message": "rawryyLaugh NT NT",
+  "reason": "The message contains a combination of letters and words that do not make sense. It does not convey any meaningful information and does not appear to be offensive.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

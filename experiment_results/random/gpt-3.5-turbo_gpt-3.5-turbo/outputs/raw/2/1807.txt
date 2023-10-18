@@ -1,0 +1,5 @@
+{
+  "message": "Who's victor Kappa",
+  "reason": "The message contains a slang term 'Kappa' which is often used in online communities to indicate sarcasm or trolling. This suggests that the message may have a negative or toxic intent.",
+  "predicted": "toxic"
+}

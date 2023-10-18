@@ -1,0 +1,8 @@
+{
+  "message": "I suck so bad loool",
+  "reason": "The message contains self-deprecating humor, but it does not include any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior. Therefore, it is classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

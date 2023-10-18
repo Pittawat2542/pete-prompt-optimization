@@ -1,0 +1,7 @@
+```json
+{
+"message": "control setting and dpi",
+"reason": "The message is clean.",
+"predicted": "clean"
+}
+```

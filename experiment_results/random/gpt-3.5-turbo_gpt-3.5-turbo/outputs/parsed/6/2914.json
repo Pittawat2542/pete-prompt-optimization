@@ -1,0 +1,8 @@
+{
+  "message": "there are many cheaters in china",
+  "reason": "The message makes a generalization about a group of people and may be considered offensive or discriminatory.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

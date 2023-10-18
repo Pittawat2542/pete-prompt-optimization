@@ -1,0 +1,7 @@
+```json
+{
+"message": "@keckzn have a time out, come back when you're done saying dumb shit",
+"reason": "The message contains offensive language and is disrespectful towards the user mentioned, which is considered inappropriate.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "@RuralBiscuits damn - i knew it!",
+"reason": "The message contains the word 'damn' which can be considered as a mild profanity. However, the overall tone of the message does not seem to be offensive or disrespectful. It appears to be more of an expression of surprise or realization rather than an attempt to insult or belittle the recipient. Therefore, the message is classified as 'clean'.",
+"predicted": "clean"
+}
+```

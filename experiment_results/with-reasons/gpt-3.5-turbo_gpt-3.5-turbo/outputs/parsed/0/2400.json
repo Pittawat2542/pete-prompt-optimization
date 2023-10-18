@@ -1,0 +1,8 @@
+{
+  "message": "got a song for you @ibiza",
+  "reason": "The message contains a mention of another user, which suggests a positive and friendly interaction.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

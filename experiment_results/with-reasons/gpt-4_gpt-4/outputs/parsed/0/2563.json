@@ -1,0 +1,8 @@
+{
+  "message": "@hf_spinach happy thursday!!",
+  "reason": "The message is a friendly greeting with no offensive or harmful content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

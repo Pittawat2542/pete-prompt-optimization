@@ -1,0 +1,7 @@
+```json
+{
+"message": "bc my stupid dog eat it",
+"reason": "The message uses the term 'stupid' to describe a dog, which can be seen as a mild form of derogatory language. However, it's not directed towards a person and is not severe or offensive in nature. Therefore, it's classified as 'clean'.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "Taking a shit ehun ehun ehun ehun",
+  "reason": "The message includes a crude term that can be considered as an obscenity, thus the toxic categorization.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,12 @@
+{
+  "last_accuracy": 0.845,
+  "best_accuracy": 0.845,
+  "last_prompt_version": 0,
+  "best_prompt_version": 0,
+  "task_model": "gpt-4",
+  "modifying_model": "gpt-4",
+  "evolution_strategy": "with-reasons",
+  "n": 1,
+  "last_round": 0,
+  "round": 1
+}

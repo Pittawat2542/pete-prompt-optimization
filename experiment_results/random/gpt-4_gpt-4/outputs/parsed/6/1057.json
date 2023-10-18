@@ -1,0 +1,8 @@
+{
+  "message": "Like what the hell is this",
+  "reason": "The message contains a mild profanity ('hell') which can be seen as offensive or inappropriate in certain contexts. However, it does not contain any direct insults, derogatory comments, or prejudiced language. The overall tone of the message seems to express confusion or disbelief rather than hostility.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

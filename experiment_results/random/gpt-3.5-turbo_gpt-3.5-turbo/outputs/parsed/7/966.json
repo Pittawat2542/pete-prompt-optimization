@@ -1,0 +1,8 @@
+{
+  "message": "IDIOT STOP COMPLAINING LUILW",
+  "reason": "The message contains personal insults and offensive language.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

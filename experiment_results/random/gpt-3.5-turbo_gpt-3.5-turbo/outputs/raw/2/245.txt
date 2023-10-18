@@ -1,0 +1,5 @@
+{
+  "message": "oh fuck i got one of those omnistone bards in my ranked game",
+  "reason": "The message contains profanity and expresses frustration towards a teammate's choice of champion in a ranked game.",
+  "predicted": "toxic"
+}

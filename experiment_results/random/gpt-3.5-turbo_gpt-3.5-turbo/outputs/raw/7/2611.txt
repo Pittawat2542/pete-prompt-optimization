@@ -1,0 +1,5 @@
+{
+"message": "Spoopy hamtime",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It is a random phrase that does not seek help or engage in a constructive manner.",
+"predicted": "clean"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "When is ps4 and xbox pts server finished? What date and time (uk) please? Thanks",
+  "reason": "The message is asking for information about the completion date and time of the ps4 and xbox pts server. It does not contain any offensive or toxic language.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

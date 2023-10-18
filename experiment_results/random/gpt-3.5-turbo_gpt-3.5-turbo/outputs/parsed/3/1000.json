@@ -1,0 +1,8 @@
+{
+  "message": "This sucks!",
+  "reason": "The message contains a negative sentiment, expressing dissatisfaction or disappointment.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

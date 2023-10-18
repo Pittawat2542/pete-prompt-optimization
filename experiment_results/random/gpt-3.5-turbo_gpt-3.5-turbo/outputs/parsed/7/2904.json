@@ -1,0 +1,8 @@
+{
+  "message": "its banana its banana",
+  "reason": "The message does not contain any offensive language or disrespectful behavior. It does not seek help or ask questions either. Therefore, it can be classified as a clean message.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

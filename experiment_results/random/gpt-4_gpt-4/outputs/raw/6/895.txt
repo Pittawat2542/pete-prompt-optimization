@@ -1,0 +1,7 @@
+```json
+{
+"message": "@buttery_butt1094 YEAH shit funny af",
+"reason": "The message contains profanity and vulgar language, which is considered inappropriate and offensive in a public communication forum.",
+"predicted": "toxic"
+}
+```

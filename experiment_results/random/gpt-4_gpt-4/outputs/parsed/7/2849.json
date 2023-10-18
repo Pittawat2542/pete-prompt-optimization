@@ -1,0 +1,8 @@
+{
+  "message": "Stupid decisions mean stupid result",
+  "reason": "The message uses the term 'stupid' which is often considered derogatory and disrespectful. It is used here to belittle or demean someone's decisions and results, which is offensive.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

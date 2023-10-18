@@ -1,0 +1,7 @@
+```json
+{
+"message": "just dont care",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or any form of uncivil behavior. It is a simple expression of indifference or lack of interest, which does not qualify as toxic.",
+"predicted": "clean"
+}
+```

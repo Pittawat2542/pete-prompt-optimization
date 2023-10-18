@@ -1,0 +1,7 @@
+```json
+{
+  "message": "PLAY SOME NIGHTCORE WEEB SHIT",
+  "reason": "The message does not contain offensive, harmful, or disrespectful language. It is a request related to music preferences.",
+  "predicted": "clean"
+}
+```

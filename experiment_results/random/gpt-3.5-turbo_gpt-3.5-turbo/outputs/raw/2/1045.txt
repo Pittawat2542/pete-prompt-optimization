@@ -1,0 +1,5 @@
+{
+  "message": "oh crap ruby u awake ??",
+  "reason": "The message contains a mild profanity ('crap'), but it does not seem to be intended to harm or offend anyone.",
+  "predicted": "clean"
+}

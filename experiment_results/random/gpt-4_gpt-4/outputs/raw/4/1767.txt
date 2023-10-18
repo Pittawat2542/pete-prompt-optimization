@@ -1,0 +1,7 @@
+```json
+{
+"message": "is G fuel good",
+"reason": "The message is a simple question asking for an opinion about a product. It does not contain any obscenities, offensive language, threats, or any form of inappropriate content.",
+"predicted": "clean"
+}
+```

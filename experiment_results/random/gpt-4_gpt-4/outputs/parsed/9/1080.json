@@ -1,0 +1,8 @@
+{
+  "message": "What the hell is that",
+  "reason": "The message contains the phrase 'What the hell' which is often considered as a mild curse word or an expression of anger or annoyance. This can be seen as offensive or inappropriate in certain contexts.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

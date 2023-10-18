@@ -1,0 +1,7 @@
+```json
+{
+"message": "Yami has inted 11650 times KEKW",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior. The term 'inted' is a gaming term that means intentionally feeding, which is not offensive in nature. 'KEKW' is an emote used in online gaming communities to express laughter, which is also not offensive.",
+"predicted": "clean"
+}
+```

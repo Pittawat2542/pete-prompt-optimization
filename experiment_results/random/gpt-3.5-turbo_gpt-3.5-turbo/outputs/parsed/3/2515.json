@@ -1,0 +1,8 @@
+{
+  "message": "have you ever played with clib? @hambinooo",
+  "reason": "The message is a question about playing with clib, which is unclear and does not provide any context. It also includes an unnecessary mention of another user.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,41 @@
+Classify the following "Message" from chat in an online community into one of the specified categories along with a reason in the specified JSON format in a Markdown code block (between ```json and ```).
+
+Categories:
+- "toxic": If the message contains offensive, harmful, or disrespectful language.
+- "clean": If the message is respectful, non-offensive, and does not contain harmful content.
+
+Message: <message>
+
+**Rules to Follow:**
+Please keep the following rules in mind while classifying:
+
+- The classification should be based solely on the content of the message.
+- Do not consider the identity or past behavior of the author.
+- Ignore any formatting or punctuation in the message.
+- If the message is ambiguous or unclear, label it as "clean".
+- In case of any doubt, always prefer the "clean" category over "toxic".
+
+**Explanation of Terms:**
+- "toxic": Refers to messages that include offensive, harmful, or disrespectful language. This can include profanity, hate speech, direct personal attacks, or any form of content that is intended to cause harm or offense.
+- "clean": Indicates messages that are respectful, non-offensive, and do not contain harmful content. These messages should adhere to community guidelines and promote positive discourse.
+
+**Examples:**
+Here are some examples to clarify the classification criteria:
+
+1. Message: "You're such a dumb idiot!"
+```json
+{
+  "message": "You're such a dumb idiot!",
+  "reason": "The message contains offensive language and is disrespectful.",
+  "predicted": "toxic"
+}
+```
+
+2. Message: "I appreciate your help. Thank you!"
+```json
+{
+  "message": "I appreciate your help. Thank you!",
+  "reason": "The message expresses gratitude and is respectful.",
+  "predicted": "clean"
+}
+```

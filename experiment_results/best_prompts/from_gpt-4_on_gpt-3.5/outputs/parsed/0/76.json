@@ -1,0 +1,8 @@
+{
+  "message": "hecarim is busted more",
+  "reason": "The message does not contain any offensive, rude, abusive, or disrespectful language. It is a statement about the strength or power of the character 'hecarim' in a game.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

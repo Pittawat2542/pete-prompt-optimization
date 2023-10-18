@@ -1,0 +1,8 @@
+{
+  "message": "HOLY FUCKING SHIT! That was the worst movie I've ever seen. The acting was terrible, the plot made no sense, and the special effects were laughable. I can't believe I wasted my time and money on this garbage.",
+  "reason": "The message contains strong profanity and expresses extreme negativity towards a movie, criticizing the acting, plot, and special effects.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

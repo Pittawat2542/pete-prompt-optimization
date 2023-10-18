@@ -1,0 +1,8 @@
+{
+  "message": "That\u00e2\u20ac\u2122s pretty pathetic. I stick with the One X I think. First time in my 30+ years of gaming that I haven\u00e2\u20ac\u2122t been excited for a next gen console.",
+  "reason": "The message contains a negative sentiment, but it is not directed towards any individual or group. The term 'pathetic' is used to express disappointment in a situation, not to insult or offend anyone. Therefore, it is not considered toxic.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

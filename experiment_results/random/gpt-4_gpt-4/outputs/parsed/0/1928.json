@@ -1,0 +1,8 @@
+{
+  "message": "danucdChair",
+  "reason": "The message is a username or a non-offensive term, it doesn't contain any harmful, disrespectful or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

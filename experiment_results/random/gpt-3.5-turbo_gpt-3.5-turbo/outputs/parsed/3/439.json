@@ -1,0 +1,8 @@
+{
+  "message": "screw that shit",
+  "reason": "The message contains offensive language and expresses a negative sentiment.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

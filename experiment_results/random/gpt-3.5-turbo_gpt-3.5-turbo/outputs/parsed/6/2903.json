@@ -1,0 +1,8 @@
+{
+  "message": "toxic spammer @hamitcankilic",
+  "reason": "The message contains the word 'toxic' and 'spammer', which suggests that the message is offensive and intended to disrupt the community.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "Well,rip clips alisaYikes",
+"reason": "The message does not contain any obscenities, defamatory remarks, offensive/discriminatory language, threats, harassment, or bullying. It seems to be a casual comment or reaction to something, possibly in a gaming context.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "fiesta fiesta pluma pluma gay",
+  "reason": "The message is a phrase from a popular Spanish song and does not contain any offensive or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Holy fuck you actually did it you madman",
+  "reason": "The message contains explicit language and a term that could be perceived as offensive or derogatory ('madman').",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

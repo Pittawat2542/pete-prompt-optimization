@@ -1,0 +1,8 @@
+{
+  "message": "they go super drop",
+  "reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or any form of uncivil behavior. The tone and context of the message are neutral.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "NotLikeThis danucdFacepalm chat",
+"reason": "The message appears to be composed of Twitch emotes and a username, and does not contain any explicit, offensive, or inappropriate language, insults, or discriminatory remarks. Therefore, it is classified as 'clean'.",
+"predicted": "clean"
+}
+```

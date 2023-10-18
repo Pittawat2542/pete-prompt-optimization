@@ -1,0 +1,7 @@
+```json
+{
+"message": "BALANCED KEKW",
+"reason": "The message contains a slang term 'KEKW' which is often used in online communities to express amusement or laughter. The term 'BALANCED' is used to describe the message as a whole. This message does not contain any offensive or toxic language.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "how do you play with such high ping",
+  "reason": "The message is asking for advice or information about playing with high ping.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

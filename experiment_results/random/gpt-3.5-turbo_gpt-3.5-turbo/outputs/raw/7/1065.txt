@@ -1,0 +1,7 @@
+```json
+{
+"message": "I suck at all but at least I dont die in the beginning smfh",
+"reason": "The message contains self-deprecating language but does not contain personal insults, offensive language, or disrespectful behavior. It does not seek help or ask questions, but it is not offensive or disrespectful.",
+"predicted": "clean"
+}
+```

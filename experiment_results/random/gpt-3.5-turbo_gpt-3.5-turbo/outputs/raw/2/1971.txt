@@ -1,0 +1,5 @@
+{
+  "message": "dizzy_face:",
+  "reason": "The message consists of an emoji without any accompanying text, making it difficult to determine the intent or meaning behind it.",
+  "predicted": "clean"
+}

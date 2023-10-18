@@ -1,0 +1,8 @@
+{
+  "message": "jd",
+  "reason": "The message 'jd' does not contain any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. It's just a combination of two letters, which doesn't convey any harmful intent or hate speech.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

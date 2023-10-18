@@ -1,0 +1,5 @@
+{
+"message": "No solo ranked in SEA DED",
+"reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It is a statement about the absence of a specific feature in a game.",
+"predicted": "clean"
+}

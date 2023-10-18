@@ -1,0 +1,5 @@
+{
+  "message": "danucdSaspisas danucdSASPISHAS",
+  "reason": "The message contains random characters and does not convey any meaningful information.",
+  "predicted": "clean"
+}

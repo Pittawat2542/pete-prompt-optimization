@@ -1,0 +1,8 @@
+{
+  "message": "DD",
+  "reason": "The message 'DD' does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or signs of uncivil behavior.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

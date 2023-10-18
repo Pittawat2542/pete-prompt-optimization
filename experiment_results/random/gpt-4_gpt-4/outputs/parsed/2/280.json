@@ -1,0 +1,8 @@
+{
+  "message": "HOW THE HELL IS THIS AN A",
+  "reason": "The message contains the word 'hell' which can be considered as a mild obscenity. The overall tone of the message is also aggressive, which can be seen as inappropriate or offensive.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

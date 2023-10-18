@@ -1,0 +1,8 @@
+{
+  "message": "may I ask why the fuck shen is a thing?",
+  "reason": "The message includes offensive language and swearing towards the subject of discussion ('shen'). The use of 'fuck' is inappropriate and offensive. Therefore, the message can be classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

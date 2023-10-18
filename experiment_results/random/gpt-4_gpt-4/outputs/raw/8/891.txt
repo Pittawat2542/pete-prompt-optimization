@@ -1,0 +1,7 @@
+```json
+{
+"message": "shit happens",
+"reason": "The message uses a slang term that can be considered as explicit language. Although it's a common phrase and not directed at anyone in particular, the language used is not appropriate in a formal or respectful conversation.",
+"predicted": "toxic"
+}
+```

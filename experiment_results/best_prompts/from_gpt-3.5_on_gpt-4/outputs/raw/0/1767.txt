@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be non-toxic with a 98% probability.
+
+```json
+{
+"message": "is G fuel good",
+"reason": "The message is a simple question about a product and does not contain any offensive or harmful content.",
+"predicted": "clean"
+}
+```

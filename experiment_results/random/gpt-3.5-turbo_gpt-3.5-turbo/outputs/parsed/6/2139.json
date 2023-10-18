@@ -1,0 +1,8 @@
+{
+  "message": "ha ha ha comms",
+  "reason": "The message consists of laughter and the word 'comms', which is likely short for 'communications'. It does not contain any offensive or toxic language.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

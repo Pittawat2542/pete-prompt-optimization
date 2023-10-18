@@ -1,0 +1,5 @@
+{
+  "message": "Obligatory \"fuck Udyr\"",
+  "reason": "The message contains offensive language.",
+  "predicted": "toxic"
+}

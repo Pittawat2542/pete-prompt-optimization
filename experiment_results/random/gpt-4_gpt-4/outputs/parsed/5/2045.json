@@ -1,0 +1,8 @@
+{
+  "message": "noice team work forsenCD",
+  "reason": "The message is a positive affirmation of teamwork, with no offensive or inappropriate language, derogatory remarks, or uncivil behavior.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

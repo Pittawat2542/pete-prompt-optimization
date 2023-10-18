@@ -1,0 +1,7 @@
+```json
+{
+"message": "@der_bisang he can miss it, long cd, needs grit. camille? she doesn't give a shit, spam Q for 1k true dmg YEP",
+"reason": "The message contains a mild profanity ('shit'), but it is used in a non-offensive context, referring to a character's indifference in a game. The rest of the message is about game strategies and does not contain any offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

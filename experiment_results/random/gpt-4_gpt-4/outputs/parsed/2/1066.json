@@ -1,0 +1,8 @@
+{
+  "message": "Hell nahh",
+  "reason": "The message does not contain obscenities, defamatory remarks, offensive or discriminatory language, or any other forms of inappropriate content. It is a colloquial way of expressing disagreement or denial, but it is not inherently toxic.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

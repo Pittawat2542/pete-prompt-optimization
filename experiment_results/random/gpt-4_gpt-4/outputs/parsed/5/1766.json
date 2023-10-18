@@ -1,0 +1,8 @@
+{
+  "message": "hello and bye @melihozkiremitci",
+  "reason": "The message is a simple greeting and farewell directed at a specific user. There is no use of inappropriate or offensive language, derogatory remarks, discriminatory speech, or any form of uncivil behavior.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

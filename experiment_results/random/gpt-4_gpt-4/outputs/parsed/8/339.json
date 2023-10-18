@@ -1,0 +1,8 @@
+{
+  "message": "feed them and said what the fuck could i do",
+  "reason": "The message contains explicit language, specifically the use of the f-word, which is generally considered offensive and inappropriate in a respectful conversation. Therefore, the message is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

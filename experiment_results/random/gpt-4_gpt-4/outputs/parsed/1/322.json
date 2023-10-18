@@ -1,0 +1,8 @@
+{
+  "message": "yes ionians are fun as fuck",
+  "reason": "The message contains a profanity, but it is not being used in a derogatory or offensive manner. It is used to express enthusiasm or excitement.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

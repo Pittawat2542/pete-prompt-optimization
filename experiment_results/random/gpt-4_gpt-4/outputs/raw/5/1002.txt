@@ -1,0 +1,7 @@
+```json
+{
+"message": "so its not the fucking card",
+"reason": "The message contains a swear word which is considered offensive and inappropriate. This makes the message uncivil and hence, it is classified as 'toxic'.",
+"predicted": "toxic"
+}
+```

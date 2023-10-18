@@ -1,0 +1,8 @@
+{
+  "message": "Fuck, I just died by the twitch. look at death recap",
+  "reason": "The message contains a curse word at the beginning, which is considered offensive and inappropriate language.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

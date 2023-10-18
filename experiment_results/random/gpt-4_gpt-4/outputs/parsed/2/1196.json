@@ -1,0 +1,8 @@
+{
+  "message": "Maybe it?s talking about her smoothie PogChamp",
+  "reason": "The message does not contain any obscenities, defamatory remarks, offensive or discriminatory language, or any other forms of inappropriate content. 'PogChamp' is a term used in online gaming communities to express excitement or surprise, and is not considered offensive or inappropriate.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

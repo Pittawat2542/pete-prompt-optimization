@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdPotato LUL",
+"reason": "The message seems to be a non-offensive, non-derogatory comment or joke, possibly related to a specific context or inside joke within a gaming community. The term 'LUL' is often used in online gaming communities to signify laughter or amusement. There is no use of inappropriate language, offensive or prejudiced terms, or any form of incivility.",
+"predicted": "clean"
+}
+```

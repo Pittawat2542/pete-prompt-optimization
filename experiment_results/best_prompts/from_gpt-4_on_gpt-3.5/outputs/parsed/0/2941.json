@@ -1,0 +1,8 @@
+{
+  "message": "wtffffffffffffff",
+  "reason": "The message contains offensive language with repeated letters, which indicates frustration or anger.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

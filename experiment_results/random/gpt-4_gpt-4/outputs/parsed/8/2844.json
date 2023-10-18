@@ -1,0 +1,8 @@
+{
+  "message": "i hate the camps, i always come out with shit loot",
+  "reason": "The message contains a mild swear word, which can be considered as explicit language. However, the context of the message suggests that the user is expressing frustration about a game, not targeting or insulting any individual. The decision is subjective and can vary based on the strictness of the moderation policy.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

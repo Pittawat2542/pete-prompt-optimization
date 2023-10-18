@@ -1,0 +1,8 @@
+{
+  "message": "danucdChair",
+  "reason": "The message does not contain any offensive, rude, abusive or disrespectful language or sentiments. It appears to be a random combination of words or a username.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

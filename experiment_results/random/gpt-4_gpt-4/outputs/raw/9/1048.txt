@@ -1,0 +1,7 @@
+```json
+{
+"message": "shady as hell",
+"reason": "The message uses a negative phrase 'shady as hell' which can be seen as offensive or derogatory. It implies a strong negative judgement about someone or something, which can be considered as uncivil behavior.",
+"predicted": "toxic"
+}
+```

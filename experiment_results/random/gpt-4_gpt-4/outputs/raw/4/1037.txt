@@ -1,0 +1,7 @@
+```json
+{
+"message": "Its my stupid earphones",
+"reason": "The message does not contain any obscenities, defamatory remarks, offensive/discriminatory language, threats, harassment, or bullying. The term 'stupid' is used in a non-offensive context, referring to an inanimate object (earphones) and not directed towards any individual.",
+"predicted": "clean"
+}
+```

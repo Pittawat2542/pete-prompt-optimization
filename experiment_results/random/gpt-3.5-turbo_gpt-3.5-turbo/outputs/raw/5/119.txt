@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Hes deceptilvely tanky and does not give a hairy rats ass about CC.",
+  "reason": "The message uses informal language but does not contain offensive or harmful content. It is not disrespectful.",
+  "predicted": "clean"
+}
+```

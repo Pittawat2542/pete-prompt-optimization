@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Hey, I think you're a terrible writer. Your article was full of errors and it was a waste of time to read it.",
+  "reason": "The message contains negative sentiment, criticizing the writer and their article.",
+  "predicted": "toxic"
+}
+```

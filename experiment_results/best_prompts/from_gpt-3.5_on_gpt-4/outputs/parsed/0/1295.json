@@ -1,0 +1,8 @@
+{
+  "message": "chocotGotem chocotGotem chocotGotem",
+  "reason": "The message is predicted as clean because it does not contain any offensive or harmful language. It seems to be a repetition of a username or a game term.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

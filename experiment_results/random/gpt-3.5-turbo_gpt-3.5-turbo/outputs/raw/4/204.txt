@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Lol when adc became weak as shit I was like wtf happened did I just become ass turns out it wasnâ€™t me",
+  "reason": "The message contains offensive language.",
+  "predicted": "toxic"
+}
+```

@@ -1,0 +1,5 @@
+{
+"message": "get out rogue",
+"reason": "The message contains a command to 'get out' and is disrespectful.",
+"predicted": "toxic"
+}

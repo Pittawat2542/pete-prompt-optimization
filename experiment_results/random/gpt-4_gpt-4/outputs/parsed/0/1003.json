@@ -1,0 +1,8 @@
+{
+  "message": "here I just an administrator up my ass",
+  "reason": "The message contains a disrespectful phrase towards an administrator, which is considered as toxic behavior in an online community.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

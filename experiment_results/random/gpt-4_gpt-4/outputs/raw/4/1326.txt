@@ -1,0 +1,7 @@
+```json
+{
+"message": "1G$",
+"reason": "The message does not contain any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. It is simply a combination of numbers and symbols, which does not convey any harmful intent or hate speech.",
+"predicted": "clean"
+}
+```

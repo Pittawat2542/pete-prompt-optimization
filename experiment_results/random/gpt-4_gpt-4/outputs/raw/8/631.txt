@@ -1,0 +1,7 @@
+```json
+{
+"message": "what matchups do you take elec on talon and what champs do u take conq on him?",
+"reason": "The message is asking for advice on a game, specifically about character matchups and strategies. There is no offensive or inappropriate language, insults, or disrespectful behavior present in the message.",
+"predicted": "clean"
+}
+```

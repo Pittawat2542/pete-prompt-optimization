@@ -1,0 +1,7 @@
+```json
+{
+  "message": "EZ GG",
+  "reason": "The message contains the phrase 'EZ GG', which is commonly used in online gaming to taunt or mock opponents. This can be considered toxic behavior.",
+  "predicted": "toxic"
+}
+```

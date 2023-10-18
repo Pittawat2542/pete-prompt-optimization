@@ -1,0 +1,8 @@
+{
+  "message": "danucdPotato LUL",
+  "reason": "The message appears to be a non-offensive comment or a username followed by a popular internet acronym 'LUL' which stands for 'Laugh Out Loud'. There is no explicit, offensive or inappropriate language, insults, or discriminatory remarks present in the message.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

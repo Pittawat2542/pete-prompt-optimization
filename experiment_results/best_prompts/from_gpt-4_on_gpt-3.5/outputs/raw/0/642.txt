@@ -1,0 +1,7 @@
+```json
+{
+"message": "Sooooo if u say u have a GF ur actually lying so 5head",
+"reason": "The message contains offensive language ('lying') and disrespectful language ('5head').",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "my god the stupidity of people",
+  "reason": "The message does not contain offensive language or direct personal attacks. It expresses frustration but does not intend to cause harm or offense.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Like Hell Do I Care.",
+  "reason": "The message uses a strong language to express indifference or lack of concern, which can be perceived as offensive or disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

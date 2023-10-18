@@ -1,0 +1,8 @@
+{
+  "message": "fuck support yuumi",
+  "reason": "The message contains a profanity directed towards a specific character or role, which is considered as toxic behavior in an online community.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "I\u00e2\u20ac\u2122m married to the game and the game is league of legends and I want a divorce",
+  "reason": "The message expresses negative emotions and a desire to end the relationship with the game.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

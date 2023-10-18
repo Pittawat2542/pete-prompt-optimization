@@ -1,0 +1,8 @@
+{
+  "message": "@Frank_Drebin451 yes danucd using it too",
+  "reason": "The message contains a mention of another user and a reference to a specific person using a certain product or service.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

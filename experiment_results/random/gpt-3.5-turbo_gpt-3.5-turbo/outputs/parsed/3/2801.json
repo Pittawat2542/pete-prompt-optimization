@@ -1,0 +1,8 @@
+{
+  "message": "@guccixslaya cheaters suck hard tho",
+  "reason": "The message contains a negative sentiment and uses derogatory language.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

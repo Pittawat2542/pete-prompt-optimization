@@ -1,0 +1,8 @@
+{
+  "message": "@Scoom danucdRespect mitKalp",
+  "reason": "The message does not contain any offensive language or disrespectful behavior. It seems to be a conversation between users, possibly using usernames or nicknames.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

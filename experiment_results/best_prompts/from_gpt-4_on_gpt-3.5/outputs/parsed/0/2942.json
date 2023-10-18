@@ -1,0 +1,8 @@
+{
+  "message": "daaaaam",
+  "reason": "The message contains an exclamation with multiple 'a' letters, which suggests excitement or surprise. However, without further context, it is difficult to determine if the message is toxic or clean.",
+  "predicted": "uncertain",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

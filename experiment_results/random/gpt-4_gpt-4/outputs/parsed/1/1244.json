@@ -1,0 +1,8 @@
+{
+  "message": "white_medium_star:\u0001",
+  "reason": "The message contains a non-offensive emoji, which is not rude or inappropriate.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

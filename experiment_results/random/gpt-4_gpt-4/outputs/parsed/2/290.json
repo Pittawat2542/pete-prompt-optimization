@@ -1,0 +1,8 @@
+{
+  "message": "eat shit riot",
+  "reason": "The message contains an obscenity and is directed in a hostile manner towards an individual or group, which is considered offensive and inappropriate.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

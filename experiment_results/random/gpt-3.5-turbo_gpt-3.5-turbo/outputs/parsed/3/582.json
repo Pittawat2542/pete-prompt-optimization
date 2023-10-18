@@ -1,0 +1,8 @@
+{
+  "message": "YOU'RE SO GOOD",
+  "reason": "The message contains a positive sentiment, expressing admiration or praise towards the recipient.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

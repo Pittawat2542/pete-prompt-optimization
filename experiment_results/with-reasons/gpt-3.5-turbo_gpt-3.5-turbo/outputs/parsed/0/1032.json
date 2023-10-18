@@ -1,0 +1,8 @@
+{
+  "message": "Like Hell Do I Care.",
+  "reason": "The message contains strong language and a dismissive tone.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

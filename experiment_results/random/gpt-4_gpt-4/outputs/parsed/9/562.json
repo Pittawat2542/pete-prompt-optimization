@@ -1,0 +1,8 @@
+{
+  "message": "u succ LUL",
+  "reason": "The message uses a derogatory term 'succ' which is a slang term often used in a negative context. This justifies the categorization as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

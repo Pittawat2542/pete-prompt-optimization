@@ -1,0 +1,5 @@
+{
+  "message": "Wait a sec, this isnt my favorite champion",
+  "reason": "The message expresses a personal preference and does not contain any offensive or harmful language.",
+  "predicted": "clean"
+}

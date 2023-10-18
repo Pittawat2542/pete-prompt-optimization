@@ -1,0 +1,8 @@
+{
+  "message": "bc my stupid dog eat it",
+  "reason": "The message contains a derogatory term directed at the user's dog, which can be considered as rude.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "fiesta fiesta pluma pluma gay",
+  "reason": "The message is in Spanish and translates to 'party party feather feather gay'. There is no offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior in this message. The term 'gay' is not used in a derogatory or offensive manner, but rather as a descriptor or identifier, which is not inherently toxic.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

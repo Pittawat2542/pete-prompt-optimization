@@ -1,0 +1,7 @@
+```json
+{
+"message": "as an OG pubg player who has taken like 6 months off, the sounds are wack to get used too.",
+"reason": "The message is about the user's experience with a video game and does not contain any offensive or inappropriate content.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "he fuck",
+  "reason": "The message contains explicit language that is generally considered offensive and inappropriate. The use of such language contributes to a hostile communication environment, hence the 'toxic' classification.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

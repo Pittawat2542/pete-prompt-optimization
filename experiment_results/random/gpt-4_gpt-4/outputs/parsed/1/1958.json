@@ -1,0 +1,8 @@
+{
+  "message": "https://specs.gg/tgltn",
+  "reason": "The message is a URL, which doesn't contain any offensive, rude, or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

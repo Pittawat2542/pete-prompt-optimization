@@ -1,0 +1,8 @@
+{
+  "message": "I hope you're having a great day!",
+  "reason": "The message is polite and positive, without any offensive or inappropriate language. Therefore, it is classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

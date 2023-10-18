@@ -1,0 +1,7 @@
+```json
+{
+"message": "laners dying even with vision ðŸ¤¡",
+"reason": "The message is a comment about a situation in a game, possibly a MOBA (Multiplayer Online Battle Arena) like League of Legends or DOTA. It does not contain any offensive or inappropriate language, threats, or harassment. Therefore, it's defined as a 'clean' message.",
+"predicted": "clean"
+}
+```

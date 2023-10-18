@@ -1,0 +1,8 @@
+{
+  "message": "here I just an administrator up my ass",
+  "reason": "The message uses a vulgar phrase that is considered offensive and inappropriate. This justifies the categorization as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

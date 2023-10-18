@@ -1,0 +1,8 @@
+{
+  "message": "YAMI STOP YOU'RE GOOD",
+  "reason": "The message contains a positive sentiment, complimenting the recipient and expressing admiration.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

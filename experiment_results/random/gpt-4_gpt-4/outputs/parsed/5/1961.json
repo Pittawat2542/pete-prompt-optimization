@@ -1,0 +1,8 @@
+{
+  "message": "!subs",
+  "reason": "The message '!subs' does not contain any inappropriate or offensive language, derogatory remarks, discriminatory speech, or any form of uncivil behavior. It appears to be a command or a shorthand notation, possibly related to subscribing to a service or channel, which is not offensive or inappropriate.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

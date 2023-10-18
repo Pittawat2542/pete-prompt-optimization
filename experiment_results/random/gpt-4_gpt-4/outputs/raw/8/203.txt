@@ -1,0 +1,7 @@
+```json
+{
+"message": "YEAH U WERE RIGHT BITCH JUST THE OTHER JUNGLER",
+"reason": "The message contains an explicit insult, which is 'bitch'. This term is used in a derogatory manner, making the message offensive and disrespectful.",
+"predicted": "toxic"
+}
+```

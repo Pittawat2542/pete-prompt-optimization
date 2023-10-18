@@ -1,0 +1,8 @@
+{
+  "message": "MsRoselyn nairidHerz nairidHerz danucdHi parunaHi",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful language. It is unclear and does not provide enough context to determine its intent. Therefore, it is classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

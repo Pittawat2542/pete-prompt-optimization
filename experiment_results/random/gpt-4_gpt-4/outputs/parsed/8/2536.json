@@ -1,0 +1,8 @@
+{
+  "message": "!hype",
+  "reason": "The message '!hype' does not contain any explicit, offensive, or inappropriate language, insults, or discriminatory remarks. It is a common term used in online communities to express excitement or enthusiasm about something, hence it is classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

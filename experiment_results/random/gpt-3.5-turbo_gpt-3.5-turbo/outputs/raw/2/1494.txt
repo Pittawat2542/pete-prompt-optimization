@@ -1,0 +1,5 @@
+{
+  "message": "@Adooool18 thank you gift ddanucdBukulove",
+  "reason": "The message contains positive words like 'thank you' and 'gift'.",
+  "predicted": "clean"
+}

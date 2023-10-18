@@ -1,0 +1,8 @@
+{
+  "message": "danucdHypePrime",
+  "reason": "The message appears to be a username or a code and does not contain any offensive, rude, or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

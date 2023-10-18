@@ -1,0 +1,9 @@
+```json
+{
+  "message": "6th guy",
+  "reason": "clean",
+  "predicted": "clean"
+}
+```
+
+Reason: The message "6th guy" does not contain any offensive or harmful language. It appears to be a simple statement referring to the sixth person in a conversation or a group. Hence, it can be classified as a clean message.

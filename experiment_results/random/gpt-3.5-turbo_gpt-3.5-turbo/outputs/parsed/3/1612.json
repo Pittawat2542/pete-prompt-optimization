@@ -1,0 +1,8 @@
+{
+  "message": "No Fattttttiiiiiiiiiiiiiiiiiiiiiiii",
+  "reason": "The message contains derogatory language and is intended to insult or offend someone.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

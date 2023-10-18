@@ -1,0 +1,7 @@
+```json
+{
+"message": "damnnn",
+"reason": "The message does not contain any inappropriate or offensive language, derogatory remarks, discriminatory speech, or any form of uncivil behavior. The term 'damnnn' can be used in various contexts and does not inherently carry a negative or offensive connotation.",
+"predicted": "clean"
+}
+```

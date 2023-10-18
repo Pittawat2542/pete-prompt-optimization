@@ -1,0 +1,8 @@
+{
+  "message": "played like shit",
+  "reason": "The message uses an explicit and offensive term to describe someone's performance. This language is disrespectful and inappropriate, hence the classification as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

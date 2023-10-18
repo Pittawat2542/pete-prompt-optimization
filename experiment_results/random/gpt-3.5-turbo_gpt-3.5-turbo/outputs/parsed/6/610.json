@@ -1,0 +1,8 @@
+{
+  "message": "@Yamikazexz who's your twitch crush? like a female streamer not taco LUL",
+  "reason": "The message is asking about someone's preference for a female streamer on Twitch. It does not contain any offensive or toxic language.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "I suck so bad loool",
+  "reason": "The message contains self-deprecating language, but it is not offensive towards others.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

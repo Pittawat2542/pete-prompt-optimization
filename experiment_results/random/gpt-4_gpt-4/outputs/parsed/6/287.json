@@ -1,0 +1,8 @@
+{
+  "message": "FUCK IT, VLAD IT IS",
+  "reason": "The message contains a profanity at the beginning, which is considered offensive and inappropriate in most contexts. Therefore, the categorization as 'toxic' is justified.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

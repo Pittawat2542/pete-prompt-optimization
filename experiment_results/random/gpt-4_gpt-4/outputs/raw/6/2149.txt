@@ -1,0 +1,7 @@
+```json
+{
+"message": "tglGG",
+"reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It appears to be a random string of characters and does not convey any discernible meaning.",
+"predicted": "clean"
+}
+```

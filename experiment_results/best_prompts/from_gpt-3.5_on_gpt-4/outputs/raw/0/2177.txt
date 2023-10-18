@@ -1,0 +1,9 @@
+"Prediction result" section: The model predicts the message "@escamoli yeah" with a 98% probability to be non-toxic.
+
+```json
+{
+"message": "@escamoli yeah",
+"reason": "The model predicts the message with a 98% probability to be non-toxic.",
+"predicted": "clean"
+}
+```

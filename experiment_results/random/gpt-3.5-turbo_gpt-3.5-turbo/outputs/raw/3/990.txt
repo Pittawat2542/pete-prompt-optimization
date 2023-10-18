@@ -1,0 +1,7 @@
+```json
+{
+  "message": "that harvesting shit mythic with gragas is insane tbh",
+  "reason": "The message contains offensive language ('shit') and expresses a negative sentiment towards the topic ('harvesting').",
+  "predicted": "toxic"
+}
+```

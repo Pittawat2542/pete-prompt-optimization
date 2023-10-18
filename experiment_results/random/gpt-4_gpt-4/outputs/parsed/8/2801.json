@@ -1,0 +1,8 @@
+{
+  "message": "@guccixslaya cheaters suck hard tho",
+  "reason": "The message contains a negative sentiment towards 'cheaters' and uses a somewhat offensive language, which can be seen as disrespectful. Therefore, it can be classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

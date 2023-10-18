@@ -1,0 +1,8 @@
+{
+  "message": "ohh shit summit retired ?",
+  "reason": "The message contains a curse word 'shit' which is considered inappropriate and offensive language.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

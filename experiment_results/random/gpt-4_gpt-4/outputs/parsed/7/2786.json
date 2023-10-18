@@ -1,0 +1,8 @@
+{
+  "message": "STOP DOING WHAT I THINK IS SHIT STREAMER",
+  "reason": "The message uses a profanity to express dissatisfaction with the streamer's actions. This constitutes offensive behavior and disrespectful language, thus justifying classification as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

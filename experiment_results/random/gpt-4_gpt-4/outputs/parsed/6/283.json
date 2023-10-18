@@ -1,0 +1,8 @@
+{
+  "message": "HOW LE FUCK DO I FIGHT AHRI",
+  "reason": "The message contains profanity and is written in all caps, which is often interpreted as shouting in online communication. This can be seen as aggressive and uncivil behavior.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

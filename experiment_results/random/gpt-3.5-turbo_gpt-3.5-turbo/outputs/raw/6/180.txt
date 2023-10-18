@@ -1,0 +1,7 @@
+```json
+{
+"message": "my god the stupidity of people",
+"reason": "The message expresses frustration and negativity towards people in general, but it does not contain any personal insults or offensive language.",
+"predicted": "clean"
+}
+```

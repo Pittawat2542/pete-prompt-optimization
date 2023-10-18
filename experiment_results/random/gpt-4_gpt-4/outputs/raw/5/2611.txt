@@ -1,0 +1,7 @@
+```json
+{
+"message": "Spoopy hamtime",
+"reason": "The message does not contain any inappropriate or offensive language, derogatory remarks, discriminatory speech, or any form of uncivil behavior. It appears to be a playful or nonsensical phrase, and without further context, there's no reason to classify it as 'toxic'.",
+"predicted": "clean"
+}
+```

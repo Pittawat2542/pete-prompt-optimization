@@ -1,0 +1,8 @@
+{
+  "message": "@SmirnofSoldier all good and you... danucdRespect danucdHi",
+  "reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or any form of uncivil behavior. It appears to be a friendly interaction between users.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "have you ever played with clib? @hambinooo",
+"reason": "The message is a simple question asking if the user has ever played with 'clib'. There are no obscenities, defamatory remarks, offensive/discriminatory language, threats, harassment, or bullying present in the message.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "fuck these team mates",
+"reason": "The message uses explicit language to express frustration or anger towards the team mates, which is disrespectful and offensive. This justifies the 'toxic' classification.",
+"predicted": "toxic"
+}
+```

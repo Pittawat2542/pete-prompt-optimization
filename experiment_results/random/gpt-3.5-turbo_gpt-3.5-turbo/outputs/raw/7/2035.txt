@@ -1,0 +1,5 @@
+{
+"message": "asia sever is many china player..",
+"reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It is a statement about the number of Chinese players on the Asia server.",
+"predicted": "clean"
+}

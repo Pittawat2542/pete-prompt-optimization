@@ -1,0 +1,5 @@
+{
+"message": "shes a girl...DAAAA",
+"reason": "The message contains offensive language and is disrespectful.",
+"predicted": "toxic"
+}

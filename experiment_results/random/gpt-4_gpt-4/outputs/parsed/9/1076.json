@@ -1,0 +1,8 @@
+{
+  "message": "Shit up",
+  "reason": "The message contains a curse word which is considered offensive and inappropriate. This justifies the categorization as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "I hate my life",
+  "reason": "The message expresses a negative sentiment, but it does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

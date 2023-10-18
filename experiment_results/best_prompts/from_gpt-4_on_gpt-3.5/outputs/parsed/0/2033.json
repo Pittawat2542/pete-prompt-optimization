@@ -1,0 +1,8 @@
+{
+  "message": "get out rogue",
+  "reason": "The message contains a command to 'get out' which can be considered rude and disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

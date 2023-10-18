@@ -1,0 +1,7 @@
+```json
+{
+"message": "you mean blind pick?",
+"reason": "The message is a simple question, without any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,33 @@
+Classify the following text message from a chat in an online community into one of the specified categories: "toxic" or "clean". Provide a reason for the classification in the specified JSON format, placing the response within a Markdown code block (between ```json and ```).
+
+Make sure to follow these guidelines:
+1. Replace `<message>` in the prompt with the actual text message to be classified.
+2. In the JSON output, replace `message` with the actual text message.
+3. In the JSON output, replace `reason` with an explanation for the classification.
+4. In the JSON output, replace `predicted category` with either "toxic" or "clean" based on the classification.
+
+JSON Output Format:
+```json
+{
+  "message": "Actual text message",
+  "reason": "Explanation for the classification",
+  "predicted": "toxic or clean"
+}
+```
+
+Example:
+Given the following text message:
+```
+Classify the following text as either toxic or clean.
+
+Message: Hey, I really enjoyed reading your article. It was very informative and well-written. Keep up the great work!
+```
+
+The correct classification with reasoning would be:
+```json
+{
+  "message": "Hey, I really enjoyed reading your article. It was very informative and well-written. Keep up the great work!",
+  "reason": "The message expresses a positive sentiment, complimenting the article and encouraging the author.",
+  "predicted": "clean"
+}
+```

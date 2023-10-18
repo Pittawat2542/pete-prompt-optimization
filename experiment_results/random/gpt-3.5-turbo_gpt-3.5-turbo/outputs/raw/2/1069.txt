@@ -1,0 +1,5 @@
+{
+  "message": "The hell",
+  "reason": "The message contains a negative and potentially offensive term.",
+  "predicted": "toxic"
+}

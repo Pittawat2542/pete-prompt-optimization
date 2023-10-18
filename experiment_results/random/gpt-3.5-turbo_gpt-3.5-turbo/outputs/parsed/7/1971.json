@@ -1,0 +1,8 @@
+{
+  "message": "dizzy_face:",
+  "reason": "The message does not contain any meaningful content and does not fall into any of the predefined categories.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

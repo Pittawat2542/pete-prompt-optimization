@@ -1,0 +1,8 @@
+{
+  "message": "My mains were magic exo and the brawler",
+  "reason": "The message is discussing the user's preferred characters or playstyles in a game. It does not contain any offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

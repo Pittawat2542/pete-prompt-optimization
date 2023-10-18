@@ -1,0 +1,5 @@
+{
+"message": "danucdSaspisas danucdSASPISHAS",
+"reason": "The message consists of random letters and does not contain any coherent words or sentences. It does not include any explicit language or offensive content. Therefore, it can be classified as a 'clean' message.",
+"predicted": "clean"
+}

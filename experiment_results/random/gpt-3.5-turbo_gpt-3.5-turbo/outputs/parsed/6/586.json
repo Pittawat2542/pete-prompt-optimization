@@ -1,0 +1,8 @@
+{
+  "message": "YAMI STOP YOU'RE GOOD",
+  "reason": "The message contains a command to stop and a positive remark, indicating a friendly and non-toxic interaction.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

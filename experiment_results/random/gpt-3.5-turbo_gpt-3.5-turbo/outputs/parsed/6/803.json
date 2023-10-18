@@ -1,0 +1,8 @@
+{
+  "message": "stop watch Pog",
+  "reason": "The message does not contain any offensive or toxic language. It seems to be a positive reaction to something.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdHypePrime",
+"reason": "The message consists of a combination of characters and does not contain any meaningful words or context.",
+"predicted": "clean"
+}
+```

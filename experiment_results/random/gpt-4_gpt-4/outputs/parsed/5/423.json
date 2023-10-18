@@ -1,0 +1,8 @@
+{
+  "message": "No fucking shit it is",
+  "reason": "The message contains explicit language and swearing, which is considered offensive and inappropriate in a civil conversation. Therefore, the 'toxic' categorization is justified.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

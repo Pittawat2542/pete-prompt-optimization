@@ -1,0 +1,5 @@
+{
+"message": "!subs",
+"reason": "The message is a command to subscribe and does not contain any offensive language.",
+"predicted": "clean"
+}

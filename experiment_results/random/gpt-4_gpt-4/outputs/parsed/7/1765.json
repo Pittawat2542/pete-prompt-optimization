@@ -1,0 +1,8 @@
+{
+  "message": "@melihozkiremitci danucdHi danucdHi",
+  "reason": "The message appears to be a greeting or a mention of a user, and does not contain any offensive or inappropriate language, derogatory comments, discriminatory language, or disrespectful behavior.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-4"
+}

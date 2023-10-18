@@ -1,0 +1,5 @@
+{
+  "message": "Yami is my best friend",
+  "reason": "Positive sentiment, expressing friendship",
+  "predicted": "clean"
+}

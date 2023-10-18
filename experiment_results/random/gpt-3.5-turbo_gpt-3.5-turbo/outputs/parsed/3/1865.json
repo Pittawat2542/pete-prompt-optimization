@@ -1,0 +1,8 @@
+{
+  "message": "faxGG faxGG faxGG",
+  "reason": "The message contains repetitive and nonsensical text, which does not contribute to the conversation.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

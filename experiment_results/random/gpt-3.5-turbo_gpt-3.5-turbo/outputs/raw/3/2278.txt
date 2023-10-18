@@ -1,0 +1,7 @@
+```json
+{
+  "message": "smh thats why i use the m4 long range",
+  "reason": "The message uses the abbreviation 'smh' which stands for 'shaking my head', indicating disapproval or disappointment. Additionally, the message implies superiority by stating that the sender uses a specific weapon, which can be seen as confrontational or boastful.",
+  "predicted": "toxic"
+}
+```

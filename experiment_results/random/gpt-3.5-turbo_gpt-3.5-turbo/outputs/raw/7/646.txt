@@ -1,0 +1,5 @@
+{
+"message": "are you twitch single?",
+"reason": "The message is not seeking help and does not contain any offensive language or disrespectful behavior.",
+"predicted": "clean"
+}

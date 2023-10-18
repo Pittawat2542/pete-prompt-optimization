@@ -1,0 +1,7 @@
+```json
+{
+  "message": "11649 times KEKW",
+  "reason": "The message contains an emote 'KEKW' which is commonly used in online communities to express laughter or amusement. It does not contain any offensive or harmful language.",
+  "predicted": "clean"
+}
+```

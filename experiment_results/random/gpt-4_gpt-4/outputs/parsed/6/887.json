@@ -1,0 +1,8 @@
+{
+  "message": "Fuck off chat, that guy deserves to be banned for risking this channels life",
+  "reason": "The message contains profanity and is directed in a hostile manner towards the chat and an individual. This is seen as offensive and uncivil, hence the categorization as 'toxic' is justified.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "hello and bye @melihozkiremitci",
+  "reason": "The message contains a mention of a specific user, but it does not provide any context or content that can be classified as toxic. It appears to be a simple greeting and farewell.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

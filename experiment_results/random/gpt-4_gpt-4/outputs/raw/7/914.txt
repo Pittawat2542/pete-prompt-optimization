@@ -1,0 +1,7 @@
+```json
+{
+"message": "or until u get shit on LUL",
+"reason": "The message contains a phrase that can be interpreted as offensive or disrespectful. The term 'shit on' is a vulgar expression that is often used in a derogatory manner, hence the classification as 'toxic'.",
+"predicted": "toxic"
+}
+```

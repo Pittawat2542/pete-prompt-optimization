@@ -1,0 +1,7 @@
+```json
+{
+"message": "holy shit PogU",
+"reason": "The message contains a profanity ('shit'), which is generally considered offensive and inappropriate in a civil conversation. Despite the term 'PogU' being a popular emote in online gaming communities and not being offensive, the presence of the profanity makes the overall message toxic.",
+"predicted": "toxic"
+}
+```

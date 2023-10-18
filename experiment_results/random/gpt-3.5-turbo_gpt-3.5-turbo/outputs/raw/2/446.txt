@@ -1,0 +1,5 @@
+{
+  "message": "Annoying ass dog champ",
+  "reason": "The message contains offensive language ('ass') which can be considered toxic.",
+  "predicted": "toxic"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "I dislike games where I carry and my team feeds ;/",
+  "reason": "The message expresses a negative opinion about a gaming experience, but it does not contain personal insults, offensive language, or disrespectful behavior. It is a valid expression of frustration and does not violate any community guidelines.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

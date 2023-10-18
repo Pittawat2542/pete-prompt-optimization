@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect",
+"reason": "The message does not contain any offensive, rude, abusive or disrespectful language or sentiments. It is a repetition of the word 'danucdRespect' multiple times, which does not violate any rules of politeness or respectfulness.",
+"predicted": "clean"
+}
+```

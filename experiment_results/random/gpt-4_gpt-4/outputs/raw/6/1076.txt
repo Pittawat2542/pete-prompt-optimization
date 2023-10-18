@@ -1,0 +1,7 @@
+```json
+{
+"message": "Shit up",
+"reason": "The message contains a profanity which is considered offensive and inappropriate in a civil conversation. The phrase 'Shit up' is a derogatory term and is used in a disrespectful manner.",
+"predicted": "toxic"
+}
+```

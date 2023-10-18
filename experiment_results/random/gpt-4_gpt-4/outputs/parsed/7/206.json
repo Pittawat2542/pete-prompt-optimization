@@ -1,0 +1,8 @@
+{
+  "message": "THIS GAME MIGHT AS WELL RESET MY FUCKING LP TO 0",
+  "reason": "The message includes the use of profanity, which is considered offensive and inappropriate language. Therefore, it is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

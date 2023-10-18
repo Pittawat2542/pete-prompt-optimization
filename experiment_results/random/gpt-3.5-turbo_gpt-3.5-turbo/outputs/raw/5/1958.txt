@@ -1,0 +1,7 @@
+```json
+{
+  "message": "https://specs.gg/tgltn",
+  "reason": "The message contains a URL and does not contain any offensive, harmful, or disrespectful language. It is unclear what the content of the URL is, so it is classified as 'clean'.",
+  "predicted": "clean"
+}
+```

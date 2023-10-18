@@ -1,0 +1,5 @@
+{
+  "message": "stop watch Pog",
+  "reason": "The message contains a positive slang term 'Pog' which is commonly used to express excitement or joy. There is no offensive or harmful language used in the message.",
+  "predicted": "clean"
+}

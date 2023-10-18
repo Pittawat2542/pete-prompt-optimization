@@ -1,0 +1,5 @@
+{
+  "message": "I dislike games where I carry and my team feeds ;/",
+  "reason": "The message expresses frustration and negativity towards teammates, indicating a toxic attitude.",
+  "predicted": "toxic"
+}

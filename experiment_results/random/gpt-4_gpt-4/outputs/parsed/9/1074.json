@@ -1,0 +1,8 @@
+{
+  "message": "cause im an idiot lol",
+  "reason": "The message contains self-deprecating humor, but it does not contain any offensive or inappropriate language directed towards others. Therefore, it is not considered 'toxic'.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

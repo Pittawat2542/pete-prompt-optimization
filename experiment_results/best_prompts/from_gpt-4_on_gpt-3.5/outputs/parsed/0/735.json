@@ -1,0 +1,8 @@
+{
+  "message": "I mean Camille and Sett do so much True Damage so who cares about armor",
+  "reason": "The message does not contain offensive language or disrespectful sentiments. It is a statement expressing an opinion about the effectiveness of armor against champions in a game.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "Cuz of that stupid strat",
+  "reason": "The message contains derogatory language ('stupid') which can be considered toxic.",
+  "predicted": "toxic"
+}

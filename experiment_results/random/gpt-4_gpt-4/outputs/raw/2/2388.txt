@@ -1,0 +1,7 @@
+```json
+{
+"message": "LUL LUL LUL LUL LUL LUL LUL LUL",
+"reason": "The message consists of the repeated use of 'LUL', which is a common internet slang term for 'laugh out loud'. It does not contain any obscenities, defamatory remarks, offensive or discriminatory language, or other forms of inappropriate content.",
+"predicted": "clean"
+}
+```

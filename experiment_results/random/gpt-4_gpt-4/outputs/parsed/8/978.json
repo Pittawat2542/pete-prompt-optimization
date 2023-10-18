@@ -1,0 +1,8 @@
+{
+  "message": "because cosmic 1st is shit @Thebausffs",
+  "reason": "The message contains an offensive term used to describe 'cosmic 1st', which is disrespectful and inappropriate. This justifies the classification as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

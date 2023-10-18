@@ -1,0 +1,8 @@
+{
+  "message": "That\u00e2\u20ac\u2122s pretty pathetic. I stick with the One X I think. First time in my 30+ years of gaming that I haven\u00e2\u20ac\u2122t been excited for a next gen console.",
+  "reason": "The message contains a negative sentiment, but it is not directed towards an individual or group. It seems to be expressing disappointment or lack of excitement about a gaming console. Therefore, it does not contain any explicit, offensive or inappropriate language, insults, or discriminatory remarks.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

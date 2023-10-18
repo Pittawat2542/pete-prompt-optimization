@@ -1,0 +1,8 @@
+{
+  "message": "No solo ranked in SEA DED",
+  "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, discriminatory language, use of profanity or instances of disrespectful behavior. It seems to be a comment about a game, possibly referring to the lack of solo ranked games in the South East Asia server (SEA).",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-4"
+}

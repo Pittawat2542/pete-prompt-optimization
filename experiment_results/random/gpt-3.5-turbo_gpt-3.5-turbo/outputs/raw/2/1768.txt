@@ -1,0 +1,5 @@
+{
+  "message": "@melihozkiremitci cya",
+  "reason": "The message contains an abbreviation 'cya' which stands for 'see you'. It is a casual and friendly way of saying goodbye. There is no offensive or harmful content in the message.",
+  "predicted": "clean"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "hell yeaaahh",
+  "reason": "The message contains slang and excessive use of exclamation marks, which can be interpreted as aggressive or confrontational.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

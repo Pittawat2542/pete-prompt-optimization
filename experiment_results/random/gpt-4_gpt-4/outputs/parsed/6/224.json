@@ -1,0 +1,8 @@
+{
+  "message": "LETS FUCKING GOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+  "reason": "The message contains a profanity, which is generally considered inappropriate and offensive in a public communication forum.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

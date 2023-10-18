@@ -1,0 +1,8 @@
+{
+  "message": "hello sir how are u",
+  "reason": "The message is polite and does not contain offensive language.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

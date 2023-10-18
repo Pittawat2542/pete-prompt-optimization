@@ -1,0 +1,7 @@
+```json
+{
+"message": "so fucking dumb",
+"reason": "The message uses explicit language and is disrespectful, which is considered offensive and inappropriate. Therefore, it falls under the 'toxic' category.",
+"predicted": "toxic"
+}
+```

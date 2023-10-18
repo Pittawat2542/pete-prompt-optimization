@@ -1,0 +1,8 @@
+{
+  "message": "some good players",
+  "reason": "The message is a neutral statement about players, without any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

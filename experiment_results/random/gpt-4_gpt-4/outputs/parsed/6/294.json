@@ -1,0 +1,8 @@
+{
+  "message": "Im not a fucking loser",
+  "reason": "The message contains a profanity which is used in a self-deprecating manner. Despite the self-directed nature of the comment, the use of such language is generally considered inappropriate and offensive.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

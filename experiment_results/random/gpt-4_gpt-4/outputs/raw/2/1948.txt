@@ -1,0 +1,7 @@
+```json
+{
+"message": "rawryyLaugh @cinnova",
+"reason": "The message appears to be a friendly interaction on a chat platform, possibly referring to a shared joke or humorous moment. There are no obscenities, defamatory remarks, offensive or discriminatory language, or other forms of inappropriate content.",
+"predicted": "clean"
+}
+```

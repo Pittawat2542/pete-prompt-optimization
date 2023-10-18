@@ -1,0 +1,8 @@
+{
+  "message": "Please evaluate the specifications on this website, as I find them to be incorrect.",
+  "reason": "The message is polite and does not contain any offensive or inappropriate language. It is a respectful request for someone to evaluate the specifications on a website. Therefore, the message can be categorized as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

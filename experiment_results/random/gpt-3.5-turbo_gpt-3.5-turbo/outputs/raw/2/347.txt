@@ -1,0 +1,5 @@
+{
+  "message": "this shit is like adc graves",
+  "reason": "The message contains offensive language ('shit') which makes it toxic.",
+  "predicted": "toxic"
+}

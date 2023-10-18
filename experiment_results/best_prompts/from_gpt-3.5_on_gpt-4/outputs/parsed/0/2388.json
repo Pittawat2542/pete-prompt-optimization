@@ -1,0 +1,8 @@
+{
+  "message": "LUL LUL LUL LUL LUL LUL LUL LUL",
+  "reason": "The message contains the term 'LUL' repeated multiple times, which is a common term used in online gaming communities to express laughter or amusement. There are no offensive or harmful words present in the message.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

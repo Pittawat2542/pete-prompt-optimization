@@ -1,0 +1,8 @@
+{
+  "message": "as you can see so clearly with those on low?",
+  "reason": "The message is unclear and does not contain any offensive language or insults.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

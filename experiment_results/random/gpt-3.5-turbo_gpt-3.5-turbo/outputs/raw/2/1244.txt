@@ -1,0 +1,5 @@
+{
+  "message": "white_medium_star:",
+  "reason": "The message consists of an emoji code without any accompanying text or context.",
+  "predicted": "clean"
+}

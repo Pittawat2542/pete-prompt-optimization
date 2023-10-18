@@ -1,0 +1,7 @@
+```json
+{
+  "message": "danucdSaspisas danucdSASPISHAS",
+  "reason": "The message contains gibberish and does not convey any meaningful information.",
+  "predicted": "toxic"
+}
+```

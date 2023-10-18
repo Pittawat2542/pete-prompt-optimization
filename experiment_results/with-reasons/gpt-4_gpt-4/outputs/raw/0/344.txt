@@ -1,0 +1,7 @@
+```json
+{
+"message": "dont u dare put the yuumi passive in there fuck u",
+"reason": "The message contains strong language and aggressive tone.",
+"predicted": "toxic",
+}
+```

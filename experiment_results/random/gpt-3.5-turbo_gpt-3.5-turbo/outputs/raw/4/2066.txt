@@ -1,0 +1,7 @@
+```json
+{
+  "message": "they go super drop",
+  "reason": "The message does not contain offensive language or harmful content.",
+  "predicted": "clean"
+}
+```

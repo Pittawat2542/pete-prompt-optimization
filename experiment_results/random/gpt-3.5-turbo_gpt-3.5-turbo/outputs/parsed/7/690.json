@@ -1,0 +1,8 @@
+{
+  "message": "BALANCED KEKW",
+  "reason": "The message does not contain any offensive language or disrespectful behavior. It seems to be a random phrase or an inside joke, but it does not fall into the category of toxic behavior.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

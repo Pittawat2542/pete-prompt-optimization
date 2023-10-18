@@ -1,0 +1,7 @@
+```json
+{
+  "message": "damnnn",
+  "reason": "The message contains an exclamation and repetition of the word 'damn', which can be interpreted as expressing excitement or enthusiasm. However, without further context, it is difficult to determine if the message is intended to be positive or negative.",
+  "predicted": "clean"
+}
+```

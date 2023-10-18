@@ -1,0 +1,5 @@
+{
+  "message": "ooo we get a chickirhinooooo",
+  "reason": "The message contains repetitive characters and non-standard spelling.",
+  "predicted": "clean"
+}

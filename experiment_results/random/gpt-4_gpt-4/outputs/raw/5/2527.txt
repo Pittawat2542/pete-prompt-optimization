@@ -1,0 +1,7 @@
+```json
+{
+"message": "@ty_gets_rekt eleven10Gooba eleven10Gooba eleven10Gooba",
+"reason": "The message does not contain any inappropriate or offensive language, derogatory remarks, discriminatory speech, or any form of uncivil behavior. It seems to be a repetition of a username or a code, which does not carry any harmful or offensive connotations.",
+"predicted": "clean"
+}
+```

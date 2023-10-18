@@ -1,0 +1,7 @@
+```json
+{
+  "message": "I mean Camille and Sett do so much True Damage so who cares about armor",
+  "reason": "The message expresses a dismissive and sarcastic tone towards the importance of armor in the game, which can be seen as toxic behavior.",
+  "predicted": "toxic"
+}
+```

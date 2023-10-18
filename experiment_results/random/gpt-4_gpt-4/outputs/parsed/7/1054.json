@@ -1,0 +1,8 @@
+{
+  "message": "Get the hell out",
+  "reason": "The message uses a harsh tone and offensive language, which can be seen as disrespectful and inappropriate. Therefore, it is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Melanie is in hell now",
+  "reason": "The message implies a negative and potentially offensive statement about an individual, suggesting they are in a place of suffering or punishment.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "DD",
+"reason": "The message 'DD' does not contain any explicit, offensive, or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior. It appears to be an abbreviation or a code, which in itself is not toxic.",
+"predicted": "clean"
+}
+```

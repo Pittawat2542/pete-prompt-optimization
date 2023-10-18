@@ -1,0 +1,7 @@
+```json
+{
+"message": "alisaGG alisaGG alisaGG alisaGG naught14Luv naught14Luv naught14Nuts naught14Nuts naught14Nuts naught14Luv naught14Nuts naught14Luv naught14Nuts",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory comments, discriminatory language, use of profanity or instances of disrespectful behavior. It appears to be a series of usernames or codes, which do not convey any harmful or offensive meaning.",
+"predicted": "clean"
+}
+```

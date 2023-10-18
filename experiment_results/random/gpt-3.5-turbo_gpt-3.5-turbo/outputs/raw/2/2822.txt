@@ -1,0 +1,5 @@
+{
+  "message": "wtf is this nice @Grizz shit",
+  "reason": "The message contains offensive language ('wtf' and 'shit') and mentions a user (@Grizz) in a negative context.",
+  "predicted": "toxic"
+}

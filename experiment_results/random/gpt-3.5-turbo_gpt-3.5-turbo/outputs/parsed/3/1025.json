@@ -1,0 +1,8 @@
+{
+  "message": "Who put me on the RNG shit list?",
+  "reason": "The message contains offensive language ('shit') and a negative tone ('Who put me on the RNG shit list?').",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

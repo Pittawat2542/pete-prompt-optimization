@@ -1,0 +1,5 @@
+{
+  "message": "No solo ranked in SEA DED",
+  "reason": "The message does not contain any offensive or harmful language.",
+  "predicted": "clean"
+}

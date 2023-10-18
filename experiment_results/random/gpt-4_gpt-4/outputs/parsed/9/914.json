@@ -1,0 +1,8 @@
+{
+  "message": "or until u get shit on LUL",
+  "reason": "The message contains a derogatory phrase 'get shit on' which is offensive and disrespectful. This justifies the categorization as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

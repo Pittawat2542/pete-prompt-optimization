@@ -1,0 +1,8 @@
+{
+  "message": "Cuz of that stupid strat",
+  "reason": "The message uses the term 'stupid' which can be considered as a mild insult. This term is used to negatively describe a strategy, indicating a form of disrespect or rudeness.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

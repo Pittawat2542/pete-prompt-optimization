@@ -1,0 +1,7 @@
+```json
+{
+"message": "you W'd there because you were anticipating flash 4Head",
+"reason": "The message does not contain offensive, rude, abusive or disrespectful language. It is a gaming-related message discussing a strategy in a polite and respectful manner.",
+"predicted": "clean"
+}
+```

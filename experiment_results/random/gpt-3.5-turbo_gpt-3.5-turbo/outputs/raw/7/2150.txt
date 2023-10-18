@@ -1,0 +1,5 @@
+{
+"message": "rawryyLaugh NT NT",
+"reason": "The message contains offensive language and is disrespectful.",
+"predicted": "toxic"
+}

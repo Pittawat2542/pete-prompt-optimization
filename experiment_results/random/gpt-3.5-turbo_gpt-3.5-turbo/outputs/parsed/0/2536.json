@@ -1,0 +1,8 @@
+{
+  "message": "!hype",
+  "reason": "The message consists of a single word that is not inherently toxic or offensive.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

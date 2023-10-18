@@ -1,0 +1,7 @@
+```json
+{
+"message": "@ty_gets_rekt eleven10Gooba eleven10Gooba eleven10Gooba",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, curse words or uncivil behavior.",
+"predicted": "clean"
+}
+```

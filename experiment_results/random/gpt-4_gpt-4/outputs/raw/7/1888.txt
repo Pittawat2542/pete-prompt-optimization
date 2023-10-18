@@ -1,0 +1,7 @@
+```json
+{
+"message": "NotLikeThis danucdFacepalm chat",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory comments, discriminatory language, or disrespectful behavior. It seems to be a reaction or expression using emoticons or specific platform jargon, which is not inherently toxic.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,31 @@
+Please examine the "Message" derived from a conversation on a web-based platform and categorize it into either 'toxic' or 'clean'. The term 'toxic' is used to describe any message that contains explicit, offensive or inappropriate language, insults, discriminatory remarks, or exhibits any form of uncivil or disrespectful behavior. On the other hand, a 'clean' message is deemed as such if it does not contain any offensive or inappropriate content.
+
+Please equip your analysis with a comprehensive explanation of your classification decision, contemplating and considering the tone, context, and explicit language utilized in the message.
+
+The message for your review and classification is: <message>
+
+Please format the outcome of your analysis according to the JSON structure, enclosed in a Markdown code block that commences with ```json and concludes with ```). Here's a detailed explanation of each segment of the JSON structure:
+
+- "message": This depicts the piece of text that you are tasked with classifying.
+- "reason": This includes the foundation and the underpinning of your decision. That may include contextual hints or explicit parts of the message that influenced your decision — whether "toxic" or "clean".
+- "predicted": This signifies your final determination or classification of the message, which should be either 'toxic' or 'clean'.
+
+Here is a guide you should follow while structuring your answer in JSON:
+
+```json
+{
+"message": "<add the precise message here>",
+"reason": "<put here the detailed explanation for your chosen category>",
+"predicted": "<categorized classification: either 'toxic' or 'clean'>"
+}
+```
+
+To provide you with a great example, while classifying a message that says 'You're nothing but a fool!', an appropriate JSON output would look like:
+
+```json
+{
+"message": "You're nothing but a fool!",
+"reason": "This message contains a disrespectful term targeting an individual, suggesting offensive and derogatory connotation, justifying the 'toxic' classification.",
+"predicted": "toxic"
+}
+```

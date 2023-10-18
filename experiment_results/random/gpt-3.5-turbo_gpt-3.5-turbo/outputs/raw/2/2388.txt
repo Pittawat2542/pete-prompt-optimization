@@ -1,0 +1,5 @@
+{
+  "message": "LUL LUL LUL LUL LUL LUL LUL LUL",
+  "reason": "The message consists of repeated laughter (LUL) which is commonly used in online communities to express amusement or laughter. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
+}

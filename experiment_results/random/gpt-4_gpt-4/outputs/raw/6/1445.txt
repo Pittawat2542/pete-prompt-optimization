@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdRespect danucdPOG danucdRespect danucdPOG danucdRespect danucdPOG danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect",
+"reason": "The message is repetitive but it doesn't contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility. The terms 'danucdRespect' and 'danucdPOG' seem to be related to a specific context or community, but they don't appear to be offensive or inappropriate.",
+"predicted": "clean"
+}
+```

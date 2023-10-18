@@ -1,0 +1,7 @@
+```json
+{
+"message": "why the fuck i get the code of conduct shit every time i open league clientPromise you will be a good player?",
+"reason": "The message contains explicit language and offensive terms, which are considered disrespectful and inappropriate. This justifies the classification as 'toxic'.",
+"predicted": "toxic"
+}
+```

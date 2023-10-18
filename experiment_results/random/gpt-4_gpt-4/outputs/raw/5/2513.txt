@@ -1,0 +1,7 @@
+```json
+{
+"message": "winking_face:",
+"reason": "The message is simply an emoticon, which is a form of non-verbal communication. It does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or any form of uncivil behavior.",
+"predicted": "clean"
+}
+```

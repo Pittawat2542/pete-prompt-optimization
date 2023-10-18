@@ -1,0 +1,8 @@
+{
+  "message": "this feels so shit",
+  "reason": "The message uses an explicit term that can be considered as offensive or inappropriate language. Although it's not directed towards anyone, the language used is not civil or respectful.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

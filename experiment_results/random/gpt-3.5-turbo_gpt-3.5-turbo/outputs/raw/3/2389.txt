@@ -1,0 +1,7 @@
+```json
+{
+  "message": "kekwwwwwwww",
+  "reason": "The message contains repetitive characters and does not convey any meaningful information. It is likely a spam or trolling message.",
+  "predicted": "toxic"
+}
+```

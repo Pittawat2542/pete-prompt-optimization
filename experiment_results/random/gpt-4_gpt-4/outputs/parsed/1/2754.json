@@ -1,0 +1,8 @@
+{
+  "message": "too E Z",
+  "reason": "The message does not contain any offensive, rude, or inappropriate content. It seems to be a slang or abbreviation for 'too easy'.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

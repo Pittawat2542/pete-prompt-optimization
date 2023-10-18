@@ -1,0 +1,8 @@
+{
+  "message": "The message contains a link to an external website (https://specs.gg/tgltn), which cannot be analyzed directly. Please provide the actual text of the message for classification.",
+  "reason": "The message contains a link to an external website, which cannot be analyzed directly. Please provide the actual text of the message for classification.",
+  "predicted": "",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

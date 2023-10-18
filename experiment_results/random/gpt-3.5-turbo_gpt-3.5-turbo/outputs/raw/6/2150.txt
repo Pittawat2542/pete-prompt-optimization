@@ -1,0 +1,5 @@
+{
+"message": "rawryyLaugh NT NT",
+"reason": "The message contains a combination of letters and words that do not make sense. It does not convey any meaningful information and does not appear to be offensive.",
+"predicted": "clean"
+}

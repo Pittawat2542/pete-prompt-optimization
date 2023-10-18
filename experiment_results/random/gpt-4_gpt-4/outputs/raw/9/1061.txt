@@ -1,0 +1,7 @@
+```json
+{
+"message": "Melanie is in hell now",
+"reason": "The message implies a negative situation or outcome for the individual named Melanie, using the term 'hell' which is often associated with suffering or punishment. This can be seen as offensive or inappropriate.",
+"predicted": "toxic"
+}
+```

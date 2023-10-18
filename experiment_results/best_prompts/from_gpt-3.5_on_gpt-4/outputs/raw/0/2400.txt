@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be non-toxic with a 98% probability.
+
+```json
+{
+"message": "got a song for you @ibiza",
+"reason": "The message is predicted to be non-toxic with a 98% probability. It is a friendly interaction, sharing a song with another user.",
+"predicted": "clean"
+}
+```

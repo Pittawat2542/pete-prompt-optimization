@@ -1,0 +1,8 @@
+{
+  "message": "Pepega",
+  "reason": "The message is a slang term used in online communities to refer to someone who is perceived as stupid or foolish. It is often used in a playful or mocking manner and does not contain any offensive language or personal insults.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

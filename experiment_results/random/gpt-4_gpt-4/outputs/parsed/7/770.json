@@ -1,0 +1,8 @@
+{
+  "message": "Yami is my best friend",
+  "reason": "The message is a positive statement about a personal relationship, with no offensive or inappropriate language or content. Therefore, it is classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "Hell no ew",
+"reason": "The message, while expressing strong disagreement or distaste, does not contain obscenities, threats, harassment, or any form of hate speech. It is not polite, but it does not cross the line into toxicity.",
+"predicted": "clean"
+}
+```

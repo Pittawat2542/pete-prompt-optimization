@@ -1,0 +1,8 @@
+{
+  "message": "winking_face:",
+  "reason": "The message is simply an emoji representation and does not contain any obscenities, defamatory remarks, offensive or discriminatory language, or other forms of inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

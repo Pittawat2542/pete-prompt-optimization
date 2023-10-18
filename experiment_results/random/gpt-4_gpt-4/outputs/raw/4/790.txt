@@ -1,0 +1,7 @@
+```json
+{
+"message": "ewqawertqerqawertesaqweewtqa",
+"reason": "The message does not contain any recognizable words, obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. It appears to be a random string of characters.",
+"predicted": "clean"
+}
+```

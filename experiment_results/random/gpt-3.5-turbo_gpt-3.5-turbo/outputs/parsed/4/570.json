@@ -1,0 +1,8 @@
+{
+  "message": "you W'd there because you were anticipating flash 4Head",
+  "reason": "The message contains gaming jargon and emotes, which are common in online gaming communities.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

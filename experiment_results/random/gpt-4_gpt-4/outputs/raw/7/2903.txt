@@ -1,0 +1,7 @@
+```json
+{
+"message": "toxic spammer @hamitcankilic",
+"reason": "The message labels a user as a 'toxic spammer', which is a derogatory term. This constitutes offensive behavior and is disrespectful, thus justifying classification as 'toxic'.",
+"predicted": "toxic"
+}
+```

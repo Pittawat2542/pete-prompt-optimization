@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be non-toxic with a 98% probability.
+
+```json
+{
+"message": "@Adooool18 thank you gift ddanucdBukulove",
+"reason": "The message is a simple thank you note with a mention of a gift. There is no use of offensive or harmful language, hence it is classified as non-toxic.",
+"predicted": "clean"
+}
+```

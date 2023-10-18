@@ -1,0 +1,7 @@
+```json
+{
+"message": "man yuumi jng is fucking annoying",
+"reason": "The message uses explicit language ('fucking') to express frustration or annoyance, which can be perceived as offensive or inappropriate. Therefore, it is classified as 'toxic'.",
+"predicted": "toxic"
+}
+```

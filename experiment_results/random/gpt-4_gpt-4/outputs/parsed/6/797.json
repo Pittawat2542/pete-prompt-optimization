@@ -1,0 +1,8 @@
+{
+  "message": "Pepega",
+  "reason": "The term 'Pepega' is a popular emote used on the streaming platform Twitch, often used to signify a silly or foolish action. It does not contain any offensive, inappropriate, or derogatory language.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

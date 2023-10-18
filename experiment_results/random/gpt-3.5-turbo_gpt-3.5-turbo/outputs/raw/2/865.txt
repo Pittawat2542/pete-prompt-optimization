@@ -1,0 +1,5 @@
+{
+  "message": "PLAY SOME NIGHTCORE WEEB SHIT",
+  "reason": "The message contains offensive language and derogatory terms.",
+  "predicted": "toxic"
+}

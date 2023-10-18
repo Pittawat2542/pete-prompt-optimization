@@ -1,0 +1,16 @@
+Classify the given chat message from an online community into one of the specified categories - "toxic" or "clean". Provide a brief explanation or reason for the classification in the specified JSON format below. 
+
+Categories: "toxic", "clean"
+
+Example Message: "<message>"
+
+Output format:
+```json
+{
+  "message": "<message>",
+  "reason": "<reason>",
+  "predicted": "<predicted category>"
+}
+```
+
+Please note that the message, reason, and predicted category should be replaced accordingly in the JSON output.

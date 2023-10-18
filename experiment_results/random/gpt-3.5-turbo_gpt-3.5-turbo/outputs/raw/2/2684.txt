@@ -1,0 +1,5 @@
+{
+  "message": "!gift @shanabana",
+  "reason": "The message contains a command to gift someone, but it does not contain any toxic or offensive language.",
+  "predicted": "clean"
+}

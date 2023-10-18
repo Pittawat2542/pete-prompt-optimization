@@ -1,0 +1,8 @@
+{
+  "message": "because its fucking bronze",
+  "reason": "The message contains a profanity which is often associated with toxic behavior in online communities.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

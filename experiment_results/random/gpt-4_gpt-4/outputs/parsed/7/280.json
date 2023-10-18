@@ -1,0 +1,8 @@
+{
+  "message": "HOW THE HELL IS THIS AN A",
+  "reason": "The message uses a profanity and is written in all caps, which is often interpreted as shouting in written communication. This suggests a tone of anger or frustration, which can be seen as offensive or inappropriate.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

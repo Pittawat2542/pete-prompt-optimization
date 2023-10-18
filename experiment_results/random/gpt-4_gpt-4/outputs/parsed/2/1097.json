@@ -1,0 +1,8 @@
+{
+  "message": "bc my stupid dog eat it",
+  "reason": "The message includes a derogatory term ('stupid') used to describe a dog. This can be considered as offensive language, thus the toxic categorization.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

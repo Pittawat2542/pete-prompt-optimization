@@ -1,0 +1,8 @@
+{
+  "message": "No solo ranked in SEA DED",
+  "reason": "The message is about a gaming topic and does not contain any offensive or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

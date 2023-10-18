@@ -1,0 +1,7 @@
+```json
+{
+"message": "MsRoselyn nairidHerz nairidHerz danucdHi parunaHi",
+"reason": "The message consists of random words and does not convey any meaningful information. It does not contain any offensive or toxic language.",
+"predicted": "clean"
+}
+```

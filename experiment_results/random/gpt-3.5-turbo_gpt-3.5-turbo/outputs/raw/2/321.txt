@@ -1,0 +1,5 @@
+{
+  "message": "I fucking hate lux",
+  "reason": "The use of profanity and the expression of hate towards a specific person indicate a toxic message.",
+  "predicted": "toxic"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "got a song for you @ibiza",
+  "reason": "The message is a simple statement without any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a friendly interaction.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

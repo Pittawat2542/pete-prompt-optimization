@@ -1,0 +1,8 @@
+{
+  "message": "toxic",
+  "reason": "The message contains a negative and dismissive tone, using the abbreviation 'cya' to indicate a lack of interest in continuing the conversation.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

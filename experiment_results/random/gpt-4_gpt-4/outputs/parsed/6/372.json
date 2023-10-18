@@ -1,0 +1,8 @@
+{
+  "message": "Cuz of that stupid strat",
+  "reason": "The message uses a derogatory term 'stupid' to describe a strategy, which can be seen as offensive or inappropriate. Therefore, the categorization as 'toxic' is justified.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

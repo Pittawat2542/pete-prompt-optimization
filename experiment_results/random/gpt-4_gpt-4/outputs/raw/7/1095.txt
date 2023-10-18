@@ -1,0 +1,7 @@
+```json
+{
+"message": "the hell is a karak?",
+"reason": "The message uses a mild profanity ('hell') in a context that seems to express frustration or confusion. However, it does not target anyone specifically, nor does it include any severe offensive or inappropriate language. Therefore, it is borderline, but leans more towards 'clean'.",
+"predicted": "clean"
+}
+```

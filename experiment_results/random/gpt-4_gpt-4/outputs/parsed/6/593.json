@@ -1,0 +1,8 @@
+{
+  "message": "5Head",
+  "reason": "The message consists of a single word, '5Head', which on its own does not contain any offensive or inappropriate content. The word '5Head' is a Twitch emote, commonly used to represent someone with a large forehead. It is a lighthearted and playful term without any derogatory, prejudiced, or vulgar connotations. Therefore, the categorization as 'clean' is justified.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

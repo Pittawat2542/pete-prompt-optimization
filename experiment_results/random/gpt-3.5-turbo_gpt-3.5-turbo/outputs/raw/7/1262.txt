@@ -1,0 +1,5 @@
+{
+"message": "hey",
+"reason": "The message is a simple greeting and does not contain any offensive language or disrespectful behavior.",
+"predicted": "clean"
+}

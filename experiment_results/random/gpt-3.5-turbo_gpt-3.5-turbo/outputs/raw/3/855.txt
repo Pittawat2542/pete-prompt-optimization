@@ -1,0 +1,7 @@
+```json
+{
+  "message": "osu? woow",
+  "reason": "The message is unclear and does not provide enough context to determine its meaning. It could be interpreted as a question or a statement, but without further information, it is difficult to classify it as toxic or clean.",
+  "predicted": "unclear"
+}
+```

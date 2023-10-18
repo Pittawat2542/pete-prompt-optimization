@@ -1,0 +1,8 @@
+{
+  "message": "i like how you dont talk shit about your dick neighbour cause he prob gonna rewatch your stream",
+  "reason": "The message contains offensive language and derogatory terms directed towards an individual, which is considered inappropriate and uncivil.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

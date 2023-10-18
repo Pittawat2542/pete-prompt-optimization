@@ -1,0 +1,7 @@
+```json
+{
+"message": "BTW. I'm going to keep streaming, because I genuinely like it. Expect them all to be super late though because that's legit the ONLY time I am able to stream. I am only streaming League of Legends because that's all I care to play these days. Hope you enjoyed my dose of reality",
+"reason": "The message is about the sender's personal preferences and schedule regarding streaming. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+"predicted": "clean"
+}
+```

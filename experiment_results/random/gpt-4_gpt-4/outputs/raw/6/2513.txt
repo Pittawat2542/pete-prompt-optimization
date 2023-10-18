@@ -1,0 +1,7 @@
+```json
+{
+"message": "winking_face:",
+"reason": "This message is simply an emoji representation, which is generally used to convey a playful or teasing tone. There is no offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+"predicted": "clean"
+}
+```

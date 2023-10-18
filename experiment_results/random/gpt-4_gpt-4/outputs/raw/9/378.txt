@@ -1,0 +1,7 @@
+```json
+{
+"message": "fuck shen",
+"reason": "The message contains a curse word directed towards an individual or entity, which is considered offensive and inappropriate.",
+"predicted": "toxic"
+}
+```

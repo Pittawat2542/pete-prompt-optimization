@@ -1,0 +1,8 @@
+{
+  "message": "@ty_gets_rekt eleven10Gooba eleven10Gooba eleven10Gooba",
+  "reason": "The message contains repetitive and nonsensical content, but it does not incorporate offensive, rude, abusive, or disrespectful language or sentiments.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

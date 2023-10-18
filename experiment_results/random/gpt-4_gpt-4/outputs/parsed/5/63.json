@@ -1,0 +1,8 @@
+{
+  "message": "JESUS CHRIST",
+  "reason": "The message is simply a religious reference or exclamation and does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

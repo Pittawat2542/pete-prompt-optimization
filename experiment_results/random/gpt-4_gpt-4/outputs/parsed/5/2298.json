@@ -1,0 +1,8 @@
+{
+  "message": "4X m249 op on sanhok",
+  "reason": "The message is related to a game, specifically PUBG, where '4X' refers to a scope, 'm249' is a gun and 'sanhok' is a map. There is no offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior present in the message.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

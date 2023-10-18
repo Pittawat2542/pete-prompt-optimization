@@ -1,0 +1,8 @@
+{
+  "message": "@escamoli yeah",
+  "reason": "The message is a simple acknowledgement and does not contain any offensive, rude, abusive, or disrespectful language or sentiments.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

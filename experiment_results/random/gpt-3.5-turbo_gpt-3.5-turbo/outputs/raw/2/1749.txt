@@ -1,0 +1,5 @@
+{
+  "message": "Well,rip clips alisaYikes",
+  "reason": "The message contains derogatory language and a negative sentiment.",
+  "predicted": "toxic"
+}

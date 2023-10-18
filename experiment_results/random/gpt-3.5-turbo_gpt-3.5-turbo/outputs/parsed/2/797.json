@@ -1,0 +1,8 @@
+{
+  "message": "Pepega",
+  "reason": "The message contains a term that is often used in a derogatory manner to insult or mock someone.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

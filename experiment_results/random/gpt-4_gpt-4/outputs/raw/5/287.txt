@@ -1,0 +1,7 @@
+```json
+{
+"message": "FUCK IT, VLAD IT IS",
+"reason": "The message contains explicit language, which is considered offensive and inappropriate. Therefore, the 'toxic' categorization is justified.",
+"predicted": "toxic"
+}
+```

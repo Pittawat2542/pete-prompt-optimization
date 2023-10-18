@@ -1,0 +1,5 @@
+{
+"message": "hecarim is busted more",
+"reason": "The message is discussing the strength of a character in a game and is not offensive.",
+"predicted": "clean"
+}

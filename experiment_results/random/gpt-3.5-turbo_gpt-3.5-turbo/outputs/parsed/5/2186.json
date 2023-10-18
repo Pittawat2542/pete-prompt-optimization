@@ -1,0 +1,8 @@
+{
+  "message": "control setting and dpi",
+  "reason": "The message is clear and does not contain offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

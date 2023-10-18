@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be non-toxic with a 98% probability.
+
+```json
+{
+"message": "shes a girl...DAAAA",
+"reason": "The message is classified as clean because the model predicts it to be non-toxic with a 98% probability. The text does not contain any offensive or harmful language.",
+"predicted": "clean"
+}
+```

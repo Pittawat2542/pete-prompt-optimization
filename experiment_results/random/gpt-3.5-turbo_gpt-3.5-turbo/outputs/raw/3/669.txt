@@ -1,0 +1,7 @@
+```json
+{
+  "message": "215 cs",
+  "reason": "The message contains an abbreviation and does not provide enough context to determine its classification.",
+  "predicted": "clean"
+}
+```

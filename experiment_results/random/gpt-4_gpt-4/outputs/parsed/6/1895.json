@@ -1,0 +1,8 @@
+{
+  "message": "Support always",
+  "reason": "The message is positive and encouraging, without any offensive or inappropriate language, derogatory comments, or expressions of incivility.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,5 @@
+{
+"message": "I really enjoyed the movie. The plot was intriguing and the characters were well developed.",
+"reason": "The message is a positive review of a movie, with no offensive or inappropriate language or behavior. Therefore, it is classified as 'clean'.",
+"predicted": "clean"
+}

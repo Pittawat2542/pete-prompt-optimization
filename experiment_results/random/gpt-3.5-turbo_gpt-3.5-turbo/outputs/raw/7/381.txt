@@ -1,0 +1,5 @@
+{
+"message": "he has 60 fucking dashes",
+"reason": "The message contains offensive language.",
+"predicted": "toxic"
+}

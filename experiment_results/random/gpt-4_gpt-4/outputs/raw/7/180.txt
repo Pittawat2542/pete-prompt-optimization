@@ -1,0 +1,7 @@
+```json
+{
+"message": "my god the stupidity of people",
+"reason": "The message is derogatory and disrespectful towards people in general, implying that they are stupid. This constitutes offensive behavior, thus justifying classification as 'toxic'.",
+"predicted": "toxic"
+}
+```

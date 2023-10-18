@@ -1,0 +1,5 @@
+{
+"message": "TOP 0.1% popularity 33.3% win rate",
+"reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It appears to be a statement about popularity and win rate, which does not fall into the toxic category. Therefore, the message is classified as clean.",
+"predicted": "clean"
+}

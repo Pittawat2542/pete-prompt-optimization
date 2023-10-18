@@ -1,0 +1,8 @@
+{
+  "message": "the hell is a karak?",
+  "reason": "The message contains offensive language ('hell') and a dismissive tone ('the hell is').",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

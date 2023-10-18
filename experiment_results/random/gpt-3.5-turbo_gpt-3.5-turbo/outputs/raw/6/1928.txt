@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdChair",
+"reason": "The message consists of a combination of characters that does not make sense and does not convey any meaningful information. It does not contain any offensive or toxic language.",
+"predicted": "clean"
+}
+```

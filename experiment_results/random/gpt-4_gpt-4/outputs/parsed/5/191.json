@@ -1,0 +1,8 @@
+{
+  "message": "Yo Riot wtf fuck brand he always deals the most damage for some reason EVERY GANE",
+  "reason": "The message contains explicit language and offensive words directed towards a character or entity, which is considered inappropriate and uncivil.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

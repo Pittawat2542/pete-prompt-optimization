@@ -1,0 +1,7 @@
+```json
+{
+  "message": "danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner",
+  "reason": "The message consists of repetitive text that does not convey any meaningful information or contribute to the conversation. It appears to be spam or trolling.",
+  "predicted": "toxic"
+}
+```

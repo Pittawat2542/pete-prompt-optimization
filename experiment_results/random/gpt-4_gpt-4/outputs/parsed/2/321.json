@@ -1,0 +1,8 @@
+{
+  "message": "I fucking hate lux",
+  "reason": "The message contains an obscenity and expresses strong negative sentiment, which is considered inappropriate and offensive.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

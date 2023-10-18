@@ -1,0 +1,7 @@
+```json
+{
+"message": "WeirdChamp",
+"reason": "This message is a term often used in online gaming communities, particularly on platforms like Twitch, to express disbelief or disappointment. It does not contain any offensive or inappropriate language, derogatory comments, or disrespectful behavior.",
+"predicted": "clean"
+}
+```

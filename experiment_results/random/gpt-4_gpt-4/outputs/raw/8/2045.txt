@@ -1,0 +1,7 @@
+```json
+{
+"message": "noice team work forsenCD",
+"reason": "The message is a positive affirmation of teamwork, with no explicit, offensive, or inappropriate language. The term 'forsenCD' is a popular emote used in gaming communities, particularly on Twitch, and does not carry any offensive or disrespectful connotations.",
+"predicted": "clean"
+}
+```

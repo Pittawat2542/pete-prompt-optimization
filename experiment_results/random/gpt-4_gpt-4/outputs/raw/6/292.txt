@@ -1,0 +1,7 @@
+```json
+{
+"message": "Being memed for releasing an overpowered adc and being shit on by the whole community.Rito after a few months: â€œ Iâ€™ll fucking do it again.â€",
+"reason": "The message contains profanity and offensive language directed towards a community or group of people. The use of the term 'shit on' is derogatory and the use of the f-word is considered vulgar and inappropriate.",
+"predicted": "toxic"
+}
+```

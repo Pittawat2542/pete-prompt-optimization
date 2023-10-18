@@ -1,0 +1,7 @@
+```json
+{
+"message": "in a Payload game the other day one of the randoms started shooting grens at me",
+"reason": "The message is about a gaming experience and does not contain any offensive or inappropriate language, insults, or disrespectful behavior. The term 'shooting grens' is a gaming term referring to the use of grenades in the game, and does not imply any real-life violence or threat.",
+"predicted": "clean"
+}
+```

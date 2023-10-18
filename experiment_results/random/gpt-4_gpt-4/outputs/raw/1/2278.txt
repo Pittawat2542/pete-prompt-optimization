@@ -1,0 +1,7 @@
+```json
+{
+"message": "smh thats why i use the m4 long range",
+"reason": "The message is about the user's preference for a specific tool or weapon in a game, and does not contain any offensive or inappropriate content.",
+"predicted": "clean"
+}
+```

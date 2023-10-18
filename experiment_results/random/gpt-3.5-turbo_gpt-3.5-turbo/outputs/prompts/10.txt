@@ -1,0 +1,39 @@
+**Task:** Classify the given text from a chat conversation in an online community and assign it to one of the predefined categories: "toxic" or "clean". Provide a reasoning for the prediction in the specified JSON format, enclosed within a Markdown code block (between ```json and ```).
+
+**Categories:** 
+
+- "toxic": Messages containing personal insults, offensive language, or disrespectful behavior.
+- "clean": Messages seeking help, asking questions, or engaging in a respectful and constructive manner.
+
+**Text:** <text>
+
+**Output format:**
+```json
+{
+"message": <original text>,
+"reason": <reason for prediction>,
+"predicted": <predicted category>,
+}
+```
+
+**Examples:**
+
+**Example 1:**
+**Text:** "Hey, could someone please explain how to solve this math problem?"
+```json
+{
+"message": "Hey, could someone please explain how to solve this math problem?",
+"reason": "The text is seeking help and is not offensive.",
+"predicted": "clean"
+}
+```
+
+**Example 2:**
+**Text:** "You're so dumb! Can't believe you don't understand this simple concept!"
+```json
+{
+"message": "You're so dumb! Can't believe you don't understand this simple concept!",
+"reason": "The text contains personal insults and is offensive.",
+"predicted": "toxic"
+}
+```

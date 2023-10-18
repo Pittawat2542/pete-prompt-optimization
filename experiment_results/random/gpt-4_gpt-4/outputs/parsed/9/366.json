@@ -1,0 +1,8 @@
+{
+  "message": "stupid morgana players",
+  "reason": "The message uses the term 'stupid' which is a derogatory term directed towards 'morgana players'. This is seen as offensive and uncivil behavior.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

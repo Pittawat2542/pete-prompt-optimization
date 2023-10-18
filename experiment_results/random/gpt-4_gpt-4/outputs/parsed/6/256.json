@@ -1,0 +1,8 @@
+{
+  "message": "Obligatory 'fuck Udyr'",
+  "reason": "The message contains a profanity directed towards 'Udyr', which can be seen as offensive and inappropriate. Therefore, the categorization as 'toxic' is justified.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

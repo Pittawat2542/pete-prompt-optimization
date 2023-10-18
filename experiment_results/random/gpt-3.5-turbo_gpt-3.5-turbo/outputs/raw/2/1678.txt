@@ -1,0 +1,5 @@
+{
+  "message": "danucdHypePrime",
+  "reason": "The message does not contain any explicit or offensive language.",
+  "predicted": "clean"
+}

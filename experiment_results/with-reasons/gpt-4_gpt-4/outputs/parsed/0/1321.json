@@ -1,0 +1,8 @@
+{
+  "message": "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG",
+  "reason": "The message contains non-offensive words and seems to be a series of emoticons or usernames, which doesn't contain any harmful or toxic content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,5 @@
+{
+"message": "My sens is irrelevant to you, do what's comfortable for you. Copying other people's sens won't make you good at the game, we have different length arms and grips and different resistance mousepads / mouse feet - some mouse sensors are even different.",
+"reason": "The message is not offensive or disrespectful. It is providing advice and discussing the differences in gaming equipment.",
+"predicted": "clean"
+}

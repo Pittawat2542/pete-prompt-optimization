@@ -1,0 +1,7 @@
+```json
+{
+"message": "IDIOT STOP COMPLAINING LUILW",
+"reason": "The message uses a derogatory term 'IDIOT' directed towards an individual, which is considered offensive and inappropriate. The overall tone of the message is also aggressive and uncivil.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "who the FUCK plays asol i BAN aury sol",
+  "reason": "The message contains a strong language which can be considered as offensive or aggressive.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

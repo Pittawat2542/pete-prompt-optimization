@@ -1,0 +1,5 @@
+{
+  "message": "Iâ€™m married to the game and the game is league of legends and I want a divorce",
+  "reason": "The message expresses negative emotions and a desire to end the relationship with the game.",
+  "predicted": "toxic"
+}

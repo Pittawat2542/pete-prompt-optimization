@@ -1,0 +1,7 @@
+```json
+{
+"message": "PepeLaugh",
+"reason": "The message 'PepeLaugh' is a popular emote used in online communities, particularly on Twitch, to indicate laughter or amusement. It does not contain any obscenities, defamatory remarks, offensive/discriminatory language, threats, harassment, or bullying. Therefore, it's defined as a 'clean' message.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "get out rogue",
+  "reason": "The message is aggressive and unwelcoming, which can be considered as toxic behavior in an online community.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

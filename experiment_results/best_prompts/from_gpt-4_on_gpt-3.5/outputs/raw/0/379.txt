@@ -1,0 +1,7 @@
+```json
+{
+"message": "fuck that champion and his entire bullshit kit",
+"reason": "The message contains offensive language and disrespectful sentiments towards the champion and his abilities.",
+"predicted": "toxic"
+}
+```

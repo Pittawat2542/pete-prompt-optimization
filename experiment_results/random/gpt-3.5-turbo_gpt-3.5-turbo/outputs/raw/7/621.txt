@@ -1,0 +1,5 @@
+{
+"message": "PepeLaugh",
+"reason": "The message contains an emote commonly used to express laughter or amusement. It does not contain any personal insults, offensive language, or disrespectful behavior.",
+"predicted": "clean"
+}

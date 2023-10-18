@@ -1,0 +1,9 @@
+Prediction result: The model identifies the use of profanity or strong language as a sign of toxicity.
+
+```json
+{
+"message": "@buttery_butt1094 YEAH shit funny af",
+"reason": "The message contains strong language which is considered as a sign of toxicity according to the prediction model.",
+"predicted": "toxic"
+}
+```

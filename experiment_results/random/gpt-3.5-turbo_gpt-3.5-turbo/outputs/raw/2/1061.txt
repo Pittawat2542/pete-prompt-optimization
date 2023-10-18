@@ -1,0 +1,5 @@
+{
+  "message": "Melanie is in hell now",
+  "reason": "The message contains negative and potentially harmful language.",
+  "predicted": "toxic"
+}

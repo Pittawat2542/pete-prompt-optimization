@@ -1,0 +1,5 @@
+{
+"message": "did u like that solo ranked @ibiza",
+"reason": "The message is asking for someone's opinion on a game and does not contain any offensive language.",
+"predicted": "clean"
+}

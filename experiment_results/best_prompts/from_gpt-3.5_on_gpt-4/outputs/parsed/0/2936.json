@@ -1,0 +1,8 @@
+{
+  "message": "SUCK",
+  "reason": "The model predicts the message to be toxic with a high confidence of 0.85.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

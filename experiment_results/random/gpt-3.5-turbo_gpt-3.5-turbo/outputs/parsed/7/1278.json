@@ -1,0 +1,8 @@
+{
+  "message": "EZ GG",
+  "reason": "The message contains the abbreviation 'EZ' which is often used in online gaming to taunt or mock opponents. This can be considered disrespectful and offensive.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

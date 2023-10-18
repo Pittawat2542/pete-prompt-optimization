@@ -1,0 +1,7 @@
+```json
+{
+"message": "PLAY SOME NIGHTCORE WEEB SHIT",
+"reason": "The message contains a derogatory term 'weeb' and a profanity 'shit', which are considered offensive and inappropriate.",
+"predicted": "toxic"
+}
+```

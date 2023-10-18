@@ -1,0 +1,8 @@
+{
+  "message": "@drsoils no need to be sorry, I liked it. LOL",
+  "reason": "The message is not offensive and does not contain any personal insults. It is a positive response with the use of 'LOL' indicating humor.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

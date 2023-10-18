@@ -1,0 +1,8 @@
+{
+  "message": "Quite the shit",
+  "reason": "The message uses a vulgar term which can be seen as offensive or inappropriate. The context or target of the message is not clear, but the language used is generally considered to be in bad taste.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

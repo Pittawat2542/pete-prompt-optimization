@@ -1,0 +1,7 @@
+```json
+{
+  "message": "@Yamikazexz who's your twitch crush? like a female streamer not taco LUL",
+  "reason": "The message is asking for the user's crush on Twitch, specifically a female streamer. The use of 'not taco LUL' suggests that the user is not interested in a male streamer. While the message may not be explicitly offensive, it objectifies female streamers and excludes male streamers, which can be considered toxic behavior.",
+  "predicted": "toxic"
+}
+```

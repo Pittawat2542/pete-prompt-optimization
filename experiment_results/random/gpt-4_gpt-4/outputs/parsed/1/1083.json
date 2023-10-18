@@ -1,0 +1,8 @@
+{
+  "message": "They suck",
+  "reason": "The message contains a derogatory term directed at an unspecified group, categorised as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

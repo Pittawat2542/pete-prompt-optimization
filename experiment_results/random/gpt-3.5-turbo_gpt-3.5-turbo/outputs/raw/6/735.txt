@@ -1,0 +1,5 @@
+{
+"message": "I mean Camille and Sett do so much True Damage so who cares about armor",
+"reason": "The message is discussing game mechanics and does not contain any offensive language or personal insults.",
+"predicted": "clean"
+}

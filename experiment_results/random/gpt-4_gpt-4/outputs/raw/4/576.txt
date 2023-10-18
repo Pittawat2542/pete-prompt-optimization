@@ -1,0 +1,7 @@
+```json
+{
+"message": "hi yamikaze do you know enthralled?",
+"reason": "The message is a simple question and does not contain any obscenities, offensive language, threats, or any form of inappropriate content. Therefore, it's defined as a 'clean' message.",
+"predicted": "clean"
+}
+```

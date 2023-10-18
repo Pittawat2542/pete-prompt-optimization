@@ -1,0 +1,7 @@
+```json
+{
+"message": "alisaGG alisaGG alisaGG alisaGG naught14Luv naught14Luv naught14Nuts naught14Nuts naught14Nuts naught14Luv naught14Nuts naught14Luv naught14Nuts",
+"reason": "The message seems to be a repetition of usernames or codes and does not contain any explicit, offensive, or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior.",
+"predicted": "clean"
+}
+```

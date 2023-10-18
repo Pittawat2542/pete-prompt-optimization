@@ -1,0 +1,8 @@
+{
+  "message": "@RiotSupport hi is there any update when riot will make a new and usable client for league of legends? Thanks",
+  "reason": "The message is respectful and does not contain offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

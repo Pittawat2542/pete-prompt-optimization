@@ -1,0 +1,8 @@
+{
+  "message": "Fuck, I just died by the twitch. look at death recap",
+  "reason": "The message contains offensive language ('fuck') and expresses frustration and anger towards the situation.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

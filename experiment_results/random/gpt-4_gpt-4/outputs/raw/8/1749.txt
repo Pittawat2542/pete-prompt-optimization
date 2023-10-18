@@ -1,0 +1,7 @@
+```json
+{
+"message": "Well,rip clips alisaYikes",
+"reason": "The message does not contain any explicit, offensive or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior. The term 'Yikes' might be interpreted as a mild expression of surprise or alarm, but it is not inherently toxic or offensive.",
+"predicted": "clean"
+}
+```

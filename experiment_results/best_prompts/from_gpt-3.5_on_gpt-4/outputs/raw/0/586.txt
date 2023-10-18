@@ -1,0 +1,9 @@
+"Prediction result": The model predicts this text as "clean" with a 98% confidence score.
+
+```json
+{
+"message": "YAMI STOP YOU'RE GOOD",
+"reason": "The model predicts this text as 'clean' with a 98% confidence score. The message does not contain any offensive or harmful language.",
+"predicted": "clean"
+}
+```

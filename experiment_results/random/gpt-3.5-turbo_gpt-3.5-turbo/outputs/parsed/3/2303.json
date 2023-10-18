@@ -1,0 +1,8 @@
+{
+  "message": "hello sir how are u",
+  "reason": "The message is a simple greeting and inquiry about the recipient's well-being. It does not contain any offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

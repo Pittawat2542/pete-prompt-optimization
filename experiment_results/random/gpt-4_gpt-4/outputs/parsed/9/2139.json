@@ -1,0 +1,8 @@
+{
+  "message": "ha ha ha comms",
+  "reason": "The message is simply a laughter expression followed by a short form for 'communications'. There are no offensive or inappropriate words, derogatory remarks, or uncivil behavior.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

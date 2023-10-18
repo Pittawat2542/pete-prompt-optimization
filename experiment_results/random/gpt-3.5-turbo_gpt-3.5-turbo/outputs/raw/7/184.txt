@@ -1,0 +1,5 @@
+{
+"message": "you mean blind pick?",
+"reason": "The message is asking for clarification and is not offensive.",
+"predicted": "clean"
+}

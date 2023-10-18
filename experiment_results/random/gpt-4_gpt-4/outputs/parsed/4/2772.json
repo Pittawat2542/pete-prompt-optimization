@@ -1,0 +1,8 @@
+{
+  "message": "@keckzn have a time out, come back when you're done saying dumb shit",
+  "reason": "The message contains offensive language and is disrespectful towards the user it is directed at. This can be seen as a form of online bullying or harassment.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

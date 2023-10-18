@@ -1,0 +1,8 @@
+{
+  "message": "I'm safe for now so fuck you guys",
+  "reason": "The message contains offensive language ('fuck you guys') which is disrespectful and aggressive.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

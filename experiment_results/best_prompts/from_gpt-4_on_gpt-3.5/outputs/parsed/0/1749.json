@@ -1,0 +1,8 @@
+{
+  "message": "Well,rip clips alisaYikes",
+  "reason": "The message contains offensive language ('rip' and 'Yikes') and does not maintain a polite and respectful tone.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

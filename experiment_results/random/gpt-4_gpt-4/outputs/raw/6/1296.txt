@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdRespect danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance danucdDance2 danucdDance danucdDance2 danucdDance danucdDance2 danucdDance forsenPls SourPls",
+"reason": "The message consists of repeated phrases, which seem to be usernames or specific codes used in the context of the online forum. There is no use of offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+"predicted": "clean"
+}
+```

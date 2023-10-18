@@ -1,0 +1,7 @@
+```json
+{
+"message": "you need to say niu bi instead of number one",
+"reason": "The message is instructive and does not contain any explicit, offensive or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior. 'Niu bi' is a Chinese slang term that translates to 'awesome' or 'very good', and is not offensive in nature.",
+"predicted": "clean"
+}
+```

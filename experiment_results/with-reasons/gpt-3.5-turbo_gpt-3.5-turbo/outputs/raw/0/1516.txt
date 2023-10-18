@@ -1,0 +1,7 @@
+```json
+{
+  "message": "!hs",
+  "reason": "The message consists of only two characters, which are special characters. It does not contain any meaningful content or context.",
+  "predicted": "clean"
+}
+```

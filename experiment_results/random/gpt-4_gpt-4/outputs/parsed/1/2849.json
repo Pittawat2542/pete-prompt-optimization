@@ -1,0 +1,8 @@
+{
+  "message": "Stupid decisions mean stupid result",
+  "reason": "The message uses the term 'stupid' which can be considered as offensive or rude.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "!subs",
+"reason": "The message '!subs' does not contain any explicit, offensive, or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior. It appears to be a command or a shorthand notation used in web-based platforms, possibly related to subscribing to a channel or a service.",
+"predicted": "clean"
+}
+```

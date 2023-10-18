@@ -1,0 +1,7 @@
+```json
+{
+"message": "No solo ranked in SEA DED",
+"reason": "The message does not contain any offensive, rude, abusive, or disrespectful language. It is a simple statement expressing disappointment or frustration about the absence of solo ranked games in the Southeast Asia region.",
+"predicted": "clean"
+}
+```

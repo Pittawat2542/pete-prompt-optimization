@@ -1,0 +1,8 @@
+{
+  "message": "shady as hell",
+  "reason": "The message uses a negative tone and could be interpreted as offensive or disrespectful, depending on the context. The term 'shady' is often used to describe dishonest or untrustworthy behavior, and 'hell' is a strong term that can be considered as profanity in certain contexts.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

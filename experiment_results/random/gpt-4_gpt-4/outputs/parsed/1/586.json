@@ -1,0 +1,8 @@
+{
+  "message": "YAMI STOP YOU'RE GOOD",
+  "reason": "The message seems to be encouraging or complimenting someone, and does not contain any offensive or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

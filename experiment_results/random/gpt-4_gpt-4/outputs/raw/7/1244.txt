@@ -1,0 +1,7 @@
+```json
+{
+"message": "white_medium_star:",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory comments, discriminatory language, or instances of disrespectful behavior.",
+"predicted": "clean"
+}
+```

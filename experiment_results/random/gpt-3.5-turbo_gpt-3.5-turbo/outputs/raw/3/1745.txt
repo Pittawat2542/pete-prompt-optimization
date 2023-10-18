@@ -1,0 +1,7 @@
+```json
+{
+  "message": "WeirdChamp",
+  "reason": "The term 'WeirdChamp' is often used in online communities to express disapproval or mockery. It can be considered toxic as it is intended to belittle or insult someone or something.",
+  "predicted": "toxic"
+}
+```

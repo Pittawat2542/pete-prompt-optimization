@@ -1,0 +1,8 @@
+{
+  "message": "gg",
+  "reason": "The message consists of the abbreviation 'gg', which is commonly used in online gaming to mean 'good game'. It is a positive and sportsmanlike expression, indicating that the game was enjoyable or well-played. Therefore, the message is not offensive.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

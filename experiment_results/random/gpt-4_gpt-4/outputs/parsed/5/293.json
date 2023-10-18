@@ -1,0 +1,8 @@
+{
+  "message": "then ezreal says shut the fuck up mutedthen they both die to the first gank of the game 10 seconds after it was warnedand then they say jungle diff",
+  "reason": "The message contains explicit language ('shut the fuck up') which is offensive and inappropriate. This language is used in a derogatory manner, making the message toxic.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

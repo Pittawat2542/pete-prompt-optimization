@@ -1,0 +1,5 @@
+{
+"message": "In 12 mins",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It is a short statement that does not fall into the category of seeking help or asking questions. Therefore, it can be classified as a clean message.",
+"predicted": "clean"
+}

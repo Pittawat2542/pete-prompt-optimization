@@ -1,0 +1,7 @@
+```json
+{
+"message": "you W'd there because you were anticipating flash 4Head",
+"reason": "The message contains a sarcastic emote '4Head' which is commonly used in online communities to mock or make fun of someone. This sarcastic tone can be considered toxic.",
+"predicted": "toxic"
+}
+```

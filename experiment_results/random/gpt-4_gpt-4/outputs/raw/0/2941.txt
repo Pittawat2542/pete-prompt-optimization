@@ -1,0 +1,7 @@
+```json
+{
+"message": "wtffffffffffffff",
+"reason": "The message contains an excessive use of 'f' which is often used to express frustration or anger in an aggressive manner.",
+"predicted": "toxic",
+}
+```

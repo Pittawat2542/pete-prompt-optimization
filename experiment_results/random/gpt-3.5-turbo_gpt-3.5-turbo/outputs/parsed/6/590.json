@@ -1,0 +1,8 @@
+{
+  "message": "nb3LUL nb3LUL nb3LUL",
+  "reason": "The message consists of repeated characters and does not convey any meaningful information. It is likely spam or trolling.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

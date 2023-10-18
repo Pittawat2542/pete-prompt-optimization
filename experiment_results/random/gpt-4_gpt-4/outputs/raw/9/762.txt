@@ -1,0 +1,7 @@
+```json
+{
+"message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior. It seems to be a comment about a game, possibly referring to a player's score or achievement.",
+"predicted": "clean"
+}
+```

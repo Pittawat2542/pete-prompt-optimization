@@ -1,0 +1,7 @@
+```json
+{
+  "message": "smd",
+  "reason": "The text message contains an offensive acronym, which is considered toxic and disrespectful.",
+  "predicted": "toxic"
+}
+```

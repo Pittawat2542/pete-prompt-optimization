@@ -1,0 +1,8 @@
+{
+  "message": "1G$",
+  "reason": "The message is ambiguous and unclear, it does not contain offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

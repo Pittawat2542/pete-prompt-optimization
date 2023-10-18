@@ -1,0 +1,8 @@
+{
+  "message": "the hell is a karak?",
+  "reason": "The message contains offensive language, specifically the word 'hell'. It can be considered inappropriate and offensive in certain contexts. Therefore, the message is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

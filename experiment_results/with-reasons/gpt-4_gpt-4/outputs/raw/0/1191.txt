@@ -1,0 +1,7 @@
+```json
+{
+"message": "Still waitin for update on xbox I'm buying on pc next week annoyed lol",
+"reason": "The message is expressing frustration about a delayed update but it does not contain any offensive or harmful content.",
+"predicted": "clean",
+}
+```

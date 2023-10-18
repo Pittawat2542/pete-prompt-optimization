@@ -1,0 +1,8 @@
+{
+  "message": "Fuck, I just died by the twitch.",
+  "reason": "The message contains a swear word, which is considered inappropriate and offensive language. Therefore, the 'toxic' categorization is warranted.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

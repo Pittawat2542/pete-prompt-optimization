@@ -1,0 +1,9 @@
+Prediction result: The model predicts this message as "clean" with a 98% probability.
+
+```json
+{
+"message": "@adooool18 on the way danucdSaspisas",
+"reason": "The message does not contain any offensive, disrespectful or inappropriate language. It seems to be a normal conversation or comment in an online community.",
+"predicted": "clean"
+}
+```

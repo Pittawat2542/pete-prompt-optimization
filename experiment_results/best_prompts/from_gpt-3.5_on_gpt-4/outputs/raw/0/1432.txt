@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be non-toxic with a 98% probability.
+
+```json
+{
+"message": "@Scoom danucdRespect mitKalp",
+"reason": "The message is predicted to be non-toxic with a 98% probability. It seems to be a friendly interaction or shoutout to other users, without any offensive or harmful language.",
+"predicted": "clean"
+}
+```

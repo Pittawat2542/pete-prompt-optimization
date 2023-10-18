@@ -1,0 +1,7 @@
+```json
+{
+"message": "NotLikeThis danucdFacepalm chat",
+"reason": "The message contains a combination of words and phrases that are commonly used in toxic or negative contexts, such as 'NotLikeThis' and 'Facepalm'. These words suggest frustration or disappointment, which can contribute to a toxic tone.",
+"predicted": "toxic"
+}
+```

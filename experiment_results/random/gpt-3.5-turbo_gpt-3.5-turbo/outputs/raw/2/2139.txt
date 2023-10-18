@@ -1,0 +1,5 @@
+{
+  "message": "ha ha ha comms",
+  "reason": "The message contains positive laughter and the word 'comms', which is likely a short form of 'communications'. There is no indication of any toxic or offensive content.",
+  "predicted": "clean"
+}

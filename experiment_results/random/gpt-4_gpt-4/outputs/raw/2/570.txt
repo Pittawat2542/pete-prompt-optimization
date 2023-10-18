@@ -1,0 +1,7 @@
+```json
+{
+"message": "you W'd there because you were anticipating flash 4Head",
+"reason": "The message does not contain any obscenities, defamatory remarks, offensive or discriminatory language, or any other forms of inappropriate content. It appears to be a comment on a gaming strategy or move.",
+"predicted": "clean"
+}
+```

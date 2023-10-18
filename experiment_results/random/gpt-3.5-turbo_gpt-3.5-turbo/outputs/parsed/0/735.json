@@ -1,0 +1,8 @@
+{
+  "message": "I mean Camille and Sett do so much True Damage so who cares about armor",
+  "reason": "The message contains a dismissive tone and implies a disregard for the importance of armor in the game.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

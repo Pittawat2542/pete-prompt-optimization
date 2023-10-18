@@ -1,0 +1,5 @@
+{
+"message": "fessn1 all the clips got deleted to prevent dmca strikes, so theres no command at the moment",
+"reason": "The message is providing information and is not offensive.",
+"predicted": "clean"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "@guccixslaya cheaters suck hard tho",
+  "reason": "The message uses a derogatory term 'suck' to express a negative opinion about 'cheaters'. This can be seen as offensive and uncivil, hence the 'toxic' categorization is warranted.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

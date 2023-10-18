@@ -1,0 +1,8 @@
+{
+  "message": "he said frist time FPP",
+  "reason": "The message contains unclear and potentially offensive language. It is difficult to determine the exact meaning of the message, but it could be interpreted as disrespectful or derogatory.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "DendiFace gg",
+  "reason": "The message is a combination of a popular Twitch emote 'DendiFace' and 'gg' which is a common abbreviation for 'good game'. There is no offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

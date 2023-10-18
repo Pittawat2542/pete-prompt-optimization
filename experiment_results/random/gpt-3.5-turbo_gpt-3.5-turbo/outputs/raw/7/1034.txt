@@ -1,0 +1,5 @@
+{
+"message": "cod is crap which one?",
+"reason": "The message contains offensive language ('crap') and is disrespectful.",
+"predicted": "toxic"
+}

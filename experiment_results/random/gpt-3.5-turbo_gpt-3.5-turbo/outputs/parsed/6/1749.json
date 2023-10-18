@@ -1,0 +1,8 @@
+{
+  "message": "Well,rip clips alisaYikes",
+  "reason": "The message does not contain any offensive language or personal insults. It appears to be a random statement without any harmful intent.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

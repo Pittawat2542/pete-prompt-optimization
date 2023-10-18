@@ -1,0 +1,7 @@
+```json
+{
+"message": "this suck",
+"reason": "The message uses negative language, which can be interpreted as a form of uncivil behavior. However, it does not contain explicit offensive language, derogatory remarks, or discriminatory speech.",
+"predicted": "toxic"
+}
+```

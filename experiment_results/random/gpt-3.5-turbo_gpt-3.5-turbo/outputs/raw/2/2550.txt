@@ -1,0 +1,5 @@
+{
+  "message": "hamb10 hamb10",
+  "reason": "The message consists of repetitive text without any context or meaningful content.",
+  "predicted": "toxic"
+}

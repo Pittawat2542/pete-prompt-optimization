@@ -1,0 +1,7 @@
+```json
+{
+"message": "5Head",
+"reason": "The message does not contain any offensive or toxic language. It appears to be a slang term used in online communities to express a clever or intelligent thought.",
+"predicted": "clean"
+}
+```

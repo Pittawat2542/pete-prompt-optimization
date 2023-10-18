@@ -1,0 +1,8 @@
+{
+  "message": "Maybe it?s talking about her smoothie PogChamp",
+  "reason": "The message is ambiguous and unclear, so it is classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

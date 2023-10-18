@@ -1,0 +1,5 @@
+{
+"message": "My mains were magic exo and the brawler",
+"reason": "The message is discussing game characters and does not contain any offensive language or insults.",
+"predicted": "clean"
+}

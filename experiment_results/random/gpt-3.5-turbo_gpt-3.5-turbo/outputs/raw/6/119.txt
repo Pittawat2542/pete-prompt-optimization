@@ -1,0 +1,5 @@
+{
+"message": "Hes deceptilvely tanky and does not give a hairy rats ass about CC.",
+"reason": "The message contains offensive language ('hairy rats ass') and is derogatory ('deceptilvely tanky').",
+"predicted": "toxic"
+}

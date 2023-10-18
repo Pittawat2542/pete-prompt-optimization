@@ -1,0 +1,8 @@
+{
+  "message": "Yami has inted 11650 times KEKW",
+  "reason": "The message contains derogatory language and implies that Yami intentionally fed or lost the game multiple times.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

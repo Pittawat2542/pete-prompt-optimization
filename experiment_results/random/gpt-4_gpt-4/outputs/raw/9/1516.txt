@@ -1,0 +1,7 @@
+```json
+{
+"message": "!hs",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or signs of uncivil behavior.",
+"predicted": "clean"
+}
+```

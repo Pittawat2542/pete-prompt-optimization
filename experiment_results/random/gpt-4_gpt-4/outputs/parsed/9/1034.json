@@ -1,0 +1,8 @@
+{
+  "message": "cod is crap which one?",
+  "reason": "The message uses a derogatory term 'crap' to describe something, which can be seen as offensive or inappropriate. This justifies the categorization as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

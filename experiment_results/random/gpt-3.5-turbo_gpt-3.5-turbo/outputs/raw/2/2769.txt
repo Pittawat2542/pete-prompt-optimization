@@ -1,0 +1,5 @@
+{
+  "message": "@drsoils no need to be sorry, I liked it. LOL",
+  "reason": "The message contains positive sentiment and a friendly tone.",
+  "predicted": "clean"
+}

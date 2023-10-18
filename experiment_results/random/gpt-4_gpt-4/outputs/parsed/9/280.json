@@ -1,0 +1,8 @@
+{
+  "message": "HOW THE HELL IS THIS AN A",
+  "reason": "The message contains the phrase 'HOW THE HELL' which is considered as a mild curse word and can be seen as offensive or inappropriate. The use of all capital letters can also be interpreted as shouting, which is generally considered uncivil behavior in online communication.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

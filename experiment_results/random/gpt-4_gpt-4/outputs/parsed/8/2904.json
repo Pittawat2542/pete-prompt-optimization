@@ -1,0 +1,8 @@
+{
+  "message": "its banana its banana",
+  "reason": "The message is a simple repetition of the phrase 'its banana'. It does not contain any explicit, offensive, or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior. Therefore, it is classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

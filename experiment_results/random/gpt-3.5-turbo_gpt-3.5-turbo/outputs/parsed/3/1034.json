@@ -1,0 +1,8 @@
+{
+  "message": "cod is crap which one?",
+  "reason": "The message contains a derogatory term ('crap') and is dismissive of the topic ('which one?').",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

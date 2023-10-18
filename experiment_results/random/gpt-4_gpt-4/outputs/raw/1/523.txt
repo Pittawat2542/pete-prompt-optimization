@@ -1,0 +1,7 @@
+```json
+{
+"message": "RT @PeterXinping: If You Want To Get Girls You Should Just Be Yourself! Unless Youâ€™re 5â€™8, No Muscles, 3000 Hours League Of Legends, Twitâ€¦",
+"reason": "The message is making a negative stereotype about people who are 5'8, have no muscles, and spend a lot of time playing video games, which can be seen as offensive and inappropriate.",
+"predicted": "toxic"
+}
+```

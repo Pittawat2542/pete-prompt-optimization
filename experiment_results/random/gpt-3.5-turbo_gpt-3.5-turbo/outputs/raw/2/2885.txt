@@ -1,0 +1,5 @@
+{
+  "message": "oh shit man... great stuff!",
+  "reason": "The message contains a profanity.",
+  "predicted": "toxic"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "PepeLaugh",
+  "reason": "The message is a reference to a popular internet meme and does not contain any offensive, rude, or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

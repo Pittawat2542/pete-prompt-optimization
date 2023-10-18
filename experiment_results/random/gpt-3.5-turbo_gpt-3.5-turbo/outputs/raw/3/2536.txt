@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Hey, I really enjoyed reading your article. It was very informative and well-written. Keep up the great work!",
+  "reason": "The message expresses a positive sentiment, complimenting the article and encouraging the author.",
+  "predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "oh shit man... great stuff!",
+  "reason": "The message contains a profanity ('shit'), which is generally considered offensive or inappropriate language. Despite the positive sentiment expressed in the latter part of the message ('great stuff!'), the use of profanity justifies classification as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

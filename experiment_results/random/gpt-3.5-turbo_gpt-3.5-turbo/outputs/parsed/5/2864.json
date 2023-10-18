@@ -1,0 +1,8 @@
+{
+  "message": "oh shit my boy is bigtime",
+  "reason": "The message contains profanity, but it is not clear if it is intended to be offensive or disrespectful. Therefore, it is classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

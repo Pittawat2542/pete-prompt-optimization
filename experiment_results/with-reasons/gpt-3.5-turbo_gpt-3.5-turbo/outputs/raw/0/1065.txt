@@ -1,0 +1,7 @@
+```json
+{
+  "message": "I suck at all but at least I dont die in the beginning smfh",
+  "reason": "The message contains negative language and derogatory terms ('suck' and 'smfh'), which indicate a toxic tone.",
+  "predicted": "toxic"
+}
+```

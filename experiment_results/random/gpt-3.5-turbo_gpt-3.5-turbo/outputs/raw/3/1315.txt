@@ -1,0 +1,7 @@
+```json
+{
+  "message": "alisaGG alisaGG alisaGG alisaGG naught14Luv naught14Luv naught14Nuts naught14Nuts naught14Nuts naught14Luv naught14Nuts naught14Luv naught14Nuts",
+  "reason": "The message contains repetitive and nonsensical words, which do not contribute to the conversation. It appears to be spam or trolling.",
+  "predicted": "toxic"
+}
+```

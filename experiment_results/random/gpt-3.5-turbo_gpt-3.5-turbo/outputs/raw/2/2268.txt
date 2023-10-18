@@ -1,0 +1,5 @@
+{
+  "message": "in a Payload game the other day one of the randoms started shooting grens at me",
+  "reason": "The message describes a negative experience where one of the players in a game intentionally shot grenades at the author. This behavior can be considered toxic as it disrupts the gameplay and negatively affects the author's experience.",
+  "predicted": "toxic"
+}

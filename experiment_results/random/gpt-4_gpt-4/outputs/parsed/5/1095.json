@@ -1,0 +1,8 @@
+{
+  "message": "the hell is a karak?",
+  "reason": "The message uses 'the hell' which is a mild form of swearing or offensive language. This phrase is often used to express frustration, disbelief, or confusion, and can be seen as disrespectful or impolite in a conversation.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

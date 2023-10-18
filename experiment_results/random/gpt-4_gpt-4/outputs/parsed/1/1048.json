@@ -1,0 +1,8 @@
+{
+  "message": "shady as hell",
+  "reason": "The message uses a negative tone but it does not contain offensive, rude, or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

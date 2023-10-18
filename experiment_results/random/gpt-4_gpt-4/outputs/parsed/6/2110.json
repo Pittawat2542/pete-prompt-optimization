@@ -1,0 +1,8 @@
+{
+  "message": "as you can see so clearly with those on low?",
+  "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a question or a statement, and without further context, it's hard to determine if it's meant to be sarcastic or genuine. However, based on the given text, it's not toxic.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

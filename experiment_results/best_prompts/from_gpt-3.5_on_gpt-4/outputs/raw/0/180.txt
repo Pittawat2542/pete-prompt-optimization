@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be toxic with a 90% probability.
+
+```json
+{
+"message": "my god the stupidity of people",
+"reason": "The message is classified as toxic because it contains a derogatory remark about people's intelligence, which can be offensive and disrespectful.",
+"predicted": "toxic"
+}
+```

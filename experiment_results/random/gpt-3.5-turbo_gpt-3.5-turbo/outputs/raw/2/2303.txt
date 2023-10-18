@@ -1,0 +1,5 @@
+{
+  "message": "hello sir how are u",
+  "reason": "The message is polite and friendly.",
+  "predicted": "clean"
+}

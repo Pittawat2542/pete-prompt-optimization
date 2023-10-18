@@ -1,0 +1,8 @@
+{
+  "message": "DendiFace gg",
+  "reason": "The message contains an offensive term ('gg') which is often used to mock or insult someone. This indicates a negative and toxic sentiment.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

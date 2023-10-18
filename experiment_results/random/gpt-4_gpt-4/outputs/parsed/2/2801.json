@@ -1,0 +1,8 @@
+{
+  "message": "@guccixslaya cheaters suck hard tho",
+  "reason": "The message includes a negative sentiment towards 'cheaters', but it does not contain obscenities, defamatory remarks, offensive or discriminatory language. Therefore, it is not considered toxic.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

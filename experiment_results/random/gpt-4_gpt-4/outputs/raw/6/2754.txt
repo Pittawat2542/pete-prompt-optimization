@@ -1,0 +1,7 @@
+```json
+{
+"message": "too E Z",
+"reason": "The message 'too E Z' is a common gaming slang which means 'too easy'. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+"predicted": "clean"
+}
+```

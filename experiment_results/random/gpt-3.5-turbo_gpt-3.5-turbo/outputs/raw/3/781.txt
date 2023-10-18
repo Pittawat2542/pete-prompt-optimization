@@ -1,0 +1,7 @@
+```json
+{
+  "message": "hes too smart",
+  "reason": "The message is short and does not provide any context. It could be interpreted as a compliment or an insult depending on the tone and relationship between the sender and recipient.",
+  "predicted": "clean"
+}
+```

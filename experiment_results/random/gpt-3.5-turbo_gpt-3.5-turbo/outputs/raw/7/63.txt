@@ -1,0 +1,5 @@
+{
+"message": "JESUS CHRIST",
+"reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It is a religious reference and does not violate any community guidelines.",
+"predicted": "clean"
+}

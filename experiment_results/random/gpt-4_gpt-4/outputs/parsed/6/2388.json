@@ -1,0 +1,8 @@
+{
+  "message": "LUL LUL LUL LUL LUL LUL LUL LUL",
+  "reason": "The message consists of the repeated use of 'LUL', which is an acronym for 'laugh out loud' in online communication. There is no use of offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

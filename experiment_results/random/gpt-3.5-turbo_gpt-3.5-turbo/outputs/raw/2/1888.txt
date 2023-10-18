@@ -1,0 +1,5 @@
+{
+  "message": "NotLikeThis danucdFacepalm chat",
+  "reason": "The message contains emotes and chat slang that may be considered toxic or negative.",
+  "predicted": "toxic"
+}

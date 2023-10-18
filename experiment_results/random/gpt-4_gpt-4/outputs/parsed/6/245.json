@@ -1,0 +1,8 @@
+{
+  "message": "oh fuck i got one of those omnistone bards in my ranked game",
+  "reason": "The message contains a profanity ('fuck') which is generally considered offensive and inappropriate in a public communication setting.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

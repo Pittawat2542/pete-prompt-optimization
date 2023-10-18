@@ -1,0 +1,5 @@
+{
+  "message": "@buttery_butt1094 YEAH shit funny af",
+  "reason": "The message contains offensive language ('shit')",
+  "predicted": "toxic"
+}

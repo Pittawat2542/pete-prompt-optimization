@@ -1,0 +1,8 @@
+{
+  "message": "absolute fucking bullshit",
+  "reason": "The message contains explicit and offensive language, which is considered disrespectful and inappropriate. Therefore, it falls under the 'toxic' category.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

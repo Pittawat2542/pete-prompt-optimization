@@ -1,0 +1,7 @@
+```json
+{
+"message": "BALANCED KEKW",
+"reason": "The message does not contain any explicit, offensive, or inappropriate language, insults, or discriminatory remarks. The term 'KEKW' is a popular internet slang term used to express laughter, often used in online gaming communities. It does not carry any offensive or disrespectful connotations.",
+"predicted": "clean"
+}
+```

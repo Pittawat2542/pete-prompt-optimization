@@ -1,0 +1,7 @@
+```json
+{
+"message": "@guccixslaya cheaters suck hard tho",
+"reason": "The message uses a negative tone and derogatory language ('suck hard') to express disapproval towards 'cheaters'. This can be seen as offensive and uncivil.",
+"predicted": "toxic"
+}
+```

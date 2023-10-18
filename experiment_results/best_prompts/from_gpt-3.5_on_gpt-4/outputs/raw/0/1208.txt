@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be non-toxic with a 99% probability.
+
+```json
+{
+"message": "hamit) Weather for Hamit, TR: Clear sky with a temperature of 21 C (69.8 F). Wind is blowing from the East at 10.3 kph (6.4 mph) and the humidity is 21%",
+"reason": "The message is simply providing weather information for a location and does not contain any offensive or harmful content. The model prediction also strongly supports this with a 99% probability of being non-toxic.",
+"predicted": "clean"
+}
+```

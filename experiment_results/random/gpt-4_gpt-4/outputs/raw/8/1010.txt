@@ -1,0 +1,7 @@
+```json
+{
+"message": "hmm I have never played this game, should I play squad or solo? fuck it lets play squad so i can fuck up my squadmates retard starter pack",
+"reason": "The message contains explicit language and derogatory terms, which are disrespectful and offensive. The user is also expressing an intent to negatively impact their potential squadmates in the game, which is a form of uncivil behavior.",
+"predicted": "toxic"
+}
+```

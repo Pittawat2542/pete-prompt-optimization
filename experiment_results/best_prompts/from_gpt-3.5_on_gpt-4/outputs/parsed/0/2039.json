@@ -1,0 +1,8 @@
+{
+  "message": "XD I am gonna get that catch-phrased I promise Tig lol",
+  "reason": "The message is friendly and humorous, with no signs of offensive or harmful content. The model prediction also strongly suggests that the message is non-toxic.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "@xDEEDAN bot danucdDanu2",
+  "reason": "The message contains usernames and mentions, but it does not contain any offensive or harmful language.",
+  "predicted": "clean"
+}

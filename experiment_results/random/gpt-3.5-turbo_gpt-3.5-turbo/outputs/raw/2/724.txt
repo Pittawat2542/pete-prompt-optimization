@@ -1,0 +1,5 @@
+{
+  "message": "(",
+  "reason": "The message consists of a single character which does not provide any context or meaning. It does not contain any toxic or offensive language.",
+  "predicted": "clean"
+}

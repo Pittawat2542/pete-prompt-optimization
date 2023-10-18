@@ -1,0 +1,8 @@
+{
+  "message": "All the subs because your bananas love you danucdBukulove mtgngHype @DanucD",
+  "reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or signs of uncivil behavior.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

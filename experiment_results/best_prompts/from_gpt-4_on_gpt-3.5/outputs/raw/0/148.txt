@@ -1,0 +1,7 @@
+```json
+{
+"message": "I dislike games where I carry and my team feeds ;/",
+"reason": "The message expresses a negative sentiment towards teammates and uses the term 'dislike' to convey dissatisfaction. Additionally, the phrase 'my team feeds' can be interpreted as blaming and disrespectful towards the team. Therefore, the message contains rude and disrespectful language.",
+"predicted": "toxic"
+}
+```

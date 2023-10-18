@@ -1,0 +1,8 @@
+{
+  "message": "Pepega",
+  "reason": "The message consists of a single word that does not provide any context or information. It is a popular emote used in Twitch chat to express sarcasm or mock someone's intelligence. However, without any additional context, it is difficult to determine the intent behind the message.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

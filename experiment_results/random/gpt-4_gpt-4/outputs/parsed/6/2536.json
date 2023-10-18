@@ -1,0 +1,8 @@
+{
+  "message": "!hype",
+  "reason": "The message '!hype' is a common term used in online communities, especially in live streaming platforms, to express excitement or enthusiasm. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

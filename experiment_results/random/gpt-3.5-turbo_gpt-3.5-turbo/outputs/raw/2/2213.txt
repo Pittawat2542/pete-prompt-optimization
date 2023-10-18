@@ -1,0 +1,5 @@
+{
+  "message": "how do you play with such high ping",
+  "reason": "The message is asking for advice or tips on how to deal with high ping in online gaming.",
+  "predicted": "clean"
+}

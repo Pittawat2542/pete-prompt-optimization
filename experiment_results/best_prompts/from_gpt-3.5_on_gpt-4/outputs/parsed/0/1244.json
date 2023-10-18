@@ -1,0 +1,8 @@
+{
+  "message": "white_medium_star:\u0001",
+  "reason": "The message contains a non-verbal symbol, which does not contain any offensive or harmful content. The model prediction also supports this with a 99% probability of being non-toxic.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

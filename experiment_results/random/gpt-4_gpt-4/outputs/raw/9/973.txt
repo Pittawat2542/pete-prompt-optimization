@@ -1,0 +1,7 @@
+```json
+{
+"message": "holy shit PogU",
+"reason": "The message contains the phrase 'holy shit' which is considered as a curse word and is generally seen as offensive. Therefore, the message is classified as 'toxic'.",
+"predicted": "toxic"
+}
+```

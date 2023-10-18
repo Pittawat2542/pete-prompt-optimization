@@ -1,0 +1,5 @@
+{
+"message": "why did pubg add this creepy shit?",
+"reason": "The message expresses dissatisfaction with a game feature, but does not contain personal insults or offensive language.",
+"predicted": "clean"
+}

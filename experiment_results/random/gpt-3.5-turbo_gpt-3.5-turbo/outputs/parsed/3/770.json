@@ -1,0 +1,8 @@
+{
+  "message": "Yami is my best friend",
+  "reason": "The message is a positive statement expressing a close friendship.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

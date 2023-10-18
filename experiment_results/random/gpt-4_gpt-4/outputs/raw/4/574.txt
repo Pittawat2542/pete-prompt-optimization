@@ -1,0 +1,7 @@
+```json
+{
+"message": "Yami has inted 11650 times KEKW",
+"reason": "The message does not contain any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. It seems to be a comment about a player's performance in a game, using gaming slang 'inted' which means intentionally feeding, and 'KEKW' which is a term used to express laughter. Therefore, it's defined as a 'clean' message.",
+"predicted": "clean"
+}
+```

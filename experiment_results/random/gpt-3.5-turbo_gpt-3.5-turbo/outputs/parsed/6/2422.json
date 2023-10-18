@@ -1,0 +1,8 @@
+{
+  "message": "Bose QC20 (apple version). Ibi uses in ears instead of a headset because he has to use in ears at LANs. This way he gets used to it ibiW",
+  "reason": "The message is discussing a specific product and the user's personal preference. It does not contain any offensive or toxic language.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

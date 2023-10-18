@@ -1,0 +1,7 @@
+```json
+{
+"message": "@Thebausffs just scared the shit out of my dog",
+"reason": "The message contains a mild profanity, but it is not directed at anyone or used in a derogatory or offensive manner. Therefore, it is not considered 'toxic'.",
+"predicted": "clean"
+}
+```

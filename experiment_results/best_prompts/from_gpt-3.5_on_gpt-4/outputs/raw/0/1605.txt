@@ -1,0 +1,10 @@
+Since the "Prediction result" section is not provided, I can't provide a specific classification. However, here is a general example of how the output should look like:
+
+```json
+{
+"message": "Nt",
+"reason": "The message 'Nt' does not contain any offensive, disrespectful or inappropriate language.",
+"predicted": "clean"
+}
+```
+Please replace the "reason" and "predicted" fields based on the information from the "Prediction result" section.

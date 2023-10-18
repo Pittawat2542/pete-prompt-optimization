@@ -1,0 +1,5 @@
+{
+  "message": "you can try this to them ciao nee mud",
+  "reason": "The message contains random words and does not convey any meaningful information.",
+  "predicted": "clean"
+}

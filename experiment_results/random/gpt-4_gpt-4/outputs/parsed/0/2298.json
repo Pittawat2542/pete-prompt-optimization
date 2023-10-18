@@ -1,0 +1,8 @@
+{
+  "message": "4X m249 op on sanhok",
+  "reason": "The message is related to a game strategy or tip, and does not contain any offensive or harmful content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

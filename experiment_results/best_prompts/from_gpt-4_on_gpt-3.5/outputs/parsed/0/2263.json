@@ -1,0 +1,8 @@
+{
+  "message": "you can try this to them ciao nee mud",
+  "reason": "The message contains unclear and potentially offensive language. It is difficult to determine the exact meaning and intent of the message, but it does not appear to be polite or respectful.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

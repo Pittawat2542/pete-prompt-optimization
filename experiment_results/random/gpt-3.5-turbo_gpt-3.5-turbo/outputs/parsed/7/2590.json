@@ -1,0 +1,8 @@
+{
+  "message": "114 kills again? you're a legend",
+  "reason": "The message is not offensive and does not contain personal insults. It is expressing admiration and praise.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

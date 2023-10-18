@@ -1,0 +1,8 @@
+{
+  "message": "ha ha ha",
+  "reason": "The message consists of laughter, which is not offensive, rude, abusive, or disrespectful. It does not contain any negative aspects and maintains a light-hearted tone.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

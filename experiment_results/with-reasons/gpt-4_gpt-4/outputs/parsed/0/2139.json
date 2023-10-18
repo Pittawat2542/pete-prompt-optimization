@@ -1,0 +1,8 @@
+{
+  "message": "ha ha ha comms",
+  "reason": "The message is a harmless comment, possibly referring to communication or a specific topic in the chat. It does not contain any offensive, disrespectful or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "700 true dmg on 1 Q there KEKW",
+"reason": "The message contains gaming jargon and abbreviations, indicating it is related to a game. It does not contain any offensive or toxic language.",
+"predicted": "clean"
+}
+```

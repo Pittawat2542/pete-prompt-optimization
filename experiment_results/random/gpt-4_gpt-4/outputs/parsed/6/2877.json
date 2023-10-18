@@ -1,0 +1,8 @@
+{
+  "message": "Good shit",
+  "reason": "The message contains a slang term that can be considered as profanity. Although it might be used in a positive context in some informal settings, it is generally seen as inappropriate in formal or public communication.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "IDIOT STOP COMPLAINING LUILW",
+  "reason": "The message contains a derogatory term 'IDIOT' aimed at an individual, which is offensive and inappropriate. The overall tone of the message is also aggressive and disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

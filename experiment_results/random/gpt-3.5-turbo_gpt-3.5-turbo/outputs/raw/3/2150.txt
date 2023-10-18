@@ -1,0 +1,7 @@
+```json
+{
+  "message": "rawryyLaugh NT NT",
+  "reason": "The message contains an ambiguous phrase that is difficult to interpret without context. It is not clear whether the message is toxic or clean.",
+  "predicted": "clean"
+}
+```

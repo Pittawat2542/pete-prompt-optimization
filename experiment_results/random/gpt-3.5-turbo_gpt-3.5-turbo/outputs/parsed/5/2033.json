@@ -1,0 +1,8 @@
+{
+  "message": "get out rogue",
+  "reason": "The message is ambiguous and could be interpreted as either a command or a statement. However, without further context, it is unclear if the message is intended to be offensive or disrespectful. Therefore, it is classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

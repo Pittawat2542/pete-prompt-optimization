@@ -1,0 +1,8 @@
+{
+  "message": "rawryyLaugh NT NT",
+  "reason": "The message does not contain any explicit, offensive or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior. It seems to be a non-contextual or random string of words and abbreviations.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

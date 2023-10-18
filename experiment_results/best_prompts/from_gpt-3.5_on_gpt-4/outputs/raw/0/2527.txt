@@ -1,0 +1,9 @@
+Prediction result: The model predicts this message as "clean" with a 98% confidence score. The message does not contain any offensive or harmful language. It seems to be a user tagging another user and repeating a phrase, possibly a catchphrase or an inside joke within the community.
+
+```json
+{
+"message": "@ty_gets_rekt eleven10Gooba eleven10Gooba eleven10Gooba",
+"reason": "The message is a user tagging another user and repeating a phrase, possibly a catchphrase or an inside joke within the community. It does not contain any offensive or harmful language.",
+"predicted": "clean"
+}
+```

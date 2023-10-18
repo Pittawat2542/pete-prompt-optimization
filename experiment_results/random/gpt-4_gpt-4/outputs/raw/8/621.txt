@@ -1,0 +1,7 @@
+```json
+{
+"message": "PepeLaugh",
+"reason": "The message 'PepeLaugh' is a popular emote used on platforms like Twitch, and it does not contain any explicit, offensive, or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior. Therefore, it is classified as 'clean'.",
+"predicted": "clean"
+}
+```

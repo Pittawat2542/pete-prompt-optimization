@@ -1,0 +1,8 @@
+{
+  "message": "DendiFace gg",
+  "reason": "The message is a gaming term and an emote name, which are not offensive or inappropriate.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

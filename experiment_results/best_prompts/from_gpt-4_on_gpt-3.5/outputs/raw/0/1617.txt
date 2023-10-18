@@ -1,0 +1,7 @@
+```json
+{
+"message": "Greetings from New Orleans",
+"reason": "The message is a simple greeting and does not contain any offensive, rude, abusive, or disrespectful language or sentiments.",
+"predicted": "clean"
+}
+```

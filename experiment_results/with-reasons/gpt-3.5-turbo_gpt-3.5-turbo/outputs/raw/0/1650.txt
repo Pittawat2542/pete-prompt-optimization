@@ -1,0 +1,7 @@
+```json
+{
+"message": "@adooool18 on the way danucdSaspisas",
+"reason": "The message contains a combination of random characters and does not make any coherent sense.",
+"predicted": "toxic"
+}
+```

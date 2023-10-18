@@ -1,0 +1,8 @@
+{
+  "message": "Who else hate their life?",
+  "reason": "The message expresses negative emotions and could be seen as seeking support or help, rather than being toxic or offensive.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "the hell was that",
+  "reason": "The message includes a mild obscenity, which can be considered as inappropriate language in a formal or respectful conversation.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

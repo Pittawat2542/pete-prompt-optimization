@@ -1,0 +1,7 @@
+```json
+{
+"message": "@jrrod91 do you think a new clip is a spam",
+"reason": "The message is a question asking for an opinion and does not contain offensive or disrespectful language.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "fuck support yuumi",
+"reason": "The message contains a profanity at the beginning, which is directed towards a character or player in a game. This is considered offensive and inappropriate language.",
+"predicted": "toxic"
+}
+```

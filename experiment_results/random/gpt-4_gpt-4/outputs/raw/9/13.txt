@@ -1,0 +1,7 @@
+```json
+{
+"message": "love how i cant win even with me playing well",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior. It seems to express frustration or disappointment, but does so without resorting to toxic language.",
+"predicted": "clean"
+}
+```

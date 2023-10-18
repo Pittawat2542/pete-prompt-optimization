@@ -1,0 +1,7 @@
+```json
+{
+"message": "Who else hate their life?",
+"reason": "The message does not contain obscenities, defamatory remarks, offensive or discriminatory language, or other forms of inappropriate content. However, it does express a negative sentiment, but this alone does not qualify it as toxic.",
+"predicted": "clean"
+}
+```

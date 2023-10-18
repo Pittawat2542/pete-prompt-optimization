@@ -1,0 +1,7 @@
+```json
+{
+"message": "@Tomshepmx going fucking great, you mate?",
+"reason": "The message contains a profanity which is generally considered as offensive and inappropriate in a formal communication setting. Despite the overall positive sentiment of the message, the use of such language can be seen as a form of incivility.",
+"predicted": "toxic"
+}
+```

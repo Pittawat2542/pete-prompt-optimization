@@ -1,0 +1,8 @@
+{
+  "message": "EZ GG",
+  "reason": "The message consists of two common terms used in multiplayer online games. 'EZ' stands for 'easy' and 'GG' stands for 'good game'. These terms are often used to mock or taunt opponents after an easy victory. Therefore, the message can be classified as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,5 @@
+{
+"message": "i def. get the phantom footsteps",
+"reason": "The message does not contain any offensive language or personal insults. It seems to be a casual comment about experiencing phantom footsteps.",
+"predicted": "clean"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Does ranked solos have 100 players? @hambinooo",
+  "reason": "The message is a simple question about a game, it doesn't contain any offensive or harmful content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

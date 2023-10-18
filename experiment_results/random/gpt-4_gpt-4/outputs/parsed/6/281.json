@@ -1,0 +1,8 @@
+{
+  "message": "Like the fuck am i gonna do with that info",
+  "reason": "The message contains profanity and expresses a negative, dismissive attitude towards the information received, which can be seen as a form of incivility.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

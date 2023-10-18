@@ -1,0 +1,7 @@
+```json
+{
+"message": "shit is so cringe and over done",
+"reason": "The message uses a profanity ('shit') and expresses a negative sentiment, which can be seen as offensive or inappropriate in a civil conversation.",
+"predicted": "toxic"
+}
+```

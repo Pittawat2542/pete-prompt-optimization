@@ -1,0 +1,8 @@
+{
+  "message": "she's listening through the door, shut the fuck up dad",
+  "reason": "The message contains strong language which is considered disrespectful and offensive, hence it is classified as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

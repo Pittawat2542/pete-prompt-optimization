@@ -1,0 +1,8 @@
+{
+  "message": "Hell no ew",
+  "reason": "The message uses strong negative language, but it does not contain any offensive or inappropriate content, derogatory comments, prejudiced language, or profanity. The expression of incivility is also not clear.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "toxic",
+  "reason": "The message contains the word 'toxic', which is often associated with negative and harmful behavior.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

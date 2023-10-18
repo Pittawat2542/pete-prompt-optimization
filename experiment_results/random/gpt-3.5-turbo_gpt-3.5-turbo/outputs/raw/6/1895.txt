@@ -1,0 +1,5 @@
+{
+"message": "Support always",
+"reason": "The message is positive and supportive, and does not contain any offensive or toxic language.",
+"predicted": "clean"
+}

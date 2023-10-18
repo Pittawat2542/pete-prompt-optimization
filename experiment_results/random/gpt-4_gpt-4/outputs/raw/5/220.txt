@@ -1,0 +1,7 @@
+```json
+{
+"message": "Fuck up a turret dive as graves and went afk",
+"reason": "The message contains a swear word which is considered offensive and inappropriate. Therefore, the message is classified as 'toxic'.",
+"predicted": "toxic"
+}
+```

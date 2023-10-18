@@ -1,0 +1,8 @@
+{
+  "message": "who the fuck uses D for flashbanning whoever says me",
+  "reason": "The message contains offensive language and is disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

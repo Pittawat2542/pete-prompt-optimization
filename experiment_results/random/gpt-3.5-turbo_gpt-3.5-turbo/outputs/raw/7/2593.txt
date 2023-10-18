@@ -1,0 +1,5 @@
+{
+"message": "i def. get the phantom footsteps",
+"reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It is a simple statement and does not seek help or ask questions. Therefore, it can be classified as a clean message.",
+"predicted": "clean"
+}

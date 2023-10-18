@@ -1,0 +1,8 @@
+{
+  "message": "emojis here suck tbh",
+  "reason": "The message expresses a negative opinion about emojis, but it does not contain personal insults, offensive language, or disrespectful behavior. It is a subjective statement and does not seek help or engage in a constructive manner.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

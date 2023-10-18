@@ -1,0 +1,7 @@
+```json
+{
+"message": "In 12 mins",
+"reason": "The message is a simple time reference and does not contain any offensive, rude, or inappropriate content.",
+"predicted": "clean"
+}
+```

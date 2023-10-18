@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be "toxic" with a confidence of 0.85.
+
+```json
+{
+"message": "Have you tried sleeping ass up?",
+"reason": "The model classified the message as toxic due to the use of potentially offensive or inappropriate language.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "MsRoselyn nairidHerz nairidHerz danucdHi parunaHi",
+  "reason": "The message does not contain any offensive language or toxic behavior.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

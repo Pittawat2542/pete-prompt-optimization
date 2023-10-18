@@ -1,0 +1,8 @@
+{
+  "message": "so he decided its my fault and wanted to ruin everyons game",
+  "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or profanity. It seems to be a statement about a disagreement or misunderstanding in a game context.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

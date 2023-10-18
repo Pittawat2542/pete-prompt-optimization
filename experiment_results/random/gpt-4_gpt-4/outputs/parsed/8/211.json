@@ -1,0 +1,8 @@
+{
+  "message": "70 mana for that shit",
+  "reason": "The message contains a slang term that can be considered as vulgar or offensive. The term 'shit' is often seen as inappropriate language, which justifies the 'toxic' classification.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

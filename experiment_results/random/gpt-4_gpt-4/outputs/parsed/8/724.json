@@ -1,0 +1,8 @@
+{
+  "message": "I really appreciate your help with the project.",
+  "reason": "The message is expressing gratitude and appreciation, without any offensive or inappropriate language, insults, or disrespectful behavior.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

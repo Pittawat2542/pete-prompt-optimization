@@ -1,0 +1,8 @@
+{
+  "message": "you need to say niu bi instead of number one",
+  "reason": "The message is instructing the recipient to use a different phrase, 'niu bi', instead of 'number one'. There is no use of obscenities, defamatory remarks, offensive/discriminatory language, threats, harassment, or bullying. Therefore, it's defined as a 'clean' message.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

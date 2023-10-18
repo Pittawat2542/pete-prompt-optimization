@@ -1,0 +1,5 @@
+{
+"message": "@hf_spinach happy thursday!!",
+"reason": "The message is positive and does not contain any offensive language or disrespectful behavior.",
+"predicted": "clean"
+}

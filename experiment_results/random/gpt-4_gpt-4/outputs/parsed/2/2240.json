@@ -1,0 +1,8 @@
+{
+  "message": "you need to say niu bi instead of number one",
+  "reason": "The message does not contain any obscenities, defamatory remarks, offensive or discriminatory language, or other forms of inappropriate content. 'Niu bi' is a Chinese slang term that translates to 'awesome' or 'impressive', and is not considered offensive.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

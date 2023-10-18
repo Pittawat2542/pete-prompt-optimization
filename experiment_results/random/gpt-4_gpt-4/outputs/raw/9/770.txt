@@ -1,0 +1,7 @@
+```json
+{
+"message": "Yami is my best friend",
+"reason": "The message is a positive statement about a personal relationship, with no offensive or inappropriate language used. Therefore, it is classified as 'clean'.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "how are you banananas today",
+"reason": "The message is a simple, friendly inquiry about someone's day. It does not contain any offensive or inappropriate language, insults, or disrespectful behavior. The term 'banananas' could be a playful or humorous misspelling of 'bananas', but it does not carry any negative or harmful connotations in this context.",
+"predicted": "clean"
+}
+```

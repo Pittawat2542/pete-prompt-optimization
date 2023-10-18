@@ -1,0 +1,5 @@
+{
+"message": "no katarina in 0/5/2 we won't gank your yasuo",
+"reason": "The message does not contain personal insults, offensive language, or disrespectful behavior. It is a statement about the game strategy and does not violate any community guidelines.",
+"predicted": "clean"
+}

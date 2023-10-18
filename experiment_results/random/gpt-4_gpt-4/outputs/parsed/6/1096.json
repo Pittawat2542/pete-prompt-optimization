@@ -1,0 +1,8 @@
+{
+  "message": "Meebot is shit",
+  "reason": "The message uses a profanity to express a negative opinion about 'Meebot'. This can be seen as offensive and inappropriate language.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "PogChamp PogChamp PogChamp",
+  "reason": "The message consists of repeated use of the word 'PogChamp', which is a popular emote used to express excitement or hype in online gaming communities. It does not contain any offensive or toxic language.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

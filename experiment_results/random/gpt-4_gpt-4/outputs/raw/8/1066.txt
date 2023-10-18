@@ -1,0 +1,7 @@
+```json
+{
+"message": "Hell nahh",
+"reason": "The message uses informal language, but it does not contain any explicit, offensive, or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior. Therefore, it is classified as 'clean'.",
+"predicted": "clean"
+}
+```

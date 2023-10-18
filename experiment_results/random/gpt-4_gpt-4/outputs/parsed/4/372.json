@@ -1,0 +1,8 @@
+{
+  "message": "Cuz of that stupid strat",
+  "reason": "The message contains a derogatory term 'stupid' which is used to belittle or demean someone or something. This can be seen as offensive or disrespectful language.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Jesus, it's a warzone in that city monkaS",
+  "reason": "The message contains a negative sentiment and uses the term 'warzone' to describe the city, which implies a dangerous and chaotic situation.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,11 @@
+Classify the given "Message" from a chat in an online community into one of the specified categories. Provide a reason for the classification and format the output in the specified JSON format within a Markdown code block (between ```json and ```).
+
+Message: "I really enjoyed reading your article. It was well-written and informative."
+
+```json
+{
+  "message": "I really enjoyed reading your article. It was well-written and informative.",
+  "reason": "The message expresses positive feedback and appreciation for the article, without any offensive or harmful content.",
+  "predicted": "clean"
+}
+```

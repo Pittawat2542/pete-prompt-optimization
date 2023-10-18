@@ -1,0 +1,8 @@
+{
+  "message": "osu? woow",
+  "reason": "The message does not contain any offensive or toxic language. It seems to be a question or a statement related to the game 'osu'.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

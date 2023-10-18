@@ -1,0 +1,5 @@
+{
+  "message": "Pepega",
+  "reason": "The message contains a term that is often used in a derogatory manner to insult or mock someone.",
+  "predicted": "toxic"
+}

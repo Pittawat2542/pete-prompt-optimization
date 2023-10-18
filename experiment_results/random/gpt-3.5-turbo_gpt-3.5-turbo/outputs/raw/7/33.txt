@@ -1,0 +1,5 @@
+{
+"message": "well\na champ remains in the game forever so",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It does not seek help or ask questions either. Therefore, it can be classified as a clean message.",
+"predicted": "clean"
+}

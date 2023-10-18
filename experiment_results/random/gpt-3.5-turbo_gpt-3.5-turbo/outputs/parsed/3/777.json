@@ -1,0 +1,8 @@
+{
+  "message": "700 true dmg on 1 Q there KEKW",
+  "reason": "The message contains gaming jargon and an emote, indicating a conversation related to gaming. The phrase '700 true dmg on 1 Q there' suggests a discussion about a powerful attack in a game. The emote 'KEKW' is often used to express laughter or amusement. Overall, the message does not contain any offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

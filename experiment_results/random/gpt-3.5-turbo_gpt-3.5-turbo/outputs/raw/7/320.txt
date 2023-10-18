@@ -1,0 +1,5 @@
+{
+"message": "bruh what the fuck is this match making",
+"reason": "The message contains offensive language and is disrespectful.",
+"predicted": "toxic"
+}

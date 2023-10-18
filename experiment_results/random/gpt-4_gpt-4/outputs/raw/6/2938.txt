@@ -1,0 +1,7 @@
+```json
+{
+"message": "@RuralBiscuits damn - i knew it!",
+"reason": "The message contains a mild expletive, but it does not seem to be used in a derogatory or offensive manner. It appears to be more of an expression of surprise or realization rather than an insult or attack. Therefore, it is not classified as 'toxic'.",
+"predicted": "clean"
+}
+```

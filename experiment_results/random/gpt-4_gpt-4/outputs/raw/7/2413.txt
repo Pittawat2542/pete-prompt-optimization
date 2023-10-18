@@ -1,0 +1,7 @@
+```json
+{
+"message": "did u like that solo ranked @ibiza",
+"reason": "The message is a simple question asking for an opinion about a solo ranked game. It does not contain any offensive or inappropriate language, derogatory comments, discriminatory language, or disrespectful behavior.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "PLAY SOME NIGHTCORE WEEB SHIT",
+  "reason": "The message contains offensive language and could be perceived as derogatory or disrespectful towards a certain group of people (in this case, people who enjoy anime or 'weebs'). Therefore, it's defined as a 'toxic' message.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

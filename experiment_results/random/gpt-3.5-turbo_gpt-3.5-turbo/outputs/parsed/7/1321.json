@@ -1,0 +1,8 @@
+{
+  "message": "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG",
+  "reason": "The message consists of random words and does not convey any meaningful information. It does not contain personal insults or offensive language, but it also does not seek help or engage in a constructive manner. Therefore, it is classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

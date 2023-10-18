@@ -1,0 +1,8 @@
+{
+  "message": "oh fuck i got one of those omnistone bards in my ranked game",
+  "reason": "The message contains explicit language ('fuck') which is generally considered offensive and inappropriate in a respectful conversation. Therefore, the message is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

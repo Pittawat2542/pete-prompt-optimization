@@ -1,0 +1,7 @@
+```json
+{
+"message": "expose yourself",
+"reason": "The message contains a potentially harmful request to expose oneself.",
+"predicted": "toxic"
+}
+```

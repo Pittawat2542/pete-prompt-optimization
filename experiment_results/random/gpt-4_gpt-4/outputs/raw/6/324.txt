@@ -1,0 +1,7 @@
+```json
+{
+"message": "FUCKING WOWOW",
+"reason": "The message contains a profanity at the beginning, which is considered offensive and inappropriate in most contexts. Even though the rest of the message ('WOWOW') doesn't seem to be offensive, the use of the profanity at the beginning makes the whole message toxic.",
+"predicted": "toxic"
+}
+```

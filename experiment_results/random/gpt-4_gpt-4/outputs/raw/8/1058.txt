@@ -1,0 +1,7 @@
+```json
+{
+"message": "I hate my life",
+"reason": "Although the message contains negative sentiment, it does not contain explicit, offensive or inappropriate language, insults, discriminatory remarks, or exhibits any form of uncivil or disrespectful behavior towards others. Therefore, it is classified as 'clean'.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "laners dying even with vision ðŸ¤¡",
+"reason": "The message does not contain any obscenities, defamatory remarks, offensive or discriminatory language. It seems to be a comment about a game strategy or situation, and the emoji used expresses frustration but is not offensive.",
+"predicted": "clean"
+}
+```

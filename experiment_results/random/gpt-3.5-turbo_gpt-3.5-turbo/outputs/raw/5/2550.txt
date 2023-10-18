@@ -1,0 +1,7 @@
+```json
+{
+  "message": "hamb10 hamb10",
+  "reason": "The message is ambiguous and unclear, so it is classified as clean.",
+  "predicted": "clean"
+}
+```

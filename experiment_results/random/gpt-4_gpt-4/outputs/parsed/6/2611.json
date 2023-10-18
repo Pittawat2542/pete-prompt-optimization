@@ -1,0 +1,8 @@
+{
+  "message": "Spoopy hamtime",
+  "reason": "The message does not contain any offensive or inappropriate language. It seems to be a playful and lighthearted phrase, potentially referring to a Halloween-themed event or activity. The use of the word 'spoopy' is a humorous variation of 'spooky'. Overall, there is no indication of any toxic or offensive content.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

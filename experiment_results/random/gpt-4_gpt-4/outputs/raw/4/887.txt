@@ -1,0 +1,7 @@
+```json
+{
+"message": "Fuck off chat, that guy deserves to be banned for risking this channels life",
+"reason": "The message contains an obscenity at the beginning, which is considered inappropriate and offensive. It also includes a negative sentiment towards another user, which can be seen as a form of online harassment.",
+"predicted": "toxic"
+}
+```

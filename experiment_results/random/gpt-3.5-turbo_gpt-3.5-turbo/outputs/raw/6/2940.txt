@@ -1,0 +1,7 @@
+```json
+{
+"message": "damnnn",
+"reason": "The message contains an exclamation and is expressing surprise or excitement. It is not offensive.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "who the fuck uses D for flashbanning whoever says me",
+"reason": "The message contains a curse word, which is considered offensive and inappropriate language. This justifies the categorization as 'toxic'.",
+"predicted": "toxic"
+}
+```

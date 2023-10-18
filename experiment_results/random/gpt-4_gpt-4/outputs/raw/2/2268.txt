@@ -1,0 +1,7 @@
+```json
+{
+"message": "in a Payload game the other day one of the randoms started shooting grens at me",
+"reason": "The message is about a gaming experience and does not contain any obscenities, defamatory remarks, offensive or discriminatory language, or other forms of inappropriate content.",
+"predicted": "clean"
+}
+```

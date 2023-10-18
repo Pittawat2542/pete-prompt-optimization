@@ -1,0 +1,8 @@
+{
+  "message": "shit is so cringe and over done",
+  "reason": "The message contains offensive language and negative sentiment, expressing disdain for something.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

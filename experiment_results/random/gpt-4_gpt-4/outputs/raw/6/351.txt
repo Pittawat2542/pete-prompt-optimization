@@ -1,0 +1,7 @@
+```json
+{
+"message": "And wtf are u a winrate friend? Who gives a fuck",
+"reason": "The message contains profanity and offensive language, which is considered inappropriate and disrespectful in a civil conversation. The use of 'wtf' and 'Who gives a fuck' are clear indicators of this.",
+"predicted": "toxic"
+}
+```

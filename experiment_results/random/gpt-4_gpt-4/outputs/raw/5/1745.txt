@@ -1,0 +1,7 @@
+```json
+{
+"message": "WeirdChamp",
+"reason": "The term 'WeirdChamp' is a popular emote used on the streaming platform Twitch, often used to express disbelief or disapproval in a humorous or sarcastic manner. It does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior.",
+"predicted": "clean"
+}
+```

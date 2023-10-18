@@ -1,0 +1,7 @@
+```json
+{
+"message": "oh fuck i got one of those omnistone bards in my ranked game",
+"reason": "The message contains a curse word 'fuck' which is considered offensive and inappropriate in a formal or respectful conversation.",
+"predicted": "toxic"
+}
+```

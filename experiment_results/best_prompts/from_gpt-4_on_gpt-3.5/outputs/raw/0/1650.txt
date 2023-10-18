@@ -1,0 +1,7 @@
+```json
+{
+"message": "@adooool18 on the way danucdSaspisas",
+"reason": "The message does not contain any offensive, rude, abusive, or disrespectful language. It appears to be a random combination of characters and does not convey any specific sentiment.",
+"predicted": "clean"
+}
+```

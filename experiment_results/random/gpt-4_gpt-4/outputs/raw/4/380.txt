@@ -1,0 +1,7 @@
+```json
+{
+"message": "played like shit",
+"reason": "The message contains an obscenity ('shit') which is used in a derogatory manner to criticize someone's performance. This can be perceived as offensive and disrespectful.",
+"predicted": "toxic"
+}
+```

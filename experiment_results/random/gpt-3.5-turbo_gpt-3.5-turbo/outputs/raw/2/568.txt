@@ -1,0 +1,5 @@
+{
+  "message": "11649 times KEKW",
+  "reason": "The message contains an internet slang term 'KEKW' which is often used to express laughter or amusement. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "6th guy",
+"reason": "The message does not contain any offensive, rude, abusive or disrespectful language or sentiments. It is a neutral statement that does not violate any guidelines of politeness or respect.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,5 @@
+{
+  "message": "nexus blitz is ass",
+  "reason": "The message contains a derogatory term.",
+  "predicted": "toxic"
+}

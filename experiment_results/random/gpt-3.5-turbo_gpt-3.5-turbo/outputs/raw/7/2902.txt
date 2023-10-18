@@ -1,0 +1,5 @@
+{
+"message": "All the subs because your bananas love you danucdBukulove mtgngHype @DanucD",
+"reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It seems to be a random collection of words and mentions.",
+"predicted": "clean"
+}

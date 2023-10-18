@@ -1,0 +1,8 @@
+{
+  "message": "sucks ass",
+  "reason": "The message contains a vulgar phrase that is generally considered offensive and inappropriate. Therefore, it's defined as a 'toxic' message.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

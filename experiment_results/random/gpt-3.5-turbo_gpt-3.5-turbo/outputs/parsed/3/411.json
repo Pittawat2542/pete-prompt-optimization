@@ -1,0 +1,8 @@
+{
+  "message": "it was the evelynn game, he even stole my fucking champ",
+  "reason": "The message contains offensive language and expresses frustration towards another player for stealing their champion.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

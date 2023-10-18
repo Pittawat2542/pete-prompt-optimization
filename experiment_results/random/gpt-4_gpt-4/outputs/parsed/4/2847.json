@@ -1,0 +1,8 @@
+{
+  "message": "Shootin the shit smokin sum herb",
+  "reason": "The message contains slang and informal language, but it does not include any obscenities, defamatory remarks, offensive/discriminatory language, threats, harassment, or bullying. Therefore, it's defined as a 'clean' message.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

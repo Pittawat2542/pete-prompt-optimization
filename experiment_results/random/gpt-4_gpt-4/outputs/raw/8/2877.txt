@@ -1,0 +1,7 @@
+```json
+{
+"message": "Good shit",
+"reason": "The message contains a slang term that can be considered as vulgar or inappropriate in certain contexts. However, in informal or colloquial language, it is often used to express approval or admiration. The context of the message is not clear, but due to the potential for misunderstanding or offense, it is classified as 'toxic'.",
+"predicted": "toxic"
+}
+```

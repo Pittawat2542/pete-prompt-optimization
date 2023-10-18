@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be 98% clean.
+
+```json
+{
+"message": "Greetings from New Orleans",
+"reason": "The message is a simple greeting and does not contain any offensive or harmful language.",
+"predicted": "clean"
+}
+```

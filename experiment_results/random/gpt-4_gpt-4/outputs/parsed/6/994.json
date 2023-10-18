@@ -1,0 +1,8 @@
+{
+  "message": "@der_bisang he can miss it, long cd, needs grit. camille? she doesn't give a shit, spam Q for 1k true dmg YEP",
+  "reason": "The message contains a profanity ('shit'), which is considered inappropriate or offensive language. Even though it seems to be used in the context of a game discussion, the use of such language can be seen as uncivil.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

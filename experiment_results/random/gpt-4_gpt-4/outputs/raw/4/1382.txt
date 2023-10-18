@@ -1,0 +1,7 @@
+```json
+{
+"message": "Please chat only in English here",
+"reason": "The message is a polite request for users to communicate in English. It does not contain any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. Therefore, it's defined as a 'clean' message.",
+"predicted": "clean"
+}
+```

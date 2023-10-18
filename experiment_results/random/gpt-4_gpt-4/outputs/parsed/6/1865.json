@@ -1,0 +1,8 @@
+{
+  "message": "faxGG faxGG faxGG",
+  "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be a repetition of a term or phrase, which does not carry any offensive or inappropriate connotation.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

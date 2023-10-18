@@ -1,0 +1,7 @@
+```json
+{
+"message": "My sens is irrelevant to you, do what's comfortable for you. Copying other people's sens won't make you good at the game, we have different length arms and grips and different resistance mousepads / mouse feet - some mouse sensors are even different.",
+"reason": "The message is providing advice and expressing an opinion about a game. It does not contain any offensive or inappropriate language, threats, or harassment. Therefore, it's defined as a 'clean' message.",
+"predicted": "clean"
+}
+```

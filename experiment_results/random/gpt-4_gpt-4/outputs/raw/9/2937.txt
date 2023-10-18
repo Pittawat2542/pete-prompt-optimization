@@ -1,0 +1,7 @@
+```json
+{
+"message": "but it sucks that we dont have enough player to do that now @hambinooo",
+"reason": "The message contains a negative sentiment but it does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior.",
+"predicted": "clean"
+}
+```

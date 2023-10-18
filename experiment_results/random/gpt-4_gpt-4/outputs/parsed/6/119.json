@@ -1,0 +1,8 @@
+{
+  "message": "Hes deceptilvely tanky and does not give a hairy rats ass about CC.",
+  "reason": "The message uses a vulgar phrase 'hairy rats ass' which can be seen as offensive or inappropriate. Although it does not seem to be targeted at an individual, the use of such language can contribute to a toxic environment.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

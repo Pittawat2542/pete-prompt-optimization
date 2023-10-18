@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Arm E D",
+  "reason": "The message is not clear and seems to be a random combination of letters.",
+  "predicted": "clean"
+}
+```

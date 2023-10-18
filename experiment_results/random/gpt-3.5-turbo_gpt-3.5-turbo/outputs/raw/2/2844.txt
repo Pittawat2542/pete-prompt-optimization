@@ -1,0 +1,5 @@
+{
+  "message": "i hate the camps, i always come out with shit loot",
+  "reason": "The message contains negative language and expresses frustration.",
+  "predicted": "toxic"
+}

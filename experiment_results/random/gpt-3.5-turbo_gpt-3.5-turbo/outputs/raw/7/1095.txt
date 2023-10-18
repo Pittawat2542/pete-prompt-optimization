@@ -1,0 +1,5 @@
+{
+"message": "the hell is a karak?",
+"reason": "The message is asking a question and is not offensive.",
+"predicted": "clean"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "control setting and dpi",
+  "reason": "The message is about control settings and dpi, which is a technical discussion. It does not contain any offensive or harmful content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

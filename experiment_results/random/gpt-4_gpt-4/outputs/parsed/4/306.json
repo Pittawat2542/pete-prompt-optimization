@@ -1,0 +1,8 @@
+{
+  "message": "Samira is sick as fuck omg",
+  "reason": "The message contains an obscenity ('fuck'), which is considered inappropriate language. Therefore, it's defined as a 'toxic' message.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

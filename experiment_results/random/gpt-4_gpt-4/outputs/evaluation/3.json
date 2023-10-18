@@ -1,0 +1,3210 @@
+{
+  "total": 400,
+  "correct": 202,
+  "incorrect": 198,
+  "accuracy": 0.505,
+  "correct_messages": [
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is considered 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is classified as 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is classified as 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I can't believe you're so stupid!",
+      "reason": "The message contains a derogatory remark and offensive language directed towards the recipient, which is considered inappropriate and offensive, leading to a 'toxic' classification.",
+      "predicted": "toxic",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is classified as 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is classified as 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is considered 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language, or other forms of inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is classified as 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "You're so stupid!",
+      "reason": "The message contains an offensive term directed at an individual, which is considered derogatory and offensive, leading to a 'toxic' classification.",
+      "predicted": "toxic",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is classified as 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is classified as 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-4"
+    }
+  ],
+  "incorrect_messages": [
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it's considered 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is considered 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is classified as 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content, leading to a 'clean' classification.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is classified as 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it's considered 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is classified as 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is considered 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language, or other forms of inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content, leading to a 'clean' classification.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is classified as 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is classified as 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is classified as 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is classified as 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is considered 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is considered 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language, or other forms of inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is classified as 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any obscenities, slanderous remarks, offensive or prejudiced language. Therefore, it is considered 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    },
+    {
+      "message": "I hope you have a great day!",
+      "reason": "The message is a positive and friendly expression, without any offensive or inappropriate content.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-4"
+    }
+  ]
+}

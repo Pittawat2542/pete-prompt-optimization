@@ -1,0 +1,8 @@
+{
+  "message": "asia sever is many china player..",
+  "reason": "The message contains a general statement about the Asia server having many Chinese players. While it may not be offensive or disrespectful, it does not maintain a polite and respectful tone throughout.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

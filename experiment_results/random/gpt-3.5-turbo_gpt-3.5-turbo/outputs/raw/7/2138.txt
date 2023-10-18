@@ -1,0 +1,5 @@
+{
+"message": "I can translate for ya if u want",
+"reason": "The message is offering help and is not offensive.",
+"predicted": "clean"
+}

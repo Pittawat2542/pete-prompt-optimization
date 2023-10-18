@@ -1,0 +1,7 @@
+```json
+{
+"message": "PogChamp PogChamp PogChamp",
+"reason": "The message contains a popular emote used in online gaming communities, specifically on Twitch, and does not contain any offensive or harmful content.",
+"predicted": "clean",
+}
+```

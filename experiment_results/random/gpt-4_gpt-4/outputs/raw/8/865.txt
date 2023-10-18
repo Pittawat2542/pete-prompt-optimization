@@ -1,0 +1,7 @@
+```json
+{
+"message": "PLAY SOME NIGHTCORE WEEB SHIT",
+"reason": "The message contains a derogatory term 'weeb' which is often used to insult people who are fans of Japanese culture, and the term 'shit' which is a vulgar slang. This makes the message offensive and disrespectful.",
+"predicted": "toxic"
+}
+```

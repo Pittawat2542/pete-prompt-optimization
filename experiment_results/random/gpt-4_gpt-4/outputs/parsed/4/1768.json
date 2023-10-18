@@ -1,0 +1,8 @@
+{
+  "message": "@melihozkiremitci cya",
+  "reason": "The message is a simple farewell, using the abbreviation 'cya' for 'see you'. There are no obscenities, threats, or offensive language present in the message.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

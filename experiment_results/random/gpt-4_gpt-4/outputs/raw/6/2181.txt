@@ -1,0 +1,7 @@
+```json
+{
+"message": "rando squad?",
+"reason": "This message appears to be a question about a random squad, possibly in the context of a video game. There is no use of inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+"predicted": "clean"
+}
+```

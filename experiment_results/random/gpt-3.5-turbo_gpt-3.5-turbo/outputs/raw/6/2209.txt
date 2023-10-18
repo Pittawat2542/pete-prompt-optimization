@@ -1,0 +1,5 @@
+{
+"message": "6th guy",
+"reason": "The message is short and does not provide any context or information. It is difficult to determine the intent or category of the message based on this alone.",
+"predicted": "clean"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Who else hate their life?",
+  "reason": "The message does not contain offensive, rude, or inappropriate content. It seems to be a personal expression or a question seeking others who might feel the same way.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

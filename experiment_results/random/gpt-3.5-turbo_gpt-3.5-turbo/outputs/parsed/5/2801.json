@@ -1,0 +1,8 @@
+{
+  "message": "@guccixslaya cheaters suck hard tho",
+  "reason": "The message contains a negative opinion about cheaters, but it does not include offensive or harmful language. It is not disrespectful towards any individual or group.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

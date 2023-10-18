@@ -1,0 +1,8 @@
+{
+  "message": "@HamitCanKilic why i cant donate without login in with my fb or soemthing",
+  "reason": "The message is a simple question about a process and does not contain any offensive or inappropriate content. It is respectful and does not involve any forms of hate speech or harmful intent.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

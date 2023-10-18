@@ -1,0 +1,8 @@
+{
+  "message": "Wait a sec, this isnt my favorite champion",
+  "reason": "The message does not contain any obscenities, defamatory remarks, offensive or discriminatory language, or any other forms of inappropriate content. It is a simple statement expressing a personal preference.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

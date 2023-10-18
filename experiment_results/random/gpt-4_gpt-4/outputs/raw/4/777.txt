@@ -1,0 +1,7 @@
+```json
+{
+"message": "700 true dmg on 1 Q there KEKW",
+"reason": "The message appears to be related to a video game, discussing damage points. The term 'KEKW' is a popular emote used in online gaming communities to express laughter. There are no obscenities, threats, or offensive language present in the message.",
+"predicted": "clean"
+}
+```

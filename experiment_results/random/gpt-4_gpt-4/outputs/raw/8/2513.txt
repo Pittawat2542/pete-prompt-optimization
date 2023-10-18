@@ -1,0 +1,5 @@
+{
+"message": "winking_face:",
+"reason": "The message 'winking_face:' does not contain any offensive or inappropriate content. It is a simple text representation of a winking face emoticon, commonly used in casual conversations to imply a playful or friendly tone. Therefore, it can be classified as 'clean'.",
+"predicted": "clean"
+}

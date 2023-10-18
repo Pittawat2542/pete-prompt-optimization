@@ -1,0 +1,7 @@
+```json
+{
+  "message": "did u like that solo ranked @ibiza",
+  "reason": "The message does not contain offensive language or negative sentiment.",
+  "predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "HOLY SHIT karthus busted KEKW",
+  "reason": "The message contains a curse word 'SHIT' which is considered offensive and inappropriate. Therefore, the message is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "HOW THE HELL IS THIS AN A",
+  "reason": "The message contains offensive language and is expressed in a hostile tone.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

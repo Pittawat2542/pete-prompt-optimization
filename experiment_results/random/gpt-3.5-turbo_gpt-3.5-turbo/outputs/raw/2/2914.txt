@@ -1,0 +1,5 @@
+{
+  "message": "there are many cheaters in china",
+  "reason": "The message contains a negative generalization about a specific group of people.",
+  "predicted": "toxic"
+}

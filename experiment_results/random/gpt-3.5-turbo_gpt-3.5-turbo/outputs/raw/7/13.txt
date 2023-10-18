@@ -1,0 +1,5 @@
+{
+"message": "love how i cant win even with me playing well",
+"reason": "The message expresses frustration but does not contain personal insults or offensive language. It is not disrespectful and can be classified as clean.",
+"predicted": "clean"
+}

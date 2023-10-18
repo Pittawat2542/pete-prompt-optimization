@@ -1,0 +1,8 @@
+{
+  "message": "can you show us your damage after you finishthe game plz",
+  "reason": "The message is a polite request for information related to a game, and does not contain any offensive or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

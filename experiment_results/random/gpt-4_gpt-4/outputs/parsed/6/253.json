@@ -1,0 +1,8 @@
+{
+  "message": "I fucking love those videos",
+  "reason": "The message contains a profanity, which is generally considered inappropriate or offensive. However, in this context, the profanity is used to express a high degree of enthusiasm or passion, rather than to insult or offend. Therefore, the overall tone of the message is not toxic.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

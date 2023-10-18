@@ -1,0 +1,8 @@
+{
+  "message": "he said frist time FPP",
+  "reason": "The message does not contain any explicit, offensive or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior. It seems to be a simple statement or comment.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

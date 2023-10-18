@@ -1,0 +1,7 @@
+```json
+{
+  "message": "no katarina in 0/5/2 we won't gank your yasuo",
+  "reason": "The message is unclear and does not contain offensive or harmful language.",
+  "predicted": "clean"
+}
+```

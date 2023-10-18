@@ -1,0 +1,7 @@
+```json
+{
+"message": "centralia of the vibes",
+"reason": "The message does not contain any offensive, rude, abusive or disrespectful language or sentiments. It is a neutral statement.",
+"predicted": "clean"
+}
+```

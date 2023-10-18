@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message as "toxic" with a confidence of 0.85.
+
+```json
+{
+"message": "Stupid decisions mean stupid result",
+"reason": "The message contains derogatory language which can be considered as offensive or disrespectful, hence it is classified as toxic.",
+"predicted": "toxic"
+}
+```

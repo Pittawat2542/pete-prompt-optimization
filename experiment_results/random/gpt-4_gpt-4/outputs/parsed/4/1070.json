@@ -1,0 +1,8 @@
+{
+  "message": "im stupid hbu?\u00f0\u0178\u2122\u2021",
+  "reason": "The message contains self-deprecating language, which can be seen as a form of negative or harmful speech. However, it does not contain obscenities, threats, harassment, or bullying towards others. Therefore, it's defined as a 'clean' message.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

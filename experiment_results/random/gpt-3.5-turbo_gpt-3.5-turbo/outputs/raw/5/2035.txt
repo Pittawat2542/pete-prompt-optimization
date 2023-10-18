@@ -1,0 +1,7 @@
+```json
+{
+  "message": "asia sever is many china player..",
+  "reason": "The message is ambiguous and unclear. It does not contain offensive or harmful language.",
+  "predicted": "clean"
+}
+```

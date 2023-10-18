@@ -1,0 +1,5 @@
+{
+"message": "it makes it even more difficult",
+"reason": "The message does not contain any offensive language or personal insults. It is a neutral statement expressing difficulty.",
+"predicted": "clean"
+}

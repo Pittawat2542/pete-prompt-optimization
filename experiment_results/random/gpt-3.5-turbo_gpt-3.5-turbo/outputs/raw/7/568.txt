@@ -1,0 +1,5 @@
+{
+"message": "11649 times KEKW",
+"reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It appears to be a random phrase or code that does not contribute to a constructive conversation.",
+"predicted": "clean"
+}

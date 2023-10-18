@@ -1,0 +1,5 @@
+{
+  "message": "laners dying even with vision ðŸ¤¡",
+  "reason": "The message contains negative language and expresses frustration towards the laners dying despite having vision.",
+  "predicted": "toxic"
+}

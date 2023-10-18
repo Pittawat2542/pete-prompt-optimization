@@ -1,0 +1,8 @@
+{
+  "message": "Please chat only in English here",
+  "reason": "The message is a request for users to communicate in English, it is not offensive.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

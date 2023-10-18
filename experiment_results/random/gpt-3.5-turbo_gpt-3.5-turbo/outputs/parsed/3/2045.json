@@ -1,0 +1,8 @@
+{
+  "message": "noice team work forsenCD",
+  "reason": "The message contains a positive expression of appreciation and encouragement.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

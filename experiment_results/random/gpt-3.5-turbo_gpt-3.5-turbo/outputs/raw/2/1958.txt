@@ -1,0 +1,5 @@
+{
+  "message": "https://specs.gg/tgltn",
+  "reason": "The message is a URL and does not contain any text or context to classify it as toxic or clean.",
+  "predicted": "clean"
+}

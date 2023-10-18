@@ -1,0 +1,7 @@
+```json
+{
+  "message": "danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner",
+  "reason": "The message consists of repetitive and nonsensical content.",
+  "predicted": "toxic"
+}
+```

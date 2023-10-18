@@ -1,0 +1,7 @@
+```json
+{
+"message": "why the *fuck* do people in plat just s u c k",
+"reason": "The message contains a profanity and is disrespectful towards a group of people, which is considered offensive behavior. Therefore, it is classified as 'toxic'.",
+"predicted": "toxic"
+}
+```

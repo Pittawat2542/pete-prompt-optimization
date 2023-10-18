@@ -1,0 +1,8 @@
+{
+  "message": "HOW THE HELL IS THIS AN A",
+  "reason": "The message contains a swear word and is written in all caps, which is often interpreted as shouting in digital communication. This can be seen as a form of uncivil behavior.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

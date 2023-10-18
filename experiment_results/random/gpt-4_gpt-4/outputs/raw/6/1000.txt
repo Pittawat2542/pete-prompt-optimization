@@ -1,0 +1,7 @@
+```json
+{
+"message": "this suck",
+"reason": "The message uses a negative term, which could be seen as a form of incivility or rudeness. However, without a clear context or target, it's hard to definitively categorize it as 'toxic'. It could be a simple expression of dissatisfaction or frustration.",
+"predicted": "clean"
+}
+```

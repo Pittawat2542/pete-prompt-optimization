@@ -1,0 +1,8 @@
+{
+  "message": "ewqawertqerqawertesaqweewtqa",
+  "reason": "The message does not contain any recognizable words, insults, offensive or inappropriate language, or discriminatory remarks. It appears to be a random string of characters without any discernible meaning.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

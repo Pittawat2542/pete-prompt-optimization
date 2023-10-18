@@ -1,0 +1,8 @@
+{
+  "message": "man yuumi jng is fucking annoying",
+  "reason": "The message uses a profanity to express frustration or annoyance, which can be considered offensive or inappropriate language. Therefore, it is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

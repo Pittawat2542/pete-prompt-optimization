@@ -1,0 +1,7 @@
+```json
+{
+  "message": "@mfyntz tgl5Head",
+  "reason": "The text message is not clear and does not provide any context or content to classify it as toxic or clean.",
+  "predicted": "clean"
+}
+```

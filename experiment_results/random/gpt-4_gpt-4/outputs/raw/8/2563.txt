@@ -1,0 +1,7 @@
+```json
+{
+"message": "@hf_spinach happy thursday!!",
+"reason": "The message is a friendly greeting wishing someone a happy Thursday. There is no use of explicit, offensive or inappropriate language, insults, or discriminatory remarks. The tone is positive and respectful.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,5 @@
+{
+"message": "you can try this to them ciao nee mud",
+"reason": "This message does not include any inappropriate or offensive language, derogatory comments, prejudiced language, profanity, or incivility. It appears to be a random sentence without any context, mood, or vulgar language. Therefore, it can be categorized as 'clean'.",
+"predicted": "clean"
+}

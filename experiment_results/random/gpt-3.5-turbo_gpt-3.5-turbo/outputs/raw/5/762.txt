@@ -1,0 +1,7 @@
+```json
+{
+  "message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
+  "reason": "The message does not contain offensive, harmful, or disrespectful language. It is a comment about the user's CS (creep score) in a game and mentions DOINB, a professional League of Legends player. It does not violate any community guidelines or promote negative discourse.",
+  "predicted": "clean"
+}
+```

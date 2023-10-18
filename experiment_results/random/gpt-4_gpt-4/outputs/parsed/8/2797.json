@@ -1,0 +1,8 @@
+{
+  "message": "shit winds are acomin'!",
+  "reason": "The message contains an explicit term which is generally considered as a profanity. This makes the message inappropriate and offensive, hence the 'toxic' classification.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

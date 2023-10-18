@@ -1,0 +1,8 @@
+{
+  "message": "how are you banananas today",
+  "reason": "The message is a friendly and non-offensive inquiry, with a playful twist on the word 'bananas'. There is no use of inappropriate language, hate speech, or personal attacks.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

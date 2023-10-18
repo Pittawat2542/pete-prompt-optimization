@@ -1,0 +1,8 @@
+{
+  "message": "LETS FUCKING GOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+  "reason": "The message contains excessive use of capital letters and exclamation marks, indicating excitement or enthusiasm. However, the use of profanity and excessive repetition of letters suggests a more aggressive and potentially offensive tone, making it toxic.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

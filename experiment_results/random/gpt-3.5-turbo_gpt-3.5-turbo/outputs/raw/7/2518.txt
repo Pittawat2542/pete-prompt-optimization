@@ -1,0 +1,5 @@
+{
+"message": "@hambinooo sorry for ruining your fun",
+"reason": "The message is apologizing for ruining someone's fun and does not contain any offensive language or disrespectful behavior.",
+"predicted": "clean"
+}

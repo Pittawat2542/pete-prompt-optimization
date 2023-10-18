@@ -1,0 +1,5 @@
+{
+"message": "!hype",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It is a short message that does not provide enough context to determine if it is seeking help or engaging in a respectful manner. Therefore, it is classified as clean.",
+"predicted": "clean"
+}

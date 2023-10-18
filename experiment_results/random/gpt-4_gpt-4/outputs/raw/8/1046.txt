@@ -1,0 +1,7 @@
+```json
+{
+"message": "HELL NO",
+"reason": "The message is expressed in capital letters, which is often interpreted as shouting in a digital context. However, it does not contain any explicit, offensive, or inappropriate language, insults, or discriminatory remarks. The phrase 'HELL NO' can be seen as a strong disagreement or rejection, but it does not inherently exhibit uncivil or disrespectful behavior.",
+"predicted": "clean"
+}
+```

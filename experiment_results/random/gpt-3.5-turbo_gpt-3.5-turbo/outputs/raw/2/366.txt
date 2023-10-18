@@ -1,0 +1,5 @@
+{
+  "message": "stupid morgana players",
+  "reason": "The message contains derogatory language and insults towards a specific group of players.",
+  "predicted": "toxic"
+}

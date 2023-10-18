@@ -1,0 +1,5 @@
+{
+  "message": "toxic spammer @hamitcankilic",
+  "reason": "The message contains the term 'toxic' and refers to someone as a 'spammer'.",
+  "predicted": "toxic"
+}

@@ -1,0 +1,5 @@
+{
+  "message": "@jrrod91, This item is on cooldown",
+  "reason": "Neutral statement",
+  "predicted": "clean"
+}

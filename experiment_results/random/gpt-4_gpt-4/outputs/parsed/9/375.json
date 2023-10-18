@@ -1,0 +1,8 @@
+{
+  "message": "no fuck off",
+  "reason": "The message contains a curse word and is also dismissive and rude, which is considered offensive and uncivil behavior.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

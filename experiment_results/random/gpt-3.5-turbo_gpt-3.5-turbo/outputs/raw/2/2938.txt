@@ -1,0 +1,5 @@
+{
+  "message": "@RuralBiscuits damn - i knew it!",
+  "reason": "The message contains a profanity and negative sentiment.",
+  "predicted": "toxic"
+}

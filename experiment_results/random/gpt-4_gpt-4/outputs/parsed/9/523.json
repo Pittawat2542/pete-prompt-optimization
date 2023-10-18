@@ -1,0 +1,8 @@
+{
+  "message": "RT @PeterXinping: If You Want To Get Girls You Should Just Be Yourself! Unless You\u00e2\u20ac\u2122re 5\u00e2\u20ac\u21228, No Muscles, 3000 Hours League Of Legends, Twit\u00e2\u20ac\u00a6",
+  "reason": "The message is derogatory and offensive as it implies that individuals who are 5'8, lack muscles, and spend a lot of time playing video games are not desirable or attractive. This is a form of body shaming and discrimination, which is inappropriate and offensive.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

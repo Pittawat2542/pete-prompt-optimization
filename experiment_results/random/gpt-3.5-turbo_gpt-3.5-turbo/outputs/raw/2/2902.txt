@@ -1,0 +1,5 @@
+{
+  "message": "All the subs because your bananas love you danucdBukulove mtgngHype @DanucD",
+  "reason": "The message contains positive words like 'love' and 'subs' which indicate a positive and clean tone.",
+  "predicted": "clean"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Fuck up a turret dive as graves and went afk",
+  "reason": "The message contains offensive language and indicates negative behavior (intentionally feeding and going AFK), which is toxic in nature.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

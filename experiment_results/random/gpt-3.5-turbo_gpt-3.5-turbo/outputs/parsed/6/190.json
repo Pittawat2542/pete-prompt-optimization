@@ -1,0 +1,8 @@
+{
+  "message": "I see HoB more",
+  "reason": "The message does not contain any offensive language or personal insults. It appears to be a casual statement or observation.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

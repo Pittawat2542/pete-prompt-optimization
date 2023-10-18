@@ -1,0 +1,8 @@
+{
+  "message": "YEAH U WERE RIGHT BITCH JUST THE OTHER JUNGLER",
+  "reason": "The message contains the term 'BITCH' which is a derogatory term and is considered offensive. This makes the message inappropriate and disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

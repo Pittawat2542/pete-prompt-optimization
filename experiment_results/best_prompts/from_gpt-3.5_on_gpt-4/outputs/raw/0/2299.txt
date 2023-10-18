@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be non-toxic with a 98% probability.
+
+```json
+{
+"message": "what's the song name",
+"reason": "The message is a simple question asking for the name of a song. It does not contain any offensive or harmful content.",
+"predicted": "clean"
+}
+```

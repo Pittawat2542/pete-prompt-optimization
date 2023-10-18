@@ -1,0 +1,5 @@
+{
+  "message": "oh so jg duo means you roam and shit together?",
+  "reason": "The message contains offensive language.",
+  "predicted": "toxic"
+}

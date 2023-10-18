@@ -1,0 +1,7 @@
+```json
+{
+  "message": "toxic",
+  "reason": "The message contains a thank you gift, which suggests a positive sentiment.",
+  "predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "Why are you so stupid? Can't you understand a simple concept?",
+  "reason": "The message contains insults and derogatory language, displaying a toxic behavior.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

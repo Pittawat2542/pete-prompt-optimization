@@ -1,0 +1,7 @@
+```json
+{
+  "message": "thanks for the giffted sub who ever gave it me @DanucD",
+  "reason": "The message contains a thank you and a mention of another user, indicating positive interaction and gratitude.",
+  "predicted": "clean"
+}
+```

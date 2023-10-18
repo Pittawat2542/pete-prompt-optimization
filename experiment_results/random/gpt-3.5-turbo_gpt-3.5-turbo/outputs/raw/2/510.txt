@@ -1,0 +1,5 @@
+{
+  "message": "BTW. I'm going to keep streaming, because I genuinely like it. Expect them all to be super late though because that's legit the ONLY time I am able to stream.\n\nI am only streaming League of Legends because that's all I care to play these days.\n\nHope you enjoyed my dose of reality",
+  "reason": "The message expresses the user's genuine interest in streaming and their limited availability. It also mentions their preference for playing League of Legends. There is no offensive or harmful language used.",
+  "predicted": "clean"
+}

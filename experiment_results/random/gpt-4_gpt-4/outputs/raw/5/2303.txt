@@ -1,0 +1,7 @@
+```json
+{
+"message": "hello sir how are u",
+"reason": "The message is a polite greeting and inquiry about someone's well-being. There is no use of inappropriate or offensive language, derogatory remarks, discriminatory speech, or any form of uncivil behavior.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "that harvesting shit mythic with gragas is insane tbh",
+  "reason": "The message contains a profanity ('shit') which is considered inappropriate or offensive language. Despite the context being related to a video game, the use of such language makes the message toxic.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message "gg" as non-toxic with a 99% probability.
+
+```json
+{
+"message": "gg",
+"reason": "The model predicts the message 'gg' as non-toxic with a 99% probability. 'gg' is a common abbreviation in online communities, often used to express 'good game', which is a polite and positive interaction.",
+"predicted": "clean"
+}
+```

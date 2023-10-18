@@ -1,0 +1,7 @@
+```json
+{
+"message": "smd = shake my dick?",
+"reason": "The message contains explicit and inappropriate language that is sexually suggestive, which is considered offensive and disrespectful. Therefore, it is classified as 'toxic'.",
+"predicted": "toxic"
+}
+```

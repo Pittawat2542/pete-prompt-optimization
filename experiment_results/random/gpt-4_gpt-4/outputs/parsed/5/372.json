@@ -1,0 +1,8 @@
+{
+  "message": "Cuz of that stupid strat",
+  "reason": "The message uses the term 'stupid' which can be considered as a mild form of derogatory language. However, it is directed towards a strategy (strat) and not an individual, which makes it less offensive. The tone of the message is more of frustration or disagreement rather than being offensive or inappropriate.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

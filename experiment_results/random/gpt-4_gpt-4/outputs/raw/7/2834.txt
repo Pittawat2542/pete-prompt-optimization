@@ -1,0 +1,7 @@
+```json
+{
+"message": "Taking a shit ehun ehun ehun ehun",
+"reason": "The message includes a crude term that is often considered inappropriate or offensive in many contexts. The repeated 'ehun' does not seem to add any meaningful context or mitigate the crudeness of the initial phrase.",
+"predicted": "toxic"
+}
+```

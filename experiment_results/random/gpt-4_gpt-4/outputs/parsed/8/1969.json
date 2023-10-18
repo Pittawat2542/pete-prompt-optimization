@@ -1,0 +1,8 @@
+{
+  "message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
+  "reason": "The message does not contain any explicit, offensive or inappropriate language, insults, or discriminatory remarks. The term 'bad' in this context seems to be used in a playful or self-deprecating manner, rather than as an insult or derogatory term.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

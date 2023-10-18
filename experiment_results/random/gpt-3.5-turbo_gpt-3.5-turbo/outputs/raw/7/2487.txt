@@ -1,0 +1,5 @@
+{
+"message": "@noswal84 there is a reason for that....typical US Army infantry PLT is around that number",
+"reason": "The message is engaging in a respectful and constructive manner, discussing a topic related to the US Army infantry.",
+"predicted": "clean"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Samira is sick as fuck omg",
+  "reason": "The message uses a profanity, which is considered inappropriate and offensive in many contexts. Although it's not directly aimed at someone in a derogatory manner, the language used is still considered vulgar.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

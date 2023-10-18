@@ -1,0 +1,8 @@
+{
+  "message": "Wtf thats stupid\u00f0\u0178\u02dc\u201a\u00f0\u0178\u02dc\u201a",
+  "reason": "The message contains an abbreviation 'Wtf' which is a form of swearing, and the term 'stupid' which can be considered as derogatory. Therefore, the message is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

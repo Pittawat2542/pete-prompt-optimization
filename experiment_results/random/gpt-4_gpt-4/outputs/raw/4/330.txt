@@ -1,0 +1,7 @@
+```json
+{
+"message": "oh so jg duo means you roam and shit together?",
+"reason": "The message contains a mild obscenity ('shit') which may be considered inappropriate in some contexts. However, it does not seem to be used in a derogatory or offensive manner in this context, but rather as a slang term. Therefore, the classification may depend on the specific standards of the forum in question.",
+"predicted": "clean"
+}
+```

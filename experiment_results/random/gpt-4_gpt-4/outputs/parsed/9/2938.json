@@ -1,0 +1,8 @@
+{
+  "message": "@RuralBiscuits damn - i knew it!",
+  "reason": "The message contains the word 'damn' which is considered a mild curse word. This makes the message potentially offensive to some individuals.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

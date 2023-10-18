@@ -1,0 +1,8 @@
+{
+  "message": "PLAY SOME NIGHTCORE WEEB SHIT",
+  "reason": "The message does not contain offensive, harmful, or disrespectful language. It is a request related to music preferences.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "I fucking love those videos",
+  "reason": "The message contains explicit language, specifically the use of the f-word, which is generally considered offensive and inappropriate in a formal or respectful conversation. Despite the positive sentiment expressed towards the videos, the use of such language justifies the 'toxic' classification.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

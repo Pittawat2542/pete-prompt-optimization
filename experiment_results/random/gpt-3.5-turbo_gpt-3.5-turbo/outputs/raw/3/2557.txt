@@ -1,0 +1,7 @@
+```json
+{
+  "message": "What up hamily hambO7 hambO7",
+  "reason": "The message contains informal language and repeated characters, which may indicate a casual and friendly tone. However, without further context, it is difficult to determine if the message is toxic or clean.",
+  "predicted": "clean"
+}
+```

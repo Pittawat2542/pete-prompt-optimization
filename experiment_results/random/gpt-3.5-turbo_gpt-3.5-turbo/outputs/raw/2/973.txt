@@ -1,0 +1,5 @@
+{
+  "message": "holy shit PogU",
+  "reason": "The message contains profanity.",
+  "predicted": "toxic"
+}

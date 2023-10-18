@@ -1,0 +1,8 @@
+{
+  "message": "centralia of the vibes",
+  "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. The context and mood of the message are neutral.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

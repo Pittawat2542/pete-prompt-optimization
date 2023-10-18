@@ -1,0 +1,7 @@
+```json
+{
+"message": "@Yamikazexz who's your twitch crush? like a female streamer not taco LUL",
+"reason": "The message is asking a question in a respectful manner without any offensive or inappropriate language. The term 'LUL' is a common acronym used in online gaming communities to signify laughter or amusement, and does not carry any offensive or disrespectful connotations.",
+"predicted": "clean"
+}
+```

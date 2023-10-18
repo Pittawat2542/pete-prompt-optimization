@@ -1,0 +1,7 @@
+```json
+{
+"message": "dont know why every game i get people like this on my team",
+"reason": "The message expresses frustration but does not include any obscenities, defamatory remarks, offensive or discriminatory language. Therefore, it is considered clean.",
+"predicted": "clean"
+}
+```

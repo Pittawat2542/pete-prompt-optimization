@@ -1,0 +1,8 @@
+{
+  "message": "Don't fuck it up",
+  "reason": "The message uses profanity, which is considered inappropriate and offensive language. The tone of the message also seems to be aggressive and impolite.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

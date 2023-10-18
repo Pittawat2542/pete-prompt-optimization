@@ -1,0 +1,5 @@
+{
+  "message": "I can't believe you're so stupid!",
+  "reason": "The message contains a derogatory remark and offensive language directed towards the recipient, which is considered inappropriate and offensive, leading to a 'toxic' classification.",
+  "predicted": "toxic"
+}

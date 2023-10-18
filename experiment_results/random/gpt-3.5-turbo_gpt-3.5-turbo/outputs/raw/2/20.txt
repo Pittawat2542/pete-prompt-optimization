@@ -1,0 +1,5 @@
+{
+  "message": "so he decided its my fault and wanted to ruin everyons game",
+  "reason": "The message contains negative language and expresses a desire to ruin the game for others.",
+  "predicted": "toxic"
+}

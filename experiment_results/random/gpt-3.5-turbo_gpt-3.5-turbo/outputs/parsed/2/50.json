@@ -1,0 +1,8 @@
+{
+  "message": "It's like lol bitch you thought",
+  "reason": "The message contains offensive language ('bitch') and a derogatory term ('lol').",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Sooooo if u say u have a GF ur actually lying so 5head",
+  "reason": "The message is accusing someone of lying, which can be considered as rude or offensive.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

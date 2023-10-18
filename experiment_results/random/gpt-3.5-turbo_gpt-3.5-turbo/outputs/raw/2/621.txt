@@ -1,0 +1,5 @@
+{
+  "message": "PepeLaugh",
+  "reason": "The message contains an emote commonly associated with mocking or laughing at someone. It can be interpreted as sarcastic or derogatory.",
+  "predicted": "toxic"
+}

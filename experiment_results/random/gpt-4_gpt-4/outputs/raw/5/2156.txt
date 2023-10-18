@@ -1,0 +1,7 @@
+```json
+{
+"message": "DendiFace gg",
+"reason": "The message is a combination of a popular Twitch emote 'DendiFace' and the acronym 'gg' which stands for 'good game'. There is no offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior present in the message.",
+"predicted": "clean"
+}
+```

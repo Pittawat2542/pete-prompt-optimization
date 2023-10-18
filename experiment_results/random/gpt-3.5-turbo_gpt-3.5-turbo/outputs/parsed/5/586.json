@@ -1,0 +1,8 @@
+{
+  "message": "YAMI STOP YOU'RE GOOD",
+  "reason": "The message is ambiguous and can be interpreted as either positive or negative. However, since there is no clear offensive or harmful language, it is classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

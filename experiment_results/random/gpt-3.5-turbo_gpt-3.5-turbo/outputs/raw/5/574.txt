@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Yami has inted 11650 times KEKW",
+  "reason": "The message is unclear and does not contain offensive or harmful language.",
+  "predicted": "clean"
+}
+```

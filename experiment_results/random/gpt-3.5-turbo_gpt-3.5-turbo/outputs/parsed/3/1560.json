@@ -1,0 +1,8 @@
+{
+  "message": "how old she is",
+  "reason": "The message is requesting personal information about someone, which can be seen as invasive and potentially disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "Yo Riot wtf\nfuck brand he always deals the most damage for some reason EVERY GANE",
+"reason": "The message contains explicit language and aggressive tone towards a game character, which is considered as toxic behavior in an online community.",
+"predicted": "toxic"
+}
+```

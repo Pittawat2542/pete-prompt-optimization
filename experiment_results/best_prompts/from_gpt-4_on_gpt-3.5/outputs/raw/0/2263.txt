@@ -1,0 +1,7 @@
+```json
+{
+"message": "you can try this to them ciao nee mud",
+"reason": "The message contains unclear and potentially offensive language. It is difficult to determine the exact meaning and intent of the message, but it does not appear to be polite or respectful.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "too E Z",
+"reason": "The message consists of a short phrase that is commonly used to mock or belittle someone's skills or achievements. It can be seen as disrespectful or offensive.",
+"predicted": "toxic"
+}
+```

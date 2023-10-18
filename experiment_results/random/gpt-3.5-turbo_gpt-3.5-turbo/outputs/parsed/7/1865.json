@@ -1,0 +1,8 @@
+{
+  "message": "faxGG faxGG faxGG",
+  "reason": "The message consists of repetitive and meaningless text, which does not contribute to the conversation. It does not seek help, ask questions, or engage in a respectful and constructive manner. Therefore, it can be classified as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

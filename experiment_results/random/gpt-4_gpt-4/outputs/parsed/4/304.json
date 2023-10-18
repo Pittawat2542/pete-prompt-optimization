@@ -1,0 +1,8 @@
+{
+  "message": "fuck this mmr god why",
+  "reason": "The message contains an obscenity, which is considered inappropriate and offensive language. Therefore, it's classified as a 'toxic' message.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

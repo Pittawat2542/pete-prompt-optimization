@@ -1,0 +1,8 @@
+{
+  "message": "Quite the shit",
+  "reason": "The message uses an explicit term that can be considered offensive or inappropriate in many contexts. The term 'shit' is often used in a derogatory or negative manner, which justifies the 'toxic' classification.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

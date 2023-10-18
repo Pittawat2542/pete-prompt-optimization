@@ -1,0 +1,8 @@
+{
+  "message": "Hiii let's play league of legends",
+  "reason": "The message is a friendly invitation to play a game together.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

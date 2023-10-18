@@ -1,0 +1,5 @@
+{
+"message": "did u like that solo ranked @ibiza",
+"reason": "The message is a simple question asking if the recipient liked a specific activity. It does not contain any obscenities, offensive language, or inappropriate content. Therefore, it can be classified as a 'clean' message.",
+"predicted": "clean"
+}

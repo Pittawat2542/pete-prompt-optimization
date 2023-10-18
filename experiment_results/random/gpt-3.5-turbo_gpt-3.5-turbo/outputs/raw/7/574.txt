@@ -1,0 +1,5 @@
+{
+"message": "Yami has inted 11650 times KEKW",
+"reason": "The message contains offensive language and disrespectful behavior.",
+"predicted": "toxic"
+}

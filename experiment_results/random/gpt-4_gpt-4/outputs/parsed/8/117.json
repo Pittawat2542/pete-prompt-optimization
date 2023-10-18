@@ -1,0 +1,8 @@
+{
+  "message": "TOP 0.1% popularity 33.3% win rate",
+  "reason": "The message is simply stating statistical data or game metrics. It does not contain any offensive or inappropriate language, insults, or disrespectful behavior.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

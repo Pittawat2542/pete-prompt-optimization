@@ -1,0 +1,8 @@
+{
+  "message": "70 mana for that shit",
+  "reason": "The message contains an obscenity, which is considered inappropriate language, thus leading to a toxic categorization.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

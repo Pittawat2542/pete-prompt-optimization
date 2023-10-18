@@ -1,0 +1,7 @@
+```json
+{
+"message": "but they do it such a i dont give a shit way",
+"reason": "The phrase 'i dont give a shit' contains profanity, making the message inappropriate. Therefore, the categorization as 'toxic' is justified.",
+"predicted": "toxic"
+}
+```

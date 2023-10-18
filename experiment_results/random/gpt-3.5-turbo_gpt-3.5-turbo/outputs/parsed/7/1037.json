@@ -1,0 +1,8 @@
+{
+  "message": "Its my stupid earphones",
+  "reason": "The message contains a negative adjective ('stupid') but it is not directed towards anyone and does not contain offensive language. It is a statement about the speaker's own earphones.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

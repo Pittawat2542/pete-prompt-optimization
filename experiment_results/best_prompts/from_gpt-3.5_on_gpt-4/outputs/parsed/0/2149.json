@@ -1,0 +1,8 @@
+{
+  "message": "tglGG",
+  "reason": "The message consists of a random string of characters and doesn't contain any offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

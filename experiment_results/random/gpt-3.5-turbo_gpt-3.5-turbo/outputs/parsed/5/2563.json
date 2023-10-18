@@ -1,0 +1,8 @@
+{
+  "message": "@hf_spinach happy thursday!!",
+  "reason": "The message is positive and respectful, expressing happiness and well-wishes.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

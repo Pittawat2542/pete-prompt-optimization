@@ -1,0 +1,8 @@
+{
+  "message": "toxic spammer @hamitcankilic",
+  "reason": "The message includes a defamatory remark, labeling an individual as a 'toxic spammer', which is considered offensive and inappropriate.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

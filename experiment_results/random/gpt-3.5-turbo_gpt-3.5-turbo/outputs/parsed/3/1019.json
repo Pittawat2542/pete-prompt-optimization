@@ -1,0 +1,8 @@
+{
+  "message": "OH SHIT DESYNC YOUR DEAD",
+  "reason": "The message contains offensive language and a threatening tone.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

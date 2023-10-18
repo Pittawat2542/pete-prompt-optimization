@@ -1,0 +1,5 @@
+{
+  "message": "HOLY SHIT karthus busted KEKW",
+  "reason": "The message contains offensive language.",
+  "predicted": "toxic"
+}

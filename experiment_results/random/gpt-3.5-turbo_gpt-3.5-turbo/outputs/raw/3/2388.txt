@@ -1,0 +1,7 @@
+```json
+{
+  "message": "LUL LUL LUL LUL LUL LUL LUL LUL",
+  "reason": "The message consists of repeated laughter, which can be interpreted as a positive and lighthearted response. It does not contain any offensive or harmful language.",
+  "predicted": "clean"
+}
+```

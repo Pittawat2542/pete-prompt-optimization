@@ -1,0 +1,6 @@
+```json
+{
+"message": "@hambinooo sorry for ruining your fun",
+"reason": "The message includes an apology and shows remorse, indicating that the person is acknowledging their mistake and expressing regret. It does not contain any offensive or toxic language.",
+"predicted": "clean"
+}

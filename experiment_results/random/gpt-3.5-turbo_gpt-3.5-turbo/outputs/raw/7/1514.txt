@@ -1,0 +1,5 @@
+{
+"message": "@SmirnofSoldier all good and you... danucdRespect danucdHi",
+"reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It is a simple greeting and does not violate any community guidelines.",
+"predicted": "clean"
+}

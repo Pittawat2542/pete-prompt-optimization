@@ -1,0 +1,5 @@
+{
+"message": "1G$",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It appears to be a random string of characters and does not provide any context or meaning.",
+"predicted": "clean"
+}

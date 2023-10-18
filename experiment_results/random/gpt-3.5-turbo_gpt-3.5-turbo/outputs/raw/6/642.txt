@@ -1,0 +1,7 @@
+```json
+{
+"message": "Sooooo if u say u have a GF ur actually lying so 5head",
+"reason": "The message contains sarcastic language and is mocking someone's claim of having a girlfriend. It is not offensive or toxic.",
+"predicted": "clean"
+}
+```

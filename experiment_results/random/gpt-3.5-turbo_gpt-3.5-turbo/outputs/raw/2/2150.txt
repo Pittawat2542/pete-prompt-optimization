@@ -1,0 +1,5 @@
+{
+  "message": "rawryyLaugh NT NT",
+  "reason": "The message contains the word 'rawryyLaugh' which does not provide any context or contribute to the conversation. The repeated use of 'NT' may also indicate spam or unnecessary repetition.",
+  "predicted": "toxic"
+}

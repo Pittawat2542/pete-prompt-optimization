@@ -1,0 +1,5 @@
+{
+"message": "Jesus, it's a warzone in that city monkaS",
+"reason": "The message does not contain personal insults, offensive language, or disrespectful behavior. It is expressing surprise or shock about the situation in the city.",
+"predicted": "clean"
+}

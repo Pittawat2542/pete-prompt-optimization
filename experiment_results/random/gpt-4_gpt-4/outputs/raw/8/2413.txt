@@ -1,0 +1,5 @@
+{
+"message": "did u like that solo ranked @ibiza",
+"reason": "This message is clean. It is a simple question asking if the recipient liked a specific solo ranked game, mentioning the player @ibiza. There is no explicit language, offensive content, insults, or disrespectful behavior present. The tone of the message appears casual and friendly.",
+"predicted": "clean"
+}

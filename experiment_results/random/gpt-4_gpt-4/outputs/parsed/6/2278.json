@@ -1,0 +1,8 @@
+{
+  "message": "smh thats why i use the m4 long range",
+  "reason": "The message does not include any offensive or inappropriate language. It appears to be a casual comment expressing opinion about a weapon choice. Therefore, the categorization as 'clean' is justified.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

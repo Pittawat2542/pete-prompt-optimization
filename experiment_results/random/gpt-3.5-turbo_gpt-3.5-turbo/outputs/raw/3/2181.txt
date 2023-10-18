@@ -1,0 +1,7 @@
+```json
+{
+  "message": "rando squad?",
+  "reason": "The message is short and does not provide any context or meaningful content. It appears to be a random and meaningless message.",
+  "predicted": "toxic"
+}
+```

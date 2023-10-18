@@ -1,0 +1,7 @@
+```json
+{
+"message": "emojis here suck tbh",
+"reason": "The message contains negative language ('suck') which can be seen as offensive or inappropriate. However, it is not directed towards an individual or group, and does not contain any discriminatory or derogatory remarks. Therefore, it is a borderline case, but it leans more towards being 'clean'.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "ahhh gotcha",
+  "reason": "The message is a casual, non-offensive response indicating understanding or agreement. It does not contain any harmful, offensive, or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

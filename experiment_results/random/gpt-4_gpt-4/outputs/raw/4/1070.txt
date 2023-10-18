@@ -1,0 +1,7 @@
+```json
+{
+"message": "im stupid hbu?ðŸ™‡",
+"reason": "The message contains self-deprecating language, which can be seen as a form of negative or harmful speech. However, it does not contain obscenities, threats, harassment, or bullying towards others. Therefore, it's defined as a 'clean' message.",
+"predicted": "clean"
+}
+```

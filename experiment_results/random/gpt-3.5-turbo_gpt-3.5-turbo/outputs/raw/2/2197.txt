@@ -1,0 +1,5 @@
+{
+  "message": "he said frist time FPP",
+  "reason": "The message contains a typo ('frist' instead of 'first') and an abbreviation ('FPP').",
+  "predicted": "clean"
+}

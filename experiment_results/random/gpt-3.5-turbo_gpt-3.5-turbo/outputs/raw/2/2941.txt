@@ -1,0 +1,5 @@
+{
+  "message": "wtffffffffffffff",
+  "reason": "The message contains excessive use of exclamation marks and repeated letters, which indicates frustration or anger.",
+  "predicted": "toxic"
+}

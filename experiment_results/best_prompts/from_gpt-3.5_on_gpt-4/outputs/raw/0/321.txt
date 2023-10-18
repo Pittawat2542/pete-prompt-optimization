@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be toxic with a confidence of 0.85.
+
+```json
+{
+"message": "I fucking hate lux",
+"reason": "The message contains strong language and expresses intense dislike, which is considered toxic behavior in an online community.",
+"predicted": "toxic"
+}
+```

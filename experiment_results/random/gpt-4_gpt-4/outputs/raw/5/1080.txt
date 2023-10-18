@@ -1,0 +1,7 @@
+```json
+{
+"message": "What the hell is that",
+"reason": "The message contains the phrase 'What the hell', which is often considered as a mild form of swearing or offensive language. Therefore, it can be perceived as disrespectful or uncivil.",
+"predicted": "toxic"
+}
+```

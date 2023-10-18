@@ -1,0 +1,7 @@
+```json
+{
+"message": "hell yeaaahh",
+"reason": "The message contains slang and excessive use of exclamation marks, which can be interpreted as excitement or enthusiasm. However, without further context, it is difficult to determine if the message is toxic or clean.",
+"predicted": "clean"
+}
+```

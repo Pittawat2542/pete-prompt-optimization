@@ -1,0 +1,7 @@
+```json
+{
+"message": "chocotGotem chocotGotem chocotGotem",
+"reason": "The message does not contain any offensive, rude, abusive or disrespectful language or sentiments. It is a repetition of a phrase and does not convey any negative aspects.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "215 cs",
+  "reason": "The message contains an abbreviation and does not provide enough context to determine its classification.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "I dislike games where I carry and my team feeds ;/",
+"reason": "The user is expressing frustration about a game, but the message does not contain any offensive or harmful content.",
+"predicted": "clean",
+}
+```

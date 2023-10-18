@@ -1,0 +1,8 @@
+{
+  "message": "PLAY SOME NIGHTCORE WEEB SHIT",
+  "reason": "The message contains a derogatory term ('weeb') which is often used in a negative context to insult or belittle someone who is overly enthusiastic about Japanese culture, especially anime. The term 'shit' is also considered as an obscenity. Therefore, the message is classified as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

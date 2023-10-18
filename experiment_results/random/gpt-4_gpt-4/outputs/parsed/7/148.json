@@ -1,0 +1,8 @@
+{
+  "message": "I dislike games where I carry and my team feeds ;/",
+  "reason": "The message expresses dissatisfaction with a gaming scenario but does not include any offensive or inappropriate language, derogatory comments, or disrespectful behavior. Therefore, it is classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

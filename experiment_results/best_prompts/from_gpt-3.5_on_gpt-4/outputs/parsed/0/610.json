@@ -1,0 +1,8 @@
+{
+  "message": "@Yamikazexz who's your twitch crush? like a female streamer not taco LUL",
+  "reason": "The message is a casual, non-offensive question directed at a user about their preferences on Twitch. The model predicts this message to be non-toxic with a 98% probability.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

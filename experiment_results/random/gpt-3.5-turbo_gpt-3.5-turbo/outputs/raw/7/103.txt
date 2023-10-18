@@ -1,0 +1,5 @@
+{
+"message": "Just due to their sheer kits and presence they have",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It does not seek help or ask a question either. Therefore, it is classified as clean.",
+"predicted": "clean"
+}

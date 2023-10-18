@@ -1,0 +1,7 @@
+```json
+{
+"message": "what did they do to you @Yamikazexz",
+"reason": "The message is asking about something that happened to someone and mentions a specific user. It does not contain any offensive language or insults.",
+"predicted": "clean"
+}
+```

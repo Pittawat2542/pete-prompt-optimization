@@ -1,0 +1,8 @@
+{
+  "message": "fessn1 all the clips got deleted to prevent dmca strikes, so theres no command at the moment",
+  "reason": "The message is informative and does not contain any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. It does not involve any forms of hate speech or harmful intent.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

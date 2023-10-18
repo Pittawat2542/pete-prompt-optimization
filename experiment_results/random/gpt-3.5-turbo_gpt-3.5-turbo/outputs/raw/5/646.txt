@@ -1,0 +1,7 @@
+```json
+{
+  "message": "are you twitch single?",
+  "reason": "The message is ambiguous and unclear, it could be interpreted as a harmless question or a potentially offensive remark. However, since there is no clear indication of offensive or harmful intent, it is classified as clean.",
+  "predicted": "clean"
+}
+```

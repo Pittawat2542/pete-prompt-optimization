@@ -1,0 +1,8 @@
+{
+  "message": "Melanie is in hell now",
+  "reason": "The message implies a negative and potentially offensive connotation about 'Melanie', suggesting that she is in a place of suffering or punishment. This can be seen as disrespectful and offensive, hence the 'toxic' classification.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

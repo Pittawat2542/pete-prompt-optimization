@@ -1,0 +1,5 @@
+{
+  "message": "daaaaam",
+  "reason": "The message contains repeated letters and exclamation marks, which could indicate excitement or enthusiasm.",
+  "predicted": "clean"
+}

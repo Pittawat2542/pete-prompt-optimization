@@ -1,0 +1,8 @@
+{
+  "message": "Arm E D",
+  "reason": "The message does not contain any inappropriate or offensive language, derogatory remarks, discriminatory speech, swearing or any form of uncivil behavior. It appears to be a neutral statement or possibly a typo.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

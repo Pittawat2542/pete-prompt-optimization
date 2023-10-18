@@ -1,0 +1,5 @@
+{
+"message": "gg",
+"reason": "The message consists of only two letters and does not provide enough context to determine its category.",
+"predicted": "clean"
+}

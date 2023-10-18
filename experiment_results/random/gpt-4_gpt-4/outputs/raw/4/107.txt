@@ -1,0 +1,7 @@
+```json
+{
+"message": "In 12 mins",
+"reason": "The message is a simple statement indicating a time frame. It does not contain any obscenities, defamatory remarks, offensive/discriminatory language, threats, harassment, or bullying. Therefore, it's defined as a 'clean' message.",
+"predicted": "clean"
+}
+```

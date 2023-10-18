@@ -1,0 +1,8 @@
+{
+  "message": "here I just an administrator up my ass",
+  "reason": "The message is ambiguous and unclear, but it does not contain offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

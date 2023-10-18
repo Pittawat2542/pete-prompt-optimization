@@ -1,0 +1,7 @@
+```json
+{
+"message": "shit is so cringe and over done",
+"reason": "The message contains offensive language ('shit') and expresses a negative sentiment ('cringe and over done').",
+"predicted": "toxic"
+}
+```

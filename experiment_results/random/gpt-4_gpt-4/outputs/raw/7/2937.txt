@@ -1,0 +1,7 @@
+```json
+{
+"message": "but it sucks that we dont have enough player to do that now @hambinooo",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory comments, discriminatory language, or disrespectful behavior. The term 'sucks' is used here to express disappointment or dissatisfaction, which is not considered toxic in this context.",
+"predicted": "clean"
+}
+```

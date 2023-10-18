@@ -1,0 +1,5 @@
+{
+"message": "In 12 mins",
+"reason": "The message does not contain any offensive or toxic language. It appears to be a simple statement indicating a time duration.",
+"predicted": "clean"
+}

@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be toxic with a 90% probability.
+
+```json
+{
+"message": "where le fuck is psyops kayle",
+"reason": "The message contains explicit language which is considered as toxic behavior in an online community.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Start with this and upgrade if it's shit",
+  "reason": "The message is ambiguous and can be interpreted as either encouraging improvement or using offensive language. However, since there is doubt, it is classified as 'clean'.",
+  "predicted": "clean"
+}
+```

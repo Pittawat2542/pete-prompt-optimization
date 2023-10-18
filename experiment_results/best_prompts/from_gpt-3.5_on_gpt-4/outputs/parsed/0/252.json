@@ -1,0 +1,8 @@
+{
+  "message": "man i hate darius so much hes so stupid",
+  "reason": "The message contains strong negative language and sentiment, expressing hate and calling someone 'stupid'.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

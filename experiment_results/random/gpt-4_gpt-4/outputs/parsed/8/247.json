@@ -1,0 +1,8 @@
+{
+  "message": "Fuck, I just died by the twitch. look at death recap",
+  "reason": "The message contains explicit language ('Fuck') which is generally considered offensive and inappropriate in a formal or respectful conversation. However, it's important to note that the context of the message seems to be related to a video game, where such language might be more commonly used and less offensive. Despite the context, the explicit language used justifies the 'toxic' classification.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

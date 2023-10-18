@@ -1,0 +1,7 @@
+```json
+{
+"message": "Who put me on the RNG shit list?",
+"reason": "The message contains a profanity ('shit'), which is considered inappropriate or offensive language. The overall tone of the message also seems to express frustration or annoyance, which can be seen as a form of incivility.",
+"predicted": "toxic"
+}
+```

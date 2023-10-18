@@ -1,0 +1,8 @@
+{
+  "message": "Yami has inted 11650 times KEKW",
+  "reason": "The message contains a derogatory term 'inted' which refers to intentionally feeding in a game, and the use of 'KEKW' suggests a mocking or sarcastic tone.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

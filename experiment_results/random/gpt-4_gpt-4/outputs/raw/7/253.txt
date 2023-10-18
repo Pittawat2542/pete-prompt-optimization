@@ -1,0 +1,7 @@
+```json
+{
+"message": "I fucking love those videos",
+"reason": "Although the message contains a profanity, it is not used in a derogatory or offensive manner. Instead, it is used to express a strong positive sentiment towards the videos. Therefore, the message is classified as 'clean'.",
+"predicted": "clean"
+}
+```

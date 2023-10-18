@@ -1,0 +1,8 @@
+{
+  "message": "Who's victor Kappa",
+  "reason": "The message contains a slang term 'Kappa' which is often used in online communities to indicate sarcasm or trolling. This suggests that the message may have a negative or toxic intent.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "who the FUCK plays asol i BAN aury sol",
+"reason": "The message contains profanity and is expressed in an aggressive tone, which can be seen as offensive and inappropriate.",
+"predicted": "toxic"
+}
+```

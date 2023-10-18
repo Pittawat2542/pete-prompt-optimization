@@ -1,0 +1,8 @@
+{
+  "message": "why asia server ?",
+  "reason": "The message is a simple question asking about the reason for having an Asia server.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "@mfyntz tgl5Head",
+"reason": "The message does not contain any offensive or harmful language. It seems to be a user tag and a possible emote or code, common in online communities.",
+"predicted": "clean"
+}
+```

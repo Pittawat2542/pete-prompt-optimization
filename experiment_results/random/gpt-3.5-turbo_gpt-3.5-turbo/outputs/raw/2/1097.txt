@@ -1,0 +1,5 @@
+{
+  "message": "bc my stupid dog eat it",
+  "reason": "The message contains derogatory language ('stupid') and is negative towards the dog.",
+  "predicted": "toxic"
+}

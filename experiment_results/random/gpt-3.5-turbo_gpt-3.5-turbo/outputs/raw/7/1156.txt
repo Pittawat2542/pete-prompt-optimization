@@ -1,0 +1,5 @@
+{
+"message": "Thatâ€™s pretty pathetic. I stick with the One X I think. First time in my 30+ years of gaming that I havenâ€™t been excited for a next gen console.",
+"reason": "The message expresses disappointment and lack of excitement for a next-gen console, but it does not contain personal insults, offensive language, or disrespectful behavior. It is a personal opinion expressed in a respectful and constructive manner.",
+"predicted": "clean"
+}

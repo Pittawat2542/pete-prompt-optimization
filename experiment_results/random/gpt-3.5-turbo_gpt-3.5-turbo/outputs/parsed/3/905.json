@@ -1,0 +1,8 @@
+{
+  "message": "HOLY SHIT karthus busted KEKW",
+  "reason": "The message contains offensive language and is expressing excitement about a character being overpowered.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

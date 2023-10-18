@@ -1,0 +1,7 @@
+```json
+{
+"message": "damnnn",
+"reason": "The message contains a slang term with multiple 'n's, which could be interpreted as expressing surprise or excitement. However, without further context, it is difficult to determine the exact intention behind the message.",
+"predicted": "clean"
+}
+```

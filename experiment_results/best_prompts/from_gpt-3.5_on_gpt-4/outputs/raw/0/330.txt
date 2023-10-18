@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be non-toxic with a 98% probability.
+
+```json
+{
+"message": "oh so jg duo means you roam and shit together?",
+"reason": "The message is a question about game strategy, and despite the use of a mild curse word, it does not contain any offensive or harmful content.",
+"predicted": "clean"
+}
+```

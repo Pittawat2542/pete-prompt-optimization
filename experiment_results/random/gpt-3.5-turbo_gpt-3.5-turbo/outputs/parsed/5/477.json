@@ -1,0 +1,8 @@
+{
+  "message": "I like League of legends because I had a guy say I don't care about the role I got I'm playing what I want, then he went 1/9",
+  "reason": "The message does not contain offensive, harmful, or disrespectful language. It is a personal anecdote about a player's experience in a game.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

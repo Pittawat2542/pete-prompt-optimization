@@ -1,0 +1,8 @@
+{
+  "message": "chocotGotem chocotGotem chocotGotem",
+  "reason": "The message consists of repetitive and nonsensical text, which does not contribute to the conversation or convey any meaningful information.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

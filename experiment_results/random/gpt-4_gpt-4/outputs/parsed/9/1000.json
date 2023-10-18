@@ -1,0 +1,8 @@
+{
+  "message": "this suck",
+  "reason": "The message uses a negative term that can be seen as offensive or inappropriate. It lacks civility and respect, which justifies the categorization as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

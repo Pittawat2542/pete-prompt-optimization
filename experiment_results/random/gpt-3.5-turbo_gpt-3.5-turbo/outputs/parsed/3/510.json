@@ -1,0 +1,8 @@
+{
+  "message": "BTW. I'm going to keep streaming, because I genuinely like it. Expect them all to be super late though because that's legit the ONLY time I am able to stream.\n\nI am only streaming League of Legends because that's all I care to play these days.\n\nHope you enjoyed my dose of reality",
+  "reason": "The message does not contain any offensive or harmful language. It simply states the person's intention to continue streaming and their preference for playing League of Legends. The last sentence can be interpreted as a sarcastic remark, but it does not cross the line into toxicity.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

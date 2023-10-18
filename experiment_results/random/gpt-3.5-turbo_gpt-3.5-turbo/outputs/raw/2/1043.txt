@@ -1,0 +1,5 @@
+{
+  "message": "stop bypassing the chat you idiot",
+  "reason": "The message contains offensive language and insults.",
+  "predicted": "toxic"
+}

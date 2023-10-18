@@ -1,0 +1,5 @@
+{
+"message": "@animoputt I get it dude. just pokin ya.",
+"reason": "The message is engaging in a friendly and playful manner, without any offensive language or disrespectful behavior.",
+"predicted": "clean"
+}

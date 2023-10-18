@@ -1,0 +1,5 @@
+{
+  "message": "What up hamily hambO7 hambO7",
+  "reason": "The message contains slang and repetitive characters.",
+  "predicted": "toxic"
+}

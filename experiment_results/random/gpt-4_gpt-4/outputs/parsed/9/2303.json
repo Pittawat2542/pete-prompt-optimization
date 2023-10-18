@@ -1,0 +1,8 @@
+{
+  "message": "hello sir how are u",
+  "reason": "The message is a polite greeting and inquiry about someone's well-being. It does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

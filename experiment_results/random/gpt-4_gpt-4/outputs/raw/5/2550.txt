@@ -1,0 +1,7 @@
+```json
+{
+"message": "hamb10 hamb10",
+"reason": "The message does not contain any inappropriate or offensive language, derogatory remarks, discriminatory speech, or any form of uncivil behavior. It appears to be a repetition of a username or a code, which is not offensive or inappropriate.",
+"predicted": "clean"
+}
+```

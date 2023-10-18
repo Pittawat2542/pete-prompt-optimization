@@ -1,0 +1,7 @@
+```json
+{
+  "message": "he said frist time FPP",
+  "reason": "The message is ambiguous and unclear, it does not contain offensive or harmful language.",
+  "predicted": "clean"
+}
+```

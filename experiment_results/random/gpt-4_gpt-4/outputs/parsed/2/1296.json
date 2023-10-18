@@ -1,0 +1,8 @@
+{
+  "message": "danucdRespect danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance danucdDance2 danucdDance danucdDance2 danucdDance danucdDance2 danucdDance forsenPls SourPls",
+  "reason": "The message consists of repeated phrases, which appear to be usernames or specific codes related to an online platform. There are no obscenities, defamatory remarks, offensive or discriminatory language, or other forms of inappropriate content present in the message.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

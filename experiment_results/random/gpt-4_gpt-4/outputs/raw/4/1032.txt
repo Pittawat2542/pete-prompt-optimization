@@ -1,0 +1,7 @@
+```json
+{
+"message": "Like Hell Do I Care.",
+"reason": "The message uses a strong language to express indifference or lack of concern. This could be perceived as rude or disrespectful, hence it is classified as 'toxic'.",
+"predicted": "toxic"
+}
+```

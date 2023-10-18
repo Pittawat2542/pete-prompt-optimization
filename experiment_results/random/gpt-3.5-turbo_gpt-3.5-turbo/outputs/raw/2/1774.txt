@@ -1,0 +1,5 @@
+{
+  "message": "@Frank_Drebin451 yes danucd using it too",
+  "reason": "The message contains a mention of another user and a reference to a specific person using a certain product or service.",
+  "predicted": "clean"
+}

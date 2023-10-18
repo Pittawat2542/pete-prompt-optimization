@@ -1,0 +1,8 @@
+{
+  "message": "And my friend had to fucking choose tahm kench",
+  "reason": "The message contains a profanity which is considered as offensive language, hence it is categorised as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

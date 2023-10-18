@@ -1,0 +1,8 @@
+{
+  "message": "5Head",
+  "reason": "The message does not contain any offensive language or disrespectful behavior. It is a slang term used in online communities to express admiration or approval.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

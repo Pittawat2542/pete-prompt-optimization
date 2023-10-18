@@ -1,0 +1,8 @@
+{
+  "message": "Who else hate their life?",
+  "reason": "The model classified the message as toxic due to the negative sentiment and potential harm it could cause to others in the online community.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

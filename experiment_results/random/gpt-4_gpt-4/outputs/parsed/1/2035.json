@@ -1,0 +1,8 @@
+{
+  "message": "asia sever is many china player..",
+  "reason": "The message is simply stating a fact about the number of players from China on an Asian server. It does not contain any offensive, rude, or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

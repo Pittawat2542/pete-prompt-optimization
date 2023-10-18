@@ -1,0 +1,8 @@
+{
+  "message": "only 52 alive?",
+  "reason": "The message appears to be a question, but it lacks context and could be interpreted as insensitive or disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

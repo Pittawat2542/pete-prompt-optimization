@@ -1,0 +1,7 @@
+```json
+{
+"message": "this shit is like adc graves",
+"reason": "The message contains a profanity ('shit'), which is considered inappropriate and offensive language. Even though it might be used in a casual or non-offensive context, the use of such language is generally considered as toxic.",
+"predicted": "toxic"
+}
+```

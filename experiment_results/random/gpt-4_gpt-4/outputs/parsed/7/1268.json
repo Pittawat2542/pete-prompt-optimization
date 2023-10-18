@@ -1,0 +1,8 @@
+{
+  "message": "thanks for the giffted sub who ever gave it me @DanucD",
+  "reason": "The message is expressing gratitude for a gift received, and does not contain any offensive or inappropriate language, derogatory comments, or disrespectful behavior.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-4"
+}

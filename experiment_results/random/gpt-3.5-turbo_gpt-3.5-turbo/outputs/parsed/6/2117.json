@@ -1,0 +1,8 @@
+{
+  "message": "@mfyntz tgl5Head",
+  "reason": "The message contains a username and an unknown term, which makes it difficult to determine the intent. However, based on the limited information, it is not clear if the message is toxic or clean.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

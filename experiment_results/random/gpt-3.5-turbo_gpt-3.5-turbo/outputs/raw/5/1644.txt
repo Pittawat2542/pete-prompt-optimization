@@ -1,0 +1,7 @@
+```json
+{
+  "message": "PogChamp PogChamp PogChamp",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful language. It is ambiguous and unclear, but it does not violate any community guidelines.",
+  "predicted": "clean"
+}
+```

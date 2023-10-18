@@ -1,0 +1,8 @@
+{
+  "message": "time to get some free shit",
+  "reason": "The message uses a slang term that can be considered as vulgar or inappropriate in certain contexts. However, it does not contain any explicit insults, discriminatory remarks, or disrespectful behavior towards any individual or group. The classification can be subjective and depend on the context and the platform where it's used.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Well,rip clips alisaYikes",
+  "reason": "The message does not contain any obscenities, defamatory remarks, offensive or discriminatory language, or other forms of inappropriate content. It seems to be a comment on a situation or event, possibly related to a video game or online content.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

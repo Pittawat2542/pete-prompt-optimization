@@ -1,0 +1,8 @@
+{
+  "message": "Ur not an assassin if u don\u00d5t one tap the adc",
+  "reason": "The message is related to gaming, specifically referring to the role of an 'assassin' and the action of 'one tap the adc' (attack damage carry). It does not contain any obscenities, defamatory remarks, offensive or discriminatory language, or other forms of inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

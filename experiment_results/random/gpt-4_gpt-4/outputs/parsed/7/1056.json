@@ -1,0 +1,8 @@
+{
+  "message": "play this stupid shat",
+  "reason": "The message uses a derogatory term, 'stupid', and a misspelled profanity, 'shat', which is a clear indication of offensive language. This justifies the classification as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

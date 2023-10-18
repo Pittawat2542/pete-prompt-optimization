@@ -1,0 +1,8 @@
+{
+  "message": "Just due to their sheer kits and presence they have",
+  "reason": "The message is unclear and does not provide enough context to determine its meaning. It could be interpreted as either toxic or clean.",
+  "predicted": "unclear",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

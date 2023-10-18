@@ -1,0 +1,5 @@
+{
+  "message": "man i hate darius so much hes so stupid",
+  "reason": "The message contains negative sentiment and derogatory language.",
+  "predicted": "toxic"
+}

@@ -1,0 +1,5 @@
+{
+"message": "danucdPotato LUL",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It is a simple expression of amusement using an emote.",
+"predicted": "clean"
+}

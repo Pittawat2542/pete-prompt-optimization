@@ -1,0 +1,8 @@
+{
+  "message": "Wtf thats stupid\u00f0\u0178\u02dc\u201a\u00f0\u0178\u02dc\u201a",
+  "reason": "The message contains a potentially offensive term, which could be seen as toxic in an online community.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

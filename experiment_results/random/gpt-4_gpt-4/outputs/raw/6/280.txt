@@ -1,0 +1,7 @@
+```json
+{
+"message": "HOW THE HELL IS THIS AN A",
+"reason": "The message uses a profanity ('hell') to express frustration or disbelief. This can be seen as a form of incivility, making the message potentially offensive to some.",
+"predicted": "toxic"
+}
+```

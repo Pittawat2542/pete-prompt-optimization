@@ -1,0 +1,7 @@
+```json
+{
+"message": "the hell was that",
+"reason": "The message uses a mild form of profanity, which can be interpreted as a sign of frustration or confusion. However, it does not directly insult or disrespect anyone, nor does it contain explicit, offensive or inappropriate language. The context of the message is also unclear, making it difficult to definitively classify it as 'toxic'.",
+"predicted": "clean"
+}
+```

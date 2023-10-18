@@ -1,0 +1,8 @@
+{
+  "message": "shit is so cringe and over done",
+  "reason": "The message contains explicit language ('shit') which is generally considered offensive and inappropriate. The overall tone of the message is negative and disrespectful, hence it is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

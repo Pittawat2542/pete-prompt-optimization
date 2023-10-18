@@ -1,0 +1,7 @@
+```json
+{
+"message": "@animoputt I get it dude. just pokin ya.",
+"reason": "The message appears to be a friendly banter between two individuals. The language used is casual and does not contain any offensive or inappropriate content. Therefore, it is classified as 'clean'.",
+"predicted": "clean"
+}
+```

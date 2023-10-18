@@ -1,0 +1,8 @@
+{
+  "message": "RT @PeterXinping: If You Want To Get Girls You Should Just Be Yourself! Unless You\u00e2\u20ac\u2122re 5\u00e2\u20ac\u21228, No Muscles, 3000 Hours League Of Legends, Twit\u00e2\u20ac\u00a6",
+  "reason": "The message is not offensive, threatening, or disrespectful. It's a humorous comment about personal preferences and hobbies.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "in a Payload game the other day one of the randoms started shooting grens at me",
+  "reason": "The message is about a gaming experience and does not contain any offensive or inappropriate language, threats, or harassment. It's a clean message.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

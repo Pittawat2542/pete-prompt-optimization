@@ -1,0 +1,7 @@
+```json
+{
+  "message": "just dont care",
+  "reason": "The message contains a negative sentiment and dismissive attitude, indicating a lack of interest or concern.",
+  "predicted": "toxic"
+}
+```

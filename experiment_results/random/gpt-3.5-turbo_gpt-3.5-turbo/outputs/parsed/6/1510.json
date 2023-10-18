@@ -1,0 +1,8 @@
+{
+  "message": "Jesus, it's a warzone in that city monkaS",
+  "reason": "The message expresses a negative sentiment and uses the term 'warzone' to describe the situation, which implies a chaotic and dangerous environment. The term 'monkaS' is an emote commonly used to express anxiety or stress. Although the message does not contain explicit offensive language or personal insults, it conveys a negative tone and can be considered as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

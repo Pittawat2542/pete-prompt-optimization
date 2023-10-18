@@ -1,0 +1,7 @@
+```json
+{
+"message": "https://specs.gg/tgltn",
+"reason": "The message is a URL, which does not contain any text for evaluation. Therefore, it cannot be classified as either 'toxic' or 'clean'.",
+"predicted": "clean"
+}
+```

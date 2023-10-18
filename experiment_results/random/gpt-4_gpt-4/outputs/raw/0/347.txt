@@ -1,0 +1,7 @@
+```json
+{
+"message": "this shit is like adc graves",
+"reason": "The message contains a mild swear word but it's used to express a sentiment about a game character, not to insult or harm anyone. Therefore, it's not considered toxic in the context of an online gaming community.",
+"predicted": "clean",
+}
+```

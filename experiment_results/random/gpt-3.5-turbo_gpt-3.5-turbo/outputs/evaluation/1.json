@@ -1,0 +1,3209 @@
+{
+  "total": 400,
+  "correct": 0,
+  "incorrect": 400,
+  "accuracy": 0.0,
+  "correct_messages": [],
+  "incorrect_messages": [
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "",
+      "reason": "",
+      "predicted": "",
+      "prompt_version": 1,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "clean",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "<ERROR_COULD_NOT_PARSE_JSON>",
+      "predicted": "<ERROR_PREDICTED_LABEL>",
+      "reason": "<ERROR>",
+      "label": "toxic",
+      "prompt_version": 1,
+      "model": "gpt-3.5-turbo"
+    }
+  ]
+}

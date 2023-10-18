@@ -1,0 +1,7 @@
+```json
+{
+"message": "HELL NO",
+"reason": "The message is expressed in capital letters, which is often interpreted as shouting in online communication. However, there is no use of offensive language, derogatory comments, prejudiced language, or profanity. The message is strong but not necessarily toxic.",
+"predicted": "clean"
+}
+```

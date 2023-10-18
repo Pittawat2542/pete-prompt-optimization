@@ -1,0 +1,8 @@
+{
+  "message": "control setting and dpi",
+  "reason": "The message is a simple, neutral statement about control settings and dpi. It does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

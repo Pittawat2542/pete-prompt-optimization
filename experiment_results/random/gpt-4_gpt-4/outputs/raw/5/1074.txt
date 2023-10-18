@@ -1,0 +1,7 @@
+```json
+{
+"message": "cause im an idiot lol",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior. The user is self-deprecating in a light-hearted manner, indicated by the 'lol' at the end of the statement.",
+"predicted": "clean"
+}
+```

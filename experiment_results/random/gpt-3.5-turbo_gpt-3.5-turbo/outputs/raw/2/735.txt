@@ -1,0 +1,5 @@
+{
+  "message": "I mean Camille and Sett do so much True Damage so who cares about armor",
+  "reason": "The message contains a negative tone and dismisses the importance of armor, which can be seen as toxic behavior.",
+  "predicted": "toxic"
+}

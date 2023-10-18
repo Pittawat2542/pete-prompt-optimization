@@ -1,0 +1,8 @@
+{
+  "message": "Stupid decisions mean stupid result",
+  "reason": "The message uses the term 'stupid' which can be considered as derogatory or offensive, especially when used to describe someone's decisions or results. This justifies the categorization as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

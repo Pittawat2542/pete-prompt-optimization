@@ -1,0 +1,5 @@
+{
+"message": "YOU'RE SO GOOD",
+"reason": "The message is not offensive and does not contain any personal insults. It is a positive statement.",
+"predicted": "clean"
+}

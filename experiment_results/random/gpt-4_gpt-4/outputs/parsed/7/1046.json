@@ -1,0 +1,8 @@
+{
+  "message": "HELL NO",
+  "reason": "The message is expressed in capital letters, which is often interpreted as shouting in written communication. However, it does not contain any offensive or inappropriate language, derogatory comments, discriminatory language, or disrespectful behavior. Therefore, it is classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-4"
+}

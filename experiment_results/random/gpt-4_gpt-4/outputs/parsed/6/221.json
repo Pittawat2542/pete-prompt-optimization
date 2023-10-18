@@ -1,0 +1,8 @@
+{
+  "message": "this feels so shit",
+  "reason": "The message uses a vulgar term to express a negative sentiment, which can be seen as offensive or inappropriate in a formal communication setting.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,5 @@
+{
+"message": "@melihozkiremitci cya",
+"reason": "The message is a casual farewell and does not contain any offensive language or disrespectful behavior.",
+"predicted": "clean"
+}

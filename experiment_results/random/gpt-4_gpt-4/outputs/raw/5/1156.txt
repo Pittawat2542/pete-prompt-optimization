@@ -1,0 +1,7 @@
+```json
+{
+"message": "Thatâ€™s pretty pathetic. I stick with the One X I think. First time in my 30+ years of gaming that I havenâ€™t been excited for a next gen console.",
+"reason": "The message contains a negative tone, but it is not offensive, derogatory, or discriminatory. The term 'pathetic' is used to express the sender's disappointment or lack of excitement about a gaming console, not to insult or belittle another individual.",
+"predicted": "clean"
+}
+```

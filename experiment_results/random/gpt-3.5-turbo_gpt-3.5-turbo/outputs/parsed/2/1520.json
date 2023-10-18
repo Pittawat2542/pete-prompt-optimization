@@ -1,0 +1,8 @@
+{
+  "message": "@jrrod91, This item is on cooldown",
+  "reason": "Neutral statement",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

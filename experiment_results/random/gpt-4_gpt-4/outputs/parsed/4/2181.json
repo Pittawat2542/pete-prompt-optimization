@@ -1,0 +1,8 @@
+{
+  "message": "rando squad?",
+  "reason": "The message is a common phrase used in online gaming to refer to playing with a random group of people. It does not contain any obscenities, threats, harassment, or any form of inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

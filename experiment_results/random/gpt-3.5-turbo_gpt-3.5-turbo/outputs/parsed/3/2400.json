@@ -1,0 +1,8 @@
+{
+  "message": "got a song for you @ibiza",
+  "reason": "The message is a simple statement sharing a song with someone. It does not contain any offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

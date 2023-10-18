@@ -1,0 +1,5 @@
+{
+  "message": "chocotGotem chocotGotem chocotGotem",
+  "reason": "The message consists of repetitive and nonsensical words.",
+  "predicted": "toxic"
+}

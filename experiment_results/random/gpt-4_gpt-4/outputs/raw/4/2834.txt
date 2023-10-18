@@ -1,0 +1,7 @@
+```json
+{
+"message": "Taking a shit ehun ehun ehun ehun",
+"reason": "The message contains a crude term that may be considered as inappropriate or offensive in a public or formal conversation. Therefore, it's defined as a 'toxic' message.",
+"predicted": "toxic"
+}
+```

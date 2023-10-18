@@ -1,0 +1,8 @@
+{
+  "message": "any way i can use my pubg on console on pc ? Dont got enough to get pubg on pc",
+  "reason": "The message is asking for a way to use PUBG on console on a PC because the person does not have enough money to buy PUBG on PC.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

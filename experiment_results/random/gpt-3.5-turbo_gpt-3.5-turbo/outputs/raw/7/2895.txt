@@ -1,0 +1,5 @@
+{
+"message": "Start with this and upgrade if it's shit",
+"reason": "The message contains offensive language ('shit') and is disrespectful.",
+"predicted": "toxic"
+}

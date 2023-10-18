@@ -1,0 +1,7 @@
+```json
+{
+"message": "the hell was that",
+"reason": "The message contains a mild obscenity ('hell') and could be interpreted as aggressive or confrontational, depending on the context. However, it does not contain explicit hate speech, threats, or severe offensive language.",
+"predicted": "toxic"
+}
+```

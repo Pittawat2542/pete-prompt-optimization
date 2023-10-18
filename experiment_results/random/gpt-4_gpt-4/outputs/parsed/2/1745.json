@@ -1,0 +1,8 @@
+{
+  "message": "WeirdChamp",
+  "reason": "The message is a popular emote used on the streaming platform Twitch, often used to express disbelief or disapproval. It does not contain obscenities, defamatory remarks, offensive or discriminatory language, or other forms of inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

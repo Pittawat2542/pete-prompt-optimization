@@ -1,0 +1,8 @@
+{
+  "message": "too E Z",
+  "reason": "This message does not contain any explicit, offensive or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior. 'too E Z' is a common gaming term that means 'too easy', and it does not carry any offensive or inappropriate connotations.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

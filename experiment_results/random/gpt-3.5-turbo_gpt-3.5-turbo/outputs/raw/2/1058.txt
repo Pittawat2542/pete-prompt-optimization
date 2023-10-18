@@ -1,0 +1,5 @@
+{
+  "message": "I hate my life",
+  "reason": "Negative sentiment",
+  "predicted": "toxic"
+}

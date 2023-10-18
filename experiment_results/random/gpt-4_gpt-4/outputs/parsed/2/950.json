@@ -1,0 +1,8 @@
+{
+  "message": "smd = shake my dick?",
+  "reason": "The message includes an obscene phrase which is inappropriate and offensive, thus the toxic categorization.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

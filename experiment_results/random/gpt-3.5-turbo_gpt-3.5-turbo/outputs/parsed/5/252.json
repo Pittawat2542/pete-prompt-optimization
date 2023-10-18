@@ -1,0 +1,8 @@
+{
+  "message": "man i hate darius so much hes so stupid",
+  "reason": "The message expresses dislike towards someone but does not contain offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

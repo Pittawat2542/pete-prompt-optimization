@@ -1,0 +1,8 @@
+{
+  "message": "https://specs.gg/tgltn",
+  "reason": "The message is a URL, which doesn't contain any offensive or harmful content. The model prediction also supports this with a 98% probability of being non-toxic.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

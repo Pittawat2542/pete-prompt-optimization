@@ -1,0 +1,5 @@
+{
+  "message": "Good shit",
+  "reason": "The message contains a positive adjective followed by a slang term, which can be interpreted as vulgar or offensive.",
+  "predicted": "toxic"
+}

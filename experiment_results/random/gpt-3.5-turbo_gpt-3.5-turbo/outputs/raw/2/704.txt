@@ -1,0 +1,5 @@
+{
+  "message": "gg",
+  "reason": "The message consists of two letters, 'g' and 'g', which are commonly used as an abbreviation for 'good game'.",
+  "predicted": "clean"
+}

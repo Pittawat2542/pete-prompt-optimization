@@ -1,0 +1,5 @@
+{
+  "message": "70 mana for that shit",
+  "reason": "The message contains offensive language.",
+  "predicted": "toxic"
+}

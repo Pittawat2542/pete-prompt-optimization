@@ -1,0 +1,8 @@
+{
+  "message": "Wait a sec, this isnt my favorite champion",
+  "reason": "The message is clean as it does not contain offensive, harmful, or disrespectful language.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

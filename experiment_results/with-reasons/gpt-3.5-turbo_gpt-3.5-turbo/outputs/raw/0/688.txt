@@ -1,0 +1,7 @@
+```json
+{
+"message": "800",
+"reason": "The message consists of only a number and does not contain any text or context. It is not possible to determine the category based on this message alone.",
+"predicted": "clean"
+}
+```

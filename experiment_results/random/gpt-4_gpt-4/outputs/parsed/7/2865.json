@@ -1,0 +1,8 @@
+{
+  "message": "Have you tried sleeping ass up?",
+  "reason": "The message uses a slang term that could be considered offensive or inappropriate in certain contexts. The tone of the message is also somewhat disrespectful, which further justifies its classification as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

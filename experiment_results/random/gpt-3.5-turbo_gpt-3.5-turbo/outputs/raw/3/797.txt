@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Pepega",
+  "reason": "The message contains the word 'Pepega', which is a popular emote in Twitch chat used to mock or insult someone. This suggests that the message is intended to be toxic or derogatory.",
+  "predicted": "toxic"
+}
+```

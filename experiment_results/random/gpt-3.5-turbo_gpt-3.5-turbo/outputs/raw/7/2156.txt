@@ -1,0 +1,5 @@
+{
+"message": "DendiFace gg",
+"reason": "The message contains an offensive term ('DendiFace') and is disrespectful.",
+"predicted": "toxic"
+}

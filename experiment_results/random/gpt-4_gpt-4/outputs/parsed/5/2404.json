@@ -1,0 +1,8 @@
+{
+  "message": "guys where to watch ??",
+  "reason": "The message is a simple question and does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or any form of uncivil behavior.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

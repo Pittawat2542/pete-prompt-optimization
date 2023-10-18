@@ -1,0 +1,8 @@
+{
+  "message": "I can help you translate chinese",
+  "reason": "The model predicts the message to be non-toxic with a 98% probability. The message is offering help, which is a positive interaction.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

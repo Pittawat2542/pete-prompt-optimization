@@ -1,0 +1,5 @@
+{
+"message": "how do i get these fucking things off my recommended",
+"reason": "The message contains offensive language and is disrespectful.",
+"predicted": "toxic"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "215 cs",
+  "reason": "The message is clean as it does not contain any explicit, offensive, or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

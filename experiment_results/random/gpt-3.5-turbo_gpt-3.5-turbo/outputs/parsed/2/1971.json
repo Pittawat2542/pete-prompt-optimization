@@ -1,0 +1,8 @@
+{
+  "message": "dizzy_face:",
+  "reason": "The message consists of an emoji without any accompanying text, making it difficult to determine the intent or meaning behind it.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

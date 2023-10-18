@@ -1,0 +1,7 @@
+```json
+{
+"message": "Samira is sick as fuck omg",
+"reason": "The message contains offensive language ('sick as fuck') and uses slang ('omg') which can be considered disrespectful.",
+"predicted": "toxic"
+}
+```

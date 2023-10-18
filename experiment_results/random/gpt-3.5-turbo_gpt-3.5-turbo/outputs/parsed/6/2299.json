@@ -1,0 +1,8 @@
+{
+  "message": "what's the song name",
+  "reason": "The message is a simple question asking for the name of a song. It is not offensive or toxic.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

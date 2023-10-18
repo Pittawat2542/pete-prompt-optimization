@@ -1,0 +1,8 @@
+{
+  "message": "Spoopy hamtime",
+  "reason": "The message does not contain any offensive or toxic language. It seems to be a playful and harmless phrase.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

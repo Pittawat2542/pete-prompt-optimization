@@ -1,0 +1,7 @@
+```json
+{
+"message": "Please chat only in English here",
+"reason": "The message is a polite request and does not contain any offensive or harmful content.",
+"predicted": "clean"
+}
+```

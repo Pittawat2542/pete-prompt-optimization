@@ -1,0 +1,8 @@
+{
+  "message": "Ass to mouth",
+  "reason": "The message contains offensive and potentially harmful language.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

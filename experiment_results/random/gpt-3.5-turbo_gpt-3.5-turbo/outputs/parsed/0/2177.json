@@ -1,0 +1,8 @@
+{
+  "message": "@escamoli yeah",
+  "reason": "The message contains a mention of another user, but it does not contain any offensive or harmful language. It is a simple agreement or acknowledgement.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

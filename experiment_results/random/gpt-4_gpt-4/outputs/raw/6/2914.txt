@@ -1,0 +1,7 @@
+```json
+{
+"message": "there are many cheaters in china",
+"reason": "This message is generalizing a negative trait to a whole group of people based on their geographical location, which can be seen as a prejudiced statement. Therefore, it is categorized as 'toxic'.",
+"predicted": "toxic"
+}
+```

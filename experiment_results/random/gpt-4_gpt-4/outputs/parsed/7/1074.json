@@ -1,0 +1,8 @@
+{
+  "message": "cause im an idiot lol",
+  "reason": "The message does not contain any offensive or inappropriate language directed towards others. The user is self-deprecating in a light-hearted manner, indicated by the use of 'lol' (laugh out loud). Therefore, it is classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

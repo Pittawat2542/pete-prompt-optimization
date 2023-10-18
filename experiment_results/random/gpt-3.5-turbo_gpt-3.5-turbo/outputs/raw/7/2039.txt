@@ -1,0 +1,5 @@
+{
+"message": "XD I am gonna get that catch-phrased I promise Tig lol",
+"reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It is a light-hearted message expressing excitement and a promise.",
+"predicted": "clean"
+}

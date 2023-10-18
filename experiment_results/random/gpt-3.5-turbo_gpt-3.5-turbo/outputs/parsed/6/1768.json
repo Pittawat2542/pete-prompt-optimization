@@ -1,0 +1,8 @@
+{
+  "message": "@melihozkiremitci cya",
+  "reason": "The message is a casual farewell and does not contain any offensive or toxic language.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

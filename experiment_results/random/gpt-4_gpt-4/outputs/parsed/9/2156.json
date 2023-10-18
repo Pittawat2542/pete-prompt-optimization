@@ -1,0 +1,8 @@
+{
+  "message": "DendiFace gg",
+  "reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior. 'DendiFace' is a popular emoticon used in gaming communities, and 'gg' is a common abbreviation for 'good game'.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

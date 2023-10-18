@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be non-toxic with a 95% confidence level.
+
+```json
+{
+"message": "@Thebausffs just scared the shit out of my dog",
+"reason": "The message is classified as clean because, despite the use of a mild curse word, it does not contain any offensive, harmful, or inappropriate content. The model prediction also supports this classification with a high confidence level.",
+"predicted": "clean"
+}
+```

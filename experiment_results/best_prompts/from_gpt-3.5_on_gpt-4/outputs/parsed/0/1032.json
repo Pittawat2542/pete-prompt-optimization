@@ -1,0 +1,8 @@
+{
+  "message": "Like Hell Do I Care.",
+  "reason": "The message contains a strong negative sentiment and uses a harsh tone, which is why the model classified it as toxic with a high confidence of 0.85.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

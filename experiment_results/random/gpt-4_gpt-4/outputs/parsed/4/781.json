@@ -1,0 +1,8 @@
+{
+  "message": "hes too smart",
+  "reason": "The message does not contain any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. It is a simple statement about someone's intelligence, and does not involve any forms of hate speech or harmful intent.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "its really hard with your ping",
+  "reason": "The message does not contain any obscenities, defamatory remarks, offensive or discriminatory language, or any other forms of inappropriate content. It seems to be a comment about a technical issue in an online game or similar context.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

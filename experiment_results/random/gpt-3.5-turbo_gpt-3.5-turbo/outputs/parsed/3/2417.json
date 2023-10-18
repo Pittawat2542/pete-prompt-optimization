@@ -1,0 +1,8 @@
+{
+  "message": "Hey, I think you're a terrible player. You always make mistakes and ruin the game for everyone else.",
+  "reason": "The message contains negative language and insults towards the recipient, which makes it toxic.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

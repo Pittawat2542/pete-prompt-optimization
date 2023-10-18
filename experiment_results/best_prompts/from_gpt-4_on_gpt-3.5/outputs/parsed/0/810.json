@@ -1,0 +1,8 @@
+{
+  "message": "Ur not an assassin if u don\u00d5t one tap the adc",
+  "reason": "The message contains informal language and uses abbreviations, but it does not incorporate offensive, rude, abusive, or disrespectful language. It is a statement about a gaming strategy and does not express negative sentiments towards anyone.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

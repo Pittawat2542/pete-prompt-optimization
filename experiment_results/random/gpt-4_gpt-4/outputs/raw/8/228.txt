@@ -1,0 +1,7 @@
+```json
+{
+"message": "how can that even be fucking compared?",
+"reason": "The message contains explicit language, specifically the use of the f-word, which is generally considered offensive and inappropriate in a respectful conversation. This justifies the 'toxic' classification.",
+"predicted": "toxic"
+}
+```

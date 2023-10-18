@@ -1,0 +1,5 @@
+{
+"message": "so he decided its my fault and wanted to ruin everyons game",
+"reason": "The message is expressing frustration and blaming someone for ruining the game, but it does not contain personal insults or offensive language. It is not disrespectful and can be considered as a complaint or venting.",
+"predicted": "clean"
+}

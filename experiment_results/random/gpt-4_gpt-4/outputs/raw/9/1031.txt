@@ -1,0 +1,7 @@
+```json
+{
+"message": "Who else hate their life?",
+"reason": "The message does not contain any inappropriate or offensive language, derogatory remarks, discriminatory speech, curse words or uncivil behavior. However, it does express a negative sentiment which could be seen as distressing or triggering for some individuals.",
+"predicted": "clean"
+}
+```

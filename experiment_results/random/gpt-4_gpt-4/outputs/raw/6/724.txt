@@ -1,0 +1,7 @@
+```json
+{
+"message": "I think your idea is really innovative and could potentially bring about a positive change. Keep up the good work!",
+"reason": "The message is encouraging and positive, with no use of offensive or inappropriate language. It is expressing appreciation for an idea and encouraging the recipient to continue their efforts.",
+"predicted": "clean"
+}
+```

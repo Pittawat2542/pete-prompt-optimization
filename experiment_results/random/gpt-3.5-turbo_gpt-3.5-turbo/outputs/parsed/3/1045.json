@@ -1,0 +1,8 @@
+{
+  "message": "oh crap ruby u awake ??",
+  "reason": "The message contains a mild expletive, which can be considered toxic or offensive.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

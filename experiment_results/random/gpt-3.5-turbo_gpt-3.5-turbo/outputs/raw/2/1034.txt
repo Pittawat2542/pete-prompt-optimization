@@ -1,0 +1,5 @@
+{
+  "message": "> cod is crap which one?",
+  "reason": "The message contains derogatory language and negative sentiment towards the topic.",
+  "predicted": "toxic"
+}

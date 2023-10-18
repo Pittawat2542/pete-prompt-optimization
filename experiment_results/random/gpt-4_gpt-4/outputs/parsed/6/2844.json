@@ -1,0 +1,8 @@
+{
+  "message": "i hate the camps, i always come out with shit loot",
+  "reason": "The message contains a mild profanity ('shit') used to express dissatisfaction with the outcome of a game or activity. However, it is not directed at an individual or group, and is not used in a derogatory or offensive manner.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

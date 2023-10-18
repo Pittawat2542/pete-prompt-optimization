@@ -1,0 +1,8 @@
+{
+  "message": "shit winds are acomin'!",
+  "reason": "The message contains offensive language ('shit') and has a negative tone ('acommin').",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

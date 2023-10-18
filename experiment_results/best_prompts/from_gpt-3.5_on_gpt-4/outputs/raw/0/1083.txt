@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message as "toxic" with a confidence of 0.85.
+
+```json
+{
+"message": "They suck",
+"reason": "The model classified the message as 'toxic' due to the negative connotation of the phrase used, which can be seen as offensive or disrespectful.",
+"predicted": "toxic"
+}
+```

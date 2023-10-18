@@ -1,0 +1,8 @@
+{
+  "message": "Like what the hell is this",
+  "reason": "The message contains the phrase 'what the hell' which is often used to express frustration or disbelief in a disrespectful or rude manner. This phrase can be considered as offensive language, hence the 'toxic' classification.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Jesus, it's a warzone in that city monkaS",
+  "reason": "The message contains a reference to a warzone, which can be seen as offensive or disrespectful to the people living in that city.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

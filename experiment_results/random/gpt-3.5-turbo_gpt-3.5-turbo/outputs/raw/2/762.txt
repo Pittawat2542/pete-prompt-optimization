@@ -1,0 +1,5 @@
+{
+  "message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
+  "reason": "The message contains a mention and a reference to hacking.",
+  "predicted": "toxic"
+}

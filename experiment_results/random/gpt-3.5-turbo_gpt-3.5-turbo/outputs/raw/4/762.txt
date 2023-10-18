@@ -1,0 +1,7 @@
+```json
+{
+  "message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
+  "reason": "The message contains gaming jargon and does not contain offensive language.",
+  "predicted": "clean"
+}
+```

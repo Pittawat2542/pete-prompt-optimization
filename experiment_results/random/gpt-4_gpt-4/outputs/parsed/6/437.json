@@ -1,0 +1,8 @@
+{
+  "message": "Fuck that champ",
+  "reason": "The message uses a profanity, which is considered offensive and inappropriate in a civil conversation. Even though it's not directly aimed at an individual, the use of such language can create a hostile environment.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

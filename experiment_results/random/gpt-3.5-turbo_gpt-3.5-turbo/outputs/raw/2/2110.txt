@@ -1,0 +1,5 @@
+{
+  "message": "as you can see so clearly with those on low?",
+  "reason": "The message does not contain any offensive or harmful language.",
+  "predicted": "clean"
+}

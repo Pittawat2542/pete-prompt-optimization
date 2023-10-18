@@ -1,0 +1,5 @@
+{
+"message": "You're so dumb! Can't believe you don't understand this simple concept!",
+"reason": "The message contains personal insults and is offensive.",
+"predicted": "toxic"
+}

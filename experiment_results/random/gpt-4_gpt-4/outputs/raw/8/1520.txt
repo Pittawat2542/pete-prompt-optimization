@@ -1,0 +1,7 @@
+```json
+{
+"message": "@jrrod91, This item is on cooldown",
+"reason": "The message is simply informing a user about the status of an item, presumably in a game or similar context. There is no offensive or inappropriate language, no insults or disrespectful behavior.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "I fucking hate lux",
+  "reason": "The message contains offensive language and expresses a negative sentiment towards someone.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

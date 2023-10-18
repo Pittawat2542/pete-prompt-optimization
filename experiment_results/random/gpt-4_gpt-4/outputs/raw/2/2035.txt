@@ -1,0 +1,7 @@
+```json
+{
+"message": "asia sever is many china player..",
+"reason": "The message does not contain any obscenities, defamatory remarks, offensive or discriminatory language, or any other forms of inappropriate content. It is merely stating a fact or observation about the distribution of players in a game server.",
+"predicted": "clean"
+}
+```

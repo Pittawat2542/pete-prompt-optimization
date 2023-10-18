@@ -1,0 +1,8 @@
+{
+  "message": "Stupid decisions mean stupid result",
+  "reason": "The message uses derogatory language and insults, which is toxic and disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

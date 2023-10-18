@@ -1,0 +1,7 @@
+```json
+{
+"message": "tgl3Head",
+"reason": "The message 'tgl3Head' does not contain any explicit, offensive, or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior. It appears to be a non-contextual or random string of characters, which does not convey any harmful or offensive meaning.",
+"predicted": "clean"
+}
+```

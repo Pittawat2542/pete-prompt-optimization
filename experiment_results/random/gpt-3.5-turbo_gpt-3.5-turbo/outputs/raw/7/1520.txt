@@ -1,0 +1,5 @@
+{
+"message": "@jrrod91, This item is on cooldown",
+"reason": "The message is not offensive or disrespectful. It is simply informing the user that the item is on cooldown.",
+"predicted": "clean"
+}

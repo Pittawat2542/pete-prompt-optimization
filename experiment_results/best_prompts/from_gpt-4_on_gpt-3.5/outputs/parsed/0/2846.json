@@ -1,0 +1,8 @@
+{
+  "message": "the hell was that",
+  "reason": "The message contains offensive language ('hell') and expresses a negative sentiment.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

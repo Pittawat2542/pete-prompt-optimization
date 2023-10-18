@@ -1,0 +1,7 @@
+```json
+{
+"message": "Hell no ew",
+"reason": "The message contains a strong negative reaction, but it does not include explicit, offensive or inappropriate language, insults, discriminatory remarks, or exhibits any form of uncivil or disrespectful behavior. Therefore, it is classified as 'clean'.",
+"predicted": "clean"
+}
+```

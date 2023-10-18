@@ -1,0 +1,7 @@
+```json
+{
+"message": "oh so jg duo means you roam and shit together?",
+"reason": "The message contains offensive language ('shit') which is disrespectful and rude.",
+"predicted": "toxic"
+}
+```

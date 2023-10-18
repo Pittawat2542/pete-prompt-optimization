@@ -1,0 +1,8 @@
+{
+  "message": "@mfyntz tgl5Head",
+  "reason": "The text message is not clear and does not provide any context or content to classify it as toxic or clean.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

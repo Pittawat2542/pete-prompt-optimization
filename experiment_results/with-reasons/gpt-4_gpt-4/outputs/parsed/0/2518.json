@@ -1,0 +1,8 @@
+{
+  "message": "@hambinooo sorry for ruining your fun",
+  "reason": "The message is an apology, not containing any offensive or harmful content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect",
+"reason": "The message contains repetitive text and does not contain any offensive language or disrespectful behavior. It does not seek help or ask questions either. Therefore, it is classified as clean.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "but they do it such a i dont give a shit way",
+  "reason": "The message contains offensive language ('i dont give a shit') which is disrespectful and rude.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

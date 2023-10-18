@@ -1,0 +1,8 @@
+{
+  "message": "it was the evelynn game, he even stole my fucking champ",
+  "reason": "The message contains a profanity, which is considered offensive and inappropriate in a civil conversation. Therefore, the categorization as 'toxic' is justified.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

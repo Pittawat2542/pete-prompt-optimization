@@ -1,0 +1,8 @@
+{
+  "message": "The hell",
+  "reason": "The message is a mild expletive, which can be considered as rude or offensive in certain contexts.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

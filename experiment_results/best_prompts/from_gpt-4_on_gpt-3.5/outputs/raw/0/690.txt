@@ -1,0 +1,7 @@
+```json
+{
+"message": "BALANCED KEKW",
+"reason": "The message does not contain any offensive, rude, abusive, or disrespectful language. It is a combination of the words 'balanced' and 'KEKW', which is an emote used in Twitch chat to express laughter or amusement.",
+"predicted": "clean"
+}
+```

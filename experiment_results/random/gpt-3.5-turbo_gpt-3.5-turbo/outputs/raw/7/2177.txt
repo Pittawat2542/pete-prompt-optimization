@@ -1,0 +1,5 @@
+{
+"message": "@escamoli yeah",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It is a simple acknowledgement or agreement.",
+"predicted": "clean"
+}

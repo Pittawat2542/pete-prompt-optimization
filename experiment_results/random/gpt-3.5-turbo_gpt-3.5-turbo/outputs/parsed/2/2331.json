@@ -1,0 +1,8 @@
+{
+  "message": "Scrims at 1900 CET to be streamed at (stream: tba)",
+  "reason": "The message is clean because it is simply announcing a scheduled event and providing information about the stream.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

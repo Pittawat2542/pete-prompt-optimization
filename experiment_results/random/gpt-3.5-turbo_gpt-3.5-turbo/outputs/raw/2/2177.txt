@@ -1,0 +1,5 @@
+{
+  "message": "@escamoli yeah",
+  "reason": "The message contains a simple agreement or affirmation.",
+  "predicted": "clean"
+}

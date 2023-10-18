@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be non-toxic with a 99.9% probability.
+
+```json
+{
+"message": "danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect",
+"reason": "The message is repetitive but it does not contain any offensive or harmful content. The model prediction also strongly supports this classification.",
+"predicted": "clean"
+}
+```

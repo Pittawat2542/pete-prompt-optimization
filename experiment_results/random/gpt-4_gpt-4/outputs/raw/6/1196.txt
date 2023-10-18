@@ -1,0 +1,7 @@
+```json
+{
+"message": "Maybe it?s talking about her smoothie PogChamp",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. The term 'PogChamp' is a popular emote used on the streaming platform Twitch, often used to express excitement or hype, and is not offensive.",
+"predicted": "clean"
+}
+```

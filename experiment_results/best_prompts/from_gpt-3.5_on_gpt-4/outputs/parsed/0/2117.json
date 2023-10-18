@@ -1,0 +1,8 @@
+{
+  "message": "@mfyntz tgl5Head",
+  "reason": "The model predicts the message to be non-toxic with a 98% confidence level.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

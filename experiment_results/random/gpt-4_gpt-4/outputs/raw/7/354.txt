@@ -1,0 +1,7 @@
+```json
+{
+"message": "what the hell??",
+"reason": "The message uses a phrase that can be considered as offensive or disrespectful in certain contexts. The tone of the message also seems to express frustration or disbelief, which can be perceived as negative.",
+"predicted": "toxic"
+}
+```

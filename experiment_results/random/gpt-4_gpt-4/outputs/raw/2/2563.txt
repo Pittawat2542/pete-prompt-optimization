@@ -1,0 +1,7 @@
+```json
+{
+"message": "@hf_spinach happy thursday!!",
+"reason": "The message is a friendly greeting with no obscenities, defamatory remarks, offensive or discriminatory language, or any other forms of inappropriate content.",
+"predicted": "clean"
+}
+```

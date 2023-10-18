@@ -1,0 +1,7 @@
+```json
+{
+"message": "fuck this mmr god why",
+"reason": "The message includes an obscenity which is considered inappropriate, thus the toxic categorization.",
+"predicted": "toxic"
+}
+```

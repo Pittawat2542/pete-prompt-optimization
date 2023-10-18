@@ -1,0 +1,8 @@
+{
+  "message": "Yeah with what? A short ass hop that gets you nearly nowhere? An ult that is SO fucking long",
+  "reason": "The message contains offensive language and disrespectful behavior.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,5 @@
+{
+"message": "Look at these vacuums",
+"reason": "The message is not offensive or harmful. It is a neutral statement about vacuums.",
+"predicted": "clean"
+}

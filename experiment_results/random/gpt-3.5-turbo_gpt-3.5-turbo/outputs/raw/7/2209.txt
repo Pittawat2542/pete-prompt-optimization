@@ -1,0 +1,5 @@
+{
+"message": "6th guy",
+"reason": "The message does not provide any context or content to determine its category. It is not offensive, but it also does not seek help or engage in a constructive manner.",
+"predicted": "clean"
+}

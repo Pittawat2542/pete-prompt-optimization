@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdPotato LUL",
+"reason": "The message does not contain any offensive, rude, abusive or disrespectful language. It appears to be a combination of the username 'danucd' and the word 'Potato' followed by 'LUL', which is an emote commonly used to indicate laughter. Therefore, the message is considered clean.",
+"predicted": "clean"
+}
+```

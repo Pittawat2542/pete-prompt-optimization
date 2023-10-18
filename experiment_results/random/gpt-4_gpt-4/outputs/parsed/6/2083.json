@@ -1,0 +1,8 @@
+{
+  "message": "its really hard with your ping",
+  "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility. It seems to be a comment about a technical issue, possibly in the context of online gaming where 'ping' refers to network latency.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

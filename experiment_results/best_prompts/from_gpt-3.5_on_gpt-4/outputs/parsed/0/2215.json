@@ -1,0 +1,8 @@
+{
+  "message": "it makes it even more difficult",
+  "reason": "The model predicts the message to be 98% clean, indicating that it does not contain any harmful or offensive content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Get the hell out",
+  "reason": "The message is aggressive and disrespectful, which can be perceived as a form of bullying or harassment. Therefore, it's defined as a 'toxic' message.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "shady as hell",
+"reason": "The message uses a negative tone and could be seen as offensive or derogatory depending on the context. The term 'shady' is often used to describe someone as dishonest or untrustworthy, and 'hell' is used as an intensifier, which could be seen as inappropriate language.",
+"predicted": "toxic"
+}
+```

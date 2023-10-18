@@ -1,0 +1,7 @@
+```json
+{
+"message": "asia sever is many china player..",
+"reason": "The message is a simple statement about the number of players from China on an Asia server. It does not contain any offensive, disrespectful or harmful content.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "HELL NO",
+"reason": "The message is expressed in a strong, potentially aggressive tone, but it does not contain obscenities, defamatory remarks, offensive or discriminatory language. Therefore, it is categorized as clean.",
+"predicted": "clean"
+}
+```

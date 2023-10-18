@@ -1,0 +1,8 @@
+{
+  "message": "FUCKING HELL",
+  "reason": "The message contains an obscenity and is written in all caps, which is often interpreted as shouting or aggressive behavior in online communication. Therefore, it's defined as a 'toxic' message.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

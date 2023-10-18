@@ -1,0 +1,8 @@
+{
+  "message": "but fuck riven",
+  "reason": "The message contains an obscenity which is considered inappropriate and offensive, thus the toxic categorization.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

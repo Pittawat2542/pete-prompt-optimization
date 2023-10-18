@@ -1,0 +1,8 @@
+{
+  "message": "My mains were magic exo and the brawler",
+  "reason": "The message is simply stating the user's main characters or roles in a game, presumably. There is no offensive or inappropriate language, no derogatory comments, and no expressions of incivility.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

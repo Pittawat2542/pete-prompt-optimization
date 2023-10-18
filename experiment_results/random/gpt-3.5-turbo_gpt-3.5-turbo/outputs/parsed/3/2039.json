@@ -1,0 +1,8 @@
+{
+  "message": "XD I am gonna get that catch-phrased I promise Tig lol",
+  "reason": "The message contains internet slang and abbreviations, which may be difficult for some people to understand. Additionally, the use of 'lol' and the promise to get a catchphrase may be seen as playful and harmless.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

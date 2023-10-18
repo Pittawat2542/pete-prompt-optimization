@@ -1,0 +1,13 @@
+You didn't provide a specific message to analyze. However, I'll provide an example based on a hypothetical message.
+
+Let's say the message is: "I hope you're having a great day!"
+
+The JSON output would be:
+
+```json
+{
+"message": "I hope you're having a great day!",
+"reason": "The message is polite and positive, without any offensive or inappropriate language. Therefore, it is classified as 'clean'.",
+"predicted": "clean"
+}
+```

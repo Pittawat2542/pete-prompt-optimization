@@ -1,0 +1,8 @@
+{
+  "message": "Yami has inted 11650 times KEKW",
+  "reason": "The message contains offensive language and disrespectful behavior.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "what matchups do you take elec on talon and what champs do u take conq on him?",
+  "reason": "The message is asking for advice on which rune to take on a specific champion in different matchups.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

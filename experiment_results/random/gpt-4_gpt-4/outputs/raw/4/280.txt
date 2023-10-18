@@ -1,0 +1,7 @@
+```json
+{
+"message": "HOW THE HELL IS THIS AN A",
+"reason": "The message contains the phrase 'HOW THE HELL' which can be considered as a mild obscenity. It also conveys a tone of aggression or frustration, which can be perceived as inappropriate or offensive.",
+"predicted": "toxic"
+}
+```

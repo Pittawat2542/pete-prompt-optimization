@@ -1,0 +1,7 @@
+```json
+{
+"message": "Does ranked solos have 100 players? @hambinooo",
+"reason": "The message is a simple question about a game, without any offensive or inappropriate language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+  "message": "No solo ranked in SEA DED",
+  "reason": "The message contains slang and an abbreviation that may be considered negative or toxic. The use of all caps and the word 'DED' suggests frustration or anger.",
+  "predicted": "toxic"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "is G fuel good",
+  "reason": "The message is a simple question about a product, with no offensive or inappropriate language used.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

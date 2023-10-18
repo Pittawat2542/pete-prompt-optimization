@@ -1,0 +1,7 @@
+```json
+{
+"message": "Yami is my best friend",
+"reason": "The message is expressing a positive sentiment towards another individual, Yami, by referring to them as a 'best friend'. There is no use of offensive or inappropriate language, insults, or disrespectful behavior.",
+"predicted": "clean"
+}
+```

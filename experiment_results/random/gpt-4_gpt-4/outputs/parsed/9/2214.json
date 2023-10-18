@@ -1,0 +1,8 @@
+{
+  "message": "why asia server ?",
+  "reason": "The message is a simple question and does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

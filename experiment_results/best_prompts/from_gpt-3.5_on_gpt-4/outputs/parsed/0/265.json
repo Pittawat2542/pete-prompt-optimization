@@ -1,0 +1,8 @@
+{
+  "message": "time to get some free shit",
+  "reason": "The model classified the message as toxic due to the use of a profanity.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

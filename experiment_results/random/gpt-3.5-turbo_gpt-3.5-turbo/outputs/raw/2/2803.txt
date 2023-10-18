@@ -1,0 +1,5 @@
+{
+  "message": "how the fuck that last bullet didn't kill you",
+  "reason": "The message contains offensive language.",
+  "predicted": "toxic"
+}

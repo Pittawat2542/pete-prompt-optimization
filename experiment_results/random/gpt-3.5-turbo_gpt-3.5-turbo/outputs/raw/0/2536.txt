@@ -1,0 +1,7 @@
+```json
+{
+"message": "!hype",
+"reason": "The message consists of a single word that is not inherently toxic or offensive.",
+"predicted": "clean"
+}
+```

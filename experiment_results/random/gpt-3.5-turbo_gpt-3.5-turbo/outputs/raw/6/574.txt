@@ -1,0 +1,5 @@
+{
+"message": "Yami has inted 11650 times KEKW",
+"reason": "The message contains gaming jargon and does not contain any offensive language or insults.",
+"predicted": "clean"
+}

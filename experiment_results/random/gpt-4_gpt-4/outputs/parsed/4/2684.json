@@ -1,0 +1,8 @@
+{
+  "message": "!gift @shanabana",
+  "reason": "The message appears to be a command or action in a chat, possibly to send a gift or reward to the user '@shanabana'. There are no obscenities, defamatory remarks, offensive/discriminatory language, threats, harassment, or bullying present in the message.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

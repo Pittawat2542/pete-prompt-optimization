@@ -1,0 +1,7 @@
+```json
+{
+  "message": "I mean Camille and Sett do so much True Damage so who cares about armor",
+  "reason": "The message does not contain offensive or harmful language. It is a discussion about the game mechanics and does not promote negativity or disrespect.",
+  "predicted": "clean"
+}
+```

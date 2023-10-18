@@ -1,0 +1,5 @@
+{
+"message": "danucdRespect danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance danucdDance2 danucdDance danucdDance2 danucdDance danucdDance2 danucdDance forsenPls SourPls",
+"reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It appears to be a combination of emotes and commands used in an online community.",
+"predicted": "clean"
+}

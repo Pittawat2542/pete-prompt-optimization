@@ -1,0 +1,8 @@
+{
+  "message": "how old she is",
+  "reason": "The message is a simple question asking about someone's age.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

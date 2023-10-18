@@ -1,0 +1,8 @@
+{
+  "message": "fuck this team",
+  "reason": "The message uses a swear word and expresses a negative sentiment towards a group, which can be seen as offensive and uncivil. Therefore, the 'toxic' categorization is justified.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

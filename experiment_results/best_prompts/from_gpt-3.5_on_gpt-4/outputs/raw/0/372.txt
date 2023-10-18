@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be non-toxic with a 90% probability.
+
+```json
+{
+"message": "Cuz of that stupid strat",
+"reason": "The model predicts the message to be non-toxic with a 90% probability. Although the message contains a negative word 'stupid', it is used in the context of a strategy in a game, not directed towards a person.",
+"predicted": "clean"
+}
+```

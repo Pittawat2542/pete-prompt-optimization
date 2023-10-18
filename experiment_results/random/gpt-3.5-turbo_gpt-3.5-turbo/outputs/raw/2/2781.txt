@@ -1,0 +1,5 @@
+{
+  "message": "she's listening through the door, shut the fuck up dad",
+  "reason": "The message contains offensive language.",
+  "predicted": "toxic"
+}

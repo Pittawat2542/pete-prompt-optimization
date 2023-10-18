@@ -1,0 +1,5 @@
+{
+"message": "LUL LUL LUL LUL LUL LUL LUL LUL",
+"reason": "The message consists of repeated laughter, which is not offensive or disrespectful. It does not contain personal insults or offensive language.",
+"predicted": "clean"
+}

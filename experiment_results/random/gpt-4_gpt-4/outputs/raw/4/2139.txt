@@ -1,0 +1,7 @@
+```json
+{
+"message": "ha ha ha comms",
+"reason": "The message does not contain any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. It appears to be a harmless comment, possibly referring to communication or a communication device.",
+"predicted": "clean"
+}
+```

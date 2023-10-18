@@ -1,0 +1,8 @@
+{
+  "message": "laners dying even with vision \u00f0\u0178\u00a4\u00a1",
+  "reason": "The message does not contain any offensive or inappropriate language, derogatory comments, discriminatory language, or disrespectful behavior. It seems to be a comment about a situation in a video game, expressing frustration but not in a toxic manner.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

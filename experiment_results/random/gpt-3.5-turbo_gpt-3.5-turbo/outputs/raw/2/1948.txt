@@ -1,0 +1,5 @@
+{
+  "message": "rawryyLaugh @cinnova",
+  "reason": "The message contains an emoji and a mention, but it does not contain any offensive or harmful language.",
+  "predicted": "clean"
+}

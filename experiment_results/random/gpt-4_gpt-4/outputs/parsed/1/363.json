@@ -1,0 +1,8 @@
+{
+  "message": "this game is annoying as fuck",
+  "reason": "The message contains a profanity which is considered as offensive language, hence it is categorised as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

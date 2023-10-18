@@ -1,0 +1,8 @@
+{
+  "message": "6th guy",
+  "reason": "The message does not provide enough information to determine its classification as toxic or clean.",
+  "predicted": "unknown",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

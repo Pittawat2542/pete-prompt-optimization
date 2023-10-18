@@ -1,0 +1,8 @@
+{
+  "message": "YEP",
+  "reason": "The message 'YEP' is classified as clean because it does not contain any offensive, disrespectful or inappropriate language. The prediction model also supports this classification with a 99% confidence level.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

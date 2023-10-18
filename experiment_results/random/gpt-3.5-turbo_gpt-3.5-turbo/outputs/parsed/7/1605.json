@@ -1,0 +1,8 @@
+{
+  "message": "Nt",
+  "reason": "The message is short and does not provide enough context to determine its category. It could be an abbreviation for 'nice try' or 'no thanks', which are both neutral. However, it could also be an abbreviation for 'not toxic', which would suggest a clean message. Without further information, it is difficult to make a definitive prediction.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

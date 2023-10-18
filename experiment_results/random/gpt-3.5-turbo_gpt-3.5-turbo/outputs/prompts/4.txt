@@ -1,0 +1,26 @@
+Classify the following "Message" from a chat in an online community into one of the specified categories: "toxic", "clean". Provide a reason for the classification in the specified JSON format within a Markdown code block (between ```json and ```). 
+
+Please ensure that the output adheres to the provided format:
+```json
+{
+  "message": <message>,
+  "reason": <reason>,
+  "predicted": <predicted category>
+}
+```
+
+Examples:
+- Classify the following "Message" from a chat in an online community:
+    Message: "You're such an idiot!"
+  
+- Classify the following "Message" from a chat in an online community:
+    Message: "Thank you for your help!"
+  
+Output format:
+```json
+{
+  "message": "You're such an idiot!",
+  "reason": "The message contains offensive language.",
+  "predicted": "toxic"
+}
+```

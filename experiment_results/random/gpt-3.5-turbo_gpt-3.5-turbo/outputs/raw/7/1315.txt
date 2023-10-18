@@ -1,0 +1,7 @@
+```json
+{
+"message": "alisaGG alisaGG alisaGG alisaGG naught14Luv naught14Luv naught14Nuts naught14Nuts naught14Nuts naught14Luv naught14Nuts naught14Luv naught14Nuts",
+"reason": "The message does not contain any offensive language or disrespectful behavior. However, it does not seek help or ask questions either. It appears to be a repetitive and meaningless message, which does not contribute to a constructive conversation.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "jd",
+  "reason": "The message consists of only two characters, which makes it difficult to determine its intent or meaning. It does not contain any explicit toxic language or harmful content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

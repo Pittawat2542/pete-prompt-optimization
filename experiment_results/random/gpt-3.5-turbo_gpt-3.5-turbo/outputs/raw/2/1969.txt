@@ -1,0 +1,5 @@
+{
+  "message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
+  "reason": "The message contains a statement about embracing being bad and making it a personal brand, which can be seen as promoting negative behavior.",
+  "predicted": "toxic"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "",
+  "reason": "",
+  "predicted": "",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

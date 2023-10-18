@@ -1,0 +1,7 @@
+```json
+{
+"message": "Well,rip clips alisaYikes",
+"reason": "The message does not contain any offensive or harmful language. It seems to be a comment on a specific situation or event, possibly related to a game or online activity.",
+"predicted": "clean"
+}
+```

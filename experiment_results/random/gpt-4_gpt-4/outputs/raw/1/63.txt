@@ -1,0 +1,7 @@
+```json
+{
+"message": "JESUS CHRIST",
+"reason": "The message is a religious reference and does not contain any offensive, rude, or inappropriate content.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "!subs",
+  "reason": "The message is not offensive and does not contain any disrespectful behavior. It appears to be a command to subscribe to something.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

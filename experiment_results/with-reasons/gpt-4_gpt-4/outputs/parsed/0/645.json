@@ -1,0 +1,8 @@
+{
+  "message": "what did they do to you @Yamikazexz",
+  "reason": "The message is a simple question and does not contain any offensive or harmful content.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

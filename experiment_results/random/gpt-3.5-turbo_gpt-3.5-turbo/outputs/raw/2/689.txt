@@ -1,0 +1,5 @@
+{
+  "message": "YEP",
+  "reason": "The message is short and does not contain any offensive or harmful language.",
+  "predicted": "clean"
+}

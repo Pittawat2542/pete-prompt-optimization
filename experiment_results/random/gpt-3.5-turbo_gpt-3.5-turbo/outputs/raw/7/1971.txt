@@ -1,0 +1,5 @@
+{
+"message": "dizzy_face:",
+"reason": "The message does not contain any meaningful content and does not fall into any of the predefined categories.",
+"predicted": "clean"
+}

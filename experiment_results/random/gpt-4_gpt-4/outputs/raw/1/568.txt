@@ -1,0 +1,7 @@
+```json
+{
+"message": "11649 times KEKW",
+"reason": "The message is a common phrase used in online gaming communities, specifically on platforms like Twitch. KEKW is an emote used to indicate laughter or amusement. The message does not contain any offensive, rude, or inappropriate content.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "215 cs",
+  "reason": "The message is not offensive, derogatory, or inappropriate. It seems to be a random combination of numbers and letters, which doesn't convey any clear meaning or intent.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

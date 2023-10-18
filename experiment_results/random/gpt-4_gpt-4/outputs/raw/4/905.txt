@@ -1,0 +1,7 @@
+```json
+{
+"message": "HOLY SHIT karthus busted KEKW",
+"reason": "The message contains the phrase 'HOLY SHIT' which is considered as an obscenity. Therefore, it's defined as a 'toxic' message.",
+"predicted": "toxic"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "Yami has inted 11650 times KEKW",
+  "reason": "The message is not offensive, rude, or inappropriate. It seems to be a comment about a game, where 'inted' is a term used in gaming communities to mean intentionally feeding the enemy team, and 'KEKW' is a popular emote used in online gaming communities to express laughter.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

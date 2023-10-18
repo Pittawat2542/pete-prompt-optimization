@@ -1,0 +1,6 @@
+```json
+{
+  "message": "Northwood League of Legends finishes (5-3) on the weekend and takes 3rd place in the @DruryEsports invitational! ðŸº#wolfpack",
+  "reason": "The message is a positive announcement about the team's performance in a tournament. It does not contain offensive, harmful, or disrespectful language.",
+  "predicted": "clean"
+}

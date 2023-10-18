@@ -1,0 +1,8 @@
+{
+  "message": "madar bitch don't kill us",
+  "reason": "The message contains offensive language and a violent threat.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

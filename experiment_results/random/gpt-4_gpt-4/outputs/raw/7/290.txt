@@ -1,0 +1,7 @@
+```json
+{
+"message": "eat shit riot",
+"reason": "The message contains a vulgar phrase and is directed in a disrespectful manner towards an entity or individual, which is considered offensive and inappropriate.",
+"predicted": "toxic"
+}
+```

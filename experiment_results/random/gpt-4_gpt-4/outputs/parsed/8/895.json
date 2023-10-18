@@ -1,0 +1,8 @@
+{
+  "message": "@buttery_butt1094 YEAH shit funny af",
+  "reason": "The message contains explicit language, specifically the term 'shit', which is generally considered as a profanity. The use of such language can be seen as offensive or inappropriate, hence the classification as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

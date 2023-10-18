@@ -1,0 +1,5 @@
+{
+"message": "hes too smart",
+"reason": "The message is a positive statement about someone's intelligence and does not contain any offensive language.",
+"predicted": "clean"
+}

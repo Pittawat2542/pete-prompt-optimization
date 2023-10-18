@@ -1,0 +1,5 @@
+{
+"message": "he said frist time FPP",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It is a simple statement and does not seek help or ask a question. Therefore, it can be classified as a clean message.",
+"predicted": "clean"
+}

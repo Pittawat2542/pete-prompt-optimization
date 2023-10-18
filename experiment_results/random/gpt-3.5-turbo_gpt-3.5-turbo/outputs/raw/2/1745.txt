@@ -1,0 +1,5 @@
+{
+  "message": "WeirdChamp",
+  "reason": "The message contains a term commonly used in online communities to express disapproval or mockery. It can be considered as toxic behavior.",
+  "predicted": "toxic"
+}

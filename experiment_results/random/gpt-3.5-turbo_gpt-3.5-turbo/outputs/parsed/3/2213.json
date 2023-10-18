@@ -1,0 +1,8 @@
+{
+  "message": "how do you play with such high ping",
+  "reason": "The message is a question about playing with high ping, which is a common issue in online gaming. It does not contain any offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

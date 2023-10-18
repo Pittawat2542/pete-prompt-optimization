@@ -1,0 +1,5 @@
+{
+  "message": "EZ GG",
+  "reason": "The message contains the abbreviation 'EZ' which is often used to taunt or belittle opponents. The phrase 'GG' stands for 'good game' but when combined with 'EZ', it can be interpreted as disrespectful or toxic.",
+  "predicted": "toxic"
+}

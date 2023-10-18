@@ -1,0 +1,7 @@
+```json
+{
+"message": "@melihozkiremitci cya",
+"reason": "The message is a simple farewell, using the abbreviation 'cya' which stands for 'see you'. There is no offensive or inappropriate language, insults, or disrespectful behavior.",
+"predicted": "clean"
+}
+```

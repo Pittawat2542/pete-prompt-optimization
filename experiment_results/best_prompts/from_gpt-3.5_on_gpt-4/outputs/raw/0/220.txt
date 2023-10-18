@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be toxic with a 78% probability.
+
+```json
+{
+"message": "Fuck up a turret dive as graves and went afk",
+"reason": "The message contains a profanity which is generally considered toxic in an online community.",
+"predicted": "toxic"
+}
+```

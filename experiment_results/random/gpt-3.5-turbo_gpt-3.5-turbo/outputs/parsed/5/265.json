@@ -1,0 +1,8 @@
+{
+  "message": "time to get some free shit",
+  "reason": "The message is ambiguous and could be interpreted as either clean or toxic. However, since there is no clear offensive or harmful language, it is classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

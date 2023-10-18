@@ -1,0 +1,5 @@
+{
+  "message": "Hey, could someone please explain how to solve this math problem?",
+  "reason": "The message is seeking help and is not offensive.",
+  "predicted": "clean"
+}

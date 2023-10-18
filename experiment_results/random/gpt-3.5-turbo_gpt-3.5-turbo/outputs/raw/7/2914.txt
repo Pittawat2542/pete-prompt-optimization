@@ -1,0 +1,5 @@
+{
+"message": "there are many cheaters in china",
+"reason": "The message is making a generalization about a group of people and may be considered disrespectful.",
+"predicted": "clean"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "hecarim is busted more",
+  "reason": "The message is a statement about a character in a video game, and does not contain any obscenities, defamatory remarks, offensive or discriminatory language, or other forms of inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

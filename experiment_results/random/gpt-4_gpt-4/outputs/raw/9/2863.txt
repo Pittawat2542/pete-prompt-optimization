@@ -1,0 +1,7 @@
+```json
+{
+"message": "this map is dog shit for squads. absolute dog shit",
+"reason": "The message uses a vulgar term to express dissatisfaction or frustration, which is considered offensive and inappropriate in a civil conversation. This justifies the categorization as 'toxic'.",
+"predicted": "toxic"
+}
+```

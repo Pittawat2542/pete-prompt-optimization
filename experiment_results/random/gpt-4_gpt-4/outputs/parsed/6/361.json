@@ -1,0 +1,8 @@
+{
+  "message": "He just fucking runs",
+  "reason": "The message contains a profanity, which is generally considered offensive and inappropriate in a civil conversation. Even though it's not directly aimed at someone, the use of such language can contribute to a toxic environment.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

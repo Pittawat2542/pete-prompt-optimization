@@ -1,0 +1,8 @@
+{
+  "message": "fuck this team",
+  "reason": "The message uses explicit language to express negative sentiment towards a group, which is considered disrespectful and offensive. This justifies the 'toxic' classification.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

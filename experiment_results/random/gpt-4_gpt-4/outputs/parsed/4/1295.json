@@ -1,0 +1,8 @@
+{
+  "message": "chocotGotem chocotGotem chocotGotem",
+  "reason": "The message does not contain any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. It appears to be a repetition of a non-offensive phrase or username.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

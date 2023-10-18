@@ -1,0 +1,7 @@
+```json
+{
+"message": "i have nothing",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or any form of uncivil behavior. It is a simple statement expressing a lack of something, which is not offensive or inappropriate in any way.",
+"predicted": "clean"
+}
+```

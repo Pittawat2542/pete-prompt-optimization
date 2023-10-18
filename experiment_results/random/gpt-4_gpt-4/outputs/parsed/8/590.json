@@ -1,0 +1,8 @@
+{
+  "message": "nb3LUL nb3LUL nb3LUL",
+  "reason": "The message does not contain any explicit, offensive, or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior. It appears to be a nonsensical or coded message, but without any inherently harmful or offensive content.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

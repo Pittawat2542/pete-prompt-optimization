@@ -1,0 +1,8 @@
+{
+  "message": "You're so dumb! Can't believe you don't understand this simple concept!",
+  "reason": "The message contains personal insults and is offensive.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

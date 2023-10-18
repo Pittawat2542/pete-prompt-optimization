@@ -1,0 +1,7 @@
+```json
+{
+"message": "Samira is sick as fuck omg",
+"reason": "The message uses explicit language ('as fuck') which is generally considered offensive and inappropriate in a formal or respectful conversation. Although the overall context of the message doesn't seem to be insulting or discriminatory, the use of such language justifies the 'toxic' classification.",
+"predicted": "toxic"
+}
+```

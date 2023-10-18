@@ -1,0 +1,8 @@
+{
+  "message": "the hell is a karak?",
+  "reason": "The message contains a mild obscenity ('hell') which could be considered as inappropriate or offensive language. However, it does not contain any severe obscenities, defamatory remarks, offensive/discriminatory language, threats, harassment, or bullying. The context of the message seems to be more of confusion or surprise rather than an intent to harm or offend.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

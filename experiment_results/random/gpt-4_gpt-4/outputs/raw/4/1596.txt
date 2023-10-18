@@ -1,0 +1,7 @@
+```json
+{
+"message": "yeah",
+"reason": "The message is a simple affirmation and does not contain any obscenities, threats, harassment, or any form of inappropriate content. Therefore, it's defined as a 'clean' message.",
+"predicted": "clean"
+}
+```

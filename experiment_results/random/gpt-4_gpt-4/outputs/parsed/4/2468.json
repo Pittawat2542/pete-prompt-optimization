@@ -1,0 +1,8 @@
+{
+  "message": "Does ranked solos have 100 players? @hambinooo",
+  "reason": "The message is a simple question about a game, and it does not contain any offensive or inappropriate language, obscenities, threats, or any form of hate speech. Therefore, it's defined as a 'clean' message.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "yeah",
+  "reason": "The message is too short and lacks context to determine its category.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

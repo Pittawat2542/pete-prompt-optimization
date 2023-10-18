@@ -1,0 +1,8 @@
+{
+  "message": "PeepoWeen",
+  "reason": "The message appears to be a non-offensive term or phrase, possibly a username or a specific term in a community. It does not contain any offensive or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

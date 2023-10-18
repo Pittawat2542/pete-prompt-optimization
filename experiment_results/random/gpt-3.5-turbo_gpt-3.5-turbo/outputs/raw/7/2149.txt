@@ -1,0 +1,5 @@
+{
+"message": "tglGG",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It is a random string of characters and does not convey any meaningful content.",
+"predicted": "clean"
+}

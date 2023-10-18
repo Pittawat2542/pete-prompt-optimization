@@ -1,0 +1,8 @@
+{
+  "message": "tglGG",
+  "reason": "The message does not contain any explicit or offensive language.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

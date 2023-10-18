@@ -1,0 +1,5 @@
+{
+"message": "got a song for you @ibiza",
+"reason": "The message is not offensive and does not contain any disrespectful behavior. It is a friendly message sharing a song with someone.",
+"predicted": "clean"
+}

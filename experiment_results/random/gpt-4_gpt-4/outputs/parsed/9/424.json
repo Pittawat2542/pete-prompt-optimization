@@ -1,0 +1,8 @@
+{
+  "message": "I'm safe for now so fuck you guys",
+  "reason": "The message contains a curse word directed towards others, which is considered offensive and inappropriate.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

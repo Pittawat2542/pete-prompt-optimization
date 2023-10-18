@@ -1,0 +1,7 @@
+```json
+{
+"message": "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG",
+"reason": "The message appears to be a series of usernames or game-related terms, and does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior.",
+"predicted": "clean"
+}
+```

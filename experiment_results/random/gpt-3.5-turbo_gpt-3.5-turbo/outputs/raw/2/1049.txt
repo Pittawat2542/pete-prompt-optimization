@@ -1,0 +1,5 @@
+{
+  "message": "hell yeaaahh",
+  "reason": "The message contains strong language and exclamation marks, which can be interpreted as excitement or enthusiasm.",
+  "predicted": "clean"
+}

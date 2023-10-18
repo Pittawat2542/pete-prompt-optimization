@@ -1,0 +1,8 @@
+{
+  "message": "I can translate for ya if u want",
+  "reason": "The message is offering help and assistance in translating, which is a positive and helpful behavior.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

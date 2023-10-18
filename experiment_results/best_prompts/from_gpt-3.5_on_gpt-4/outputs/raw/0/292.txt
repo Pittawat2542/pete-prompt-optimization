@@ -1,0 +1,7 @@
+```json
+{
+"message": "Being memed for releasing an overpowered adc and being shit on by the whole community.Rito after a few months: â€œ Iâ€™ll fucking do it again.â€",
+"reason": "The message contains strong language and negative sentiment towards a community, which is indicative of a toxic behavior.",
+"predicted": "toxic"
+}
+```

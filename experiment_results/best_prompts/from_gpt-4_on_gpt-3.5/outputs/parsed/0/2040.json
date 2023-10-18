@@ -1,0 +1,8 @@
+{
+  "message": "fessn1 all the clips got deleted to prevent dmca strikes, so theres no command at the moment",
+  "reason": "The message does not contain any offensive, rude, abusive, or disrespectful language. It provides information about the deletion of clips to prevent DMCA strikes and states that there is currently no command available.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Taking a shit ehun ehun ehun ehun",
+  "reason": "The message contains a vulgar term which is generally considered inappropriate in a public communication forum. However, the rest of the message is nonsensical and does not seem to target or insult any individual or group.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

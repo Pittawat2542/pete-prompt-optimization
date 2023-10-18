@@ -1,0 +1,7 @@
+```json
+{
+"message": "Jesus, it's a warzone in that city monkaS",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior. The term 'warzone' is used metaphorically to describe the chaotic situation in a city, and 'monkaS' is a popular emoticon used in online communities to express concern or fear.",
+"predicted": "clean"
+}
+```

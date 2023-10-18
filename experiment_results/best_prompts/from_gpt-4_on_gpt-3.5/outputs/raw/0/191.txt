@@ -1,0 +1,7 @@
+```json
+{
+"message": "Yo Riot wtf\nfuck brand he always deals the most damage for some reason EVERY GANE",
+"reason": "The message contains offensive language ('wtf' and 'fuck') and expresses frustration and anger towards the game and a specific character ('brand').",
+"predicted": "toxic"
+}
+```

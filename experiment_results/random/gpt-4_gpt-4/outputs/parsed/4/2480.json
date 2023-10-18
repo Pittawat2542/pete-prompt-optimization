@@ -1,0 +1,8 @@
+{
+  "message": "@animoputt I get it dude. just pokin ya.",
+  "reason": "The message does not contain any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. It seems to be a friendly banter between two individuals.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

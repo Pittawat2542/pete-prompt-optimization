@@ -1,0 +1,7 @@
+```json
+{
+"message": "@RisenEsportsNA Just doing the right thing @RisenEsportsNA. However, I better not catch you doing the same thing for your League of Legends team competing in @UpsurgeGG.",
+"reason": "The message does not contain any explicit, offensive or inappropriate language, insults, or discriminatory remarks. It seems to be a competitive statement in the context of esports, which does not exhibit any form of uncivil or disrespectful behavior.",
+"predicted": "clean"
+}
+```

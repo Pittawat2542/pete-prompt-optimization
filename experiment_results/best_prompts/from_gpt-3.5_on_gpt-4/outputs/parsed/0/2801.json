@@ -1,0 +1,8 @@
+{
+  "message": "@guccixslaya cheaters suck hard tho",
+  "reason": "The model has predicted the message to be non-toxic with a 90% confidence level. The message is expressing a negative opinion about cheaters, but it does not contain any offensive or harmful language.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

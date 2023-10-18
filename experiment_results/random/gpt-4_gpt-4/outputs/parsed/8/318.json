@@ -1,0 +1,8 @@
+{
+  "message": "like what the actual fuck is that",
+  "reason": "The message contains explicit language, specifically the use of the F-word, which is generally considered offensive and inappropriate. This justifies the 'toxic' classification.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

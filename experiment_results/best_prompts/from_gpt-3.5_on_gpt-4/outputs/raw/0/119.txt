@@ -1,0 +1,7 @@
+```json
+{
+"message": "Hes deceptilvely tanky and does not give a hairy rats ass about CC.",
+"reason": "The message is discussing a character's abilities in a game, using some slang and informal language. However, it does not contain any offensive or harmful content.",
+"predicted": "clean"
+}
+```

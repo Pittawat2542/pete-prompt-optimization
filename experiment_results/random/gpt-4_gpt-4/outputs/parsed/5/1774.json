@@ -1,0 +1,8 @@
+{
+  "message": "@Frank_Drebin451 yes danucd using it too",
+  "reason": "The message is a simple statement or response to another user, without any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

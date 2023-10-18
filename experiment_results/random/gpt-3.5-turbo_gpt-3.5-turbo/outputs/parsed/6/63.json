@@ -1,0 +1,8 @@
+{
+  "message": "JESUS CHRIST",
+  "reason": "The message does not contain any offensive language or personal insults. It is a common expression that can be used in various contexts.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "nexus blitz is ass",
+  "reason": "The message uses a slang term ('ass') in a negative context to express dissatisfaction or criticism. This can be considered as inappropriate language, hence the message is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "gg",
+  "reason": "The message 'gg' is an abbreviation commonly used in online gaming and internet slang to mean 'good game'. It does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or any form of uncivil behavior.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

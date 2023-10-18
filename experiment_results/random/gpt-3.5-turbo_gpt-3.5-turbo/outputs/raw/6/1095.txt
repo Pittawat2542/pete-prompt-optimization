@@ -1,0 +1,7 @@
+```json
+{
+"message": "the hell is a karak?",
+"reason": "The message is seeking information and is not offensive.",
+"predicted": "clean"
+}
+```

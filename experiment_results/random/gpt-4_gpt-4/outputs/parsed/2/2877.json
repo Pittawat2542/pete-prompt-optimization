@@ -1,0 +1,8 @@
+{
+  "message": "Good shit",
+  "reason": "The message contains a slang term that can be considered as an obscenity, thus it is categorized as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

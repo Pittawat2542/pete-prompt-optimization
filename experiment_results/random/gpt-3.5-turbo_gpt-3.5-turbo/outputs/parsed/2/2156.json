@@ -1,0 +1,8 @@
+{
+  "message": "DendiFace gg",
+  "reason": "The message contains an emote and the abbreviation 'gg', which is commonly used to mean 'good game'.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

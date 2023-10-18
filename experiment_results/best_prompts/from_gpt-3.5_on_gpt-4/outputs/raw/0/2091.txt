@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message "ahhh gotcha" with a 98% probability to be "clean".
+
+```json
+{
+"message": "ahhh gotcha",
+"reason": "The model predicts the message with a 98% probability to be clean. The message does not contain any offensive or harmful language.",
+"predicted": "clean"
+}
+```

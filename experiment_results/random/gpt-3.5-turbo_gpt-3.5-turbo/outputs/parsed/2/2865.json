@@ -1,0 +1,8 @@
+{
+  "message": "Have you tried sleeping ass up?",
+  "reason": "The message contains inappropriate language.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

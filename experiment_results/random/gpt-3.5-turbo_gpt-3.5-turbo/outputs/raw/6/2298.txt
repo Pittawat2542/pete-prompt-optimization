@@ -1,0 +1,5 @@
+{
+"message": "4X m249 op on sanhok",
+"reason": "The message is discussing game strategy and does not contain any offensive language.",
+"predicted": "clean"
+}

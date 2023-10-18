@@ -1,0 +1,8 @@
+{
+  "message": "11649 times KEKW",
+  "reason": "The message does not contain any offensive, rude, abusive, or disrespectful language. It appears to be a random statement or code.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

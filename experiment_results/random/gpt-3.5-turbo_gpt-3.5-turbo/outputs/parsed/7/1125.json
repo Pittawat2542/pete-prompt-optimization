@@ -1,0 +1,8 @@
+{
+  "message": "No solo ranked in SEA DED",
+  "reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It is a statement about the absence of a specific feature in a game.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

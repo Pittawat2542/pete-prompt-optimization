@@ -1,0 +1,7 @@
+```json
+{
+  "message": "love how i cant win even with me playing well",
+  "reason": "The message expresses frustration and disappointment.",
+  "predicted": "clean"
+}
+```

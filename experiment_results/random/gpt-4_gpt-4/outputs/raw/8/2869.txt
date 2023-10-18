@@ -1,0 +1,7 @@
+```json
+{
+"message": "ohh shit summit retired ?",
+"reason": "The message contains the word 'shit' which is considered as a profanity or explicit language. Therefore, it is classified as 'toxic'.",
+"predicted": "toxic"
+}
+```

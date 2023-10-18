@@ -1,0 +1,8 @@
+{
+  "message": "white_medium_star:\u0001",
+  "reason": "The message consists of an emoji code without any accompanying text or context.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

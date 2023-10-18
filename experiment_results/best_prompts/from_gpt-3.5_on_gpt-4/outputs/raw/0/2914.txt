@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be non-toxic with a 90% probability.
+
+```json
+{
+"message": "there are many cheaters in china",
+"reason": "The model has predicted the message to be non-toxic with a high probability. The message is a general statement and does not contain any offensive or harmful language.",
+"predicted": "clean"
+}
+```

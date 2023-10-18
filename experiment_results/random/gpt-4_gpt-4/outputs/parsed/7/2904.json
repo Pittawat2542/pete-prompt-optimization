@@ -1,0 +1,8 @@
+{
+  "message": "its banana its banana",
+  "reason": "The message is simply repeating a phrase about a fruit, with no offensive or inappropriate language, derogatory comments, or disrespectful behavior.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Stupid decisions mean stupid result",
+  "reason": "The message uses the word 'stupid' in a negative context, but it is not directly offensive or disrespectful. It can be interpreted as a general statement about the consequences of poor decision-making.",
+  "predicted": "clean"
+}
+```

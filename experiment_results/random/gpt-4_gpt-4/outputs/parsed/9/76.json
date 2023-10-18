@@ -1,0 +1,8 @@
+{
+  "message": "hecarim is busted more",
+  "reason": "The message is a statement about a character (Hecarim) in a video game (League of Legends), possibly referring to the character being overpowered or unbalanced. There is no offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior present.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

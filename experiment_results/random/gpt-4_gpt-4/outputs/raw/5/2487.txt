@@ -1,0 +1,7 @@
+```json
+{
+"message": "@noswal84 there is a reason for that....typical US Army infantry PLT is around that number",
+"reason": "The message is a factual statement about the typical number of people in a US Army infantry PLT. There is no offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior.",
+"predicted": "clean"
+}
+```

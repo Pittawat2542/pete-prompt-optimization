@@ -1,0 +1,7 @@
+```json
+{
+"message": "daaaaam",
+"reason": "The message is a single word and does not provide enough context to determine its intent. It could be interpreted as an expression of surprise or excitement, or it could be used in a derogatory manner. Without further context, it is difficult to classify the message accurately.",
+"predicted": "clean"
+}
+```

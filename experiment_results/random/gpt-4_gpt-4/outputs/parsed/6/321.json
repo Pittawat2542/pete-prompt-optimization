@@ -1,0 +1,8 @@
+{
+  "message": "I fucking hate lux",
+  "reason": "The message contains a profanity and expresses a strong negative sentiment towards 'lux', which could be a person, a character, or a product. This kind of language can be seen as offensive and inappropriate.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

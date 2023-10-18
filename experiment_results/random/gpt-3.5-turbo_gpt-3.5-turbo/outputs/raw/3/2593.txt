@@ -1,0 +1,7 @@
+```json
+{
+  "message": "i def. get the phantom footsteps",
+  "reason": "The message is short and does not contain any explicit toxic language or negative sentiment.",
+  "predicted": "clean"
+}
+```

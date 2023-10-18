@@ -1,0 +1,8 @@
+{
+  "message": "did u like that solo ranked @ibiza",
+  "reason": "The message does not contain offensive language or negative sentiment.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

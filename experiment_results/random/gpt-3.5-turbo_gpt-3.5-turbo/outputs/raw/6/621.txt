@@ -1,0 +1,7 @@
+```json
+{
+"message": "PepeLaugh",
+"reason": "The message contains an emote commonly used to express laughter or amusement. It does not contain any offensive or toxic content.",
+"predicted": "clean"
+}
+```

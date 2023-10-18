@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be non-toxic with a 99% probability. The message contains the term "LUL" repeated multiple times, which is a common term used in online gaming communities to express laughter or amusement. There are no offensive or harmful words present in the message.
+
+```json
+{
+"message": "LUL LUL LUL LUL LUL LUL LUL LUL",
+"reason": "The message contains the term 'LUL' repeated multiple times, which is a common term used in online gaming communities to express laughter or amusement. There are no offensive or harmful words present in the message.",
+"predicted": "clean"
+}
+```

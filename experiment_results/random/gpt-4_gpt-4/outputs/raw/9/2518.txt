@@ -1,0 +1,7 @@
+```json
+{
+"message": "@hambinooo sorry for ruining your fun",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior. It appears to be an apology, which is generally considered polite and respectful.",
+"predicted": "clean"
+}
+```

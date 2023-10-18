@@ -1,0 +1,8 @@
+{
+  "message": "cause im an idiot lol",
+  "reason": "The message contains self-deprecating language, but it does not incorporate offensive, rude, abusive, or disrespectful language or sentiments.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,5 @@
+{
+"message": "ooo we get a chickirhinooooo",
+"reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It is a playful and harmless comment.",
+"predicted": "clean"
+}

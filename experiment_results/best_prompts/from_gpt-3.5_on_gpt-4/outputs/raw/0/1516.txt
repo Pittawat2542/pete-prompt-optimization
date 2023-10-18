@@ -1,0 +1,10 @@
+Since the "Prediction result" section is not provided, I can't provide a classification for the message "!hs". However, here is an example of how the output format should look like:
+
+```json
+{
+"message": "!hs",
+"reason": "The prediction result showed that the message does not contain any offensive or harmful content.",
+"predicted": "clean"
+}
+```
+Please replace the "reason" and "predicted" fields with the appropriate information based on the "Prediction result" section.

@@ -1,0 +1,7 @@
+```json
+{
+"message": "they go super drop",
+"reason": "The message does not contain any offensive, rude, abusive, or disrespectful language. It is a neutral statement without any negative sentiments.",
+"predicted": "clean"
+}
+```

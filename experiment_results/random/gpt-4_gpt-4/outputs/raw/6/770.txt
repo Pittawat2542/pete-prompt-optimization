@@ -1,0 +1,7 @@
+```json
+{
+"message": "Yami is my best friend",
+"reason": "The message is a simple, positive statement about a personal relationship. There is no use of inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility.",
+"predicted": "clean"
+}
+```

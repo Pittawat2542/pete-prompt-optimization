@@ -1,0 +1,8 @@
+{
+  "message": "u succ LUL",
+  "reason": "The message uses an abbreviation that is often used in a derogatory manner to insult or belittle someone. The term 'succ' is often used in a negative context, and 'LUL' is an acronym for 'laugh out loud', indicating mockery or ridicule. Therefore, the message can be seen as offensive or inappropriate.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

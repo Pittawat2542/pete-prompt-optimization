@@ -1,0 +1,8 @@
+{
+  "message": "why the *fuck* do people in plat just s u c k",
+  "reason": "The message contains explicit language and is disrespectful towards a group of people, which is considered as toxic behavior.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

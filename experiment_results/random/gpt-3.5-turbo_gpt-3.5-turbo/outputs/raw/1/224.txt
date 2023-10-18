@@ -1,0 +1,20 @@
+Categories: "toxic", "clean".
+
+JSON Format:
+```json
+{
+  "message": "",
+  "reason": "",
+  "predicted": ""
+}
+```
+
+Message: "You're doing an amazing job, keep it up!"
+
+```json
+{
+  "message": "You're doing an amazing job, keep it up!",
+  "reason": "The message is positive and encouraging, showing support for the recipient.",
+  "predicted": "clean"
+}
+```

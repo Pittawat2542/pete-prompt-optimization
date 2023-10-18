@@ -1,0 +1,7 @@
+```json
+{
+  "message": "nexus blitz is ass",
+  "reason": "The message contains a derogatory term and expresses a negative opinion about Nexus Blitz.",
+  "predicted": "toxic"
+}
+```

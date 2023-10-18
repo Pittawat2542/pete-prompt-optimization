@@ -1,0 +1,7 @@
+```json
+{
+"message": "Annoying ass dog champ",
+"reason": "The message uses a derogatory term 'ass' which is considered as offensive language. Therefore, the message is classified as 'toxic'.",
+"predicted": "toxic"
+}
+```

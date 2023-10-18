@@ -1,0 +1,8 @@
+{
+  "message": "thanks for the giffted sub who ever gave it me @DanucD",
+  "reason": "The message is expressing gratitude for a gift received, without any obscenities, defamatory remarks, offensive or discriminatory language. Therefore, it is considered clean.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

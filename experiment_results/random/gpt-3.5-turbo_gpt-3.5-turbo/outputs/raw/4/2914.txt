@@ -1,0 +1,7 @@
+```json
+{
+  "message": "there are many cheaters in china",
+  "reason": "The message contains negative sentiment towards a specific group of people.",
+  "predicted": "toxic"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "daaaaam",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory comments, discriminatory language, or disrespectful behavior. It seems to be an expression of surprise or admiration, which is not toxic.",
+"predicted": "clean"
+}
+```

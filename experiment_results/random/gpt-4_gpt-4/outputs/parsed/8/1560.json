@@ -1,0 +1,8 @@
+{
+  "message": "how old she is",
+  "reason": "The message is a simple question asking for someone's age. It does not contain any offensive or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

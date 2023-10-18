@@ -1,0 +1,8 @@
+{
+  "message": "700 true dmg on 1 Q there KEKW",
+  "reason": "The message contains gaming jargon and abbreviations, but it does not contain personal insults, offensive language, or disrespectful behavior. It seems to be a comment about a game, possibly expressing surprise or excitement about dealing a high amount of damage with a specific ability.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

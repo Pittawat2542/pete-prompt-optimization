@@ -1,0 +1,8 @@
+{
+  "message": "bruh what the fuck is this match making",
+  "reason": "The message includes the use of profanity which is considered offensive and inappropriate. Therefore, it is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

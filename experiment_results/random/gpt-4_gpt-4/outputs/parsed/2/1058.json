@@ -1,0 +1,8 @@
+{
+  "message": "I hate my life",
+  "reason": "Although the message expresses negative emotions, it does not contain obscenities, defamatory remarks, offensive or discriminatory language, or other forms of inappropriate content. Therefore, it is categorized as clean.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

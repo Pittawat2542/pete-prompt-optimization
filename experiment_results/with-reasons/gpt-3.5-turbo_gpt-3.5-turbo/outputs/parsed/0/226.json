@@ -1,0 +1,8 @@
+{
+  "message": "which is dumb as fuck lmao",
+  "reason": "The message contains offensive language.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

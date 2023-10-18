@@ -1,0 +1,8 @@
+{
+  "message": "JESUS CHRIST",
+  "reason": "The message contains a religious reference, but without any context it is difficult to determine if it is being used in a toxic or clean manner.",
+  "predicted": "clean",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

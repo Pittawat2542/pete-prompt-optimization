@@ -1,0 +1,8 @@
+{
+  "message": "@keckzn have a time out, come back when you're done saying dumb shit",
+  "reason": "The message contains a personal insult ('saying dumb shit') and is disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+  "message": "!gift @shanabana",
+  "reason": "The message contains a command to send a gift to another user.",
+  "predicted": "clean"
+}
+```

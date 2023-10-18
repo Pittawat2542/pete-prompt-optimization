@@ -1,0 +1,8 @@
+{
+  "message": "Jesus, it's a warzone in that city monkaS",
+  "reason": "The message does not contain any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. It seems to be a comment on a situation in a city, possibly referring to chaos or disorder. The term 'monkaS' is a Twitch emote used to express concern or fear, which does not contribute to toxicity.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

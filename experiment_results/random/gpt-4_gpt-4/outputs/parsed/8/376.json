@@ -1,0 +1,8 @@
+{
+  "message": "gold is such a shit hole man",
+  "reason": "The message uses explicit language to describe 'gold' in a derogatory manner, which is considered offensive and disrespectful. Therefore, the message is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

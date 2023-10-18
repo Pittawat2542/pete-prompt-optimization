@@ -1,0 +1,8 @@
+{
+  "message": "noice team work forsenCD",
+  "reason": "The message contains positive language and is not offensive.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

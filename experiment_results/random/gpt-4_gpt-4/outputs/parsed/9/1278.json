@@ -1,0 +1,8 @@
+{
+  "message": "EZ GG",
+  "reason": "The message 'EZ GG' is a common phrase used in online gaming, where 'EZ' stands for 'easy' and 'GG' stands for 'good game'. It is often used to indicate that a game was easy to win. This message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

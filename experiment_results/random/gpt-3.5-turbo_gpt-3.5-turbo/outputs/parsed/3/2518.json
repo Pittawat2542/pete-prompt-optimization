@@ -1,0 +1,8 @@
+{
+  "message": "toxic",
+  "reason": "The message contains a negative sentiment and apologizes for ruining someone's fun, suggesting a toxic tone.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

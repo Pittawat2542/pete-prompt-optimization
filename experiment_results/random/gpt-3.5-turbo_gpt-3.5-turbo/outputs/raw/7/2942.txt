@@ -1,0 +1,5 @@
+{
+"message": "daaaaam",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It is a short exclamation that does not fall into the category of personal insults or offensive language.",
+"predicted": "clean"
+}

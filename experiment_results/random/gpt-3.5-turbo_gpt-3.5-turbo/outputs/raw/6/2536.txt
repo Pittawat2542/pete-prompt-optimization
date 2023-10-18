@@ -1,0 +1,7 @@
+```json
+{
+"message": "!hype",
+"reason": "The message contains an exclamation mark followed by the word 'hype', which indicates excitement or enthusiasm. It does not contain any offensive or toxic language.",
+"predicted": "clean"
+}
+```

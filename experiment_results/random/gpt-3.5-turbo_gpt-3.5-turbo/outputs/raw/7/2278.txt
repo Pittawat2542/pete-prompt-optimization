@@ -1,0 +1,5 @@
+{
+"message": "smh thats why i use the m4 long range",
+"reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It is a statement about the speaker's preference for using the M4 long range.",
+"predicted": "clean"
+}

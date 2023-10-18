@@ -1,0 +1,8 @@
+{
+  "message": "Fuck off chat, that guy deserves to be banned for risking this channels life",
+  "reason": "The message contains offensive language and expresses a negative sentiment towards another user.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

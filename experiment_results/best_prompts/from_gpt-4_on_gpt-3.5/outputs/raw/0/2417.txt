@@ -1,0 +1,7 @@
+```json
+{
+"message": "some good players",
+"reason": "The message does not contain any offensive, rude, abusive or disrespectful language or sentiments. It is a neutral statement expressing a positive sentiment.",
+"predicted": "clean"
+}
+```

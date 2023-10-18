@@ -1,0 +1,8 @@
+{
+  "message": "winking_face:",
+  "reason": "The message consists of only an emoji, which does not contain any text or words. Therefore, it does not include any inappropriate content, offensive language, or harmful intent. As a result, it can be categorized as a 'clean' message.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

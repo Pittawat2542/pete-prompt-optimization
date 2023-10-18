@@ -1,0 +1,7 @@
+```json
+{
+"message": "there are many cheaters in china",
+"reason": "The message generalizes and stereotypes a specific group of people (in this case, people from China) as 'cheaters', which is offensive and discriminatory. This justifies the categorization as 'toxic'.",
+"predicted": "toxic"
+}
+```

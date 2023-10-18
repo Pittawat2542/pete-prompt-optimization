@@ -1,0 +1,8 @@
+{
+  "message": "WHAT THE FUCKING FUCK IS THIS FUCKING RECALL ANIMATION",
+  "reason": "The message contains multiple instances of a curse word, which is considered offensive and inappropriate language. This justifies the categorization as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

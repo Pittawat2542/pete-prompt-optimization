@@ -1,0 +1,8 @@
+{
+  "message": "gold is such a shit hole man",
+  "reason": "The message contains a derogatory term used to describe something, which is considered offensive and inappropriate.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Get the hell out",
+  "reason": "The message is aggressive and disrespectful, which can be seen as offensive and inappropriate.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

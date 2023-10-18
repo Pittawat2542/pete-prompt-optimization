@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Ur not an assassin if u donÕt one tap the adc",
+  "reason": "The message contains toxic language and implies a negative attitude towards other players.",
+  "predicted": "toxic"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "absolute fucking bullshit",
+"reason": "The message contains explicit profanity and is offensive in nature. The use of such language is considered inappropriate and uncivil in a public communication forum.",
+"predicted": "toxic"
+}
+```

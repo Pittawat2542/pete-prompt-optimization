@@ -1,0 +1,7 @@
+```json
+{
+  "message": "are you twitch single?",
+  "reason": "The message does not contain offensive language or negative sentiment.",
+  "predicted": "clean"
+}
+```

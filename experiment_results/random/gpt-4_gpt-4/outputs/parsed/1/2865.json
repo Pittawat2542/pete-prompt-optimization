@@ -1,0 +1,8 @@
+{
+  "message": "Have you tried sleeping ass up?",
+  "reason": "The message contains a potentially offensive or inappropriate suggestion.",
+  "predicted": "toxic",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

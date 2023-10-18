@@ -1,0 +1,8 @@
+{
+  "message": "!hype",
+  "reason": "The message contains an exclamation mark followed by the word 'hype', which suggests excitement or enthusiasm. It does not incorporate offensive, rude, abusive, or disrespectful language or sentiments.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

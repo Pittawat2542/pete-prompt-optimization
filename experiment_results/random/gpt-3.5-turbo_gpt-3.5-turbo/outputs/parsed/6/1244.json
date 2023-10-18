@@ -1,0 +1,8 @@
+{
+  "message": "white_medium_star:\u0001",
+  "reason": "The message consists of an emoji and does not contain any offensive or toxic content.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "smh thats why i use the m4 long range",
+  "reason": "The message does not contain any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. It appears to be a comment about a personal preference in a game or similar context.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-4"
+}

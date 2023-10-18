@@ -1,0 +1,7 @@
+```json
+{
+"message": "danucdHypePrime",
+"reason": "The message does not contain any offensive, rude, abusive, or disrespectful language. It appears to be a username or a phrase without any negative connotations.",
+"predicted": "clean"
+}
+```

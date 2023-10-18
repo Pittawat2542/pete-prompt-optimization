@@ -1,0 +1,7 @@
+```json
+{
+"message": "@buttery_butt1094 YEAH shit funny af",
+"reason": "The message contains an obscenity ('shit') and an abbreviation for a phrase that includes a profanity ('af' stands for 'as fuck'). These elements are considered inappropriate and offensive language.",
+"predicted": "toxic"
+}
+```

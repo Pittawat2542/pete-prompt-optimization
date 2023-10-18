@@ -1,0 +1,8 @@
+{
+  "message": "the hell is a karak?",
+  "reason": "The message contains the phrase 'the hell', which can be considered as a mild form of profanity. However, it's often used in informal contexts to express confusion or frustration, rather than to insult or offend. Therefore, while the language might be seen as slightly inappropriate, it's not necessarily toxic.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

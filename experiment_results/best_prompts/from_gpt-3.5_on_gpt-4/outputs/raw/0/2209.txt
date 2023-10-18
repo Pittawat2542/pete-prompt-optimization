@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message "6th guy" with a 98% probability to be non-toxic.
+
+```json
+{
+"message": "6th guy",
+"reason": "The message does not contain any offensive or harmful language. It is a neutral statement.",
+"predicted": "clean"
+}
+```

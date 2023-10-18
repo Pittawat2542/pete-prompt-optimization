@@ -1,0 +1,8 @@
+{
+  "message": "HOLY SHIT karthus busted KEKW",
+  "reason": "The message contains a profanity at the beginning, which is considered offensive and inappropriate in many contexts. Even though the rest of the message seems to be related to a game character (Karthus), the use of profanity makes the overall message toxic.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

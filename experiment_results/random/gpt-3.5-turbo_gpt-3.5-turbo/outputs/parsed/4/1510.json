@@ -1,0 +1,8 @@
+{
+  "message": "Jesus, it's a warzone in that city monkaS",
+  "reason": "The message contains negative and intense language.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

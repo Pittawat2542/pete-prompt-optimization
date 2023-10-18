@@ -1,0 +1,5 @@
+{
+  "message": "!hs",
+  "reason": "The message consists of a short code or abbreviation that does not provide any context or meaning.",
+  "predicted": "clean"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "guys where to watch ??",
+  "reason": "The message is asking a question. Although it does not contain any explicit toxic language, the tone and lack of necessary context make it difficult to determine the intent behind the message. Therefore, it is better to classify this message as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

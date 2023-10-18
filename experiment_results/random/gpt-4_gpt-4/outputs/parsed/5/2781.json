@@ -1,0 +1,8 @@
+{
+  "message": "she's listening through the door, shut the fuck up dad",
+  "reason": "The message contains a swear word directed towards an individual, which is considered offensive and inappropriate. Therefore, the 'toxic' categorization is justified.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

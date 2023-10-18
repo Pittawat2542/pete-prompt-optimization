@@ -1,0 +1,5 @@
+{
+  "message": "When is ps4 and xbox pts server finished? What date and time (uk) please? Thanks",
+  "reason": "The message is asking a question about the completion date and time of the ps4 and xbox pts server in a polite manner.",
+  "predicted": "clean"
+}

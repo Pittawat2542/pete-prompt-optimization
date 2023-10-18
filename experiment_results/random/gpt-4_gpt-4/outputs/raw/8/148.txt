@@ -1,0 +1,7 @@
+```json
+{
+"message": "I dislike games where I carry and my team feeds ;/",
+"reason": "The message is expressing dissatisfaction with a gaming scenario. It does not contain any explicit, offensive or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior. Therefore, it is classified as 'clean'.",
+"predicted": "clean"
+}
+```

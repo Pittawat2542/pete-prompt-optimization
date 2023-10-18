@@ -1,0 +1,7 @@
+```json
+{
+  "message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
+  "reason": "The message does not contain offensive language and has a positive tone.",
+  "predicted": "clean"
+}
+```

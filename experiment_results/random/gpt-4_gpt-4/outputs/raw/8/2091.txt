@@ -1,0 +1,7 @@
+```json
+{
+"message": "ahhh gotcha",
+"reason": "The message is a casual expression of understanding or realization, without any offensive or inappropriate language, insults, or disrespectful behavior.",
+"predicted": "clean"
+}
+```

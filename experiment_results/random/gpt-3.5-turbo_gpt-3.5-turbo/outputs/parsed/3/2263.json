@@ -1,0 +1,8 @@
+{
+  "message": "you can try this to them ciao nee mud",
+  "reason": "The message contains random and nonsensical words that do not convey any meaningful message or sentiment.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

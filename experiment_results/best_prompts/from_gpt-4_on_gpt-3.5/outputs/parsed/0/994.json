@@ -1,0 +1,8 @@
+{
+  "message": "@der_bisang he can miss it, long cd, needs grit. camille? she doesn't give a shit, spam Q for 1k true dmg YEP",
+  "reason": "The message contains offensive and disrespectful language, using words like 'miss it', 'doesn't give a shit', and 'spam Q for 1k true dmg'. These words are offensive, rude, and abusive.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

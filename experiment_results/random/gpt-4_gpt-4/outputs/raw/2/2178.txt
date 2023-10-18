@@ -1,0 +1,7 @@
+```json
+{
+"message": "only 52 alive?",
+"reason": "The message does not contain any obscenities, defamatory remarks, offensive or discriminatory language, or any other forms of inappropriate content.",
+"predicted": "clean"
+}
+```

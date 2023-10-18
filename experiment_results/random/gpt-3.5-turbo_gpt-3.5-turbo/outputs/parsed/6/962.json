@@ -1,0 +1,8 @@
+{
+  "message": "fiesta fiesta pluma pluma gay",
+  "reason": "The message contains offensive language and is derogatory towards a specific group of people.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

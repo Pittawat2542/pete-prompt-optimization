@@ -1,0 +1,7 @@
+```json
+{
+"message": "why the *fuck* do people in plat just s u c k",
+"reason": "The message contains an obscenity ('fuck') and is also disparaging towards a group of people ('people in plat'). This can be perceived as offensive and inappropriate.",
+"predicted": "toxic"
+}
+```

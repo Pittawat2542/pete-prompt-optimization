@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be non-toxic with a 98% probability.
+
+```json
+{
+"message": "Still waitin for update on xbox I'm buying on pc next week annoyed lol",
+"reason": "The message is expressing a user's frustration about waiting for an update on Xbox and their decision to buy on PC next week. Although the user is annoyed, the message does not contain any offensive or harmful content.",
+"predicted": "clean"
+}
+```

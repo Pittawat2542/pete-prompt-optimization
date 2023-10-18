@@ -1,0 +1,7 @@
+```json
+{
+"message": "Melanie is in hell now",
+"reason": "The message implies a negative and potentially offensive sentiment towards an individual named Melanie, suggesting that she is in a place of suffering or punishment. This can be seen as a form of uncivil behavior.",
+"predicted": "toxic"
+}
+```

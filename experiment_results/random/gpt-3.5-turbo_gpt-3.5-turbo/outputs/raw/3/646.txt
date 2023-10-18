@@ -1,0 +1,7 @@
+```json
+{
+  "message": "are you twitch single?",
+  "reason": "The message appears to be asking about someone's relationship status, which is unrelated to the topic of the online community. It could be considered inappropriate or intrusive.",
+  "predicted": "toxic"
+}
+```

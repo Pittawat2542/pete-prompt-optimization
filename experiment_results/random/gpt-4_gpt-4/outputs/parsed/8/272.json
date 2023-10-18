@@ -1,0 +1,8 @@
+{
+  "message": "i swear to fucking god",
+  "reason": "The message contains explicit language, which is generally considered offensive and inappropriate. The tone of the message also seems aggressive, contributing to the 'toxic' classification.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

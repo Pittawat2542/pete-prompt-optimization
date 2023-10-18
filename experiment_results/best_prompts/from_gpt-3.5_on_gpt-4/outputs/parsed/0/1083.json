@@ -1,0 +1,8 @@
+{
+  "message": "They suck",
+  "reason": "The model classified the message as 'toxic' due to the negative connotation of the phrase used, which can be seen as offensive or disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

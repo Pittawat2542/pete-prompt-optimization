@@ -1,0 +1,7 @@
+```json
+{
+"message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
+"reason": "The message does not contain any obscenities, defamatory remarks, offensive or discriminatory language, or any other forms of inappropriate content. The term 'bad' in this context seems to be used in a playful or self-deprecating manner, rather than as an insult or derogatory term.",
+"predicted": "clean"
+}
+```

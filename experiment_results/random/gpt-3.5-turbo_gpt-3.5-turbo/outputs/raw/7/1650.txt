@@ -1,0 +1,5 @@
+{
+"message": "@adooool18 on the way danucdSaspisas",
+"reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It appears to be a random string of characters and does not convey any meaningful content.",
+"predicted": "clean"
+}

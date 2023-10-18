@@ -1,0 +1,7 @@
+```json
+{
+"message": "6th guy",
+"reason": "The message is simply referring to a position or order, and does not contain any offensive or inappropriate language, derogatory comments, discriminatory language, or disrespectful behavior.",
+"predicted": "clean"
+}
+```

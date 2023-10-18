@@ -1,0 +1,8 @@
+{
+  "message": "how can that even be fucking compared?",
+  "reason": "The message contains a swear word which is considered offensive and inappropriate. This makes the message fall under the 'toxic' category.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

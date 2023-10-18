@@ -1,0 +1,7 @@
+```json
+{
+  "message": "got a song for you @ibiza",
+  "reason": "The message is a simple statement sharing a song with someone. It does not contain any offensive or harmful language.",
+  "predicted": "clean"
+}
+```

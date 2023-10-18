@@ -1,0 +1,5 @@
+{
+"message": "ha ha ha comms",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It is a simple expression of laughter.",
+"predicted": "clean"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "im stupid hbu?ðŸ™‡",
+"reason": "The message contains self-deprecating language, but it is not offensive or rude towards others.",
+"predicted": "clean"
+}
+```

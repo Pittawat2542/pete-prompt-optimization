@@ -1,0 +1,5 @@
+{
+  "message": "damnnn",
+  "reason": "The message contains a slang term that can be interpreted as expressing excitement or admiration.",
+  "predicted": "clean"
+}

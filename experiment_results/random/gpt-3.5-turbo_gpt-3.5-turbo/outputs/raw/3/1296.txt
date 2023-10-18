@@ -1,0 +1,7 @@
+```json
+{
+  "message": "toxic",
+  "reason": "The text message does not contain any meaningful content or context to determine its classification. It appears to be a random string of words and emojis.",
+  "predicted": "toxic"
+}
+```

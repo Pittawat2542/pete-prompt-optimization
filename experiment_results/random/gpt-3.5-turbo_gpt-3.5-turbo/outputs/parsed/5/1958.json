@@ -1,0 +1,8 @@
+{
+  "message": "https://specs.gg/tgltn",
+  "reason": "The message contains a URL and does not contain any offensive, harmful, or disrespectful language. It is unclear what the content of the URL is, so it is classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

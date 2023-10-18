@@ -1,0 +1,8 @@
+{
+  "message": "MsRoselyn nairidHerz nairidHerz danucdHi parunaHi",
+  "reason": "The message appears to be a series of usernames or greetings, with no offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior detected.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

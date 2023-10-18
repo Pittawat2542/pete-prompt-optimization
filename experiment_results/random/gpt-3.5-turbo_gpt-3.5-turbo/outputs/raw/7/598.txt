@@ -1,0 +1,5 @@
+{
+"message": "last time i played talon, talon jungle was not legitimately playable, is that still true",
+"reason": "The message is asking a question and seeking information. It is not offensive or disrespectful.",
+"predicted": "clean"
+}

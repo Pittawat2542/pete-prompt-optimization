@@ -1,0 +1,8 @@
+{
+  "message": "so its not the fucking card",
+  "reason": "The message contains a profanity which is generally considered offensive and inappropriate in a respectful conversation. This makes the message toxic.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "toxic",
+  "model": "gpt-4"
+}

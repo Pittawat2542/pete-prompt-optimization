@@ -1,0 +1,8 @@
+{
+  "message": "rawryyLaugh NT NT",
+  "reason": "The message contains the word 'rawryyLaugh' which does not provide any context or contribute to the conversation. The repeated use of 'NT' may also indicate spam or unnecessary repetition.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

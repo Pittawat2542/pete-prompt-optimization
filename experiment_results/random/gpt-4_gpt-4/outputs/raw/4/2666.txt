@@ -1,0 +1,7 @@
+```json
+{
+"message": "been 2 weeks 1since i've been able to lunch with ham!",
+"reason": "The message is a simple statement about the sender's personal experience and does not contain any obscenities, threats, harassment, or offensive language. Therefore, it's defined as a 'clean' message.",
+"predicted": "clean"
+}
+```

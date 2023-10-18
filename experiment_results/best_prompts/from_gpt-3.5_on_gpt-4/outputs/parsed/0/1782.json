@@ -1,0 +1,8 @@
+{
+  "message": "jd",
+  "reason": "The message 'jd' does not contain any offensive, disrespectful or inappropriate language.",
+  "predicted": "clean",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-4"
+}

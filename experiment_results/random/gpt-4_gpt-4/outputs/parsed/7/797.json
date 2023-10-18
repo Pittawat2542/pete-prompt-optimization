@@ -1,0 +1,8 @@
+{
+  "message": "Pepega",
+  "reason": "The term 'Pepega' is a Twitch emote used to signify a silly or stupid action. It does not contain any offensive, derogatory, or disrespectful language. Therefore, it is classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-4"
+}

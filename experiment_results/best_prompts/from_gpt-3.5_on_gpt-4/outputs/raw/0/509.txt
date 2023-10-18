@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be "clean".
+
+```json
+{
+"message": "Northwood League of Legends finishes (5-3) on the weekend and takes 3rd place in the @DruryEsports invitational! ðŸº#wolfpack",
+"reason": "The message is about a gaming event and does not contain any offensive or harmful content.",
+"predicted": "clean"
+}
+```

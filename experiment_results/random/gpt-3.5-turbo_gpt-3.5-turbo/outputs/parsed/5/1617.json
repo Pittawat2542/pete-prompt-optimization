@@ -1,0 +1,8 @@
+{
+  "message": "Greetings from New Orleans",
+  "reason": "The message is respectful and non-offensive.",
+  "predicted": "clean",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

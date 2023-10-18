@@ -1,0 +1,8 @@
+{
+  "message": "fuck that champion and his entire bullshit kit",
+  "reason": "The message contains explicit language and derogatory terms, which are considered offensive and inappropriate.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

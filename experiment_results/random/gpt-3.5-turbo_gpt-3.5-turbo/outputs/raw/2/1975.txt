@@ -1,0 +1,5 @@
+{
+  "message": "I can help you translate chinese",
+  "reason": "The message is offering assistance and does not contain any offensive or harmful language.",
+  "predicted": "clean"
+}

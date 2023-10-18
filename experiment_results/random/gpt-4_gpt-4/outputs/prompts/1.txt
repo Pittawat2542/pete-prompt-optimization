@@ -1,0 +1,29 @@
+Please classify the given "Message" pulled from an online chat community conversation into one of two categories: "toxic" or "clean". A text is considered "toxic" if it contains offensive, rude, or inappropriate content; it is classified as "clean" if it does not contain any such content. Please specify a reason for your classification.
+
+Message to classify: <message>
+
+Provide the output in the following JSON format in a Markdown code block (the block should open with ```json and close with ```):
+
+- "message" refers to the actual message you classified.
+- "reason" refers to your analysis or justification for assigning the "toxic" or "clean" category to the message.
+- "predicted" refers to the category you predict for the message, which should be either "toxic" or "clean".
+
+Here's the JSON structure to adhere to:
+
+```json
+{
+"message": "<the actual message goes here>",
+"reason": "<your reason for choosing the category>",
+"predicted": "<predicted category: 'toxic' or 'clean'>"
+}
+```
+
+For example, for the message "You're a loser!" the JSON formatted output should look like this:
+
+```json
+{
+"message": "You're a loser!",
+"reason": "The message contains an offensive term directed at an individual, categorised as toxic.",
+"predicted": "toxic"
+}
+```

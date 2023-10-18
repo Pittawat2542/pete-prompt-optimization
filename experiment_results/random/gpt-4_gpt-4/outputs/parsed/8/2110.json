@@ -1,0 +1,8 @@
+{
+  "message": "as you can see so clearly with those on low?",
+  "reason": "The message does not contain any explicit, offensive or inappropriate language, insults, discriminatory remarks, or any form of uncivil or disrespectful behavior. It seems to be a part of a larger conversation and without additional context, it appears to be clean.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "Annoying ass dog champ",
+  "reason": "The message uses a derogatory term to describe someone or something, which can be considered as disrespectful and offensive. Therefore, it is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

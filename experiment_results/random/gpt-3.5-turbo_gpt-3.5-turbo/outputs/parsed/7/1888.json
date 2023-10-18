@@ -1,0 +1,8 @@
+{
+  "message": "NotLikeThis danucdFacepalm chat",
+  "reason": "The message contains emotes and does not contain any offensive language or disrespectful behavior. It seems to be a reaction to something that happened in the chat.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

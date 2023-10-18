@@ -1,0 +1,5 @@
+{
+"message": "Still waitin for update on xbox I'm buying on pc next week annoyed lol",
+"reason": "The message expresses annoyance but does not contain personal insults, offensive language, or disrespectful behavior. It is a request for an update and does not violate any community guidelines.",
+"predicted": "clean"
+}

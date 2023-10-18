@@ -1,0 +1,8 @@
+{
+  "message": "what matchups do you take elec on talon and what champs do u take conq on him?",
+  "reason": "The message is asking about game strategies, specifically about which matchups to use certain abilities on a character in a game. There is no offensive or inappropriate language used in the message.",
+  "predicted": "clean",
+  "prompt_version": 9,
+  "label": "clean",
+  "model": "gpt-4"
+}

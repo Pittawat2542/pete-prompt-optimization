@@ -1,0 +1,5 @@
+{
+"message": "nb3LUL nb3LUL nb3LUL",
+"reason": "The message consists of repeated characters and does not contain any offensive language or disrespectful behavior. It does not seek help or ask questions either. Therefore, it can be classified as clean.",
+"predicted": "clean"
+}

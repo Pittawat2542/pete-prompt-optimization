@@ -1,0 +1,7 @@
+```json
+{
+  "message": "why the *fuck* do people in plat just s u c k",
+  "reason": "The message contains offensive language and expresses frustration towards people in the platinum rank.",
+  "predicted": "toxic"
+}
+```

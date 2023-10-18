@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message "!hype" as non-toxic with a 98% probability. The message seems to be a common expression used in online communities to show excitement or enthusiasm.
+
+```json
+{
+"message": "!hype",
+"reason": "The message is a common expression used in online communities to show excitement or enthusiasm and does not contain any offensive or harmful content.",
+"predicted": "clean"
+}
+```

@@ -1,0 +1,8 @@
+{
+  "message": "hell yeaaahh",
+  "reason": "The message is an expression of enthusiasm or agreement and does not contain any offensive or inappropriate content.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

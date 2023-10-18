@@ -1,0 +1,8 @@
+{
+  "message": "oh crap ruby u awake ??",
+  "reason": "The message contains the word 'crap' which can be considered as a mild profanity. However, in this context, it seems to be used as an expression of surprise or urgency rather than an insult or offensive language. Therefore, it is not categorized as 'toxic'.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

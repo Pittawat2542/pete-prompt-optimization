@@ -1,0 +1,5 @@
+{
+  "message": "Its my stupid earphones",
+  "reason": "The message contains a negative adjective 'stupid', which can be considered toxic.",
+  "predicted": "toxic"
+}

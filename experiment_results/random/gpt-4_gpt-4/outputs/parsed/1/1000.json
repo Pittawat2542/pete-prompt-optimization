@@ -1,0 +1,8 @@
+{
+  "message": "this suck",
+  "reason": "The message expresses a negative sentiment, but it does not contain offensive or inappropriate language.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "toxic",
+  "model": "gpt-4"
+}

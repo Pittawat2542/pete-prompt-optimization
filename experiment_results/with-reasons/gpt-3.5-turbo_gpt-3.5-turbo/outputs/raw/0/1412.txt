@@ -1,0 +1,7 @@
+```json
+{
+"message": "@HamitCanKilic why i cant donate without login in with my fb or soemthing",
+"reason": "The message is asking a question about the inability to donate without logging in with a specific social media account.",
+"predicted": "clean"
+}
+```

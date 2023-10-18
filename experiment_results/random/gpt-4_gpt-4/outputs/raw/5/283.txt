@@ -1,0 +1,7 @@
+```json
+{
+"message": "HOW LE FUCK DO I FIGHT AHRI",
+"reason": "The message contains explicit language, specifically the use of the F-word, which is generally considered offensive and inappropriate. Therefore, the message is classified as 'toxic'.",
+"predicted": "toxic"
+}
+```

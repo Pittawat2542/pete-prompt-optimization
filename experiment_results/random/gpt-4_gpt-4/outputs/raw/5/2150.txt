@@ -1,0 +1,7 @@
+```json
+{
+"message": "rawryyLaugh NT NT",
+"reason": "The message does not contain any inappropriate or offensive language, derogatory remarks, discriminatory speech, or any form of uncivil behavior. It appears to be a non-offensive, possibly coded or gaming-related message.",
+"predicted": "clean"
+}
+```

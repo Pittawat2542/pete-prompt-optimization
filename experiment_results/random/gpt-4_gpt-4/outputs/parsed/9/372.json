@@ -1,0 +1,8 @@
+{
+  "message": "Cuz of that stupid strat",
+  "reason": "The message uses the term 'stupid' which is a derogatory term, indicating a negative or insulting attitude towards the strategy being discussed. This can be seen as offensive and uncivil.",
+  "predicted": "toxic",
+  "prompt_version": 9,
+  "label": "toxic",
+  "model": "gpt-4"
+}

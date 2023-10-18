@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be non-toxic with a 98% probability.
+
+```json
+{
+"message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
+"reason": "The message is a comment on a game performance and does not contain any offensive or harmful content.",
+"predicted": "clean"
+}
+```

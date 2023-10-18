@@ -1,0 +1,8 @@
+{
+  "message": "Look at these vacuums",
+  "reason": "The message is a simple statement with no offensive or inappropriate language, insults, or disrespectful behavior. It is a neutral comment about vacuums, hence it is classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "clean",
+  "model": "gpt-4"
+}

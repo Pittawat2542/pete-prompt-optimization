@@ -1,0 +1,7 @@
+```json
+{
+  "message": "Who put me on the RNG shit list?",
+  "reason": "The message does not contain offensive, harmful, or disrespectful language.",
+  "predicted": "clean"
+}
+```

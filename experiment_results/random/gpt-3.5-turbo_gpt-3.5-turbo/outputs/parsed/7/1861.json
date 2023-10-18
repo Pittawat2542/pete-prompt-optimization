@@ -1,0 +1,8 @@
+{
+  "message": "danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner",
+  "reason": "The message does not contain any personal insults, offensive language, or disrespectful behavior. It is repetitive and does not seek help or engage in a constructive manner, but it is not toxic.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

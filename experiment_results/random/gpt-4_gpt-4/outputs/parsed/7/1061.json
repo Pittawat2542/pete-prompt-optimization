@@ -1,0 +1,8 @@
+{
+  "message": "Melanie is in hell now",
+  "reason": "The message implies a negative situation or outcome for the person named Melanie. The use of the term 'hell' can be seen as offensive or inappropriate, especially if it's used to describe someone's current situation. Therefore, the message can be considered as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "toxic",
+  "model": "gpt-4"
+}

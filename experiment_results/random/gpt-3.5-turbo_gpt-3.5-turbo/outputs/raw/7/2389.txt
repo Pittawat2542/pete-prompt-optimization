@@ -1,0 +1,6 @@
+```json
+{
+"message": "kekwwwwwwww",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It is not seeking help or asking questions either. Therefore, it is classified as clean.",
+"predicted": "clean"
+}

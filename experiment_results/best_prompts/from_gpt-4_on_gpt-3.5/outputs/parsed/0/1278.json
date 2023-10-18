@@ -1,0 +1,8 @@
+{
+  "message": "EZ GG",
+  "reason": "The message contains a common gaming phrase that is often used to taunt or mock opponents. While it may not be explicitly offensive or rude, it can still be considered disrespectful or unsportsmanlike.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "The hell",
+  "reason": "The message is somewhat ambiguous and could be interpreted in different ways depending on the context. However, it does not contain any explicit obscenities, threats, or offensive language. Therefore, it's classified as 'clean'.",
+  "predicted": "clean",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

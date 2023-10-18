@@ -1,0 +1,8 @@
+{
+  "message": "(",
+  "reason": "The message contains only a punctuation mark without any text or context, hence it's classified as clean.",
+  "predicted": "clean",
+  "prompt_version": 1,
+  "label": "clean",
+  "model": "gpt-4"
+}

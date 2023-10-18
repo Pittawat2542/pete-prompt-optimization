@@ -1,0 +1,7 @@
+```json
+{
+"message": "70 mana for that shit",
+"reason": "The message contains an obscenity ('shit'), which is considered inappropriate language. Therefore, it's defined as a 'toxic' message.",
+"predicted": "toxic"
+}
+```

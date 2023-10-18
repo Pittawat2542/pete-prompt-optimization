@@ -1,0 +1,7 @@
+```json
+{
+"message": "wtffffffffffffff",
+"reason": "The message contains a profanity, which is a form of inappropriate language. The excessive use of 'f' characters also suggests a negative or aggressive tone.",
+"predicted": "toxic"
+}
+```

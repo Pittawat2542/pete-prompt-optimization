@@ -1,0 +1,5 @@
+{
+"message": "@mfyntz tgl5Head",
+"reason": "The message contains offensive language and is disrespectful.",
+"predicted": "toxic"
+}

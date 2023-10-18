@@ -1,0 +1,8 @@
+{
+  "message": "SUCK",
+  "reason": "The message is a single word that is often used in a derogatory or offensive manner. It lacks context, but its usage is generally seen as negative or insulting.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

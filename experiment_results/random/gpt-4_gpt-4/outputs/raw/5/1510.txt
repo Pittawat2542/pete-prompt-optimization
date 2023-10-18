@@ -1,0 +1,7 @@
+```json
+{
+"message": "Jesus, it's a warzone in that city monkaS",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or any form of uncivil behavior. The term 'monkaS' is a popular emote used in online communities to express concern or fear, and is not offensive.",
+"predicted": "clean"
+}
+```

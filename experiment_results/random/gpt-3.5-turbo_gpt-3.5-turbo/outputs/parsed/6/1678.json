@@ -1,0 +1,8 @@
+{
+  "message": "danucdHypePrime",
+  "reason": "The message is a combination of a username and a word that does not make sense. It does not contain any offensive or toxic language.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

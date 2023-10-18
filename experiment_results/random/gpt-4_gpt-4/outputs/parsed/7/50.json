@@ -1,0 +1,8 @@
+{
+  "message": "It's like lol bitch you thought",
+  "reason": "The message contains a derogatory term, 'bitch', which is considered offensive and disrespectful. This justifies the classification of the message as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-4"
+}

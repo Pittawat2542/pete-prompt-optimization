@@ -1,0 +1,7 @@
+```json
+{
+"message": "rawryyLaugh NT NT",
+"reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity or any expression of incivility. It seems to be a non-contextual or random string of words and abbreviations.",
+"predicted": "clean"
+}
+```

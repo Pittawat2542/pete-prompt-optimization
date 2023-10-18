@@ -1,0 +1,5 @@
+{
+  "message": "Have a great day/night bananas, i gotta go . danucdHi Later danucdBukulove",
+  "reason": "The message is positive and friendly, expressing well wishes and a farewell.",
+  "predicted": "clean"
+}

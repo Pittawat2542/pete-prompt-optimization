@@ -1,0 +1,5 @@
+{
+"message": "Have you tried sleeping ass up?",
+"reason": "The message contains offensive language and is disrespectful.",
+"predicted": "toxic"
+}

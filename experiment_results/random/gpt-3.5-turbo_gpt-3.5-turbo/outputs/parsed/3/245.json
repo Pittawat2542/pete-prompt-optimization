@@ -1,0 +1,8 @@
+{
+  "message": "oh fuck i got one of those omnistone bards in my ranked game",
+  "reason": "The message contains profanity and expresses frustration towards a teammate in a ranked game.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "toxic",
+  "model": "gpt-3.5-turbo"
+}

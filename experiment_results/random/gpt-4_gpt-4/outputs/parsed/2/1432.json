@@ -1,0 +1,8 @@
+{
+  "message": "@Scoom danucdRespect mitKalp",
+  "reason": "The message does not contain any obscenities, defamatory remarks, offensive or discriminatory language, or any other forms of inappropriate content. It seems to be a respectful shoutout or mention to other users.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

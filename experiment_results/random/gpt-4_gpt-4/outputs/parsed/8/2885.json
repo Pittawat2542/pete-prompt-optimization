@@ -1,0 +1,8 @@
+{
+  "message": "oh shit man... great stuff!",
+  "reason": "The message contains the term 'shit' which is considered as a mild swear word. However, in this context, it does not seem to be used in an offensive or disrespectful manner, but rather as an informal expression of surprise or enthusiasm. The overall tone of the message is positive.",
+  "predicted": "clean",
+  "prompt_version": 8,
+  "label": "toxic",
+  "model": "gpt-4"
+}

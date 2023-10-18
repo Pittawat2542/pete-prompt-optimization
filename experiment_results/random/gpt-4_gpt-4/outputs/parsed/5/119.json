@@ -1,0 +1,8 @@
+{
+  "message": "Hes deceptilvely tanky and does not give a hairy rats ass about CC.",
+  "reason": "The message contains a mild swear word, which can be considered as inappropriate language. However, the overall tone of the message does not seem to be offensive or derogatory towards any individual or group.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,7 @@
+```json
+{
+"message": "@Yamikazexz who's your twitch crush? like a female streamer not taco LUL",
+"reason": "The message is a simple question asking about the user's preference for a female streamer on Twitch. It does not contain any offensive or inappropriate language, derogatory comments, discriminatory language, or disrespectful behavior.",
+"predicted": "clean"
+}
+```

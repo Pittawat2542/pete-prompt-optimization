@@ -1,0 +1,7 @@
+```json
+{
+"message": "800",
+"reason": "The message is simply a number and does not contain any obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. Therefore, it's defined as a 'clean' message.",
+"predicted": "clean"
+}
+```

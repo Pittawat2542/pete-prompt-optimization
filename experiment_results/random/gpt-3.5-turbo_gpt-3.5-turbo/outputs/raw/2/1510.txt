@@ -1,0 +1,5 @@
+{
+  "message": "Jesus, it's a warzone in that city monkaS",
+  "reason": "The message contains a reference to a warzone, which can be seen as negative and potentially toxic.",
+  "predicted": "toxic"
+}

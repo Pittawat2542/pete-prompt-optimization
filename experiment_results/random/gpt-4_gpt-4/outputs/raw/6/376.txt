@@ -1,0 +1,7 @@
+```json
+{
+"message": "gold is such a shit hole man",
+"reason": "The message uses a profanity to describe 'gold', which can be seen as offensive and inappropriate. The language used is uncivil and derogatory.",
+"predicted": "toxic"
+}
+```

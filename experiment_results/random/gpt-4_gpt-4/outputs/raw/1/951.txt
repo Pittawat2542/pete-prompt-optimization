@@ -1,0 +1,7 @@
+```json
+{
+"message": "@Thebausffs just scared the shit out of my dog",
+"reason": "The message contains a mild profanity but it's not directed towards anyone or used in an offensive manner. It's more of an expression of surprise or shock.",
+"predicted": "clean"
+}
+```

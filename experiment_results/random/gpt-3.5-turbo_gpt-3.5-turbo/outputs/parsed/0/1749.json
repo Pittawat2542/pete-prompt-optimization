@@ -1,0 +1,8 @@
+{
+  "message": "Well,rip clips alisaYikes",
+  "reason": "The message contains a negative sentiment and the word 'rip' which implies something negative or harmful. The word 'alisaYikes' is likely an emoticon expressing surprise or shock.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+  "message": "its really hard with your ping",
+  "reason": "The message is ambiguous and does not contain offensive or harmful language.",
+  "predicted": "clean"
+}
+```

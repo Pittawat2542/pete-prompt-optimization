@@ -1,0 +1,8 @@
+{
+  "message": "may I ask why the fuck shen is a thing?",
+  "reason": "The message contains profanity, which is considered offensive and inappropriate in a civil conversation. The use of the f-word is unnecessary and adds a negative tone to the message.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

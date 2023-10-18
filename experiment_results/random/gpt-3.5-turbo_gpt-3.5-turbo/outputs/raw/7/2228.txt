@@ -1,0 +1,5 @@
+{
+"message": "that he's got none helmet",
+"reason": "The message does not contain any offensive language or disrespectful behavior. It seems to be a statement about someone not wearing a helmet.",
+"predicted": "clean"
+}

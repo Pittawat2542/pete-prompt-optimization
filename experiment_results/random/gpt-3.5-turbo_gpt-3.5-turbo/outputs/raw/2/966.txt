@@ -1,0 +1,5 @@
+{
+  "message": "IDIOT STOP COMPLAINING LUILW",
+  "reason": "The message contains offensive language and insults.",
+  "predicted": "toxic"
+}

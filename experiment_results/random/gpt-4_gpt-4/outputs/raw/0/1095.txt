@@ -1,0 +1,7 @@
+```json
+{
+"message": "the hell is a karak?",
+"reason": "The message contains a mild curse word but it's used to express confusion or frustration, not to insult or harm someone. Therefore, it's not considered toxic.",
+"predicted": "clean"
+}
+```

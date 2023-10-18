@@ -1,0 +1,8 @@
+{
+  "message": "ha ha ha",
+  "reason": "The message consists of laughter, which is not offensive or disrespectful. It does not contain personal insults or offensive language. Therefore, it can be classified as a clean message.",
+  "predicted": "clean",
+  "prompt_version": 7,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

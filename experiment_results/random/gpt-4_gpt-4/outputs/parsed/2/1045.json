@@ -1,0 +1,8 @@
+{
+  "message": "oh crap ruby u awake ??",
+  "reason": "The message uses a mild expletive, but it is not directed at anyone or used in a derogatory or offensive manner. Therefore, it is considered clean.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

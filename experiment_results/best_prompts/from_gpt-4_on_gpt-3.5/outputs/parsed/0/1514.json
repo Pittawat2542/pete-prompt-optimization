@@ -1,0 +1,8 @@
+{
+  "message": "@SmirnofSoldier all good and you... danucdRespect danucdHi",
+  "reason": "The message contains a mix of clean and toxic elements. The first part of the message is clean and polite, expressing a positive sentiment. However, the second part of the message includes the word 'Respect', which can be interpreted as a demand or command rather than a polite request. Additionally, the use of '@SmirnofSoldier' without any context can be seen as disrespectful or confrontational. Therefore, the message is classified as toxic.",
+  "predicted": "toxic",
+  "prompt_version": 0,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,7 @@
+```json
+{
+  "message": "toxic spammer @hamitcankilic",
+  "reason": "The message contains the term 'toxic' which can be interpreted as offensive or harmful. However, without further context, it is unclear if the message is intended to be derogatory or if it is simply referring to someone as a spammer. Therefore, it is classified as 'clean' due to ambiguity.",
+  "predicted": "clean"
+}
+```

@@ -1,0 +1,7 @@
+```json
+{
+"message": "sucks ass",
+"reason": "The message uses a vulgar phrase that can be seen as offensive or inappropriate. It lacks civility and can be considered as a derogatory comment.",
+"predicted": "toxic"
+}
+```

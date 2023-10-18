@@ -1,0 +1,8 @@
+{
+  "message": "this map is dog shit for squads. absolute dog shit",
+  "reason": "The message uses a vulgar term to express dissatisfaction or frustration. This term is considered offensive and inappropriate in most contexts, hence the message is classified as 'toxic'.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "hell yeaaahh",
+  "reason": "The message does not contain any inappropriate or offensive language, derogatory comments, prejudiced language, profanity, or expression of incivility. It is simply an expression of excitement and enthusiasm, which is considered clean and positive.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

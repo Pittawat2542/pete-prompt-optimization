@@ -1,0 +1,5 @@
+{
+  "message": "but it sucks that we dont have enough player to do that now @hambinooo",
+  "reason": "The message expresses disappointment about the lack of players, but does not contain any offensive or harmful language.",
+  "predicted": "clean"
+}

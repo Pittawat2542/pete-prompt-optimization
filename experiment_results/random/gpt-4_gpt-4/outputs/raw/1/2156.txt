@@ -1,0 +1,7 @@
+```json
+{
+"message": "DendiFace gg",
+"reason": "The message is a gaming term and an emote name, which are not offensive or inappropriate.",
+"predicted": "clean"
+}
+```

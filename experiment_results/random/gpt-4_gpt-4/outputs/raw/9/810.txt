@@ -1,0 +1,7 @@
+```json
+{
+"message": "Ur not an assassin if u donÕt one tap the adc",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior. It seems to be a comment about a game strategy.",
+"predicted": "clean"
+}
+```

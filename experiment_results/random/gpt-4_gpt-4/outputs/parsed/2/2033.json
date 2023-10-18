@@ -1,0 +1,8 @@
+{
+  "message": "get out rogue",
+  "reason": "The message is commanding and uses a derogatory term ('rogue'), which can be seen as offensive or disrespectful.",
+  "predicted": "toxic",
+  "prompt_version": 2,
+  "label": "clean",
+  "model": "gpt-4"
+}

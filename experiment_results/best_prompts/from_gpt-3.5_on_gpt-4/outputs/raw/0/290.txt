@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be toxic.
+
+```json
+{
+"message": "eat shit riot",
+"reason": "The message contains offensive language directed towards someone, which is considered as toxic behavior in an online community.",
+"predicted": "toxic"
+}
+```

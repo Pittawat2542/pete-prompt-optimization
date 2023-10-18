@@ -1,0 +1,5 @@
+{
+  "message": "YAMI STOP YOU'RE GOOD",
+  "reason": "The message contains positive words and does not seem to have any offensive or harmful content.",
+  "predicted": "clean"
+}

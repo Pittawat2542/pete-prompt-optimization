@@ -1,0 +1,7 @@
+```json
+{
+"message": "114 kills again? you're a legend",
+"reason": "The message does not contain any offensive or inappropriate language, derogatory remarks, discriminatory speech, or uncivil behavior. It seems to be a compliment or an expression of admiration towards someone's gaming skills.",
+"predicted": "clean"
+}
+```

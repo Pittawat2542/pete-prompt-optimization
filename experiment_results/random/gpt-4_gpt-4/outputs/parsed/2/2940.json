@@ -1,0 +1,8 @@
+{
+  "message": "damnnn",
+  "reason": "The message does not contain any obscenities, defamatory remarks, offensive or discriminatory language, or any other forms of inappropriate content. It is an expression of surprise or emphasis and is not directed negatively towards anyone.",
+  "predicted": "clean",
+  "prompt_version": 2,
+  "label": "toxic",
+  "model": "gpt-4"
+}

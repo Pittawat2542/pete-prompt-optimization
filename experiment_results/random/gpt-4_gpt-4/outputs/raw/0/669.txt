@@ -1,0 +1,7 @@
+```json
+{
+"message": "215 cs",
+"reason": "The message is non-offensive and doesn't contain any harmful or inappropriate content.",
+"predicted": "clean"
+}
+```

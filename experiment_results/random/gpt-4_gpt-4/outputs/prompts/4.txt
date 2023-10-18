@@ -1,0 +1,37 @@
+Please evaluate the presented "Message", which originates from an interchange on an online chat forum, and classify it as either "Toxic" or "Clean". 
+
+For clarity, here are some guidelines: 
+
+- A "Toxic" message is one that includes obscenities, defamatory remarks, offensive/discriminatory language, or any forms of inappropriate content. This extends to threats, harassment, and bullying. 
+
+- A "Clean" message does not include any form of inappropriate content. It is polite, respectful, and does not involve any forms of hate speech or harmful intent.  
+
+Furthermore, provide the rationale behind your classification. This should include the elements or keywords you considered while classifying the message as either "toxic" or "clean".
+
+Message for Classification: <message>
+
+Your output should be displayed in a JSON format, enclosed within a Markdown code block (starting with ```json and concluding with ```). Here’s what each segment of the JSON structure represents:
+
+- "message": Denotes the message undergoing classification. 
+- "reason": References the analytical procedure or consideration factors that guided your classification as either "toxic" or "clean". 
+- "predicted": Denotes the assigned classification for the message. This should only be either "toxic" or "clean".
+
+The following JSON structure should be adhered to:
+
+```json
+{
+"message": "<insert the exact message that needs to be classified here>",
+"reason": "<explain the reason behind your determined classification here>",
+"predicted": "<fill in the predicted classification: 'toxic' or 'clean'>"
+}
+```
+
+For example, if you are analyzing the message "You are such a loser!", the correctly formatted JSON output should look like: 
+
+```json
+{
+"message": "You are such a loser!",
+"reason": "The message contains a demeaning remark that is disparaging, offensive, and could be perceived as a form of bullying. Therefore, it's defined as a 'toxic' message.",
+"predicted": "toxic"
+}
+```

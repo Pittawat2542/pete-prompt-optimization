@@ -1,0 +1,5 @@
+{
+  "message": "that he's got none helmet",
+  "reason": "The message contains incorrect grammar and misspelled words.",
+  "predicted": "clean"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "are you twitch single?",
+  "reason": "The message is asking about someone's relationship status, which is not offensive.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

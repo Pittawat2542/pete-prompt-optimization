@@ -1,0 +1,5 @@
+{
+  "message": "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG",
+  "reason": "The message contains a combination of words that are commonly used in online gaming communities to express admiration or support for a player named 'zedra'. There is no offensive or harmful language used in the message.",
+  "predicted": "clean"
+}

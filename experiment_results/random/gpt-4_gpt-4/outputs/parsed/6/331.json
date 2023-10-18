@@ -1,0 +1,8 @@
+{
+  "message": "why the *fuck* do people in plat just s u c k",
+  "reason": "The message contains profanity and is derogatory towards a group of people (presumably players in a certain rank or platform). This is considered offensive and uncivil.",
+  "predicted": "toxic",
+  "prompt_version": 6,
+  "label": "toxic",
+  "model": "gpt-4"
+}

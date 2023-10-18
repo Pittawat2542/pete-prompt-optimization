@@ -1,0 +1,9 @@
+Prediction result: The model predicts the message to be non-toxic with a 98% probability.
+
+```json
+{
+"message": "I mean Camille and Sett do so much True Damage so who cares about armor",
+"reason": "The message is discussing game characters and their abilities, without any offensive or harmful language.",
+"predicted": "clean"
+}
+```

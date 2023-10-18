@@ -1,0 +1,7 @@
+```json
+{
+"message": "noice team work forsenCD",
+"reason": "The message is a positive comment about teamwork and does not contain any offensive or inappropriate content.",
+"predicted": "clean"
+}
+```

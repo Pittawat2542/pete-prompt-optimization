@@ -1,0 +1,8 @@
+{
+  "message": "And wtf are u a winrate friend? Who gives a fuck",
+  "reason": "The message contains explicit language and offensive tone, which is considered inappropriate and uncivil. The use of the abbreviation 'wtf' and the phrase 'who gives a fuck' are both considered as swearing.",
+  "predicted": "toxic",
+  "prompt_version": 5,
+  "label": "toxic",
+  "model": "gpt-4"
+}

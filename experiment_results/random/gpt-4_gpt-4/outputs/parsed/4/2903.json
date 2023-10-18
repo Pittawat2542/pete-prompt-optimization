@@ -1,0 +1,8 @@
+{
+  "message": "toxic spammer @hamitcankilic",
+  "reason": "The message includes a derogatory term 'toxic spammer' directed at a specific user, which can be perceived as a form of online harassment or bullying. Therefore, it's defined as a 'toxic' message.",
+  "predicted": "toxic",
+  "prompt_version": 4,
+  "label": "toxic",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "I can translate for ya if u want",
+  "reason": "The message is offering help in translation, and does not contain any offensive or inappropriate language, derogatory comments, prejudiced language, or any expression of incivility.",
+  "predicted": "clean",
+  "prompt_version": 6,
+  "label": "clean",
+  "model": "gpt-4"
+}

@@ -1,0 +1,8 @@
+{
+  "message": "1G$",
+  "reason": "The text message contains an offensive and derogatory term ('1G$'), which is indicative of toxic behavior.",
+  "predicted": "toxic",
+  "prompt_version": 3,
+  "label": "clean",
+  "model": "gpt-3.5-turbo"
+}

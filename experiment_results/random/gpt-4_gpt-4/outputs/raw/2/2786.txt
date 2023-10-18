@@ -1,0 +1,7 @@
+```json
+{
+"message": "STOP DOING WHAT I THINK IS SHIT STREAMER",
+"reason": "The message uses an obscenity and is also disrespectful towards the recipient, which is considered offensive.",
+"predicted": "toxic"
+}
+```
