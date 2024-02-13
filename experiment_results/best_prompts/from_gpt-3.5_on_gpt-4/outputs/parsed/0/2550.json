@@ -1,8 +1,0 @@
-{
-  "message": "hamb10 hamb10",
-  "reason": "The model predicts the message to be non-toxic with a 99% confidence level. The message does not contain any offensive or harmful language.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

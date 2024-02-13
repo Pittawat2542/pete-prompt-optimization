@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be non-toxic with a 90% probability. The user is expressing their opinion about a gaming console, and although they use the word "pathetic", it is directed towards the situation, not another user.
-
-```json
-{
-"message": "Thatâ€™s pretty pathetic. I stick with the One X I think. First time in my 30+ years of gaming that I havenâ€™t been excited for a next gen console.",
-"reason": "The user is expressing their personal opinion about a gaming console. The language used, although negative, is not directed towards another user or group, and does not contain any offensive or harmful content.",
-"predicted": "clean"
-}
-```

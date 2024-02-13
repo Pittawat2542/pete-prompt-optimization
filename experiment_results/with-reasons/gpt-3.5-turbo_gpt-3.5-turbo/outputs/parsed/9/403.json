@@ -1,6 +1,6 @@
 {
   "message": "what the fuck?",
-  "reason": "The message contains offensive language, specifically the phrase 'what the fuck?'. This falls under the 'toxic' category as it is considered vulgar and disrespectful.",
+  "reason": "The message contains offensive language, specifically the use of the word 'fuck', which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 9,
   "label": "toxic",

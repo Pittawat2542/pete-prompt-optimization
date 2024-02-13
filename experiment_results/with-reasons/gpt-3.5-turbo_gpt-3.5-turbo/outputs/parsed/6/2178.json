@@ -1,6 +1,6 @@
 {
   "message": "only 52 alive?",
-  "reason": "The message does not contain any offensive or harmful language. It appears to be a simple question without any toxic intent.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 6,
   "label": "clean",

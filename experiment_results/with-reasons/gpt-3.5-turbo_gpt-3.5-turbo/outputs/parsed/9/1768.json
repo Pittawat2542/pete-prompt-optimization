@@ -1,6 +1,6 @@
 {
   "message": "@melihozkiremitci cya",
-  "reason": "The message is classified as 'clean' because it is a simple and polite way of saying goodbye. There is no offensive or harmful language used in the message.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",

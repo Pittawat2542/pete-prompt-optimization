@@ -1,7 +1,9 @@
 ```json
 {
 "message": "are you twitch single?",
-"reason": "The message does not contain any offensive or harmful language, and it appears to be a simple question about someone's relationship status on Twitch. Therefore, it can be classified as clean.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "are you twitch single?" does not contain any offensive or harmful language. It is a simple question and does not violate any community guidelines. Therefore, it can be classified as a clean message.

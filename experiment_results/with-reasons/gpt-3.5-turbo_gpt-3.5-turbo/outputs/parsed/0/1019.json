@@ -1,6 +1,6 @@
 {
   "message": "OH SHIT DESYNC YOUR DEAD",
-  "reason": "The message contains offensive language and aggressive tone.",
+  "reason": "The message contains offensive language and a threat of violence.",
   "predicted": "toxic",
   "prompt_version": 0,
   "label": "toxic",

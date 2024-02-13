@@ -1,6 +1,6 @@
 {
   "message": "some good players",
-  "reason": "The text is classified as 'clean' because it does not contain any offensive or harmful language. The model has predicted it as 'clean' with a high confidence score of 0.95.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 8,
   "label": "clean",

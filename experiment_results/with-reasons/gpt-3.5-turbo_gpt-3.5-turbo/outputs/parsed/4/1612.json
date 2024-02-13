@@ -1,6 +1,6 @@
 {
   "message": "danucdNo Fattttttiiiiiiiiiiiiiiiiiiiiiiii",
-  "reason": "The message contains derogatory language ('Fattttttiiiiiiiiiiiiiiiiiiiiiiii') which is offensive and disrespectful. This falls into the 'toxic' category.",
+  "reason": "The message contains derogatory language and insults.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "clean",

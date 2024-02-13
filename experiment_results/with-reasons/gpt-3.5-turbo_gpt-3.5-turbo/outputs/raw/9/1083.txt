@@ -1,7 +1,6 @@
 ```json
 {
   "message": "They suck",
-  "reason": "The message contains a derogatory term ('suck') which is considered offensive and disrespectful. This aligns with the examples provided in the 'Prediction result' section where similar phrases were classified as 'toxic'.",
+  "reason": "The message contains a derogatory term and displays a negative sentiment towards someone or something, making it toxic.",
   "predicted": "toxic"
 }
-```

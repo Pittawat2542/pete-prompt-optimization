@@ -1,7 +1,7 @@
 ```json
 {
-"message": "WHAT THE FUCKING FUCK IS THIS FUCKING RECALL ANIMATION",
-"reason": "The message contains offensive language and is filled with profanity.",
-"predicted": "toxic"
+  "message": "WHAT THE FUCKING FUCK IS THIS FUCKING RECALL ANIMATION",
+  "reason": "The message contains offensive language and displays anger, making it toxic.",
+  "predicted": "toxic"
 }
 ```

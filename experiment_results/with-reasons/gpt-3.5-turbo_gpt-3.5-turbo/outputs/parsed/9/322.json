@@ -1,6 +1,6 @@
 {
   "message": "yes ionians are fun as fuck",
-  "reason": "The message contains profanity ('fuck'), which is a characteristic of toxic language.",
+  "reason": "The message contains offensive language, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 9,
   "label": "clean",

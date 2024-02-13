@@ -1,7 +1,7 @@
 ```json
 {
   "message": "rando squad?",
-  "reason": "The message is a simple question asking if anyone wants to form a random squad. It does not contain any offensive or harmful language, and there is no indication of toxicity.",
+  "reason": "The message is short and does not contain any offensive or harmful language. It seems to be a simple question about forming a random squad in a game or online community. Therefore, it can be classified as 'clean'.",
   "predicted": "clean"
 }
 ```

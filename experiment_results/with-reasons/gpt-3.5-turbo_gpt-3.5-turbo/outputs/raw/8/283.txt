@@ -1,7 +1,6 @@
 ```json
 {
-"message": "HOW LE FUCK DO I FIGHT AHRI",
-"reason": "The text contains offensive language, which indicates a toxic category.",
-"predicted": "toxic"
+  "message": "HOW LE FUCK DO I FIGHT AHRI",
+  "reason": "The message contains offensive language, which makes it toxic.",
+  "predicted": "toxic"
 }
-```

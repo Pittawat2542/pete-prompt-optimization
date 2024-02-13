@@ -1,6 +1,6 @@
 {
   "message": "tgl3Head",
-  "reason": "The message 'tgl3Head' does not provide enough information to determine its category. It appears to be a random string of characters and does not contain any meaningful content that can be classified as toxic or clean.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 7,
   "label": "clean",

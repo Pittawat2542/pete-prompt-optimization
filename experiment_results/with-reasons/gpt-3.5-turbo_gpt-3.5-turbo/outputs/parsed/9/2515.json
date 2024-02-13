@@ -1,6 +1,6 @@
 {
   "message": "have you ever played with clib? @hambinooo",
-  "reason": "The message does not contain any offensive or harmful language. It is a simple question about playing with clib. There is no indication of toxicity or any violation of community guidelines.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",

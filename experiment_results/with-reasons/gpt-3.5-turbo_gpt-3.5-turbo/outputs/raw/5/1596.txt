@@ -1,7 +1,7 @@
 ```json
 {
-"message": "yeah",
-"reason": "The message 'yeah' is classified as a clean category. Although the message is short and lacks context, it does not contain any explicit or offensive language that would classify it as toxic.",
-"predicted": "clean"
+  "message": "yeah",
+  "reason": "The message is short and does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

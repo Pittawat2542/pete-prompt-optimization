@@ -1,6 +1,6 @@
 {
   "message": "like what the actual fuck is that",
-  "reason": "The message contains offensive language ('fuck'), which is a characteristic of toxic content.",
+  "reason": "The message contains offensive language ('fuck') which is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

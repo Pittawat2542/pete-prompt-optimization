@@ -1,7 +1,7 @@
 ```json
 {
-"message": "I suck so bad loool",
-"reason": "The text contains self-deprecating language and a negative sentiment, indicating a low self-esteem or dissatisfaction with oneself. This suggests that the message falls into the 'toxic' category.",
-"predicted": "toxic"
+  "message": "I suck so bad loool",
+  "reason": "The message contains self-deprecating language and the word 'suck', which indicates a negative self-perception. The addition of 'loool' suggests that the statement is meant to be humorous, but it still falls under the category of toxic.",
+  "predicted": "toxic"
 }
 ```

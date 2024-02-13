@@ -1,7 +1,7 @@
 ```json
 {
   "message": "HELL NO",
-  "reason": "The message contains strong language and is aggressive in nature, which indicates a toxic behavior.",
+  "reason": "The message contains strong language and is written in all caps, which indicates a negative and aggressive tone. It lacks any context or explanation, making it difficult to interpret the intention behind the message. Therefore, it can be classified as toxic.",
   "predicted": "toxic"
 }
 ```

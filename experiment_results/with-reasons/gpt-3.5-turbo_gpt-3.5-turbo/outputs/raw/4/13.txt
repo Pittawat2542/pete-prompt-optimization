@@ -1,7 +1,7 @@
 ```json
 {
 "message": "love how i cant win even with me playing well",
-"reason": "The message does not contain any offensive or harmful language. It expresses frustration about not being able to win despite playing well, but it does not attack or insult anyone.",
+"reason": "The message expresses frustration and disappointment, but it does not contain any offensive or harmful language. It is a common sentiment in online gaming communities when players feel they are not being rewarded for their efforts.",
 "predicted": "clean"
 }
 ```

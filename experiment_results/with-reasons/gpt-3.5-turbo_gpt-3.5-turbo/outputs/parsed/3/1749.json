@@ -1,7 +1,7 @@
 {
   "message": "Well,rip clips alisaYikes",
-  "reason": "The predicted category is 'toxic' because the text contains the word 'rip' which is often used in a negative or disrespectful context. Additionally, the presence of 'alisaYikes' suggests that the message may be expressing frustration or annoyance.",
-  "predicted": "toxic",
+  "reason": "clean",
+  "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",
   "model": "gpt-3.5-turbo"

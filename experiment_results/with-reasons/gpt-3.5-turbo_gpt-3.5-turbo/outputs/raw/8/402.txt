@@ -1,7 +1,6 @@
 ```json
 {
-"message": "man yuumi jng is fucking annoying",
-"reason": "The text contains offensive language ('fucking annoying'), which indicates a toxic category.",
-"predicted": "toxic"
+  "message": "man yuumi jng is fucking annoying",
+  "reason": "The message contains offensive language ('fucking') and expresses annoyance, which makes it toxic.",
+  "predicted": "toxic"
 }
-```

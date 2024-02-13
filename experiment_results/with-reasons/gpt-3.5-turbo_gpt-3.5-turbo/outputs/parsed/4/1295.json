@@ -1,7 +1,7 @@
 {
   "message": "chocotGotem chocotGotem chocotGotem",
-  "reason": "The message consists of repetitive and nonsensical words, which does not contribute to any meaningful conversation. This type of content is often considered spam or trolling, and can be classified as toxic.",
-  "predicted": "toxic",
+  "reason": "The message consists of repetitive and nonsensical words without any context or meaning. It does not contain any offensive or harmful language.",
+  "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",
   "model": "gpt-3.5-turbo"

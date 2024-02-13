@@ -1,6 +1,6 @@
 {
   "message": "played like shit",
-  "reason": "The message contains offensive language ('shit') which is derogatory and disrespectful. It can be considered toxic behavior.",
+  "reason": "The message contains offensive language, which is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

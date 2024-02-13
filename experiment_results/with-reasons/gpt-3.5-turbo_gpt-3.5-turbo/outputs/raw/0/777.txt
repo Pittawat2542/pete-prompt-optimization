@@ -1,7 +1,7 @@
 ```json
 {
-  "message": "700 true dmg on 1 Q there KEKW",
-  "reason": "The message contains gaming jargon and abbreviations commonly used in online gaming communities.",
-  "predicted": "clean"
+"message": "700 true dmg on 1 Q there KEKW",
+"reason": "The message contains gaming jargon and abbreviations commonly used in online gaming communities.",
+"predicted": "clean"
 }
 ```

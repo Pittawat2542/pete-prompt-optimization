@@ -1,6 +1,6 @@
 {
   "message": "I can translate for ya if u want",
-  "reason": "The message is classified as 'clean' because it is a helpful and positive response offering to translate for someone.",
+  "reason": "The message is polite and does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 7,
   "label": "clean",

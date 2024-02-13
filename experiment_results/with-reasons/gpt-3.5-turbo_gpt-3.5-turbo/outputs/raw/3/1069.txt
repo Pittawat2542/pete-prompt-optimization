@@ -1,7 +1,9 @@
 ```json
 {
-"message": "The hell",
-"reason": "The text 'The hell' is classified as toxic because the model predicted it to be toxic with a high confidence score of 0.95. The phrase 'The hell' is often used to express anger, frustration, or disbelief, which can be considered toxic or offensive in certain contexts.",
-"predicted": "toxic"
+  "message": "The hell",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "The hell" is classified as toxic because it contains a strong negative expression. The phrase "The hell" is often used to express anger, frustration, or disbelief, which can contribute to a toxic atmosphere in an online community.

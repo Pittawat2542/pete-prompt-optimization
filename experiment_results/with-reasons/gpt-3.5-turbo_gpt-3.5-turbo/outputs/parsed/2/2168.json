@@ -1,6 +1,6 @@
 {
   "message": "shes a girl...DAAAA",
-  "reason": "The message contains derogatory language ('DAAAA') which is disrespectful and offensive. This indicates a toxic behavior.",
+  "reason": "The message contains derogatory language and is disrespectful towards women.",
   "predicted": "toxic",
   "prompt_version": 2,
   "label": "clean",

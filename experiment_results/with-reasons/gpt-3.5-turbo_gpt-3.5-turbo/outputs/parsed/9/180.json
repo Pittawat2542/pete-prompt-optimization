@@ -1,7 +1,7 @@
 {
   "message": "my god the stupidity of people",
-  "reason": "The message contains negative language and expresses frustration towards people. This indicates a toxic sentiment.",
-  "predicted": "toxic",
+  "reason": "The message expresses frustration and uses negative language, but it does not contain any offensive or harmful content. Therefore, it can be classified as clean.",
+  "predicted": "clean",
   "prompt_version": 9,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

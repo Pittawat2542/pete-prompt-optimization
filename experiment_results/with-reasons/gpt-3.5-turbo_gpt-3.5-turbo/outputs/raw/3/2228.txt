@@ -1,7 +1,7 @@
 ```json
 {
 "message": "that he's got none helmet",
-"reason": "The message does not contain any offensive or harmful language. It appears to be a comment about someone not wearing a helmet. Therefore, it can be classified as 'clean'.",
+"reason": "The message contains a grammatical error ('none' instead of 'no') and lacks context. It is difficult to determine the intended meaning of the sentence. However, based on the given information, it does not appear to contain any offensive or harmful language. Therefore, it can be classified as 'clean'.",
 "predicted": "clean"
 }
 ```

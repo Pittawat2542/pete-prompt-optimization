@@ -1,6 +1,6 @@
 {
   "message": "shit winds are acomin'!",
-  "reason": "The predicted category is 'toxic' because the text contains offensive language ('shit'). The model has correctly identified this as toxic based on the prediction result, which shows a high probability of toxicity.",
+  "reason": "The message contains offensive language ('shit') which is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

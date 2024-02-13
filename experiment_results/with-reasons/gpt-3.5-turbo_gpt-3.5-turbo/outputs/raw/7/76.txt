@@ -1,7 +1,7 @@
 ```json
 {
-"message": "hecarim is busted more",
-"reason": "The message does not contain any offensive or harmful language. It is a statement about the character 'hecarim' being overpowered or strong in the game. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "hecarim is busted more",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
 ```

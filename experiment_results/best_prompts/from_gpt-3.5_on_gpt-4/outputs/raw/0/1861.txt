@@ -1,9 +1,0 @@
-Prediction result: The model predicts this message as "clean" with a 99.9% probability. The message does not contain any offensive or harmful content.
-
-```json
-{
-"message": "danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner",
-"reason": "The message is classified as clean because it does not contain any offensive, harmful, or inappropriate content. It seems to be a repeated phrase or username, possibly indicating support or celebration for a user or event.",
-"predicted": "clean"
-}
-```

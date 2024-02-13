@@ -1,7 +1,7 @@
 ```json
 {
-"message": "!hs",
-"reason": "The message '!hs' does not contain any explicit toxic language or offensive content. It appears to be a command or request in an online community. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "!hs",
+  "reason": "The message consists of a single string '!hs' which does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

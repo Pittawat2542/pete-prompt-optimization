@@ -1,6 +1,6 @@
 {
   "message": "holy shit PogU",
-  "reason": "The message contains a profanity ('shit'), which is considered toxic. Additionally, the presence of 'PogU' suggests that the message is related to gaming or streaming culture, where toxic behavior can often be observed. Therefore, the message is classified as toxic.",
+  "reason": "The message contains a profanity ('holy shit') which is considered offensive and inappropriate. It is classified as toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

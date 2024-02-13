@@ -1,7 +1,9 @@
 ```json
 {
 "message": "And wtf are u a winrate friend? Who gives a fuck",
-"reason": "The message contains offensive language ('wtf' and 'fuck') and displays a disrespectful and aggressive tone towards the recipient ('Who gives a fuck'). This indicates a toxic behavior.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message contains offensive language and insults ("wtf" and "Who gives a fuck"), which indicates a toxic behavior. Therefore, the message is classified as "toxic".

@@ -1,7 +1,7 @@
 ```json
 {
 "message": "he has 60 fucking dashes",
-"reason": "The text contains offensive language ('fucking') which indicates a toxic category.",
+"reason": "The message contains offensive language ('fucking') which makes it toxic.",
 "predicted": "toxic"
 }
 ```

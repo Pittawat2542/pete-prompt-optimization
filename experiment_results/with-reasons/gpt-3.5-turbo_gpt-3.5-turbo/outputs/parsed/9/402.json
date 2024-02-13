@@ -1,6 +1,6 @@
 {
   "message": "man yuumi jng is fucking annoying",
-  "reason": "The message contains offensive language ('fucking') which is a strong indicator of toxicity.",
+  "reason": "The message contains offensive language ('fucking') and is disrespectful, making it toxic.",
   "predicted": "toxic",
   "prompt_version": 9,
   "label": "toxic",

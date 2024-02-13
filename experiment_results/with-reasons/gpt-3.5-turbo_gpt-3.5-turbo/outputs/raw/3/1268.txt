@@ -1,7 +1,9 @@
 ```json
 {
 "message": "thanks for the giffted sub who ever gave it me @DanucD",
-"reason": "The message does not contain any offensive or harmful language. It is a simple expression of gratitude for receiving a gifted subscription. The predicted category is 'clean' because the text is positive and does not exhibit any toxic behavior.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message is classified as "clean" because it expresses gratitude for a gifted subscription in an online community. There is no evidence of any toxic or offensive language in the message.

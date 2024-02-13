@@ -1,6 +1,6 @@
 {
   "message": "who the fuck uses D for flashbanning whoever says me",
-  "reason": "The message contains offensive language ('fuck') which indicates toxicity.",
+  "reason": "toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

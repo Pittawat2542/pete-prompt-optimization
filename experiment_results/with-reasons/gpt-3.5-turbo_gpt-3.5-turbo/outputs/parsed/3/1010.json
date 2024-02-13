@@ -1,6 +1,6 @@
 {
   "message": "hmm I have never played this game, should I play squad or solo? \"fuck it lets play squad so i can fuck up my squadmates\" retard starter pack",
-  "reason": "The message contains offensive language ('fuck it', 'retard') which indicates a toxic behavior. Additionally, the user expresses an intention to 'fuck up' their squadmates, suggesting a negative and disruptive attitude towards others. These elements contribute to the toxic classification.",
+  "reason": "The message contains some offensive language and derogatory terms, such as \"fuck\" and \"retard starter pack\". Although the user is asking for advice on whether to play squad or solo, the use of offensive language and derogatory terms classifies the message as toxic.",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

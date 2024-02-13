@@ -1,7 +1,5 @@
-```json
 {
-"message": "700 true dmg on 1 Q there KEKW",
-"reason": "The message contains gaming jargon and abbreviations like 'dmg' and 'Q', which are commonly used in online gaming communities. The use of 'KEKW' suggests that the message is expressing excitement or amusement. Overall, the message appears to be related to a gaming experience and does not contain any offensive or harmful language.",
-"predicted": "clean"
+  "message": "700 true dmg on 1 Q there KEKW",
+  "reason": "The message contains gaming jargon and abbreviations, indicating a discussion about gameplay.",
+  "predicted": "clean"
 }
-```

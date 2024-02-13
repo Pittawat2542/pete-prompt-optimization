@@ -1,7 +1,6 @@
 ```json
 {
-"message": "danucdRespect danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance danucdDance2 danucdDance danucdDance2 danucdDance danucdDance2 danucdDance forsenPls SourPls",
-"reason": "The text consists of a series of repetitive phrases and emotes related to dancing and showing respect. It does not contain any offensive or harmful language, and therefore can be classified as clean.",
-"predicted": "clean"
+  "message": "danucdRespect danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance danucdDance2 danucdDance danucdDance2 danucdDance danucdDance2 danucdDance forsenPls SourPls",
+  "reason": "The message consists of a series of commands related to dancing and requesting a specific emote. It does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```

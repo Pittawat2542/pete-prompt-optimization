@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@Tomshepmx going fucking great, you mate?",
-"reason": "The message contains offensive language ('fucking').",
-"predicted": "toxic"
+  "message": "@Tomshepmx going fucking great, you mate?",
+  "reason": "The message contains offensive language ('fucking') which makes it toxic.",
+  "predicted": "toxic"
 }
 ```

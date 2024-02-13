@@ -1,7 +1,7 @@
 ```json
 {
-"message": "I dislike games where I carry and my team feeds ;/",
-"reason": "The message expresses a negative sentiment towards a gaming experience where the person has to carry the team while their teammates perform poorly. The use of the word 'dislike' and the emoticon ';/' indicate a negative tone. This suggests that the message falls into the 'toxic' category.",
-"predicted": "toxic"
+  "message": "I dislike games where I carry and my team feeds ;/",
+  "reason": "The message expresses a personal opinion about disliking games where the person has to carry and their team feeds. It does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

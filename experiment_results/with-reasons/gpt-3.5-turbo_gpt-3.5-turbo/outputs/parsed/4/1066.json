@@ -1,6 +1,6 @@
 {
   "message": "Hell nahh",
-  "reason": "The predicted category is 'toxic' because the phrase 'Hell nahh' is a negative and dismissive response, which can be considered offensive or disrespectful in certain contexts.",
+  "reason": "The message contains a negative and dismissive phrase, which can be interpreted as offensive or disrespectful.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

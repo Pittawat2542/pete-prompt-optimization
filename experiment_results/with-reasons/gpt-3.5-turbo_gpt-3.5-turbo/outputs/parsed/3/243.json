@@ -1,6 +1,6 @@
 {
   "message": "so fucking dumb",
-  "reason": "The text contains offensive language ('fucking') which is classified as toxic.",
+  "reason": "toxic language",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

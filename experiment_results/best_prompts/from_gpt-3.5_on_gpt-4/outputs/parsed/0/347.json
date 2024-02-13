@@ -1,8 +1,0 @@
-{
-  "message": "this shit is like adc graves",
-  "reason": "The model predicts the message to be non-toxic with a 90% probability. The message is a comparison of something to a character or role in a game, which is not offensive or harmful.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "toxic",
-  "model": "gpt-4"
-}

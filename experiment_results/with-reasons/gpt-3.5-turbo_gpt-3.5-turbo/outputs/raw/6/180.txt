@@ -1,7 +1,6 @@
 ```json
 {
-"message": "my god the stupidity of people",
-"reason": "The message contains negative sentiment and derogatory language, indicating a toxic tone.",
-"predicted": "toxic"
+  "message": "my god the stupidity of people",
+  "reason": "The message expresses frustration and uses negative language, but it does not contain any offensive or harmful content. Therefore, it can be classified as clean.",
+  "predicted": "clean"
 }
-```

@@ -1,7 +1,7 @@
 ```json
 {
   "message": "holy shit PogU",
-  "reason": "The message contains a mild profanity ('shit'), but it is followed by the emote 'PogU', which is commonly used to express excitement or amazement in a positive way. The overall tone of the message seems to be positive and enthusiastic.",
-  "predicted": "clean"
+  "reason": "The message contains profanity, which is considered toxic.",
+  "predicted": "toxic"
 }
 ```

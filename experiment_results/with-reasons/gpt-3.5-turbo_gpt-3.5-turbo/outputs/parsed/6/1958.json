@@ -1,6 +1,6 @@
 {
   "message": "https://specs.gg/tgltn",
-  "reason": "clean",
+  "reason": "The message does not contain any text, making it clean.",
   "predicted": "clean",
   "prompt_version": 6,
   "label": "clean",

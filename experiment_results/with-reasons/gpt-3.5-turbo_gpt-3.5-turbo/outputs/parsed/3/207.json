@@ -1,6 +1,6 @@
 {
   "message": "FUCKING HELL",
-  "reason": "The text contains offensive language, specifically the use of profanity. This falls into the 'toxic' category as indicated by the prediction result.",
+  "reason": "toxic language",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

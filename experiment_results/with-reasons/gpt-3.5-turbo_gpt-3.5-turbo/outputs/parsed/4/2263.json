@@ -1,7 +1,7 @@
 {
   "message": "you can try this to them ciao nee mud",
-  "reason": "The predicted category is 'clean'. The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It appears to be a harmless and neutral message.",
-  "predicted": "clean",
+  "reason": "The message contains a mix of words that do not make sense together and do not convey any clear meaning. It also includes some random characters ('nee mud') that do not contribute to the message. This lack of coherence and the presence of nonsensical words suggest that the message is likely to be classified as 'toxic'.",
+  "predicted": "toxic",
   "prompt_version": 4,
   "label": "clean",
   "model": "gpt-3.5-turbo"

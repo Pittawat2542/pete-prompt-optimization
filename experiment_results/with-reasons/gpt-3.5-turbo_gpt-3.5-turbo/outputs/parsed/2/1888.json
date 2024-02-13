@@ -1,6 +1,6 @@
 {
   "message": "NotLikeThis danucdFacepalm chat",
-  "reason": "The message contains a combination of emotes and chat terms, which are commonly used in online communities. It does not contain any offensive or harmful language, and therefore can be classified as clean.",
+  "reason": "The message contains a combination of emotes and chat terms, which are commonly used in online communities. It does not contain offensive language or derogatory content.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "clean",

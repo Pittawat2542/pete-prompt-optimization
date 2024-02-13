@@ -1,6 +1,6 @@
 {
   "message": "Ur not an assassin if u don\u00d5t one tap the adc",
-  "reason": "The message contains gaming jargon and a statement that implies a certain skill or action is necessary to be considered an assassin. This can be seen as a playful or competitive comment within the gaming community, rather than a toxic or offensive statement.",
+  "reason": "The message uses informal language and includes gaming terminology, but it does not contain offensive or derogatory language.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "clean",

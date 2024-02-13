@@ -1,6 +1,6 @@
 {
   "message": "A giveaway for: game has started! Subscribers can Join!",
-  "reason": "The message is promoting a giveaway for a game and inviting subscribers to join. There is no offensive or harmful language used in the message.",
+  "reason": "The message is clean because it is promoting a giveaway for a game and inviting subscribers to join. There is no offensive or harmful content in the message.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "clean",

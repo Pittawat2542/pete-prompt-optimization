@@ -1,7 +1,7 @@
 ```json
 {
-"message": "I mean Camille and Sett do so much True Damage so who cares about armor",
-"reason": "The message does not contain any offensive or harmful language. It is a statement about the champions Camille and Sett in a video game, discussing their ability to deal true damage and questioning the importance of armor. It does not target or attack any individual or group, and does not promote toxicity or harm.",
-"predicted": "clean"
+  "message": "I mean Camille and Sett do so much True Damage so who cares about armor",
+  "reason": "The message does not contain any offensive or harmful content. It is a discussion about the game League of Legends and the effectiveness of armor against champions who deal true damage.",
+  "predicted": "clean"
 }
 ```

@@ -1,6 +1,6 @@
 {
   "message": "shady as hell",
-  "reason": "The message contains a negative sentiment and uses the phrase 'shady as hell', which indicates a potentially toxic or negative tone.",
+  "reason": "The message contains a negative and suspicious tone, which can be interpreted as offensive or harmful, making it toxic.",
   "predicted": "toxic",
   "prompt_version": 6,
   "label": "toxic",

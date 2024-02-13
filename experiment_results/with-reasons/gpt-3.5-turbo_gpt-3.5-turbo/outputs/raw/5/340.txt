@@ -1,7 +1,7 @@
 ```json
 {
-"message": "fuck support yuumi",
-"reason": "The message contains a profanity ('fuck') which is considered toxic. Additionally, the message expresses frustration towards the support champion 'Yuumi'. Although the context is not provided, expressing frustration or anger towards a specific person or entity can be seen as toxic behavior.",
-"predicted": "toxic"
+  "message": "fuck support yuumi",
+  "reason": "The message contains offensive language ('fuck') and is directed towards a specific target ('support yuumi'). It is considered toxic and offensive.",
+  "predicted": "toxic"
 }
 ```

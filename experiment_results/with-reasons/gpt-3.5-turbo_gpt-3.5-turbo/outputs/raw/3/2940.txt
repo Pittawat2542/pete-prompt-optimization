@@ -1,7 +1,9 @@
 ```json
 {
-"message": "damnnn",
-"reason": "The text 'damnnn' is classified as toxic because the model predicted it to be toxic with a high confidence score of 0.95.",
-"predicted": "toxic"
+  "message": "damnnn",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "damnnn" is classified as toxic because it contains excessive letters and exclamation marks, which indicate strong emotions.

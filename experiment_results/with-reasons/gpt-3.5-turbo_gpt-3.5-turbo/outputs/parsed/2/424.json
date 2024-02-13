@@ -1,6 +1,6 @@
 {
   "message": "I'm safe for now so fuck you guys",
-  "reason": "The message contains offensive language ('fuck you guys'), which is a clear indication of toxic behavior.",
+  "reason": "The message contains offensive language and is derogatory.",
   "predicted": "toxic",
   "prompt_version": 2,
   "label": "toxic",

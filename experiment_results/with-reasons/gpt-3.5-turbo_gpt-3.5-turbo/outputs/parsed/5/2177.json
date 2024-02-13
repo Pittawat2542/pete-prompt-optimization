@@ -1,6 +1,6 @@
 {
   "message": "@escamoli yeah",
-  "reason": "The message does not contain any explicit toxic language or harmful content. It is a simple response of agreement or acknowledgement. Therefore, it can be classified as 'clean'.",
+  "reason": "The message is short and does not contain any offensive or harmful content. It is a simple acknowledgement.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

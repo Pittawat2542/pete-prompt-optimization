@@ -1,6 +1,6 @@
 {
   "message": "The only idiot is you.",
-  "reason": "The message contains an insult ('idiot') directed at someone, which is a form of toxic behavior.",
+  "reason": "The message contains an insult, calling someone an idiot. This is considered toxic behavior.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

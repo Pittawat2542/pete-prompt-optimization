@@ -1,7 +1,9 @@
 ```json
 {
-"message": "osu? woow",
-"reason": "The predicted category is 'clean' because the message does not contain any offensive or harmful language. It is a simple question about the game 'osu?' and expresses excitement with the word 'woow'. The model's prediction aligns with this interpretation as it classifies the message as 'clean'.",
-"predicted": "clean"
+  "message": "osu? woow",
+  "reason": "clean",
+  "predicted": "clean"
 }
 ```
+
+The message "osu? woow" does not contain any offensive or harmful language. It appears to be a simple question or exclamation related to the game "osu!". Therefore, it can be classified as a clean message.

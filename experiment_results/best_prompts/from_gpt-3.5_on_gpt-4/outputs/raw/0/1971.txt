@@ -1,9 +1,0 @@
-Since the "Prediction result" section is not provided, I'll make an assumption based on the "Message" content.
-
-```json
-{
-"message": "dizzy_face:",
-"reason": "The message contains an emoji, which does not contain any offensive or harmful content.",
-"predicted": "clean"
-}
-```

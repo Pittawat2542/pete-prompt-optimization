@@ -1,7 +1,9 @@
 ```json
 {
-"message": "No fucking shit it is",
-"reason": "The message contains offensive language ('fucking') which indicates a toxic tone. The use of such language is likely to be considered disrespectful and offensive by other users in the online community.",
-"predicted": "toxic"
+  "message": "No fucking shit it is",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "No fucking shit it is" contains offensive language ("fucking") which makes it toxic. Therefore, it is classified as toxic.

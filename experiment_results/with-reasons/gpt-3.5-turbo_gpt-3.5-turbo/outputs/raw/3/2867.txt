@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Ass to mouth",
-"reason": "The text contains explicit and offensive language, which is likely to be classified as toxic. The model's prediction of 'toxic' aligns with this assessment.",
-"predicted": "toxic"
+  "message": "Ass to mouth",
+  "reason": "This message contains explicit and offensive language that is considered highly inappropriate and disrespectful. It violates the community guidelines and is categorized as toxic.",
+  "predicted": "toxic"
 }
 ```

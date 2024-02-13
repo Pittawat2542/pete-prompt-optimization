@@ -1,6 +1,6 @@
 {
   "message": "Nt",
-  "reason": "The message consists of only two characters, which makes it difficult to determine its meaning. Without further context, it is not possible to classify it as toxic or clean.",
+  "reason": "The message is too short and does not provide enough context to determine its meaning.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "clean",

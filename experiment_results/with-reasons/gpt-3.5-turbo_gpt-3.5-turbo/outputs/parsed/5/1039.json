@@ -1,6 +1,6 @@
 {
   "message": "emojis here suck tbh",
-  "reason": "The message contains negative sentiment towards emojis, indicating a negative opinion. However, it does not contain any explicit toxic language or personal attacks. Therefore, it can be classified as 'clean'.",
+  "reason": "The message expresses a negative opinion about the emojis, but it does not contain any offensive or harmful content. It is a personal preference and does not attack or demean anyone.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "toxic",

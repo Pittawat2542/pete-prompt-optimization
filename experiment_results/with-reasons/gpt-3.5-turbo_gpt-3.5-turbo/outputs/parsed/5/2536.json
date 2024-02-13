@@ -1,6 +1,6 @@
 {
   "message": "!hype",
-  "reason": "The message '!hype' does not contain any toxic or offensive language. It is a positive expression of excitement or enthusiasm. Therefore, it can be classified as 'clean'.",
+  "reason": "The message contains an exclamation mark followed by the word 'hype'. It seems to express excitement or enthusiasm, but without any offensive or harmful content.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

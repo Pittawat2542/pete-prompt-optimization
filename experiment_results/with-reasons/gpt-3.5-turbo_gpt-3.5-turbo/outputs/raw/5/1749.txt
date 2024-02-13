@@ -1,7 +1,6 @@
 ```json
 {
-"message": "Well,rip clips alisaYikes",
-"reason": "The message does not contain any explicit toxic language or offensive content. It appears to be a casual comment or reaction, which does not violate any community guidelines. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "Well,rip clips alisaYikes",
+  "reason": "The message contains the term 'alisaYikes' which may be considered offensive or derogatory. It is unclear whether the term 'rip clips' is intended to be toxic or not.",
+  "predicted": "toxic"
 }
-```

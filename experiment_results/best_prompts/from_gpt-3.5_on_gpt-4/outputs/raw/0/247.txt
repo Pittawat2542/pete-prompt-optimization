@@ -1,7 +1,0 @@
-```json
-{
-"message": "Fuck, I just died by the twitch. look at death recap",
-"reason": "The message contains a profanity which is generally considered as toxic behavior in online communities.",
-"predicted": "toxic"
-}
-```

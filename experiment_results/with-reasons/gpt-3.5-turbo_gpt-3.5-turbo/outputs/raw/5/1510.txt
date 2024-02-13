@@ -1,7 +1,6 @@
 ```json
 {
-"message": "Jesus, it's a warzone in that city monkaS",
-"reason": "The message does not contain any explicit toxic language or offensive content. It is a statement expressing surprise or shock about the situation in a city. The use of 'Jesus' is not intended to be disrespectful or offensive, but rather an expression of astonishment. The term 'warzone' is used metaphorically to describe a chaotic or dangerous situation. The presence of the emote 'monkaS' indicates that the message is likely from a user familiar with Twitch culture, where 'monkaS' is used to convey anxiety or nervousness. Overall, the message does not exhibit any toxic behavior and can be classified as clean.",
-"predicted": "clean"
+  "message": "Jesus, it's a warzone in that city monkaS",
+  "reason": "The message contains a reference to a warzone, which can be seen as a violent and negative statement. It may be considered toxic or offensive depending on the context.",
+  "predicted": "toxic"
 }
-```

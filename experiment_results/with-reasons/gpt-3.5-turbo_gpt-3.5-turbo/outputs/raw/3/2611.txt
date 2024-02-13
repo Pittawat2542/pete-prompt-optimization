@@ -1,7 +1,9 @@
 ```json
 {
 "message": "Spoopy hamtime",
-"reason": "The predicted category is 'clean' because the message does not contain any offensive or harmful language. It is a playful phrase that combines the words 'spoopy' and 'hamtime', which are not inherently toxic or offensive.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "Spoopy hamtime" does not contain any offensive or harmful language. It appears to be a playful and harmless phrase, possibly referring to a spooky or funny moment involving ham. Therefore, it can be classified as "clean".

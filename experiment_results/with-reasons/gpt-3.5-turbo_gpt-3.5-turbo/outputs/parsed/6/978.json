@@ -1,6 +1,6 @@
 {
   "message": "because cosmic 1st is shit @Thebausffs",
-  "reason": "The message contains offensive language ('shit') directed towards another user ('@Thebausffs'). This indicates a toxic behavior.",
+  "reason": "The message contains offensive language ('shit') and is disrespectful towards '@Thebausffs', making it toxic.",
   "predicted": "toxic",
   "prompt_version": 6,
   "label": "toxic",

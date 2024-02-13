@@ -1,7 +1,9 @@
 ```json
 {
-"message": "!hype",
-"reason": "The message '!hype' does not contain any offensive or harmful language. It is a positive expression of excitement or enthusiasm. The model correctly predicts it as a 'clean' message.",
-"predicted": "clean"
+  "message": "!hype",
+  "reason": "clean",
+  "predicted": "clean"
 }
 ```
+
+The message "!hype" does not contain any offensive or harmful content. It is a positive expression used to show excitement or enthusiasm. Therefore, it can be classified as "clean".

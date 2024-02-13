@@ -1,7 +1,7 @@
 ```json
 {
   "message": "like what the actual fuck is that",
-  "reason": "The message contains offensive language ('fuck') and expresses strong negative emotions ('what the actual fuck').",
+  "reason": "The message contains offensive language ('fuck') and expresses frustration or anger ('what the actual fuck').",
   "predicted": "toxic"
 }
 ```

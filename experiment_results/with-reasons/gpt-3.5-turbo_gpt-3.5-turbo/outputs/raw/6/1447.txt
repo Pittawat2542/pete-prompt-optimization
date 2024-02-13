@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@Adooool18 Thanks for the gift sub! soggyWow brkSmaK soggyWow brkSmaK soggyPog brkTSM",
-"reason": "The message contains emotes and mentions, but there is no explicit toxic or offensive language. It seems to be a positive message expressing gratitude for a gift sub.",
-"predicted": "clean"
+  "message": "@Adooool18 Thanks for the gift sub! soggyWow brkSmaK soggyWow brkSmaK soggyPog brkTSM",
+  "reason": "The message shows appreciation and does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

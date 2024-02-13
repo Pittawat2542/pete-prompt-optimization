@@ -1,7 +1,7 @@
 {
   "message": "danucdSaspisas danucdSASPISHAS",
-  "reason": "The message consists of random characters and does not make any sense.",
-  "predicted": "toxic",
+  "reason": "The message contains random gibberish and does not convey any meaningful information.",
+  "predicted": "clean",
   "prompt_version": 0,
   "label": "clean",
   "model": "gpt-3.5-turbo"

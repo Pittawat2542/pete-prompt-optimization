@@ -1,7 +1,7 @@
 ```json
 {
-"message": "They suck",
-"reason": "The text falls into the 'toxic' category because the model predicted it as toxic. The word 'suck' is a derogatory term that expresses a negative opinion about someone or something.",
-"predicted": "toxic"
+  "message": "They suck",
+  "reason": "The message contains a negative sentiment and uses derogatory language.",
+  "predicted": "toxic"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
   "message": "I fucking love those videos",
-  "reason": "The message contains a profanity, which is considered offensive and inappropriate. The use of the word 'fucking' indicates a strong emotion, but it is not necessarily toxic in this context. The overall sentiment of the message is positive, expressing love for the videos.",
-  "predicted": "clean"
+  "reason": "The message contains offensive language ('fucking'), which can be considered toxic.",
+  "predicted": "toxic"
 }
 ```

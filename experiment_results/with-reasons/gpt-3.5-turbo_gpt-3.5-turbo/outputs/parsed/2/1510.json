@@ -1,6 +1,6 @@
 {
   "message": "Jesus, it's a warzone in that city monkaS",
-  "reason": "The message contains a reference to a warzone in a city, which can be seen as a negative and potentially harmful statement. The use of the emote 'monkaS' suggests that the situation is tense or alarming. Therefore, the message can be classified as toxic.",
+  "reason": "The message contains a reference to violence and chaos, which can be seen as negative and potentially toxic.",
   "predicted": "toxic",
   "prompt_version": 2,
   "label": "clean",

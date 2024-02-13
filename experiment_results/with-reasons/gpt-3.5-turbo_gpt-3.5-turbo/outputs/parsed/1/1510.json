@@ -1,6 +1,6 @@
 {
   "message": "Jesus, it's a warzone in that city monkaS",
-  "reason": "The message contains a reference to a warzone, which can be seen as a negative and potentially toxic comment.",
+  "reason": "The message contains a reference to a warzone, which can be seen as a negative and potentially toxic statement.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "clean",

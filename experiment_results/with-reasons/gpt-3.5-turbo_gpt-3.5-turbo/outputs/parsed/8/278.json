@@ -1,6 +1,6 @@
 {
   "message": "win the fight, die to a fucking mushroom walking away",
-  "reason": "The text contains offensive language ('fucking') which indicates toxicity.",
+  "reason": "The message contains offensive language ('fucking') and displays frustration, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

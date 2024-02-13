@@ -1,6 +1,6 @@
 {
   "message": "its banana its banana",
-  "reason": "The message does not contain any offensive or harmful language. It appears to be a harmless repetition of the phrase 'its banana'.",
+  "reason": "The message does not contain offensive language and is not derogatory. However, it is difficult to determine the intent or meaning behind the message.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "toxic",

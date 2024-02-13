@@ -1,6 +1,6 @@
 {
   "message": "did u like that solo ranked @ibiza",
-  "reason": "The message does not contain any offensive or harmful language. It is a simple question about a solo ranked game. There is no indication of toxicity or any violation of community guidelines.",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 7,
   "label": "clean",

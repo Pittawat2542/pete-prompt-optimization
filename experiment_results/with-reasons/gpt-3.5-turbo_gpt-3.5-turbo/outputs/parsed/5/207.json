@@ -1,6 +1,6 @@
 {
   "message": "FUCKING HELL",
-  "reason": "The message contains strong profanity, which is indicative of toxic language. The use of all capital letters and the intensity of the expletive further emphasize the toxic nature of the message.",
+  "reason": "The message contains offensive language and is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

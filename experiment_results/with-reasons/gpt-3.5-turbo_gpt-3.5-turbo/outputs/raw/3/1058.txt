@@ -1,7 +1,9 @@
 ```json
 {
-"message": "I hate my life",
-"reason": "The predicted category is 'toxic' because the text contains negative sentiment and expresses a strong negative emotion. The model has correctly identified this message as toxic based on the presence of the word 'hate' and the overall negative tone.",
-"predicted": "toxic"
+  "message": "I hate my life",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "I hate my life" is classified as toxic because it expresses a strong negative emotion and indicates a feeling of despair or unhappiness.

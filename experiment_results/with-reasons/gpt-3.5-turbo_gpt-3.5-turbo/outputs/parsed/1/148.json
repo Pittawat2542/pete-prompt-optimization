@@ -1,7 +1,7 @@
 {
   "message": "I dislike games where I carry and my team feeds ;/",
-  "reason": "The message expresses frustration and dissatisfaction with the situation in a game where the person is carrying but their team is not performing well. However, there is no explicit use of offensive or harmful language, and the message does not attack or insult anyone. Therefore, it can be classified as 'clean'.",
-  "predicted": "clean",
+  "reason": "The message expresses frustration and negativity towards teammates, indicating a negative attitude towards the game. The use of the word 'dislike' and the emoticon ';/' further emphasize the negative sentiment.",
+  "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

@@ -1,7 +1,5 @@
-```json
 {
 "message": "Yeah with what? A short ass hop that gets you nearly nowhere? An ult that is SO fucking long",
-"reason": "The message contains offensive language ('fucking') which makes it toxic.",
+"reason": "The message contains offensive language and is derogatory.",
 "predicted": "toxic"
 }
-```

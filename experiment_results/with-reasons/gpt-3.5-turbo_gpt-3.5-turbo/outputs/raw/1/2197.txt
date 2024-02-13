@@ -1,7 +1,7 @@
 ```json
 {
   "message": "he said frist time FPP",
-  "reason": "The message does not contain any offensive or harmful language. It appears to be a simple statement about someone mentioning 'frist time FPP'.",
+  "reason": "The message does not contain any offensive or harmful language. It appears to be a simple statement about someone's first time playing FPP (First Person Perspective).",
   "predicted": "clean"
 }
 ```

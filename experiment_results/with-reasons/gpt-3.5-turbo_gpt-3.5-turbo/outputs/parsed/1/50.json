@@ -1,6 +1,6 @@
 {
   "message": "It's like lol bitch you thought",
-  "reason": "The message contains offensive language ('bitch') and a mocking tone ('lol'). This indicates a disrespectful and toxic attitude.",
+  "reason": "The message contains offensive language ('bitch') and a derogatory term ('lol'). It is disrespectful and insulting, indicating a toxic tone.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "clean",

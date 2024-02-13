@@ -1,7 +1,7 @@
 ```json
 {
-"message": "JESUS CHRIST",
-"reason": "The message does not contain any explicit toxic language or harmful intent. It appears to be a reference to a religious figure, which is not inherently toxic or offensive.",
-"predicted": "clean"
+  "message": "JESUS CHRIST",
+  "reason": "The message contains a religious reference, but without any context it is difficult to determine if it is being used in a toxic or offensive manner.",
+  "predicted": "clean"
 }
 ```

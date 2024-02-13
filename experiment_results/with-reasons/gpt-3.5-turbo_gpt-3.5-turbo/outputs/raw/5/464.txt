@@ -1,7 +1,6 @@
 ```json
 {
-"message": "And my friend had to fucking choose tahm kench",
-"reason": "The message contains offensive language ('fucking') which indicates a toxic tone. The use of profanity suggests a negative and aggressive attitude, which is characteristic of toxic behavior.",
-"predicted": "toxic"
+  "message": "And my friend had to fucking choose tahm kench",
+  "reason": "The message contains offensive language ('fucking') which is considered toxic.",
+  "predicted": "toxic"
 }
-```

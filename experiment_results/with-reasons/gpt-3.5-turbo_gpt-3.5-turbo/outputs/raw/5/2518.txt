@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@hambinooo sorry for ruining your fun",
-"reason": "The message is classified as 'clean'. The word 'sorry' indicates that the sender is apologizing for something, which suggests a non-toxic intent. Additionally, the phrase 'ruining your fun' implies that the sender acknowledges their actions had a negative impact on the recipient, further supporting the 'clean' classification.",
-"predicted": "clean"
+  "message": "@hambinooo sorry for ruining your fun",
+  "reason": "The message includes an apology and acknowledges that the sender has ruined someone's fun. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

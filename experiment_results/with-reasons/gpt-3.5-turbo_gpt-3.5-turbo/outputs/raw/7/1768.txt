@@ -1,7 +1,6 @@
 ```json
 {
-"message": "@melihozkiremitci cya",
-"reason": "The message does not contain any offensive or harmful language. It is a simple abbreviation for 'see you later'.",
-"predicted": "clean"
+  "message": "@melihozkiremitci cya",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
-```

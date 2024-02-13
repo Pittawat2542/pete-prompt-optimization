@@ -1,7 +1,7 @@
 {
   "message": "no katarina in 0/5/2 we won't gank your yasuo",
-  "reason": "The message contains negative language and implies that the person is unwilling to help their teammate because they are not performing well. This can be considered toxic behavior.",
-  "predicted": "toxic",
+  "reason": "The message does not contain any offensive or harmful language. It is a statement about the game strategy, specifically mentioning that they won't gank the Yasuo because the Katarina is not performing well. This can be considered a normal conversation in an online gaming community.",
+  "predicted": "clean",
   "prompt_version": 1,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

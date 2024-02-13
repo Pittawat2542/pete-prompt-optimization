@@ -1,7 +1,7 @@
 ```json
 {
-"message": "114 kills again? you're a legend",
-"reason": "The text is classified as 'clean' because it contains positive sentiment and praise towards the person with 114 kills. There is no indication of any toxic or offensive language.",
-"predicted": "clean"
+  "message": "114 kills again? you're a legend",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

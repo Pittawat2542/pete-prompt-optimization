@@ -1,7 +1,7 @@
 ```json
 {
   "message": "Its my stupid earphones",
-  "reason": "The message contains the word 'stupid', which can be considered offensive or derogatory. However, it is not directed towards anyone in particular and does not seem to be intended to harm or insult anyone. Therefore, the message can be classified as 'clean'.",
+  "reason": "The message does not contain any offensive or harmful language. It is a simple statement about the speaker's earphones. Therefore, it can be classified as clean.",
   "predicted": "clean"
 }
 ```

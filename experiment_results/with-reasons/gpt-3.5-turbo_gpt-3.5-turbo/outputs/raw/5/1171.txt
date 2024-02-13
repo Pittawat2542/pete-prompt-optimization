@@ -1,7 +1,7 @@
 ```json
 {
-"message": "When is ps4 and xbox pts server finished? What date and time (uk) please? Thanks",
-"reason": "The message is classified as clean. Although the message asks about the completion date and time of the ps4 and xbox pts server, it does not contain any toxic or offensive language. The absence of any negative sentiment or harmful content indicates that the message is clean.",
-"predicted": "clean"
+  "message": "When is ps4 and xbox pts server finished? What date and time (uk) please? Thanks",
+  "reason": "The message is a polite and straightforward question about the completion date and time of the ps4 and xbox pts server. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

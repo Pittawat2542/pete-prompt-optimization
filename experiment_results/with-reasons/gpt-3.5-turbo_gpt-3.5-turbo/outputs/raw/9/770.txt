@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Yami is my best friend",
-"reason": "The message is positive and expresses a friendly sentiment towards someone. There is no evidence of any toxic or offensive language.",
-"predicted": "clean"
+  "message": "Yami is my best friend",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

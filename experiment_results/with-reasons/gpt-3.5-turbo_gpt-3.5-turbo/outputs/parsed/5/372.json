@@ -1,6 +1,6 @@
 {
   "message": "Cuz of that stupid strat",
-  "reason": "The message contains a negative term 'stupid' which indicates a negative sentiment. This negative sentiment suggests that the message is toxic.",
+  "reason": "The message contains a derogatory term ('stupid') and it is used to criticize or belittle someone or something. It can be considered toxic and offensive.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

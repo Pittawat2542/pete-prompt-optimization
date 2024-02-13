@@ -1,7 +1,9 @@
 ```json
 {
 "message": "why he is calling u idiot tho? ðŸ˜®",
-"reason": "The message contains an offensive term ('idiot') which is likely to be considered toxic.",
+"reason": "toxic language",
 "predicted": "toxic"
 }
 ```
+
+The message contains toxic language with the use of the word "idiot" which is derogatory and offensive. Therefore, it falls under the category of "toxic".

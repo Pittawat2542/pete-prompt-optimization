@@ -1,7 +1,7 @@
 {
   "message": "shes a girl...DAAAA",
-  "reason": "The message contains an exclamation with repeated letters, which indicates a strong emotion. This could be interpreted as an expression of excitement or enthusiasm, rather than being toxic or offensive.",
-  "predicted": "clean",
+  "reason": "The message contains derogatory language and is disrespectful towards women.",
+  "predicted": "toxic",
   "prompt_version": 4,
   "label": "clean",
   "model": "gpt-3.5-turbo"

@@ -1,6 +1,6 @@
 {
   "message": "HELL NO",
-  "reason": "The text falls into the 'toxic' category because the model predicted it as toxic with a high confidence score of 0.95. The phrase 'HELL NO' is written in all caps, which indicates strong negative sentiment and aggression. This kind of language is often associated with toxic behavior in online communities.",
+  "reason": "The message contains strong language and is written in all caps, which indicates a negative and aggressive tone.",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "clean",

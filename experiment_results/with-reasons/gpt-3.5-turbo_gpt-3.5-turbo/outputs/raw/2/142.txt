@@ -1,7 +1,42 @@
+New Prompt:
+Classify the following "Message" from chat in an online community into one of the specified categories, "toxic" or "clean". Provide a reason for the classification in the specified JSON format. Include the prediction result, which is not present in the original prompt. Utilize this information to design a new prompt without changing the output format.
+
+Message: My mains were magic exo and the brawler
+
+### Examples:
+
+#### Example 1:
+Message: "You are so stupid!"
+
+Output format:
+```json
+{
+"message": "You are so stupid!",
+"reason": "The message contains offensive language and is derogatory.",
+"predicted": "toxic"
+}
+```
+
+#### Example 2:
+Message: "Thanks for helping out!"
+
+Output format:
+```json
+{
+"message": "Thanks for helping out!",
+"reason": "The message expresses gratitude and positivity.",
+"predicted": "clean"
+}
+```
+
+#### Example 3:
+Message: "My mains were magic exo and the brawler"
+
+Output format:
 ```json
 {
 "message": "My mains were magic exo and the brawler",
-"reason": "The message is classified as clean because it does not contain any toxic or offensive language. It simply mentions the user's main characters in a game.",
+"reason": "The message is a statement about the user's preferred characters in a game and does not contain offensive language or negativity.",
 "predicted": "clean"
 }
 ```

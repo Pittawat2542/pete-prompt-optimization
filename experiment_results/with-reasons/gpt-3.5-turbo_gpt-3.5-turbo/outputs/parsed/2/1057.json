@@ -1,7 +1,7 @@
 {
   "message": "Like what the hell is this",
-  "reason": "The message contains strong language ('hell') which is considered toxic and offensive.",
-  "predicted": "toxic",
+  "reason": "The message contains mild profanity but does not contain offensive language or derogatory remarks.",
+  "predicted": "clean",
   "prompt_version": 2,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

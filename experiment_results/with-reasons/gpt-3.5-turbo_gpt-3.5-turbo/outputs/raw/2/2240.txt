@@ -1,7 +1,5 @@
-```json
 {
-"message": "you need to say niu bi instead of number one",
-"reason": "The message does not contain any offensive or harmful language. It is a suggestion to use a different phrase, which is not toxic in nature.",
+"message": "You need to say niu bi instead of number one",
+"reason": "The message does not contain offensive language and is not derogatory. It provides a suggestion or advice.",
 "predicted": "clean"
 }
-```

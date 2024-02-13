@@ -1,6 +1,6 @@
 {
   "message": "hello sir how are u",
-  "reason": "The message is polite and does not contain any offensive or harmful language. It is a simple greeting and inquiry about the person's well-being.",
+  "reason": "The message is polite and does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",

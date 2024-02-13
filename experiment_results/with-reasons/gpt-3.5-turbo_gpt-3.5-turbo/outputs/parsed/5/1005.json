@@ -1,6 +1,6 @@
 {
   "message": "How to mute this shit",
-  "reason": "The message contains offensive language ('shit'), which indicates a toxic category.",
+  "reason": "The message contains offensive language ('shit') and expresses frustration. It can be considered toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

@@ -1,7 +1,9 @@
 ```json
 {
 "message": "play this stupid shat",
-"reason": "The text contains a derogatory term ('stupid') and a misspelled offensive word ('shat'). These words contribute to a toxic and offensive tone.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message "play this stupid shat" is classified as toxic because it contains offensive language ("stupid shat").

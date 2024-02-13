@@ -1,7 +1,9 @@
 ```json
 {
-"message": "I see HoB more",
-"reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It appears to be a neutral statement expressing the author's observation or preference.",
-"predicted": "clean"
+  "message": "I see HoB more",
+  "reason": "clean",
+  "predicted": "clean"
 }
 ```
+
+The message "I see HoB more" does not contain any offensive or harmful language. It appears to be a neutral statement without any toxic content. Therefore, it can be classified as "clean".

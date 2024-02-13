@@ -1,6 +1,6 @@
 {
   "message": "Have a great day/night bananas, i gotta go . danucdHi Later danucdBukulove",
-  "reason": "The message is classified as 'clean'. The text contains positive and friendly words such as 'Have a great day/night' and 'Hi Later'. There are no offensive or toxic words present in the message. The model's prediction result also supports this classification as it does not mention any toxic or offensive content.",
+  "reason": "The message is a friendly farewell and does not contain any offensive or harmful content.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "toxic",

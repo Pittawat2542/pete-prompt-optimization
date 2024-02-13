@@ -1,7 +1,7 @@
 ```json
 {
-"message": "gg",
-"reason": "The message 'gg' is classified as clean because it is a common abbreviation used in online gaming to mean 'good game'. It is a polite and positive way to acknowledge the end of a game and show sportsmanship.",
-"predicted": "clean"
+  "message": "gg",
+  "reason": "The message 'gg' is commonly used as an abbreviation for 'good game' in online gaming communities. It is a positive and sportsmanlike expression used to acknowledge a well-played game. There is no offensive or harmful content in this message.",
+  "predicted": "clean"
 }
 ```

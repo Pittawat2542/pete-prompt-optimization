@@ -1,7 +1,6 @@
 ```json
 {
-"message": "@ty_gets_rekt eleven10Gooba eleven10Gooba eleven10Gooba",
-"reason": "The message contains repetitive and nonsensical text, which is often indicative of spam or trolling behavior. This aligns with the prediction result of 'toxic'.",
-"predicted": "toxic"
+  "message": "@ty_gets_rekt eleven10Gooba eleven10Gooba eleven10Gooba",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
-```

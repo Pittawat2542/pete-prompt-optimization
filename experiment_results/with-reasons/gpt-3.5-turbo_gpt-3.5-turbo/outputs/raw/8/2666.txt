@@ -1,7 +1,7 @@
 ```json
 {
-"message": "been 2 weeks 1since i've been able to lunch with ham!",
-"reason": "The text does not contain any offensive or harmful language, and it does not seem to be disrespectful or aggressive. Therefore, it can be classified as clean.",
-"predicted": "clean"
+  "message": "been 2 weeks 1since i've been able to lunch with ham!",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

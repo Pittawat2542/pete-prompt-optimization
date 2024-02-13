@@ -1,7 +1,9 @@
 ```json
 {
 "message": "love how nobody gives a fuck",
-"reason": "The predicted category is 'toxic' because the text contains offensive language ('fuck'). The model has correctly identified this message as toxic based on the prediction result, which shows a high probability of toxicity.",
+"reason": "Toxic",
 "predicted": "toxic"
 }
 ```
+
+The message "love how nobody gives a fuck" contains offensive language and a negative sentiment, indicating a toxic tone.

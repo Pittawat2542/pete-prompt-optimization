@@ -1,7 +1,6 @@
 ```json
 {
-"message": "i like how you dont talk shit about your dick neighbour cause he prob gonna rewatch your stream",
-"reason": "The text contains offensive language ('dick') and derogatory terms ('shit') which indicate a toxic tone.",
-"predicted": "toxic"
+  "message": "i like how you dont talk shit about your dick neighbour cause he prob gonna rewatch your stream",
+  "reason": "The message contains offensive language and disrespectful content, referring to someone as a 'dick neighbour' and using the phrase 'talk shit'. This makes it toxic.",
+  "predicted": "toxic"
 }
-```

@@ -1,7 +1,9 @@
 ```json
 {
 "message": "no katarina in 0/5/2 we won't gank your yasuo",
-"reason": "The message does not contain any offensive or harmful language. It is a response to a player's request for assistance in the game. The absence of Katarina in the game and the player's poor performance (0/5/2) are mentioned as reasons for not ganking their Yasuo.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message does not contain any offensive or harmful language. It appears to be a statement made in a gaming community, discussing the absence of a player named Katarina and the decision not to assist a player named Yasuo. There is no indication of toxicity or any negative intent in the message. Therefore, it can be classified as "clean".

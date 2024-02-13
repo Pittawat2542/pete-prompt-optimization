@@ -1,6 +1,6 @@
 {
   "message": "but they do it such a i dont give a shit way",
-  "reason": "The text contains offensive language ('i dont give a shit') which indicates a toxic tone.",
+  "reason": "The message contains offensive language ('i dont give a shit'), which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "clean",

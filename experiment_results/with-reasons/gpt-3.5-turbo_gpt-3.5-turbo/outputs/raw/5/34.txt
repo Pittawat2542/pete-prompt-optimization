@@ -1,7 +1,7 @@
 ```json
 {
-"message": "laners dying even with vision ðŸ¤¡",
-"reason": "The message does not contain any explicit toxic language or offensive content. It seems to be a statement about players dying in a game despite having vision. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "laners dying even with vision ðŸ¤¡",
+  "reason": "The message expresses frustration and disappointment with the performance of the laners despite having vision. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

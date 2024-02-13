@@ -1,6 +1,6 @@
 {
   "message": "stupid morgana players",
-  "reason": "The message contains a derogatory term ('stupid') and targets a specific group of players ('morgana players'). This indicates a negative sentiment and potentially toxic behavior.",
+  "reason": "The message contains a derogatory term ('stupid') and targets a specific group of players ('morgana players'), which can be considered offensive and disrespectful. Therefore, the message is classified as toxic.",
   "predicted": "toxic",
   "prompt_version": 6,
   "label": "toxic",

@@ -1,9 +1,7 @@
 ```json
 {
-"message": "https://specs.gg/tgltn",
-"reason": "clean",
-"predicted": "clean"
+  "message": "https://specs.gg/tgltn",
+  "reason": "The message does not contain any text, making it clean.",
+  "predicted": "clean"
 }
 ```
-
-The message is classified as "clean" based on the prediction result. The prediction result consistently classifies the messages as "clean" with high confidence scores. Therefore, we can confidently classify this message as "clean" as well.

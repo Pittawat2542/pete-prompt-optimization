@@ -1,7 +1,7 @@
 {
   "message": "Start with this and upgrade if it's shit",
-  "reason": "The message contains a potentially offensive word ('shit'), which can be considered toxic language. However, the overall tone of the message is not aggressive or insulting. It seems to be a suggestion or advice given in a casual manner. Therefore, I classify it as 'clean'.",
-  "predicted": "clean",
+  "reason": "The message contains offensive language ('shit'), which makes it toxic.",
+  "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

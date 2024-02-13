@@ -1,7 +1,9 @@
 ```json
 {
-"message": "Hell nahh",
-"reason": "The predicted category is 'toxic' because the text contains a negative and dismissive phrase. The model has likely identified the use of 'nahh' as a dismissive response, which contributes to the toxic classification.",
-"predicted": "toxic"
+  "message": "Hell nahh",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "Hell nahh" is classified as toxic because it contains offensive language. The word "Hell" can be considered as a mild profanity, which contributes to the toxic nature of the message.

@@ -1,7 +1,9 @@
 ```json
 {
-"message": "this suck",
-"reason": "The text contains a negative sentiment and uses informal language ('suck'). This indicates a negative tone and can be classified as toxic.",
-"predicted": "toxic"
+  "message": "this suck",
+  "reason": "Toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "this suck" contains a derogatory term ("suck") which is considered offensive and disrespectful. Therefore, it falls under the category of "toxic".

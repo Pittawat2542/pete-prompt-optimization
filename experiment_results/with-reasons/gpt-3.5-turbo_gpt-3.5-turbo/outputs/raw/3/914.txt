@@ -1,7 +1,9 @@
 ```json
 {
 "message": "or until u get shit on LUL",
-"reason": "The message contains offensive language ('shit') which falls under the 'toxic' category.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message "or until u get shit on LUL" contains offensive language ("shit") and is derogatory in nature. Therefore, it can be classified as toxic.

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "stop watch Pog",
-"reason": "The message 'stop watch Pog' is classified as clean. The word 'Pog' is a popular emote used in online communities to express excitement or enthusiasm. It does not contain any toxic or offensive language. Additionally, the absence of any toxic keywords or patterns in the 'Prediction result' section further supports the clean classification.",
-"predicted": "clean"
+  "message": "stop watch Pog",
+  "reason": "The message contains a slang term 'Pog', which is often used in online communities to express excitement or surprise. However, without further context, it is difficult to determine the intent of the message. Therefore, it can be classified as clean.",
+  "predicted": "clean"
 }
 ```

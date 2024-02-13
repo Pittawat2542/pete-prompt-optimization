@@ -1,6 +1,6 @@
 {
   "message": "guys where to watch ??",
-  "reason": "The message is classified as clean. The phrase 'guys where to watch ??' does not contain any offensive or harmful language. It is a simple question asking for recommendations on where to watch something. There is no indication of toxicity or any negative intent in the message.",
+  "reason": "The message is a simple question asking for recommendations on where to watch something. It does not contain any offensive or harmful content.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

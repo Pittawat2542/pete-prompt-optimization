@@ -1,6 +1,6 @@
 {
   "message": "@ty_gets_rekt eleven10Gooba eleven10Gooba eleven10Gooba",
-  "reason": "The message contains repetitive and nonsensical text, which does not contribute to the conversation. This behavior is often associated with spam or trolling, which can be considered toxic in an online community.",
+  "reason": "The message consists of repeated words and does not convey any meaningful information. It seems to be spam or gibberish, which is typically considered toxic behavior.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "clean",

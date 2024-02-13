@@ -1,6 +1,6 @@
 {
   "message": "SUCK",
-  "reason": "The message contains a derogatory term, which is considered toxic and offensive. The word 'SUCK' is often used to insult or belittle someone, making it fall into the 'toxic' category.",
+  "reason": "The message contains a derogatory term that is considered offensive and disrespectful. It is classified as toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

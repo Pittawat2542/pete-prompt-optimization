@@ -1,7 +1,9 @@
 ```json
 {
-"message": "ahhh gotcha",
-"reason": "The predicted category is 'clean' because the text does not contain any offensive or harmful language. It is a simple expression of understanding or realization.",
-"predicted": "clean"
+  "message": "ahhh gotcha",
+  "reason": "clean",
+  "predicted": "clean"
 }
 ```
+
+The message "ahhh gotcha" does not contain any offensive or harmful language. It appears to be a harmless expression of understanding or agreement. Therefore, it can be classified as "clean".

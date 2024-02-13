@@ -1,7 +1,7 @@
 ```json
 {
   "message": "hell yeaaahh",
-  "reason": "The message 'hell yeaaahh' is classified as clean. Although the word 'hell' might be considered slightly offensive in some contexts, the overall tone of the message is positive and enthusiastic. There is no explicit or harmful language used, and the message does not contain any personal attacks or derogatory remarks. Therefore, it can be categorized as clean.",
+  "reason": "The message contains slang and exclamation marks, but it does not contain any offensive or harmful content. It can be classified as clean.",
   "predicted": "clean"
 }
 ```

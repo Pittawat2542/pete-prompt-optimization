@@ -1,6 +1,6 @@
 {
   "message": "fiesta fiesta pluma pluma gay",
-  "reason": "The message contains words that are commonly used as slurs or insults. The use of these words in a derogatory manner suggests a toxic intent.",
+  "reason": "The message contains derogatory language and is offensive towards the LGBTQ+ community.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

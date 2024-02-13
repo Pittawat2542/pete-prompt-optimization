@@ -1,6 +1,6 @@
 {
   "message": "she's listening through the door, shut the fuck up dad",
-  "reason": "The message contains offensive language ('shut the fuck up') which is a strong indicator of toxicity.",
+  "reason": "The message contains offensive language and disrespect towards the father, making it toxic.",
   "predicted": "toxic",
   "prompt_version": 9,
   "label": "toxic",

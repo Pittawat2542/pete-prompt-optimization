@@ -1,6 +1,6 @@
 {
   "message": "@RuralBiscuits damn - i knew it!",
-  "reason": "The message contains a mild profanity ('damn'), but it does not appear to be directed towards anyone in a harmful or offensive manner. The tone of the message seems more like an expression of frustration or disappointment rather than an attempt to insult or harm someone. Therefore, the message can be classified as 'clean'.",
+  "reason": "The message contains a mild swear word ('damn'), but it is not used in a derogatory or offensive manner. It expresses frustration or disappointment. Therefore, the message can be classified as clean.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "toxic",

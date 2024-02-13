@@ -1,7 +1,7 @@
 ```json
 {
 "message": "love how nobody gives a fuck",
-"reason": "The text contains offensive language ('fuck') which indicates a toxic category.",
+"reason": "The message contains offensive language ('fuck') and expresses a negative sentiment towards others ('nobody gives a fuck').",
 "predicted": "toxic"
 }
 ```

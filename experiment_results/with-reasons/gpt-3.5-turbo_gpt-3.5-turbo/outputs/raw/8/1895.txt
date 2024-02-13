@@ -1,7 +1,6 @@
 ```json
 {
   "message": "Support always",
-  "reason": "The text is classified as 'clean' because it does not contain any toxic or offensive language. The model has consistently predicted 'clean' for similar examples in the 'Prediction result' section.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean"
 }
-```

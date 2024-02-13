@@ -1,7 +1,7 @@
 ```json
 {
 "message": "Stupid decisions mean stupid result",
-"reason": "The message contains negative language and insults, which indicates a toxic tone.",
+"reason": "The message contains derogatory language ('stupid') which can be considered offensive and disrespectful. This indicates a toxic tone.",
 "predicted": "toxic"
 }
 ```

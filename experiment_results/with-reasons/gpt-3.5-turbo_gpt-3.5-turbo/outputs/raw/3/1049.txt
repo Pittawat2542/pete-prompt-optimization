@@ -1,7 +1,9 @@
 ```json
 {
-"message": "hell yeaaahh",
-"reason": "The predicted category is 'clean'. The text 'hell yeaaahh' does not contain any offensive or harmful language. It is a positive expression of excitement or enthusiasm.",
-"predicted": "clean"
+  "message": "hell yeaaahh",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "hell yeaaahh" is classified as toxic because it contains strong language and exclamation marks, which indicate excitement or aggression.

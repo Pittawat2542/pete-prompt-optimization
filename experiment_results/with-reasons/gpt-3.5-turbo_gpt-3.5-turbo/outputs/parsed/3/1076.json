@@ -1,6 +1,6 @@
 {
   "message": "Shit up",
-  "reason": "The text contains offensive language, specifically the word 'shit'. This falls into the 'toxic' category.",
+  "reason": "toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

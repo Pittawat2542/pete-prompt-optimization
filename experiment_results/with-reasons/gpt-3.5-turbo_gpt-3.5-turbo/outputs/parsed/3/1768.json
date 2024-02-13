@@ -1,6 +1,6 @@
 {
   "message": "@melihozkiremitci cya",
-  "reason": "The message does not contain any offensive or harmful language. It is a simple and casual farewell message.",
+  "reason": "The message contains the abbreviation 'cya', which is commonly used to mean 'see you'. This is a friendly and non-toxic message.",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be non-toxic with a 90% probability.
-
-```json
-{
-"message": "cod is crap which one?",
-"reason": "The model predicts the message to be non-toxic with a 90% probability. The user seems to be expressing a negative opinion about a game (possibly Call of Duty), but it's not offensive or harmful.",
-"predicted": "clean"
-}
-```

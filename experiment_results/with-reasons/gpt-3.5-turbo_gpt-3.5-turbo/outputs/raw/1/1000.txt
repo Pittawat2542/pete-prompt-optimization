@@ -1,7 +1,7 @@
 ```json
 {
   "message": "this suck",
-  "reason": "The message contains a negative sentiment and uses informal language. The phrase 'this suck' is derogatory and disrespectful.",
+  "reason": "The message contains a negative sentiment and lacks context. It is unclear what the message is referring to, but the use of the word 'suck' suggests a negative tone. However, without further information, it is difficult to determine if the message is intended to be toxic or not.",
   "predicted": "toxic"
 }
 ```

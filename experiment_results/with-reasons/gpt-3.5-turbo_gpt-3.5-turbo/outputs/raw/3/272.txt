@@ -1,7 +1,9 @@
 ```json
 {
-"message": "i swear to fucking god",
-"reason": "The text contains strong profanity ('fucking') which is likely to be considered toxic.",
-"predicted": "toxic"
+  "message": "i swear to fucking god",
+  "reason": "Toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "i swear to fucking god" contains offensive language and is considered toxic.

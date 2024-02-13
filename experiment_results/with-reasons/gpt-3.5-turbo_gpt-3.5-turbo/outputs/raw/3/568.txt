@@ -1,7 +1,9 @@
 ```json
 {
 "message": "11649 times KEKW",
-"reason": "The message does not contain any offensive or harmful language. It is simply a repetition of the phrase 'KEKW' 11649 times. This repetition does not contribute to a toxic or harmful conversation.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "11649 times KEKW" does not contain any offensive or harmful language. It appears to be a statement or a count related to the term "KEKW," which is an emote used in Twitch chat to express laughter. Therefore, the message can be classified as "clean."

@@ -1,6 +1,6 @@
 {
   "message": "fuck that",
-  "reason": "The predicted category is 'toxic' because the text contains a profanity ('fuck'). The model has likely classified it as toxic based on the presence of offensive language.",
+  "reason": "toxic language",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

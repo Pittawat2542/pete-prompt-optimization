@@ -1,6 +1,6 @@
 {
   "message": "Greetings from New Orleans",
-  "reason": "The message is classified as clean because it does not contain any toxic or offensive language. The model has predicted it as clean, and there is no evidence in the prediction result to suggest otherwise.",
+  "reason": "The message is a simple greeting and does not contain any offensive or harmful language.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

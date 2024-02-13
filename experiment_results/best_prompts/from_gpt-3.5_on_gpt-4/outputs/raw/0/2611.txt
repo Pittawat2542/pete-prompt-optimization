@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be "clean" with a 98% confidence.
-
-```json
-{
-"message": "Spoopy hamtime",
-"reason": "The model predicts the message to be clean with a 98% confidence. The message does not contain any offensive or harmful language.",
-"predicted": "clean"
-}
-```

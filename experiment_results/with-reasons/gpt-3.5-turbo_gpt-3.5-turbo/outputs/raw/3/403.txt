@@ -1,7 +1,9 @@
 ```json
 {
-"message": "what the fuck?",
-"reason": "The message contains offensive language ('fuck'), which is considered toxic.",
-"predicted": "toxic"
+  "message": "what the fuck?",
+  "reason": "Toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "what the fuck?" contains offensive language, which is considered toxic.

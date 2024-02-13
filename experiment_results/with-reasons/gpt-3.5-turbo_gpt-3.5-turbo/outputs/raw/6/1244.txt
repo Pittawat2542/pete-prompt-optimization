@@ -1,7 +1,7 @@
 ```json
 {
-"message": "white_medium_star:",
-"reason": "The message is classified as 'clean' because it consists of an emoji representation of a white medium star. The presence of an emoji does not indicate any toxic or offensive content.",
-"predicted": "clean"
+  "message": "white_medium_star:",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

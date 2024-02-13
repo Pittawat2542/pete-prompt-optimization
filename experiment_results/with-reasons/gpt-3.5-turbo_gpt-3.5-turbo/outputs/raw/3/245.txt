@@ -1,7 +1,9 @@
 ```json
 {
 "message": "oh fuck i got one of those omnistone bards in my ranked game",
-"reason": "The message contains profanity ('fuck'), which is considered toxic language.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message is classified as "toxic" because it contains offensive language ("fuck") and expresses frustration towards a teammate ("got one of those omnistone bards"). The use of profanity and negative tone indicates a toxic attitude.

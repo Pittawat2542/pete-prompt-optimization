@@ -1,7 +1,7 @@
 ```json
 {
-"message": "doooooo it",
-"reason": "The message does not contain any offensive or harmful language. It is a simple and harmless encouragement to do something.",
-"predicted": "clean"
+  "message": "doooooo it",
+  "reason": "The message contains repetitive characters and lacks context, making it difficult to determine the intent. It could be interpreted as encouraging someone to do something or as a harmless expression of excitement.",
+  "predicted": "clean"
 }
 ```

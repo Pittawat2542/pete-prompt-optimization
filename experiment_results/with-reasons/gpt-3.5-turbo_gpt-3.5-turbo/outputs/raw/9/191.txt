@@ -1,7 +1,7 @@
 ```json
 {
-"message": "> Yo Riot wtf \n fuck brand he always deals the most damage for some reason EVERY GANE",
-"reason": "The message contains offensive language and negative sentiment towards a specific person (Brand). It also expresses frustration and anger.",
-"predicted": "toxic"
+  "message": "> Yo Riot wtf \n fuck brand he always deals the most damage for some reason EVERY GANE",
+  "reason": "The message contains offensive language and disrespectful content, making it toxic.",
+  "predicted": "toxic"
 }
 ```

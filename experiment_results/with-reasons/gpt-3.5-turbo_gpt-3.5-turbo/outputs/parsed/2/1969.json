@@ -1,7 +1,7 @@
 {
   "message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
-  "reason": "The message contains the phrase 'being bad is now my brand', which suggests a negative or toxic attitude. This indicates that the message falls into the 'toxic' category.",
-  "predicted": "toxic",
+  "reason": "The message does not contain offensive language and does not express negativity. It simply states a personal decision to embrace a certain identity.",
+  "predicted": "clean",
   "prompt_version": 2,
   "label": "clean",
   "model": "gpt-3.5-turbo"

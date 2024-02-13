@@ -1,7 +1,0 @@
-```json
-{
-"message": "I suck so bad loool",
-"reason": "The message contains self-deprecating humor, but it does not contain any offensive or harmful content. It does not attack, insult, or harm any individual or group.",
-"predicted": "clean"
-}
-```

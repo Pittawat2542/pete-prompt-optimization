@@ -1,7 +1,7 @@
 ```json
 {
   "message": "!hype",
-  "reason": "The message '!hype' is classified as 'clean' because it does not contain any offensive or harmful language. The word 'hype' is commonly used to express excitement or enthusiasm, and it does not appear to be intended to insult or harm anyone.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean"
 }
 ```

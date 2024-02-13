@@ -1,7 +1,5 @@
-```json
 {
 "message": "wtf is this nice @Grizz shit",
-"reason": "The message contains offensive language ('wtf' and 'shit') and a mention of a user (@Grizz).",
+"reason": "The message contains offensive language (wtf) and derogatory slang (shit).",
 "predicted": "toxic"
 }
-```

@@ -1,7 +1,9 @@
 ```json
 {
-"message": "Fuck up a turret dive as graves and went afk",
-"reason": "The message contains offensive language ('Fuck') which is considered toxic.",
-"predicted": "toxic"
+  "message": "Fuck up a turret dive as graves and went afk",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message contains offensive language ("Fuck") and indicates a negative behavior ("went afk"), which suggests a toxic category.

@@ -1,7 +1,9 @@
 ```json
 {
-"message": "HOLY SHIT karthus busted KEKW",
-"reason": "The message contains profanity ('HOLY SHIT') which is considered toxic.",
-"predicted": "toxic"
+  "message": "HOLY SHIT karthus busted KEKW",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message is classified as "toxic" because it contains offensive language ("HOLY SHIT") and an offensive slang term ("KEKW").

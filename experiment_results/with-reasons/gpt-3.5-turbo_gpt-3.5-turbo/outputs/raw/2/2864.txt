@@ -1,7 +1,5 @@
-```json
 {
 "message": "oh shit my boy is bigtime",
-"reason": "The message contains profanity ('shit') which is considered toxic language.",
-"predicted": "toxic"
+"reason": "The message contains mild profanity, but it is not offensive or derogatory. It expresses excitement and positivity.",
+"predicted": "clean"
 }
-```

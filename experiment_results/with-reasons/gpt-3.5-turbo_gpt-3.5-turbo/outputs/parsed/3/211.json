@@ -1,6 +1,6 @@
 {
   "message": "70 mana for that shit",
-  "reason": "The text contains a profanity ('shit'), which is likely to be considered toxic.",
+  "reason": "The message contains offensive language ('shit') which is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

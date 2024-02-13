@@ -1,7 +1,5 @@
-```json
 {
 "message": "Who put me on the RNG shit list?",
-"reason": "The message contains offensive language ('shit') which classifies it as toxic.",
+"reason": "The message contains offensive language.",
 "predicted": "toxic"
 }
-```

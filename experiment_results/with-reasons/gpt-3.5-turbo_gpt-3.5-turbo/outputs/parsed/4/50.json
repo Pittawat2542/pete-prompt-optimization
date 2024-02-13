@@ -1,6 +1,6 @@
 {
   "message": "It's like lol bitch you thought",
-  "reason": "The message contains offensive language ('bitch') which is likely to be classified as toxic.",
+  "reason": "The message contains offensive language ('bitch') and a derogatory term ('lol bitch').",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "clean",

@@ -1,7 +1,7 @@
 ```json
 {
 "message": "LUL LUL LUL LUL LUL LUL LUL LUL",
-"reason": "The message consists of repeated instances of the word 'LUL'. This repetitive pattern is often associated with spam or trolling behavior, which can be considered toxic in an online community.",
-"predicted": "toxic"
+"reason": "The message consists of repeated laughter, which is commonly used in online communities to express amusement or humor. It does not contain any offensive or harmful language.",
+"predicted": "clean"
 }
 ```

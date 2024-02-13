@@ -1,7 +1,9 @@
 ```json
 {
 "message": "I can translate for ya if u want",
-"reason": "The message is clean because it does not contain any offensive or harmful language. The predicted category is consistent with the prediction result, which shows that the text has a low toxicity score of 0.001.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "I can translate for ya if u want" is classified as "clean" because it does not contain any offensive or harmful language. It is a simple offer to help with translation.

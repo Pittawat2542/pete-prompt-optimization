@@ -1,6 +1,6 @@
 {
   "message": "shit is so cringe and over done",
-  "reason": "The message contains offensive language ('shit') which is considered toxic.",
+  "reason": "The message contains offensive language ('shit') and negative sentiment ('cringe' and 'over done'), which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 9,
   "label": "clean",

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Taking a shit ehun ehun ehun ehun",
-"reason": "The message contains vulgar language ('shit') which is considered toxic. The repetition of 'ehun' does not provide any additional context to change the classification.",
-"predicted": "toxic"
+  "message": "Taking a shit ehun ehun ehun ehun",
+  "reason": "The message contains vulgar language and refers to a bodily function in a disrespectful manner. It is considered toxic and offensive.",
+  "predicted": "toxic"
 }
 ```

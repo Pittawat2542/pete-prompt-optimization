@@ -1,9 +1,0 @@
-Prediction result: The model predicts this message as "clean" with a 98% probability.
-
-```json
-{
-"message": "My mains were  magic exo and the brawler",
-"reason": "The message is discussing video game characters, with no offensive or harmful language used. The model prediction also strongly supports this classification.",
-"predicted": "clean"
-}
-```

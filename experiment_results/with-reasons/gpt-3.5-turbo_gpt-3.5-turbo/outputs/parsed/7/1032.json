@@ -1,6 +1,6 @@
 {
   "message": "Like Hell Do I Care.",
-  "reason": "The message contains strong language and a negative sentiment, indicating a toxic tone.",
+  "reason": "The message contains offensive language, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 7,
   "label": "toxic",

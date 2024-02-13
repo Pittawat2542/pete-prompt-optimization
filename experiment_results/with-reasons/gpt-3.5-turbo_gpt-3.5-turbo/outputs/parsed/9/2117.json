@@ -1,6 +1,6 @@
 {
   "message": "@mfyntz tgl5Head",
-  "reason": "The message contains a username mention and a combination of letters and numbers. It does not contain any offensive or harmful language.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",

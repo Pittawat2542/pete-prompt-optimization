@@ -1,6 +1,6 @@
 {
   "message": "And my friend had to fucking choose tahm kench",
-  "reason": "The text contains offensive language ('fucking') which indicates a toxic tone.",
+  "reason": "The message contains offensive language ('fucking') which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

@@ -1,6 +1,6 @@
 {
   "message": "this game is annoying as fuck",
-  "reason": "The message contains offensive language ('fuck') which is considered toxic.",
+  "reason": "The message contains offensive language ('fuck') which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

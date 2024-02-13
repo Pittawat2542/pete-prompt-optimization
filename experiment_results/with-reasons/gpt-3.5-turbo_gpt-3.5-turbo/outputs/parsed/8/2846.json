@@ -1,6 +1,6 @@
 {
   "message": "the hell was that",
-  "reason": "The text contains strong language ('hell'), which is often associated with toxic behavior.",
+  "reason": "The message contains offensive language, specifically the word 'hell', which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

@@ -1,7 +1,0 @@
-```json
-{
-"message": "it was the evelynn game, he even stole my fucking champ",
-"reason": "The message contains a swear word which is considered as offensive language, hence it is classified as toxic.",
-"predicted": "toxic"
-}
-```

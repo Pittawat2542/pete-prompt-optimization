@@ -1,7 +1,5 @@
-```json
 {
 "message": "I dislike games where I carry and my team feeds ;/",
-"reason": "The message expresses a negative sentiment towards games where the person has to carry the team while their teammates perform poorly (feed). This negative sentiment indicates a frustration or dissatisfaction, which can be classified as toxic.",
-"predicted": "toxic"
+"reason": "The message expresses frustration and disappointment with the gameplay experience.",
+"predicted": "clean"
 }
-```

@@ -1,8 +1,0 @@
-{
-  "message": "@hf_spinach happy thursday!!",
-  "reason": "The message is a friendly greeting, wishing another user a happy day. The model predicts this message to be non-toxic with a 98% probability.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

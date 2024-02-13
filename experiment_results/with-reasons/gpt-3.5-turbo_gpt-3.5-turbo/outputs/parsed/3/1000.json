@@ -1,6 +1,6 @@
 {
   "message": "this suck",
-  "reason": "The text contains a negative sentiment and uses informal language ('suck'). This indicates a negative tone and can be classified as toxic.",
+  "reason": "Toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

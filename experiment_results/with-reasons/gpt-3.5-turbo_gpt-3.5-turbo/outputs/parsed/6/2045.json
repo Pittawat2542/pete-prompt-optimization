@@ -1,6 +1,6 @@
 {
   "message": "noice team work forsenCD",
-  "reason": "The message is classified as 'clean' because it contains positive language ('noice', 'team work') and does not exhibit any toxic or offensive content.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 6,
   "label": "clean",

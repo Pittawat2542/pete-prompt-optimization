@@ -1,7 +1,7 @@
 ```json
 {
-"message": "asia sever is many china player..",
-"reason": "The message contains grammatical errors and lacks proper punctuation. It also appears to make a generalization about Chinese players in the Asia server. This could be seen as a negative stereotype and potentially offensive to some individuals.",
-"predicted": "toxic"
+  "message": "asia sever is many china player..",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

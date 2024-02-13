@@ -1,6 +1,6 @@
 {
   "message": "you need to say niu bi instead of number one",
-  "reason": "The message does not contain any offensive or harmful language. It is a suggestion or recommendation to use a different phrase. Therefore, it can be classified as 'clean'.",
+  "reason": "The message contains a suggestion or recommendation to use a different phrase ('niu bi') instead of the original phrase ('number one'). This does not appear to be offensive or harmful, but rather a suggestion for using a different expression.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

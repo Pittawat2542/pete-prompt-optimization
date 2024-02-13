@@ -1,7 +1,5 @@
-```json
 {
 "message": "doooooo it",
-"reason": "The message does not contain any offensive or harmful language. It is a simple encouragement to do something.",
+"reason": "The message does not contain offensive language or derogatory content. It is a simple phrase that does not convey any negativity.",
 "predicted": "clean"
 }
-```

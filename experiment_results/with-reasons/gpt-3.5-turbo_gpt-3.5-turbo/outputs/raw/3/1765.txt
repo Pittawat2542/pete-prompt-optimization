@@ -1,7 +1,9 @@
 ```json
 {
 "message": "@melihozkiremitci danucdHi danucdHi",
-"reason": "The message does not contain any offensive or harmful language. It is a simple greeting or interaction between users.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "@melihozkiremitci danucdHi danucdHi" does not contain any offensive or harmful language. It appears to be a simple greeting or interaction between users. Therefore, it can be classified as "clean".

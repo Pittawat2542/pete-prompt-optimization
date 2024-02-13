@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be non-toxic with a 90% probability.
-
-```json
-{
-"message": "Fuck, I just died by the twitch.",
-"reason": "Despite the use of a profanity, the model predicts the message to be non-toxic with a 90% probability. The message seems to be a casual, albeit frustrated, comment about a gaming experience, rather than an attempt to insult or harm others.",
-"predicted": "clean"
-}
-```

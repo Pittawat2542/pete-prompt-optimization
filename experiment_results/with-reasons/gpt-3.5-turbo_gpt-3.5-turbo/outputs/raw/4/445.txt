@@ -1,7 +1,7 @@
 ```json
 {
-"message": "> fuck off",
-"reason": "The message contains offensive language, specifically the phrase 'fuck off', which is considered toxic and disrespectful.",
-"predicted": "toxic"
+  "message": "> fuck off",
+  "reason": "The message contains offensive language, specifically the phrase 'fuck off', which is considered disrespectful and aggressive.",
+  "predicted": "toxic"
 }
 ```

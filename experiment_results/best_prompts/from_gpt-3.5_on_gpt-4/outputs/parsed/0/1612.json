@@ -1,8 +1,0 @@
-{
-  "message": "danucdNo Fattttttiiiiiiiiiiiiiiiiiiiiiiii",
-  "reason": "The model predicts the message as non-toxic with a high confidence of 98%. The message seems to be a playful or exaggerated expression, not intended to harm or offend.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

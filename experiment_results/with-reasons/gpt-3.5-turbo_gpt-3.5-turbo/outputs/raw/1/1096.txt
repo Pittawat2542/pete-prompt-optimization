@@ -1,7 +1,7 @@
 ```json
 {
   "message": "Meebot is shit",
-  "reason": "The message contains a derogatory term and expresses a negative sentiment towards Meebot. The use of the word 'shit' is offensive and disrespectful.",
+  "reason": "The message contains a derogatory term and is disrespectful towards Meebot. It can be considered toxic.",
   "predicted": "toxic"
 }
 ```

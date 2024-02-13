@@ -1,6 +1,6 @@
 {
   "message": "Hell nahh",
-  "reason": "The message contains a negative sentiment and uses informal language. It is likely to be classified as toxic.",
+  "reason": "The message contains offensive language, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 7,
   "label": "toxic",

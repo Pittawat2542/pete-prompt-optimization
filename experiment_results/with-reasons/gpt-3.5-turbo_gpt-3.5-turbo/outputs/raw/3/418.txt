@@ -1,7 +1,9 @@
 ```json
 {
-"message": "HOLY FUCKING",
-"reason": "The text contains strong profanity, which is likely to be classified as toxic.",
-"predicted": "toxic"
+  "message": "HOLY FUCKING",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "HOLY FUCKING" is classified as toxic because it contains offensive language. The use of profanity indicates a disrespectful and aggressive tone, which is characteristic of toxic behavior.

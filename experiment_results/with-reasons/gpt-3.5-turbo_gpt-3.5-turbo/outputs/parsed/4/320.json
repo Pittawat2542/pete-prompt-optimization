@@ -1,6 +1,6 @@
 {
   "message": "bruh what the fuck is this match making",
-  "reason": "The message contains offensive language ('fuck') which indicates toxicity.",
+  "reason": "The message contains offensive language ('fuck') which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

@@ -1,6 +1,6 @@
 {
   "message": "gg",
-  "reason": "The message 'gg' is commonly used in online gaming communities as a short form of 'good game' to express sportsmanship and respect towards opponents. It is a positive and friendly message, indicating that the game was enjoyable. Therefore, the message can be classified as clean.",
+  "reason": "The message 'gg' is commonly used in online gaming communities as a short form of 'good game'. It is a positive and sportsmanlike way to acknowledge the end of a game. Therefore, the message can be classified as 'clean'.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "clean",

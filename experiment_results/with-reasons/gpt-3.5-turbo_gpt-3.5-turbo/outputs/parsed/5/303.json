@@ -1,6 +1,6 @@
 {
   "message": "fuck this team",
-  "reason": "The message contains explicit language and is derogatory towards the team. This indicates a toxic category.",
+  "reason": "The message contains a profanity and expresses frustration towards the team. It is considered toxic and offensive.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

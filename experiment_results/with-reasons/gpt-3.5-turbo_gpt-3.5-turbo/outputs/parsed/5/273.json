@@ -1,6 +1,6 @@
 {
   "message": "Don't fuck it up",
-  "reason": "The message contains offensive language, which is considered toxic.",
+  "reason": "The message contains offensive language and is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

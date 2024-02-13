@@ -1,7 +1,7 @@
 ```json
 {
 "message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
-"reason": "The message does not contain any offensive or harmful language. It is a positive comment about the user's performance in the game.",
+"reason": "The message contains a mention of a user, but the overall tone is not offensive or harmful. It seems to be a comment about the user's performance in the game.",
 "predicted": "clean"
 }
 ```

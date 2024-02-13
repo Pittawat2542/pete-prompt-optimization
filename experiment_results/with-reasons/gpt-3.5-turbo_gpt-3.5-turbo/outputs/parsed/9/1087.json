@@ -1,6 +1,6 @@
 {
   "message": "The only idiot is you.",
-  "reason": "The message contains an insult, referring to someone as an 'idiot'. This is a clear example of toxic language.",
+  "reason": "The message contains offensive language and insults, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 9,
   "label": "toxic",

@@ -1,6 +1,6 @@
 {
   "message": "gold is such a shit hole man",
-  "reason": "The message contains offensive language ('shit hole') which is derogatory and disrespectful. This indicates a toxic tone and negative sentiment.",
+  "reason": "The message contains offensive language ('shit hole') which is derogatory and disrespectful. It can be considered toxic.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

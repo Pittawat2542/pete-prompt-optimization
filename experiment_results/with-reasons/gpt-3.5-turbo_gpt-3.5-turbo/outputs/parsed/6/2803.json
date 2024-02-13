@@ -1,6 +1,6 @@
 {
   "message": "how the fuck that last bullet didn't kill you",
-  "reason": "The message contains offensive language ('fuck'), which indicates a toxic category.",
+  "reason": "The message contains offensive language, specifically the use of the word 'fuck', which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 6,
   "label": "toxic",

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Arm E D",
-"reason": "The predicted category is 'toxic' because the text contains a combination of letters that can be interpreted as an offensive term. The model likely classified it as toxic based on the presence of the letters 'A', 'r', 'm', 'E', and 'D' in a specific order.",
-"predicted": "toxic"
+  "message": "Arm E D",
+  "reason": "The message consists of three words, 'Arm', 'E', and 'D', which do not form a coherent sentence or convey any clear meaning. Therefore, it is difficult to determine the intent or context of the message.",
+  "predicted": "clean"
 }
 ```

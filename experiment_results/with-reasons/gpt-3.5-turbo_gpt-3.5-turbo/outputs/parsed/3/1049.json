@@ -1,7 +1,7 @@
 {
   "message": "hell yeaaahh",
-  "reason": "The predicted category is 'clean'. The text 'hell yeaaahh' does not contain any offensive or harmful language. It is a positive expression of excitement or enthusiasm.",
-  "predicted": "clean",
+  "reason": "toxic",
+  "predicted": "toxic",
   "prompt_version": 3,
   "label": "clean",
   "model": "gpt-3.5-turbo"

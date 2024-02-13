@@ -1,7 +1,9 @@
 ```json
 {
-"message": "smd = shake my dick?",
-"reason": "The message contains a vulgar and offensive term, 'shake my dick', which is considered toxic and inappropriate.",
-"predicted": "toxic"
+  "message": "smd = shake my dick?",
+  "reason": "Toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message is classified as "toxic" because it contains explicit and offensive language. The acronym "smd" is commonly understood as a vulgar phrase, which contributes to the toxic nature of the message.

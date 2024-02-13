@@ -1,6 +1,6 @@
 {
   "message": "rawryyLaugh @cinnova",
-  "reason": "The message does not contain any explicit toxic language or harmful content. It appears to be a simple mention or interaction between users. Therefore, it can be classified as 'clean'.",
+  "reason": "The message contains a username mention, but without any context it is difficult to determine if it is toxic or clean.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

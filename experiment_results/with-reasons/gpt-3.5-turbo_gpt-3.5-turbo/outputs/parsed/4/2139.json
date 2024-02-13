@@ -1,6 +1,6 @@
 {
   "message": "ha ha ha comms",
-  "reason": "The message is classified as 'clean' because it does not contain any offensive or harmful language. The model's prediction result also shows a high probability for the 'clean' category.",
+  "reason": "The message contains laughter and the word 'comms', which does not provide any context to determine if it is toxic or clean.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

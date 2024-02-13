@@ -1,7 +1,7 @@
 ```json
 {
-"message": "hey",
-"reason": "The message is classified as 'clean' because it is a simple greeting without any offensive or harmful content.",
-"predicted": "clean"
+  "message": "hey",
+  "reason": "The message is short and does not contain any offensive or harmful language.",
+  "predicted": "clean"
 }
 ```

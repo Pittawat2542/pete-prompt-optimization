@@ -1,6 +1,6 @@
 {
   "message": "Sooooo if u say u have a GF ur actually lying so 5head",
-  "reason": "The message contains derogatory language ('lying') and insults ('5head'), which indicates a toxic tone. The model predicted the category as 'toxic' based on these indicators.",
+  "reason": "The message contains derogatory language and insults, suggesting a toxic tone.",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "clean",

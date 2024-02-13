@@ -1,7 +1,9 @@
 ```json
 {
 "message": "centralia of the vibes",
-"reason": "The message does not contain any offensive or harmful language. It appears to be a neutral statement that does not violate any community guidelines.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "centralia of the vibes" does not contain any offensive or harmful language. It appears to be a neutral statement that does not violate any community guidelines. Therefore, it can be classified as "clean".

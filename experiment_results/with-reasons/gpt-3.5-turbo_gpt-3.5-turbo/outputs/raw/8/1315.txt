@@ -1,7 +1,7 @@
 ```json
 {
-"message": "alisaGG alisaGG alisaGG alisaGG naught14Luv naught14Luv naught14Nuts naught14Nuts naught14Nuts naught14Luv naught14Nuts naught14Luv naught14Nuts",
-"reason": "The text consists of repeated words and usernames, which does not convey any meaningful information or context. It does not contain any offensive or harmful language. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "alisaGG alisaGG alisaGG alisaGG naught14Luv naught14Luv naught14Nuts naught14Nuts naught14Nuts naught14Luv naught14Nuts naught14Luv naught14Nuts",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

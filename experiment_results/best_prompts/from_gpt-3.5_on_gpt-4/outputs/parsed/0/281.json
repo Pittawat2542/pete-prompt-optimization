@@ -1,8 +1,0 @@
-{
-  "message": "Like the fuck am i gonna do with that info.",
-  "reason": "The message contains explicit language and shows a negative attitude, which is considered as toxic behavior in an online community.",
-  "predicted": "toxic",
-  "prompt_version": 0,
-  "label": "toxic",
-  "model": "gpt-4"
-}

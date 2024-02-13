@@ -1,6 +1,6 @@
 {
   "message": "shit happens",
-  "reason": "The message 'shit happens' is classified as toxic because it contains a profanity ('shit'). The presence of profanity is often an indicator of toxic language.",
+  "reason": "The message contains a profanity and can be considered offensive. It is classified as toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

@@ -1,6 +1,6 @@
 {
   "message": "shady as hell",
-  "reason": "The message contains a negative and potentially offensive term 'hell'. This indicates a negative tone and could be considered toxic.",
+  "reason": "The message contains a negative and potentially offensive term ('hell'). Although the phrase 'shady as hell' can be interpreted as slang and not necessarily toxic, it can still be considered as inappropriate or offensive in certain contexts. Therefore, the message is classified as 'toxic'.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

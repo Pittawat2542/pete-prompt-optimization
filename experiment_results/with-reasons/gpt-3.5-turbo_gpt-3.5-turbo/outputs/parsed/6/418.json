@@ -1,6 +1,6 @@
 {
   "message": "HOLY FUCKING",
-  "reason": "The message contains offensive language, specifically the word 'FUCKING', which is considered toxic.",
+  "reason": "The message contains offensive language, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 6,
   "label": "toxic",

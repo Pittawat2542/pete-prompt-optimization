@@ -1,7 +1,6 @@
 ```json
 {
-"message": "hello and bye @melihozkiremitci",
-"reason": "The message does not contain any offensive or harmful language. It is a simple greeting and farewell message with a mention of a user. There is no indication of any toxic behavior or intent.",
-"predicted": "clean"
+  "message": "hello and bye @melihozkiremitci",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "DD",
-"reason": "The message 'DD' does not provide enough information to determine its category. It could be considered as a clean message since it does not contain any explicit toxic content, but without further context, it is difficult to make a definitive classification.",
-"predicted": "clean"
+  "message": "DD",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

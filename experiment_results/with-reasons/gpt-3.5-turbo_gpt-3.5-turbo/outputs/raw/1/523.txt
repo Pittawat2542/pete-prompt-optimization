@@ -1,7 +1,7 @@
 ```json
 {
   "message": "RT @PeterXinping: If You Want To Get Girls You Should Just Be Yourself! \n\nUnless Youâ€™re 5â€™8, No Muscles, 3000 Hours League Of Legends, Twitâ€¦",
-  "reason": "The message contains derogatory language and negative stereotypes about physical appearance and interests. It also seems to mock the idea of being oneself. These elements contribute to a toxic atmosphere.",
+  "reason": "The message contains derogatory language and negative stereotypes about physical appearance and interests. It is disrespectful and offensive.",
   "predicted": "toxic"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "hello sir how are u",
-"reason": "The text is classified as 'clean' because the model predicts a low probability of toxicity. The predicted category is based on the highest probability score, which is below the threshold for toxicity.",
-"predicted": "clean"
+  "message": "hello sir how are u",
+  "reason": "The message is polite and does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

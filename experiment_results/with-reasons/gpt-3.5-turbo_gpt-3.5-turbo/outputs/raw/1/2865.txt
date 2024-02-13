@@ -1,7 +1,7 @@
 ```json
 {
   "message": "Have you tried sleeping ass up?",
-  "reason": "The message contains inappropriate language and suggests a sexual connotation. It may be considered offensive or inappropriate in a community setting.",
+  "reason": "The message contains inappropriate language and can be considered offensive.",
   "predicted": "toxic"
 }
 ```

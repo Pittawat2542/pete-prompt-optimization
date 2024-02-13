@@ -1,7 +1,7 @@
 ```json
 {
   "message": "wtf is this nice @Grizz shit",
-  "reason": "The message contains an offensive acronym 'wtf' and a derogatory term 'shit'. Although it also includes the word 'nice', the overall tone of the message is negative and disrespectful.",
+  "reason": "The message contains offensive language ('wtf' and 'shit') and mentions a user (@Grizz) in a negative context. This indicates a toxic tone.",
   "predicted": "toxic"
 }
 ```

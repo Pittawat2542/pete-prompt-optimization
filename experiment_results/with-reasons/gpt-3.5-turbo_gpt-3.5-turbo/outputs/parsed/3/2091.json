@@ -1,6 +1,6 @@
 {
   "message": "ahhh gotcha",
-  "reason": "The predicted category is 'clean' because the text does not contain any offensive or harmful language. It is a simple expression of understanding or realization.",
+  "reason": "clean",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

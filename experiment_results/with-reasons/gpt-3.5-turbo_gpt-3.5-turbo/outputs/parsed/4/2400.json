@@ -1,6 +1,6 @@
 {
   "message": "got a song for you @ibiza",
-  "reason": "The message does not contain any offensive or harmful language, and it seems to be a friendly gesture of sharing a song with someone. Therefore, it can be classified as 'clean'.",
+  "reason": "The message contains a mention of another user, but there is no clear indication of toxicity or any offensive language. It seems to be a friendly message sharing a song.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

@@ -1,7 +1,9 @@
 ```json
 {
 "message": "emojis here suck tbh",
-"reason": "The message contains negative sentiment towards emojis, indicating a negative opinion. This aligns with the predicted category of 'toxic'.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message "emojis here suck tbh" is classified as toxic because it contains negative language ("suck") and expresses a negative sentiment towards the emojis in the online community.

@@ -1,7 +1,6 @@
 ```json
 {
-"message": "IDIOT STOP COMPLAINING LUILW",
-"reason": "The message contains offensive language ('IDIOT') and is written in all caps, which indicates aggression. This suggests that the message is toxic.",
-"predicted": "toxic"
+  "message": "IDIOT STOP COMPLAINING LUILW",
+  "reason": "The message contains offensive language and insults, which makes it toxic.",
+  "predicted": "toxic"
 }
-```

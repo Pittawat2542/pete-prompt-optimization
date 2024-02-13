@@ -1,7 +1,7 @@
 ```json
 {
   "message": "I hate my life",
-  "reason": "The message expresses a negative emotion and indicates a strong dislike towards one's own life. This can be considered as a negative and harmful statement, suggesting a toxic sentiment.",
-  "predicted": "toxic"
+  "reason": "The message expresses a negative sentiment towards the person's life, indicating a feeling of unhappiness or dissatisfaction. However, it does not contain any explicit harmful or offensive language towards others. Therefore, it can be classified as a 'clean' message.",
+  "predicted": "clean"
 }
 ```

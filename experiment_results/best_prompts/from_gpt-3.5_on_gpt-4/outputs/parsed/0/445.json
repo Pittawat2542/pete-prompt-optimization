@@ -1,8 +1,0 @@
-{
-  "message": "fuck off",
-  "reason": "The message contains explicit language and is offensive, which is a characteristic of toxic messages.",
-  "predicted": "toxic",
-  "prompt_version": 0,
-  "label": "toxic",
-  "model": "gpt-4"
-}

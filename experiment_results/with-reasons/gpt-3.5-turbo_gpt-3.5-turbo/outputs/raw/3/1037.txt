@@ -1,7 +1,7 @@
 ```json
 {
 "message": "Its my stupid earphones",
-"reason": "The text does not contain any offensive or harmful language. It is a simple statement about the speaker's earphones. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+"reason": "The message contains the word 'stupid', which is a negative term. This could be considered toxic language.",
+"predicted": "toxic"
 }
 ```

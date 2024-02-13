@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Dude tglWtf",
-"reason": "The message contains an abbreviation 'Wtf' which is commonly used as an acronym for 'What the f***'. This abbreviation is considered offensive and vulgar, indicating a toxic message.",
-"predicted": "toxic"
+  "message": "Dude tglWtf",
+  "reason": "The message contains offensive language and abbreviations that are commonly used to express frustration or anger. It is considered toxic and offensive.",
+  "predicted": "toxic"
 }
 ```

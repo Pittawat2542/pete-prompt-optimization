@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message as "toxic" with a confidence of 0.85.
-
-```json
-{
-"message": "played like shit",
-"reason": "The message contains a derogatory term which is considered as offensive language. The model predicted this message as 'toxic' with a high confidence of 0.85.",
-"predicted": "toxic"
-}
-```

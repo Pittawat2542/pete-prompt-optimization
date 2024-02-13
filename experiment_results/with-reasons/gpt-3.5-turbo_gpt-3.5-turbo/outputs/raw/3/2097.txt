@@ -1,7 +1,7 @@
 ```json
 {
 "message": "My sens is irrelevant to you, do what's comfortable for you. Copying other people's sens won't make you good at the game, we have different length arms and grips and different resistance mousepads / mouse feet - some mouse sensors are even different.",
-"reason": "The message promotes individuality and encourages the reader to do what is comfortable for them. It emphasizes that copying other people's sensitivity settings won't necessarily make someone good at the game due to various factors such as arm length, grip style, mousepads, and mouse sensors. The tone of the message is informative and respectful, providing logical reasons for why sensitivity settings may differ among individuals.",
+"reason": "The message promotes individuality and encourages the reader to do what is comfortable for them. It also emphasizes that copying others' sensitivity settings won't necessarily make someone good at the game due to various physical differences and equipment variations. The tone of the message is informative and respectful.",
 "predicted": "clean"
 }
 ```

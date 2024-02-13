@@ -1,7 +1,6 @@
 ```json
 {
-"message": "Good shit",
-"reason": "The message is classified as 'toxic' because the predicted category is 'toxic' with a high probability of 0.95. The word 'shit' is considered offensive and vulgar, which contributes to the toxic classification.",
-"predicted": "toxic"
+  "message": "Good shit",
+  "reason": "The message contains a slang term that can be interpreted as offensive or disrespectful, making it toxic.",
+  "predicted": "toxic"
 }
-```

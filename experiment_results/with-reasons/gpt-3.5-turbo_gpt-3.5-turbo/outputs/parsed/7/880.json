@@ -1,6 +1,6 @@
 {
   "message": "love how nobody gives a fuck",
-  "reason": "The message contains offensive language ('fuck') and expresses a negative sentiment ('nobody gives a fuck'). This indicates that the message is toxic.",
+  "reason": "The message contains offensive language and displays a disrespectful attitude, making it toxic.",
   "predicted": "toxic",
   "prompt_version": 7,
   "label": "toxic",

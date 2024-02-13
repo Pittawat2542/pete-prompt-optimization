@@ -1,7 +1,7 @@
 ```json
 {
-"message": "YOU'RE SO GOOD",
-"reason": "The message is positive and does not contain any offensive or harmful language. It is a compliment.",
-"predicted": "clean"
+  "message": "YOU'RE SO GOOD",
+  "reason": "The message is positive and does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

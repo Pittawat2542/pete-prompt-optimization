@@ -1,7 +1,7 @@
 ```json
 {
-"message": "what the hell??",
-"reason": "The message contains a strong profanity ('hell') which is considered toxic and offensive.",
-"predicted": "toxic"
+  "message": "what the hell??",
+  "reason": "The message contains a profanity ('hell') which is considered offensive and disrespectful.",
+  "predicted": "toxic"
 }
 ```

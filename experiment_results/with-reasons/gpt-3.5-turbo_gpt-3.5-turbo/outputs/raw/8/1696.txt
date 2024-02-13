@@ -1,7 +1,6 @@
 ```json
 {
   "message": "danucdPotato LUL",
-  "reason": "The text contains an emote 'LUL' which is commonly used to express laughter or amusement. It does not contain any offensive or harmful language, so it can be classified as 'clean'.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean"
 }
-```

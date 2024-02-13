@@ -1,7 +1,42 @@
+New Prompt:
+Classify the following "Message" from chat in an online community into one of the specified categories, "toxic" or "clean". Provide a reason for the classification in the specified JSON format. Include the prediction result, which is not present in the original prompt. Utilize this information to design a new prompt without changing the output format.
+
+Message: tgl3Head
+
+### Examples:
+
+#### Example 1:
+Message: "You are so stupid!"
+
+Output format:
+```json
+{
+"message": "You are so stupid!",
+"reason": "The message contains offensive language and is derogatory.",
+"predicted": "toxic"
+}
+```
+
+#### Example 2:
+Message: "Thanks for helping out!"
+
+Output format:
+```json
+{
+"message": "Thanks for helping out!",
+"reason": "The message expresses gratitude and positivity.",
+"predicted": "clean"
+}
+```
+
+#### Example 3:
+Message: "tgl3Head"
+
+Output format:
 ```json
 {
 "message": "tgl3Head",
-"reason": "The message 'tgl3Head' does not provide any context or content that can be classified as toxic or clean. It appears to be a random string of characters with no discernible meaning or intent.",
+"reason": "The message does not contain any offensive language or derogatory content.",
 "predicted": "clean"
 }
 ```

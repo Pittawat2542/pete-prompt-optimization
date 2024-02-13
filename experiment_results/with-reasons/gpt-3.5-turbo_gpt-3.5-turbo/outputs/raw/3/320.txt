@@ -1,7 +1,9 @@
 ```json
 {
 "message": "bruh what the fuck is this match making",
-"reason": "The message contains offensive language ('fuck') which indicates toxicity.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message contains offensive language ("fuck") which indicates a toxic tone. Therefore, it is classified as "toxic".

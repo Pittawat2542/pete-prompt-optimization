@@ -1,6 +1,6 @@
 {
   "message": "what did they do to you @Yamikazexz",
-  "reason": "The message does not contain any offensive or harmful language. It is a question directed at someone with a username mentioned using the '@' symbol. This indicates a non-toxic and clean interaction.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",

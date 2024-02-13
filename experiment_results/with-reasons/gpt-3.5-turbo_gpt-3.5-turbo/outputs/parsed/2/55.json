@@ -1,6 +1,6 @@
 {
   "message": "just dont care",
-  "reason": "The message is classified as 'clean' because it does not contain any explicit or harmful language. It is a neutral statement that does not promote any form of toxicity.",
+  "reason": "The message does not contain offensive language and does not express any negativity. It is a neutral statement.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "toxic",

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "No solo ranked in SEA DED",
-"reason": "The message does not contain any offensive or harmful language. It is a statement about the absence of a specific feature in a game. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "No solo ranked in SEA DED",
+  "reason": "The message does not contain any offensive or harmful content. It is a statement about the absence of a specific feature in a game.",
+  "predicted": "clean"
 }
 ```

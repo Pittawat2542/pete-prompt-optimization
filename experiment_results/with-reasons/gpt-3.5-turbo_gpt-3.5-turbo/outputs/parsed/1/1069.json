@@ -1,6 +1,6 @@
 {
   "message": "The hell",
-  "reason": "The message contains a mild expletive, but it is not directed towards anyone or used in a harmful or offensive manner. It is a common expression used to express surprise or disbelief. Therefore, the message can be classified as clean.",
+  "reason": "The message contains a negative expression, but it is not clear whether it is intended as a toxic comment or not. Without further context, it is difficult to determine the true intention behind the message.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "toxic",

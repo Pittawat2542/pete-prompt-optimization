@@ -1,7 +1,7 @@
 ```json
 {
   "message": "@hf_spinach happy thursday!!",
-  "reason": "The message is positive and friendly, expressing happiness and well-wishing. There is no offensive or harmful language used.",
+  "reason": "The message is positive and friendly, expressing happiness and well-wishing. There is no offensive or harmful content in the message.",
   "predicted": "clean"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
   "message": "ha ha ha",
-  "reason": "The message consists of laughter, which is generally considered a positive and harmless expression. It does not contain any offensive or harmful content.",
+  "reason": "The message consists of laughter, which is generally considered positive and harmless. It does not contain any offensive or harmful content.",
   "predicted": "clean"
 }
 ```

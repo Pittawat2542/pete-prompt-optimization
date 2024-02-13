@@ -1,7 +1,7 @@
 ```json
 {
-"message": "is G fuel good",
-"reason": "The message is classified as 'clean' because it is a simple question asking for opinions about a product. There is no offensive or harmful language used in the message.",
-"predicted": "clean"
+  "message": "is G fuel good",
+  "reason": "The message is asking for an opinion about a product, which does not contain any offensive or harmful language. It is a neutral question seeking information.",
+  "predicted": "clean"
 }
 ```

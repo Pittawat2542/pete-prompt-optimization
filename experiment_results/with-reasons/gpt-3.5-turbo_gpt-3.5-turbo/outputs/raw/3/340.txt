@@ -1,7 +1,9 @@
 ```json
 {
 "message": "fuck support yuumi",
-"reason": "The message contains offensive language ('fuck') which is considered toxic.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message "fuck support yuumi" contains offensive language ("fuck") which is considered toxic and disrespectful. Therefore, it falls under the category of "toxic".

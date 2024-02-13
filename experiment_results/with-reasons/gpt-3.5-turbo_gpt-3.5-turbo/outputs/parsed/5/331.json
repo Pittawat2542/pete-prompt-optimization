@@ -1,6 +1,6 @@
 {
   "message": "why the *fuck* do people in plat just s u c k",
-  "reason": "The message contains offensive language ('fuck') which is considered toxic. Additionally, the message expresses a negative sentiment towards people in the 'plat' category, suggesting a derogatory attitude towards a specific group of people. This negative and derogatory tone contributes to the toxicity of the message.",
+  "reason": "The message contains offensive language ('fuck') and is derogatory towards people in the 'plat' category. It is considered toxic and offensive.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

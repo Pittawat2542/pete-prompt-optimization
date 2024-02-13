@@ -1,7 +1,7 @@
 ```json
 {
-"message": "oh so jg duo means you roam and shit together?",
-"reason": "The message contains a slang term ('shit') which can be considered offensive or inappropriate. Therefore, it falls under the 'toxic' category.",
-"predicted": "toxic"
+  "message": "oh so jg duo means you roam and shit together?",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

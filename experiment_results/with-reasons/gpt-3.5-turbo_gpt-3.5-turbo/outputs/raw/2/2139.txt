@@ -1,7 +1,5 @@
-```json
 {
 "message": "ha ha ha comms",
-"reason": "The message contains laughter and the word 'comms', which is short for 'communications'. This does not appear to be offensive or harmful, so it can be classified as clean.",
+"reason": "The message consists of laughter and a common abbreviation for 'communications'. It does not contain offensive language or derogatory content.",
 "predicted": "clean"
 }
-```

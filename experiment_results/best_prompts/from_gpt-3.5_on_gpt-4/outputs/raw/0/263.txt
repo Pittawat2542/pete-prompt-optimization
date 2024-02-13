@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be toxic with a confidence of 0.85.
-
-```json
-{
-"message": "why the fuck i get the code of conduct shit every time i open league clientPromise you will be a good player?",
-"reason": "The message contains strong language and offensive words, which is considered as toxic behavior in an online community.",
-"predicted": "toxic"
-}
-```

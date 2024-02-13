@@ -1,6 +1,6 @@
 {
   "message": "STOP DOING WHAT I THINK IS SHIT STREAMER",
-  "reason": "The message contains offensive language and is disrespectful towards the streamer.",
+  "reason": "The message contains offensive language and insults towards the streamer. It is disrespectful and negative in tone.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

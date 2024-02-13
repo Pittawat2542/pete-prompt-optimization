@@ -1,9 +1,6 @@
 ```json
 {
-"message": "@SmirnofSoldier all good and you... danucdRespect danucdHi",
-"reason": "clean",
-"predicted": "clean"
+  "message": "@SmirnofSoldier all good and you... danucdRespect danucdHi",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
-```
-
-The message "@SmirnofSoldier all good and you... danucdRespect danucdHi" is classified as "clean". The reason for this classification is that the message does not contain any offensive or toxic language. The "Prediction result" section also confirms that the message is classified as "clean" with a high confidence score.

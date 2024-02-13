@@ -1,6 +1,6 @@
 {
   "message": "YAMI STOP YOU'RE GOOD",
-  "reason": "The message is classified as 'clean' because it contains positive words ('good') and does not exhibit any toxic or offensive language. The model's prediction of 'clean' is consistent with the absence of any toxic or offensive keywords in the message.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 6,
   "label": "clean",

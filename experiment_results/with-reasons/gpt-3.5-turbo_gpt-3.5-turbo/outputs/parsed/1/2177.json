@@ -1,6 +1,6 @@
 {
   "message": "@escamoli yeah",
-  "reason": "The message contains a simple agreement response 'yeah' to another user's comment. There is no offensive or harmful language used, and the message does not display any toxic behavior.",
+  "reason": "The message consists of only two words, with no context or additional information. It is difficult to determine the intent or tone of the message based on this limited content. Therefore, it is classified as 'clean'.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "clean",

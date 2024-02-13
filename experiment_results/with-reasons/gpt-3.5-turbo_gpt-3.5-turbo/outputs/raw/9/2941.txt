@@ -1,7 +1,6 @@
 ```json
 {
-"message": "wtffffffffffffff",
-"reason": "The message contains a string of repeated characters, which is often associated with expressing frustration or anger. This type of language is commonly found in toxic messages.",
-"predicted": "toxic"
+  "message": "wtffffffffffffff",
+  "reason": "The message contains a string of repeated characters, which does not display offensive, harmful, or disrespectful content. Therefore, it can be classified as clean.",
+  "predicted": "clean"
 }
-```

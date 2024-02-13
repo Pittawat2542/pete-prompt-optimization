@@ -1,6 +1,6 @@
 {
   "message": "Annoying ass dog champ",
-  "reason": "The message contains offensive language ('ass') which is considered toxic.",
+  "reason": "The message contains offensive language ('ass') and can be considered disrespectful, making it toxic.",
   "predicted": "toxic",
   "prompt_version": 9,
   "label": "toxic",

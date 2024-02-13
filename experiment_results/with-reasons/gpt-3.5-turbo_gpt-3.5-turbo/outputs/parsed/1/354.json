@@ -1,6 +1,6 @@
 {
   "message": "what the hell??",
-  "reason": "The message contains a mild profanity, but it does not seem to be directed towards anyone in particular. It could be an expression of surprise or frustration.",
+  "reason": "The message contains a mild profanity, but it does not seem to be directed towards anyone or intended to harm or offend. It is more likely an expression of surprise or frustration.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "toxic",

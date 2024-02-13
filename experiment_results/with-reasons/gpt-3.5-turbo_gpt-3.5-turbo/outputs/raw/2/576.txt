@@ -1,7 +1,5 @@
-```json
 {
 "message": "hi yamikaze do you know enthralled?",
-"reason": "The message is clean because it is a simple greeting and a question about whether the person knows someone named enthralled. There is no offensive or harmful language used.",
+"reason": "The message is a simple greeting and a question about a specific topic. It does not contain offensive language or negativity.",
 "predicted": "clean"
 }
-```

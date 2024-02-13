@@ -1,7 +1,7 @@
 ```json
 {
-"message": "What up hamily hambO7 hambO7",
-"reason": "The message contains a combination of words and characters that do not appear to be toxic or offensive. It seems to be a casual greeting or expression of excitement.",
-"predicted": "clean"
+  "message": "What up hamily hambO7 hambO7",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

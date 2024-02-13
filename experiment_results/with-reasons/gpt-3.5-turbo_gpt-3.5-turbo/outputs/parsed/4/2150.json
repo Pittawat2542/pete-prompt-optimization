@@ -1,6 +1,6 @@
 {
   "message": "rawryyLaugh NT NT",
-  "reason": "The message does not contain any offensive or harmful language. It consists of a username followed by some text that is not clear in its meaning. Without further context, it is difficult to determine the exact intention behind the message, but based on the absence of toxic language, it can be classified as clean.",
+  "reason": "The message does not contain any offensive or harmful language. It consists of a username followed by some text that does not indicate any toxic behavior.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

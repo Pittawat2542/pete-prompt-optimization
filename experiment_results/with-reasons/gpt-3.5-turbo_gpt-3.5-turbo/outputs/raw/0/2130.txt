@@ -1,7 +1,7 @@
 ```json
 {
 "message": "tgl3Head",
-"reason": "The message consists of random characters and does not convey any meaningful information.",
+"reason": "The message is not clear and does not provide enough context to determine its category.",
 "predicted": "clean"
 }
 ```

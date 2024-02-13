@@ -1,7 +1,9 @@
 ```json
 {
 "message": "what did they do to you @Yamikazexz",
-"reason": "The message does not contain any offensive or harmful language. It is a simple question asking about someone's experience or situation. Therefore, it can be classified as 'clean'.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "what did they do to you @Yamikazexz" does not contain any offensive or harmful language. It is a simple question directed at someone with a username "@Yamikazexz". Therefore, it can be classified as a "clean" message.

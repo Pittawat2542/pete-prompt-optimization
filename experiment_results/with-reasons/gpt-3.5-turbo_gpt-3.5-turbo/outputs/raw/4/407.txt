@@ -1,7 +1,7 @@
 ```json
 {
 "message": "shit is so cringe and over done",
-"reason": "The message contains profanity ('shit') which is considered toxic. Additionally, the use of the word 'cringe' suggests a negative and derogatory tone, further indicating toxicity.",
+"reason": "The message contains offensive language ('shit') and negative sentiment ('cringe' and 'over done'), which indicates a toxic tone.",
 "predicted": "toxic"
 }
 ```

@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be toxic.
-
-```json
-{
-"message": "this map is dog shit for squads. absolute dog shit",
-"reason": "The message contains strong offensive language and is disrespectful, which is indicative of a toxic message.",
-"predicted": "toxic"
-}
-```

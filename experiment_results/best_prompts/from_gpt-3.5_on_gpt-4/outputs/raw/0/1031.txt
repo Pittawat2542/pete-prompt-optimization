@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be "toxic" with a confidence of 0.65.
-
-```json
-{
-"message": "Who else hate their life?",
-"reason": "The model classified the message as toxic due to the negative sentiment and potential harm it could cause to others in the online community.",
-"predicted": "toxic"
-}
-```

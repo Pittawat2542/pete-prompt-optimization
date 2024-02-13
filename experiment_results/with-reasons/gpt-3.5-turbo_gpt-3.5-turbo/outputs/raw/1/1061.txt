@@ -1,7 +1,7 @@
 ```json
 {
   "message": "Melanie is in hell now",
-  "reason": "The message contains negative and harmful language, suggesting that something bad has happened to Melanie. The use of the word 'hell' adds a strong negative connotation to the message.",
+  "reason": "The message contains negative and potentially harmful language, suggesting harm or ill-will towards someone. It can be interpreted as toxic and offensive.",
   "predicted": "toxic"
 }
 ```

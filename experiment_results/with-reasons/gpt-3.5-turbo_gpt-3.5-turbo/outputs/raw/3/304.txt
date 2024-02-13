@@ -1,7 +1,9 @@
 ```json
 {
-"message": "fuck this mmr god why",
-"reason": "The message contains offensive language ('fuck') which is considered toxic. The user expresses frustration and anger ('why') which further indicates a negative sentiment. The model predicted the category as 'toxic' based on these indicators.",
-"predicted": "toxic"
+  "message": "fuck this mmr god why",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message contains offensive language ("fuck") which is considered toxic and disrespectful. Therefore, it is classified as "toxic".

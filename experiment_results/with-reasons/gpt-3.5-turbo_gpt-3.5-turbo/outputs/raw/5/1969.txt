@@ -1,7 +1,6 @@
 ```json
 {
-"message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
-"reason": "The message can be classified as 'clean'. Although the user mentions being bad, it is in the context of embracing it as their brand. There is no explicit toxicity or harmful intent in the message.",
-"predicted": "clean"
+  "message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
+  "reason": "The message contains the phrase 'being bad is now my brand', which suggests a negative or toxic attitude. It implies that the person is intentionally embracing negativity and promoting it as their personal identity.",
+  "predicted": "toxic"
 }
-```

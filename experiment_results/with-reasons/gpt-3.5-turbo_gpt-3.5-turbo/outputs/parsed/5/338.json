@@ -1,6 +1,6 @@
 {
   "message": "this fucking yi",
-  "reason": "The message contains a profanity ('fucking') which is considered toxic. The use of profanity can be offensive and disrespectful, creating a negative and hostile environment. Therefore, the message is classified as toxic.",
+  "reason": "The message contains offensive language ('fucking') which is considered toxic and offensive.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

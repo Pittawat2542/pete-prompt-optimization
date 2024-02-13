@@ -1,7 +1,7 @@
 ```json
 {
   "message": "JESUS CHRIST",
-  "reason": "The message contains religious references, but without any context it is difficult to determine the intent behind it. It could be seen as a respectful expression or as an offensive remark. Therefore, it is not possible to classify it as toxic or clean without more information.",
-  "predicted": "uncertain"
+  "reason": "The message consists of two words, 'JESUS' and 'CHRIST', which are commonly used in religious contexts. Without any additional context, it is difficult to determine the intent behind the message. However, since the message is written in all capital letters, it could be interpreted as an expression of surprise or shock rather than a toxic comment. Therefore, the message is classified as 'clean'.",
+  "predicted": "clean"
 }
 ```

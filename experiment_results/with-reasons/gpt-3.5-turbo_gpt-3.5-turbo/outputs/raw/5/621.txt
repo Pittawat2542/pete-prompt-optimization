@@ -1,7 +1,7 @@
 ```json
 {
-"message": "PepeLaugh",
-"reason": "The message 'PepeLaugh' does not contain any explicit toxic language or harmful content. It appears to be an emote or expression commonly used in online communities. Therefore, it can be classified as a 'clean' message.",
-"predicted": "clean"
+  "message": "PepeLaugh",
+  "reason": "The message consists of an emote commonly used in online communities to express laughter or amusement. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

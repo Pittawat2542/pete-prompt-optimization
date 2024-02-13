@@ -1,8 +1,0 @@
-{
-  "message": "hecarim is busted more",
-  "reason": "The model predicts the message to be non-toxic with a 98% probability. The message is a comment about a character in a game, which does not contain any offensive or harmful content.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

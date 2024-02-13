@@ -1,7 +1,6 @@
 ```json
 {
-"message": "JESUS CHRIST",
-"reason": "The text contains religious references, but it is not necessarily toxic or offensive. The model may have classified it as toxic due to the presence of all capital letters, which can be associated with aggression or shouting. However, in this context, it is more likely that the text is expressing surprise or astonishment.",
-"predicted": "toxic"
+  "message": "JESUS CHRIST",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```

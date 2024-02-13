@@ -1,6 +1,6 @@
 {
   "message": "gg",
-  "reason": "The message 'gg' is classified as clean. The term 'gg' is commonly used in online gaming communities as an abbreviation for 'good game' and is considered a polite way to acknowledge the end of a game. It does not contain any toxic or offensive language.",
+  "reason": "The message consists of the abbreviation 'gg', which is commonly used in online gaming to mean 'good game'. It is a positive and sportsmanlike expression, indicating that the game was enjoyable or well-played. Therefore, the message is clean and non-toxic.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

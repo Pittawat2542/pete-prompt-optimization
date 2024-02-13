@@ -1,6 +1,6 @@
 {
   "message": "daaaaam",
-  "reason": "The message consists of a single word with repeated letters, which could indicate excitement or surprise.",
+  "reason": "The message consists of repeated letters, which could indicate excitement or surprise. However, without further context, it is difficult to determine the intent behind the message.",
   "predicted": "clean",
   "prompt_version": 0,
   "label": "toxic",

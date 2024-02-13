@@ -1,7 +1,7 @@
 ```json
 {
 "message": "emojis here suck tbh",
-"reason": "The message contains negative sentiment and expresses dissatisfaction with the emojis. The model predicted the category as 'toxic' based on the presence of negative sentiment.",
-"predicted": "toxic"
+"reason": "The message contains negative language ('suck') which indicates a negative sentiment. However, it does not contain any offensive or harmful content. Therefore, it can be classified as clean.",
+"predicted": "clean"
 }
 ```

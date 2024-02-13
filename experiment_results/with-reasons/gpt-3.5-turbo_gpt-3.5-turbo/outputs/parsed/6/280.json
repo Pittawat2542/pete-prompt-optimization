@@ -1,6 +1,6 @@
 {
   "message": "HOW THE HELL IS THIS AN A",
-  "reason": "The message contains strong language and is expressing frustration. This indicates a toxic tone.",
+  "reason": "The message contains offensive language, specifically the use of profanity, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 6,
   "label": "toxic",

@@ -1,7 +1,5 @@
-```json
 {
 "message": "love how i cant win even with me playing well",
-"reason": "The message expresses frustration and disappointment despite the person playing well. This negative sentiment suggests that the message falls into the 'toxic' category.",
-"predicted": "toxic"
+"reason": "The message expresses frustration and disappointment, but does not contain offensive language or derogatory remarks.",
+"predicted": "clean"
 }
-```

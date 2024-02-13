@@ -1,7 +1,6 @@
 ```json
 {
-"message": "What up hamily hambO7 hambO7",
-"reason": "The message contains repetitive and nonsensical words ('hamily', 'hambO7') which are not commonly used in regular conversations. This suggests that the message is likely to be spam or trolling.",
-"predicted": "toxic"
+  "message": "What up hamily hambO7 hambO7",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```

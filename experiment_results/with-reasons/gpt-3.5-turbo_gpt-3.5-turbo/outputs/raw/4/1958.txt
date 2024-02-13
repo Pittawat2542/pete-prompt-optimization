@@ -1,7 +1,7 @@
 ```json
 {
 "message": "https://specs.gg/tgltn",
-"reason": "The predicted category is 'clean' because the 'toxic' probability is very low (0.001). The model has a high confidence in classifying this message as clean.",
+"reason": "The message is a URL and does not contain any text or context to determine its category.",
 "predicted": "clean"
 }
 ```

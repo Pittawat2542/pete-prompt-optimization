@@ -1,7 +1,7 @@
 {
   "message": "dont know why every game i get people like this on my team",
-  "reason": "The message does not contain any offensive or harmful language. It is expressing frustration about consistently encountering certain types of people on the team, which is a common experience in online gaming communities.",
-  "predicted": "clean",
+  "reason": "The message expresses frustration and annoyance towards the behavior of other players on the team. However, it does not contain any explicit toxic language or personal attacks.",
+  "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

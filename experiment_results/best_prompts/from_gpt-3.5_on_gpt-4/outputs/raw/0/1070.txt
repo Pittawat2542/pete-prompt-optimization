@@ -1,7 +1,0 @@
-```json
-{
-"message": "im stupid hbu?ðŸ™‡",
-"reason": "The message contains self-deprecating language, but it does not contain any offensive or harmful content towards others. Therefore, it is not considered toxic.",
-"predicted": "clean"
-}
-```

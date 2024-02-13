@@ -1,7 +1,6 @@
 ```json
 {
-"message": "@drsoils no need to be sorry, I liked it. LOL",
-"reason": "The message contains positive sentiment with the use of 'liked it' and 'LOL'. There is no indication of any toxic or offensive language.",
-"predicted": "clean"
+  "message": "@drsoils no need to be sorry, I liked it. LOL",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
-```

@@ -1,7 +1,7 @@
 ```json
 {
   "message": "danucdSaspisas danucdSASPISHAS",
-  "reason": "The message consists of random characters and does not contain any meaningful content. It does not contain any offensive or harmful language. Therefore, it can be classified as clean.",
+  "reason": "The message consists of random characters and does not convey any meaningful information. It does not contain any offensive or harmful language. Therefore, it can be classified as 'clean'.",
   "predicted": "clean"
 }
 ```

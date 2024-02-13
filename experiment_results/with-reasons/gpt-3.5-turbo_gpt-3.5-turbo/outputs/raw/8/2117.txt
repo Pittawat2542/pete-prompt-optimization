@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@mfyntz tgl5Head",
-"reason": "The text contains a username mention (@mfyntz) followed by an alphanumeric string (tgl5Head). There is no explicit toxic or offensive language present in the text.",
-"predicted": "clean"
+  "message": "@mfyntz tgl5Head",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

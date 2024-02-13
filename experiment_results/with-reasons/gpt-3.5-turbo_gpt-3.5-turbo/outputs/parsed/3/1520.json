@@ -1,6 +1,6 @@
 {
   "message": "@jrrod91, This item is on cooldown",
-  "reason": "The message does not contain any toxic or offensive language. It is a simple notification that an item is on cooldown. The absence of any toxic or offensive words or phrases indicates that the message is clean.",
+  "reason": "clean",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

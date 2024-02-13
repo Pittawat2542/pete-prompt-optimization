@@ -1,7 +1,7 @@
 ```json
 {
 "message": "YOU'RE SO GOOD",
-"reason": "The message is classified as 'clean' because it contains positive sentiment and does not exhibit any toxic or offensive language.",
+"reason": "The message is positive and complimentary, expressing admiration or praise towards someone.",
 "predicted": "clean"
 }
 ```

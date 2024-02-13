@@ -1,7 +1,6 @@
 ```json
 {
-"message": "madar bitch don't kill us",
-"reason": "The text contains offensive language ('bitch') and a violent statement ('kill us'), which indicates toxic behavior.",
-"predicted": "toxic"
+  "message": "madar bitch don't kill us",
+  "reason": "The message contains offensive language and insults, which makes it toxic.",
+  "predicted": "toxic"
 }
-```

@@ -1,6 +1,6 @@
 {
   "message": "faxGG faxGG faxGG",
-  "reason": "The message consists of repetitive and nonsensical text. It does not contain any offensive or harmful language. Therefore, it can be classified as clean.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",

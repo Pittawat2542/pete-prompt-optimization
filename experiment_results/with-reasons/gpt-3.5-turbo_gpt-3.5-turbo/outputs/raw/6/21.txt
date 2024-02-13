@@ -1,7 +1,6 @@
 ```json
 {
-"message": "dont know why every game i get people like this on my team",
-"reason": "The message expresses frustration and dissatisfaction with the behavior of other players on the team. This indicates a negative sentiment and suggests that the message may be classified as 'toxic'.",
-"predicted": "toxic"
+  "message": "dont know why every game i get people like this on my team",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```

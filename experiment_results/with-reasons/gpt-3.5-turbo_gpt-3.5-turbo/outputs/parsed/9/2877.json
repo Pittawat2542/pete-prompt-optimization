@@ -1,7 +1,7 @@
 {
   "message": "Good shit",
-  "reason": "The message contains a positive sentiment and does not appear to be offensive or harmful.",
-  "predicted": "clean",
+  "reason": "The message contains a phrase that can be interpreted as offensive or vulgar, making it toxic.",
+  "predicted": "toxic",
   "prompt_version": 9,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

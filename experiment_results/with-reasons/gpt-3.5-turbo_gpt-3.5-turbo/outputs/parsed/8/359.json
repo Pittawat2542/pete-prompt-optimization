@@ -1,6 +1,6 @@
 {
   "message": "who shit on us",
-  "reason": "The text contains offensive language, specifically the word 'shit', which is considered toxic.",
+  "reason": "The message contains offensive language and is disrespectful, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

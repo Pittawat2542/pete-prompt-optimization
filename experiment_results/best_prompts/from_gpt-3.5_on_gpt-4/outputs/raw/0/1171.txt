@@ -1,7 +1,0 @@
-```json
-{
-"message": "When is ps4 and xbox pts server finished? What date and time (uk) please? Thanks",
-"reason": "The message is asking for information in a polite manner without any offensive or harmful language.",
-"predicted": "clean"
-}
-```

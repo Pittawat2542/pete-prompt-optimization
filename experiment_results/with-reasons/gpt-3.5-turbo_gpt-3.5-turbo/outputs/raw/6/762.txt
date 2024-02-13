@@ -1,9 +1,7 @@
 ```json
 {
-"message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
-"reason": "clean",
-"predicted": "clean"
+  "message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```
-
-The message "@Yamikazexz you are getting close to 400 CS DOINB HACK" is classified as "clean". This is based on the prediction result which consistently predicts it as "clean" in all the examples provided. The message does not contain any explicit toxic or offensive language, and it appears to be a comment related to the CS (creep score) of a player in a game.

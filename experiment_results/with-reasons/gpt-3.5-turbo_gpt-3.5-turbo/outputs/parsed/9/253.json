@@ -1,6 +1,6 @@
 {
   "message": "I fucking love those videos",
-  "reason": "The message contains explicit language ('fucking') which is considered toxic.",
+  "reason": "The message contains offensive language, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 9,
   "label": "clean",

@@ -1,7 +1,7 @@
 ```json
 {
   "message": "Being memed for releasing an overpowered adc and being shit on by the whole community.Rito after a few months: â€œ Iâ€™ll fucking do it again.â€",
-  "reason": "The message contains offensive language and expresses frustration towards the community. The use of profanity and derogatory terms suggests a toxic tone.",
+  "reason": "The message contains offensive language and a negative tone towards the community. It also includes a threat of repeating the action that caused the negative reaction. These elements contribute to a toxic classification.",
   "predicted": "toxic"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "WeirdChamp",
-"reason": "The message 'WeirdChamp' is classified as toxic because it contains a derogatory term. The term 'WeirdChamp' is often used in online communities to mock or insult someone, which contributes to a toxic atmosphere.",
-"predicted": "toxic"
+  "message": "WeirdChamp",
+  "reason": "The message contains a derogatory term ('WeirdChamp') that is often used in a sarcastic or mocking manner. While it may not be explicitly offensive, it can contribute to a negative or toxic atmosphere in the online community.",
+  "predicted": "toxic"
 }
 ```

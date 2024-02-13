@@ -1,7 +1,9 @@
 ```json
 {
 "message": "Lol when adc became weak as shit I was like wtf happened did I just become ass turns out it wasnâ€™t me",
-"reason": "The message contains some profanity ('shit' and 'ass'), which indicates a toxic tone. Additionally, the use of 'wtf' (an abbreviation for 'what the fuck') adds to the toxic nature of the message.",
-"predicted": "toxic"
+"reason": "clean",
+"predicted": "clean"
 }
 ```
+
+The message does not contain any offensive or harmful language. It is a casual conversation about a game where the speaker expresses surprise and confusion about the weakness of a certain character. There is no indication of toxicity or any harmful intent. Therefore, the message can be classified as "clean".

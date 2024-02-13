@@ -1,7 +1,7 @@
 ```json
 {
-"message": "kekwwwwwwww",
-"reason": "The predicted category is 'clean' because the text does not contain any offensive or harmful language. It is a simple expression that does not violate any community guidelines.",
-"predicted": "clean"
+  "message": "kekwwwwwwww",
+  "reason": "The message 'kekwwwwwwww' does not contain any offensive or harmful language. It appears to be a harmless expression or a typo.",
+  "predicted": "clean"
 }
 ```

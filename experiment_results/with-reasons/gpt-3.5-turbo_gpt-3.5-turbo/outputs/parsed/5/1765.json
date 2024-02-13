@@ -1,6 +1,6 @@
 {
   "message": "@melihozkiremitci danucdHi danucdHi",
-  "reason": "The message does not contain any explicit toxic language or harmful content. It appears to be a simple greeting or interaction between users. Therefore, it can be classified as 'clean'.",
+  "reason": "The message contains usernames and repetitive text, but it does not contain any offensive or harmful content. It appears to be a greeting or a conversation starter.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

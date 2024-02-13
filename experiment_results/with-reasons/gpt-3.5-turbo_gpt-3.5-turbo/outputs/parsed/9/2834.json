@@ -1,6 +1,6 @@
 {
   "message": "Taking a shit ehun ehun ehun ehun",
-  "reason": "The message contains explicit language and is considered offensive and vulgar. The phrase 'Taking a shit' is a crude reference to bodily functions, which falls under the toxic category.",
+  "reason": "The message contains offensive language and is disrespectful, making it toxic.",
   "predicted": "toxic",
   "prompt_version": 9,
   "label": "toxic",

@@ -1,6 +1,6 @@
 {
   "message": "I hate my life",
-  "reason": "The predicted category is 'toxic' because the text contains negative sentiment and expresses a strong negative emotion ('hate'). This indicates that the message is likely to be toxic or harmful.",
+  "reason": "The message expresses a negative sentiment and indicates a strong feeling of hatred towards one's own life.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

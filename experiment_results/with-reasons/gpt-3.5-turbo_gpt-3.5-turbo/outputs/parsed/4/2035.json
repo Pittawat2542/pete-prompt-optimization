@@ -1,6 +1,6 @@
 {
   "message": "asia sever is many china player..",
-  "reason": "The message contains a generalization and a negative sentiment towards a specific group of people, which is China players. This negative sentiment can be considered toxic.",
+  "reason": "The message contains a generalization about a specific group of people based on their nationality, which can be considered as a form of discrimination or bias.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "clean",

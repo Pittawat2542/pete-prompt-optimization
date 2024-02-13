@@ -1,6 +1,6 @@
 {
   "message": "Nt",
-  "reason": "The message 'Nt' does not provide enough context to accurately classify it as toxic or clean. Additional information is needed to make a determination.",
+  "reason": "The message is too short and does not provide enough context to determine its meaning. It could be an abbreviation or a typo. Without further information, it is difficult to classify the message.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

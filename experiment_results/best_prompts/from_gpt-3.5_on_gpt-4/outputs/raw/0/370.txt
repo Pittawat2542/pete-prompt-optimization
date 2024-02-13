@@ -1,7 +1,0 @@
-```json
-{
-"message": "like holy shit make it stop",
-"reason": "The message contains strong language which can be considered offensive or inappropriate in a community setting.",
-"predicted": "toxic"
-}
-```

@@ -1,6 +1,6 @@
 {
   "message": "YEAH U WERE RIGHT BITCH JUST THE OTHER JUNGLER",
-  "reason": "The message contains offensive language ('bitch') which is derogatory and disrespectful. This indicates a toxic category.",
+  "reason": "The message contains offensive language and insults, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 7,
   "label": "toxic",

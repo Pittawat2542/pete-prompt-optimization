@@ -1,6 +1,6 @@
 {
   "message": "Yami has inted 11650 times KEKW",
-  "reason": "The text contains the term 'inted' which is often used in online gaming communities to refer to intentional feeding, a behavior that is considered toxic. Additionally, the number '11650' suggests a high frequency of this behavior. Therefore, the text is classified as toxic.",
+  "reason": "The message contains a derogatory term ('inted') and a large number ('11650') which could be seen as offensive or disrespectful in the context of online gaming. Therefore, it is classified as toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "clean",

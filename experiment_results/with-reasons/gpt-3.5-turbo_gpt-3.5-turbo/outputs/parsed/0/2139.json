@@ -1,6 +1,6 @@
 {
   "message": "ha ha ha comms",
-  "reason": "The message consists of repetitive laughter and a common abbreviation 'comms'.",
+  "reason": "The message contains laughter and the word 'comms', which does not indicate any toxic or offensive content.",
   "predicted": "clean",
   "prompt_version": 0,
   "label": "clean",

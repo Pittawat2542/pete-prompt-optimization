@@ -1,7 +1,5 @@
-```json
 {
 "message": "Obligatory \"fuck Udyr\"",
-"reason": "The message contains offensive language, specifically the word \"fuck\", which is considered toxic.",
+"reason": "The message contains offensive language and is derogatory.",
 "predicted": "toxic"
 }
-```

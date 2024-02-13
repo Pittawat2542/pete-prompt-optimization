@@ -1,7 +1,7 @@
 ```json
 {
-"message": "HOLY FUCKING",
-"reason": "The message contains strong profanity, which is typically considered toxic and offensive. The use of all capital letters and the intensity of the profanity suggest a negative and aggressive tone. Therefore, the message is classified as toxic.",
-"predicted": "toxic"
+  "message": "HOLY FUCKING",
+  "reason": "The message contains offensive language and is considered toxic.",
+  "predicted": "toxic"
 }
 ```

@@ -1,6 +1,6 @@
 {
   "message": "winking_face:",
-  "reason": "The message consists of only an emoji, which does not contain any explicit or offensive content. It is a harmless and neutral message.",
+  "reason": "The message consists of only an emoji, which does not contain any explicit or offensive content. Therefore, it can be classified as clean.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "clean",

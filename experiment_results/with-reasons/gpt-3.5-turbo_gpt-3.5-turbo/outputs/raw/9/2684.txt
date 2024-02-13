@@ -1,7 +1,7 @@
 ```json
 {
-"message": "!gift @shanabana",
-"reason": "The message contains the word 'gift' followed by a mention of a user. This suggests that the message is related to giving a gift to another user, which is a clean and positive interaction.",
-"predicted": "clean"
+  "message": "!gift @shanabana",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

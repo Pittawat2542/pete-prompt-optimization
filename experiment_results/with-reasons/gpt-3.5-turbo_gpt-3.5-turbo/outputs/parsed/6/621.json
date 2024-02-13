@@ -1,6 +1,6 @@
 {
   "message": "PepeLaugh",
-  "reason": "The message 'PepeLaugh' is classified as 'clean' because it does not contain any explicit or offensive language. The model has predicted it as 'clean' based on the absence of toxic elements in the text.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 6,
   "label": "clean",

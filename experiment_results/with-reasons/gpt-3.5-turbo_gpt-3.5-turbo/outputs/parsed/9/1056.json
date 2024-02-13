@@ -1,6 +1,6 @@
 {
   "message": "play this stupid shat",
-  "reason": "The message contains a derogatory term ('stupid') and a misspelled offensive word ('shat'). These elements contribute to a toxic tone in the message.",
+  "reason": "The message contains offensive language ('stupid') and is disrespectful, making it toxic.",
   "predicted": "toxic",
   "prompt_version": 9,
   "label": "toxic",

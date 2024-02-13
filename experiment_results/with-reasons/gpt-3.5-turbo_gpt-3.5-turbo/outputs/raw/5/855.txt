@@ -1,7 +1,7 @@
 ```json
 {
-"message": "osu? woow",
-"reason": "The message 'osu? woow' does not contain any offensive or toxic language. It appears to be a harmless expression of surprise or excitement. The predicted category is 'clean'.",
-"predicted": "clean"
+  "message": "osu? woow",
+  "reason": "The message contains a question about 'osu' and an exclamation of excitement. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

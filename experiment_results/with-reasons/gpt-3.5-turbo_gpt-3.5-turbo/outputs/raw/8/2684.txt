@@ -1,7 +1,7 @@
 ```json
 {
-"message": "!gift @shanabana",
-"reason": "The text does not contain any toxic or offensive language. It is a simple command to gift something to the user @shanabana.",
-"predicted": "clean"
+  "message": "!gift @shanabana",
+  "reason": "The message contains a command to gift someone, which does not display offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

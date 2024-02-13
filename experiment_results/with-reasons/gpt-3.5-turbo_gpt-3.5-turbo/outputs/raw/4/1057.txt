@@ -1,7 +1,9 @@
 ```json
 {
 "message": "Like what the hell is this",
-"reason": "The message contains a profanity ('hell'), which is considered toxic language.",
+"reason": "Toxic",
 "predicted": "toxic"
 }
 ```
+
+The message "Like what the hell is this" is classified as toxic because it contains offensive language ("hell").

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "chocotGotem chocotGotem chocotGotem",
-"reason": "The message does not contain any explicit toxic language or harmful content. It appears to be a repetitive phrase or username. Therefore, it can be classified as clean.",
-"predicted": "clean"
+  "message": "chocotGotem chocotGotem chocotGotem",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

@@ -1,6 +1,6 @@
 {
   "message": "too E Z",
-  "reason": "The message 'too E Z' is classified as toxic. The term 'E Z' is commonly used in online gaming communities as a derogatory term to belittle or mock other players. This indicates a negative and disrespectful tone, which is characteristic of toxic behavior.",
+  "reason": "The message contains a derogatory term and is using internet slang to mock or belittle someone. It is considered toxic and offensive.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "clean",

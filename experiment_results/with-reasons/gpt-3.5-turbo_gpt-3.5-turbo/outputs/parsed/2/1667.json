@@ -1,6 +1,6 @@
 {
   "message": "MsRoselyn nairidHerz nairidHerz danucdHi parunaHi",
-  "reason": "clean",
+  "reason": "The message consists of usernames and greetings, but does not contain any offensive or toxic language.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "clean",

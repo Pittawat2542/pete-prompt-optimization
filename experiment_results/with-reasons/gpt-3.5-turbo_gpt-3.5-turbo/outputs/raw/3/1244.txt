@@ -1,7 +1,7 @@
 ```json
 {
 "message": "white_medium_star:",
-"reason": "The message does not contain any text or meaningful content. It appears to be a non-toxic or clean message.",
+"reason": "The message consists of an emoji code 'white_medium_star' followed by a control character. It does not contain any text or context that can be classified as toxic or clean.",
 "predicted": "clean"
 }
 ```

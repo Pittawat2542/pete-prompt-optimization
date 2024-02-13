@@ -1,7 +1,7 @@
 ```json
 {
 "message": "dizzy_face:",
-"reason": "The message consists of an emoji only, which does not convey any toxic or offensive content.",
+"reason": "The message consists of an emoji representing a dizzy face.",
 "predicted": "clean"
 }
 ```

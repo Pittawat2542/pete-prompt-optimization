@@ -1,6 +1,6 @@
 {
   "message": "danucdNo Fattttttiiiiiiiiiiiiiiiiiiiiiiii",
-  "reason": "The message contains derogatory language and insults, with elongated letters and repeated characters. This indicates a toxic and offensive tone.",
+  "reason": "The message contains offensive language and body shaming, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 7,
   "label": "clean",

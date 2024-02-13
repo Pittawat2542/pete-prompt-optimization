@@ -1,7 +1,6 @@
 ```json
 {
-"message": "what the hell??",
-"reason": "The message contains a strong exclamation and potentially offensive language ('hell'). This indicates a negative sentiment and suggests that the message is toxic.",
-"predicted": "toxic"
+  "message": "what the hell??",
+  "reason": "The message contains offensive language, specifically the use of the word 'hell', which makes it toxic.",
+  "predicted": "toxic"
 }
-```

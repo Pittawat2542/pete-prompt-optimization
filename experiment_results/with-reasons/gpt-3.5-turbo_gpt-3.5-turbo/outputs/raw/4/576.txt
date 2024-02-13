@@ -1,7 +1,7 @@
 ```json
 {
 "message": "hi yamikaze do you know enthralled?",
-"reason": "The message is classified as clean because it does not contain any toxic or offensive language. The model has predicted it as clean with a high confidence score of 0.99.",
+"reason": "The message is clean because it is a simple greeting and a question about whether the person knows someone named enthralled. There is no offensive or harmful language used.",
 "predicted": "clean"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "been 2 weeks 1since i've been able to lunch with ham!",
-"reason": "The message does not contain any offensive or harmful language. It is a simple statement expressing the duration of time since the person last had lunch with ham.",
-"predicted": "clean"
+  "message": "been 2 weeks 1since i've been able to lunch with ham!",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "FUCK IT, VLAD IT IS",
-"reason": "The message contains offensive language, specifically the word 'FUCK'. This falls under the 'toxic' category.",
-"predicted": "toxic"
+  "message": "FUCK IT, VLAD IT IS",
+  "reason": "The message contains offensive language, which makes it toxic.",
+  "predicted": "toxic"
 }
 ```

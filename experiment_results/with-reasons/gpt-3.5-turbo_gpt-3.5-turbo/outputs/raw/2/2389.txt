@@ -1,7 +1,5 @@
-```json
 {
 "message": "kekwwwwwwww",
-"reason": "The message contains repetitive characters ('w') and the word 'kek', which is often used as a form of internet slang to express amusement or laughter. This type of message is typically considered harmless and does not contain any toxic or offensive content.",
+"reason": "The message does not contain offensive language or derogatory content. It appears to be a nonsensical expression.",
 "predicted": "clean"
 }
-```

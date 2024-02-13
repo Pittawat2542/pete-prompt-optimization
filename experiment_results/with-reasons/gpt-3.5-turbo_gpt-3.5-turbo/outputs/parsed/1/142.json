@@ -1,6 +1,6 @@
 {
   "message": "My mains were magic exo and the brawler",
-  "reason": "The message does not contain any offensive or harmful language. It simply mentions the user's preferred characters in a game.",
+  "reason": "The message does not contain any offensive or harmful language. It simply states the user's preferred characters in a game. Therefore, it can be classified as clean.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "clean",

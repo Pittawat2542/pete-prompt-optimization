@@ -1,7 +1,7 @@
 ```json
 {
-"message": 800,
-"reason": "The message is classified as 'clean' because the predicted category is 'clean'. However, without any context or information about the content of the message, it is difficult to provide a specific reason for this classification.",
-"predicted": "clean"
+  "message": "800",
+  "reason": "The message does not contain any context or content that can be classified as toxic or clean.",
+  "predicted": "clean"
 }
 ```

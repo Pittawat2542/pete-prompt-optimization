@@ -1,6 +1,6 @@
 {
   "message": "Fuck that champ",
-  "reason": "The message contains a profanity, which is considered toxic.",
+  "reason": "The message contains offensive language, specifically the word 'fuck', which is considered vulgar and disrespectful.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

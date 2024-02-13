@@ -1,6 +1,6 @@
 {
   "message": "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG",
-  "reason": "The message contains a combination of words that are related to gaming and positive expressions such as 'Love' and 'GG'. There are no offensive or toxic words present.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",

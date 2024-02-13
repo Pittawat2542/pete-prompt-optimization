@@ -1,7 +1,6 @@
 ```json
 {
-"message": "Yami is my best friend",
-"reason": "The message is classified as 'clean' because it does not contain any toxic or offensive language. The words used in the message are positive and indicate a friendly relationship.",
-"predicted": "clean"
+  "message": "Yami is my best friend",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
-```

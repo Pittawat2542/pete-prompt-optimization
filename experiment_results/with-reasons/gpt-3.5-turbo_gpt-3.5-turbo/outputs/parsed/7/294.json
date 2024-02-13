@@ -1,6 +1,6 @@
 {
   "message": "Im not a fucking loser",
-  "reason": "The message contains offensive language ('fucking') which is indicative of toxic behavior.",
+  "reason": "The message contains offensive language, specifically the use of the word 'fucking', which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 7,
   "label": "toxic",

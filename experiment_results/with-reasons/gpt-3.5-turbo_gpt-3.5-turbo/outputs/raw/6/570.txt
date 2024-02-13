@@ -1,7 +1,7 @@
 ```json
 {
-"message": "you W'd there because you were anticipating flash 4Head",
-"reason": "The message does not contain any offensive or harmful language. It appears to be a comment related to a gaming situation, specifically mentioning anticipating a flash move. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "you W'd there because you were anticipating flash 4Head",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

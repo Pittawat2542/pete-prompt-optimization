@@ -1,6 +1,6 @@
 {
   "message": "fuck these team mates",
-  "reason": "The text contains offensive language ('fuck') which is likely to be considered toxic.",
+  "reason": "toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

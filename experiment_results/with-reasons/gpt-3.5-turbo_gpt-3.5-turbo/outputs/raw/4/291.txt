@@ -1,7 +1,7 @@
 ```json
 {
-"message": "fuck",
-"reason": "The message contains a profanity, which is considered offensive and inappropriate. The predicted category is 'toxic' because the word 'fuck' is a strong swear word.",
-"predicted": "toxic"
+  "message": "fuck",
+  "reason": "The message contains a profanity, which is considered offensive and inappropriate.",
+  "predicted": "toxic"
 }
 ```

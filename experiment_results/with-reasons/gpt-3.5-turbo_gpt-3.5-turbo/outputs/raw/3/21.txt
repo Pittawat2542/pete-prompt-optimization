@@ -1,7 +1,7 @@
 ```json
 {
 "message": "dont know why every game i get people like this on my team",
-"reason": "The message expresses frustration and annoyance towards the people the user encounters in their games. This negative sentiment suggests that the message falls into the 'toxic' category.",
-"predicted": "toxic"
+"reason": "The message expresses frustration and annoyance towards the behavior of teammates in online games. However, it does not contain any explicit toxic language or personal attacks. It is a general complaint about the quality of teammates, which is a common sentiment in online gaming communities. Therefore, the message can be classified as 'clean'.",
+"predicted": "clean"
 }
 ```

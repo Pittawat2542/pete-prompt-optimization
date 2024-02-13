@@ -1,7 +1,7 @@
 ```json
 {
-"message": "then ezreal says shut the fuck up mutedthen they both die to the first gank of the game 10 seconds after it was warnedand then they say jungle diff",
-"reason": "The message contains offensive language ('shut the fuck up') which is a characteristic of toxic behavior. Additionally, the message includes blaming and derogatory comments ('jungle diff') towards another player, indicating a toxic attitude.",
-"predicted": "toxic"
+  "message": "then ezreal says shut the fuck up mutedthen they both die to the first gank of the game 10 seconds after it was warnedand then they say jungle diff",
+  "reason": "The message contains offensive language ('shut the fuck up') and is used to insult someone. It is considered toxic and offensive.",
+  "predicted": "toxic"
 }
 ```

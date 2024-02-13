@@ -1,7 +1,7 @@
 {
   "message": "Pepega",
-  "reason": "The message is classified as 'toxic' because it contains a term commonly used as an insult or derogatory remark in online communities.",
-  "predicted": "toxic",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean",
   "prompt_version": 7,
   "label": "clean",
   "model": "gpt-3.5-turbo"

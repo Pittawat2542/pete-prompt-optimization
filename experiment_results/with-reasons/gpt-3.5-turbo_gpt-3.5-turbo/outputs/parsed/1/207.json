@@ -1,6 +1,6 @@
 {
   "message": "FUCKING HELL",
-  "reason": "The message contains offensive language and is considered vulgar. It is an expression of frustration or anger.",
+  "reason": "The message contains offensive language.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

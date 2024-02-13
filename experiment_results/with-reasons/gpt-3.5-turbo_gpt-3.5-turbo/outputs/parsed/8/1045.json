@@ -1,6 +1,6 @@
 {
   "message": "oh crap ruby u awake ??",
-  "reason": "The text contains informal language and mild profanity ('crap'). However, it does not contain any explicit toxic or offensive content. The use of informal language alone does not necessarily make the text toxic.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 8,
   "label": "toxic",

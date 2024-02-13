@@ -1,7 +1,7 @@
 ```json
 {
   "message": "WeirdChamp",
-  "reason": "The message contains the term 'WeirdChamp', which is a popular emote used on Twitch to express disapproval or mockery. While it may not be explicitly toxic, it can be seen as disrespectful or negative in certain contexts.",
+  "reason": "The message 'WeirdChamp' is a commonly used emote in online communities, particularly on Twitch. It is used to express disapproval or mockery towards something or someone. While it may not be explicitly toxic, it can contribute to a negative or sarcastic atmosphere in a chat. Therefore, I classify this message as 'toxic'.",
   "predicted": "toxic"
 }
 ```

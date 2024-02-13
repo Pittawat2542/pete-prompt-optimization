@@ -1,7 +1,7 @@
 ```json
 {
 "message": "Have you tried sleeping ass up?",
-"reason": "The message contains inappropriate language and is likely to be considered offensive or disrespectful. The predicted category is 'toxic' based on the model's analysis.",
+"reason": "The message contains inappropriate language and can be considered offensive.",
 "predicted": "toxic"
 }
 ```

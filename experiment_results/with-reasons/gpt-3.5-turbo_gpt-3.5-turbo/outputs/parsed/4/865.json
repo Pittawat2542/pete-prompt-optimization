@@ -1,6 +1,6 @@
 {
   "message": "PLAY SOME NIGHTCORE WEEB SHIT",
-  "reason": "The message contains offensive language ('shit') which falls under the toxic category.",
+  "reason": "The message contains offensive language and derogatory terms ('weeb shit').",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

@@ -1,7 +1,7 @@
 {
   "message": "time to get some free shit",
-  "reason": "The message contains offensive language ('shit') which is indicative of toxic behavior.",
-  "predicted": "toxic",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",
   "model": "gpt-3.5-turbo"

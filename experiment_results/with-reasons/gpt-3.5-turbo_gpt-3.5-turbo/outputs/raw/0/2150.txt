@@ -1,7 +1,7 @@
 ```json
 {
 "message": "rawryyLaugh NT NT",
-"reason": "The message contains a combination of letters and abbreviations that do not make sense. It does not seem to convey any meaningful information.",
+"reason": "The message contains a combination of letters and abbreviations that do not make sense. It does not seem to have any meaningful content.",
 "predicted": "clean"
 }
 ```

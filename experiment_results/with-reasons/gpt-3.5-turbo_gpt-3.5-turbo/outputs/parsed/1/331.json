@@ -1,6 +1,6 @@
 {
   "message": "why the *fuck* do people in plat just s u c k",
-  "reason": "The message contains offensive language and insults towards other players, which indicates a toxic behavior.",
+  "reason": "The message contains offensive language and expresses a negative opinion about people in the plat (platinum) rank. It uses strong language and insults, which can be considered toxic.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

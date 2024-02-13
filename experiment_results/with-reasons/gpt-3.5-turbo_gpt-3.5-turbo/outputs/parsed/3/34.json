@@ -1,7 +1,7 @@
 {
   "message": "laners dying even with vision \u00f0\u0178\u00a4\u00a1",
-  "reason": "The message does not contain any offensive or harmful language. It is a statement about laners dying despite having vision. This does not fall into the 'toxic' category.",
-  "predicted": "clean",
+  "reason": "The message contains a negative sentiment and the use of the emoji \u00f0\u0178\u00a4\u00a1 suggests frustration or annoyance. However, it does not contain any explicit toxic language or personal attacks.",
+  "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

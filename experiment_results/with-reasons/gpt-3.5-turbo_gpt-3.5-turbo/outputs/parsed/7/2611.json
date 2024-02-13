@@ -1,6 +1,6 @@
 {
   "message": "Spoopy hamtime",
-  "reason": "The message does not contain any offensive or harmful language. It is a playful phrase that combines the words 'spoopy' and 'hamtime'. The word 'spoopy' is a playful variation of 'spooky' often used during Halloween, and 'hamtime' is likely a made-up word that adds to the playful and lighthearted tone of the message.",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 7,
   "label": "clean",

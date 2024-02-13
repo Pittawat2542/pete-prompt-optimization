@@ -1,6 +1,6 @@
 {
   "message": "how the fuck that last bullet didn't kill you",
-  "reason": "The message contains offensive language ('fuck') which is considered toxic and disrespectful. The use of such language indicates a negative and aggressive tone.",
+  "reason": "The message contains offensive language and is aggressive in nature.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

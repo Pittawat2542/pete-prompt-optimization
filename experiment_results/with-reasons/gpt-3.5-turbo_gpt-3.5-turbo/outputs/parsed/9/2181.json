@@ -1,6 +1,6 @@
 {
   "message": "rando squad?",
-  "reason": "The message is a short phrase that does not contain any offensive or harmful language. It is a simple question asking if anyone wants to form a random squad. There is no indication of toxicity or any harmful intent.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",

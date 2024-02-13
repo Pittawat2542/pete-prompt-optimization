@@ -1,6 +1,6 @@
 {
   "message": "They suck",
-  "reason": "The message contains a negative statement without any context or explanation. It is derogatory and disrespectful.",
+  "reason": "The message contains a negative statement about someone or something without providing any specific context or constructive criticism. It can be seen as derogatory and disrespectful.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "fuck that champion and his entire bullshit kit",
-"reason": "The text contains offensive language ('fuck') and expresses strong negative sentiment towards the champion and their abilities ('bullshit kit'). This indicates a toxic classification.",
-"predicted": "toxic"
+  "message": "fuck that champion and his entire bullshit kit",
+  "reason": "The message contains offensive language and displays disrespect towards the champion and their abilities, making it toxic.",
+  "predicted": "toxic"
 }
 ```

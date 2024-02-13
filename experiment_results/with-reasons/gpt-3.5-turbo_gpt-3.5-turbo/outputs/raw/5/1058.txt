@@ -1,7 +1,7 @@
 ```json
 {
-"message": "I hate my life",
-"reason": "The message 'I hate my life' expresses negative emotions and indicates a feeling of dissatisfaction or unhappiness. This can be classified as a toxic message because it reflects a negative and harmful mindset.",
-"predicted": "toxic"
+  "message": "I hate my life",
+  "reason": "The message expresses a negative emotion and indicates a strong dislike towards one's own life. It may be considered as a negative and toxic statement.",
+  "predicted": "toxic"
 }
 ```

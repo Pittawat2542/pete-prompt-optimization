@@ -1,7 +1,6 @@
 ```json
 {
-"message": "some good players",
-"reason": "The message contains positive words and does not exhibit any toxic or offensive language. It is a neutral statement about the quality of players.",
-"predicted": "clean"
+  "message": "some good players",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```

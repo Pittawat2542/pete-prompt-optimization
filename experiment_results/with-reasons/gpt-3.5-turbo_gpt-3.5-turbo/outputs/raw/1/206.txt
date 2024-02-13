@@ -1,7 +1,7 @@
 ```json
 {
   "message": "THIS GAME MIGHT AS WELL RESET MY FUCKING LP TO 0",
-  "reason": "The message contains offensive language and expresses frustration towards the game. The use of profanity suggests a negative and toxic tone.",
+  "reason": "The message contains offensive language.",
   "predicted": "toxic"
 }
 ```

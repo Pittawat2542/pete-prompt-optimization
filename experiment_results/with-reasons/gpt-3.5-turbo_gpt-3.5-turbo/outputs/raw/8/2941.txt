@@ -1,7 +1,7 @@
 ```json
 {
-"message": "wtffffffffffffff",
-"reason": "The text contains a string of repeated characters, which is often associated with frustration or anger. This could be interpreted as a form of toxic behavior.",
-"predicted": "toxic"
+  "message": "wtffffffffffffff",
+  "reason": "The message contains a string of repeated characters, which does not display offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

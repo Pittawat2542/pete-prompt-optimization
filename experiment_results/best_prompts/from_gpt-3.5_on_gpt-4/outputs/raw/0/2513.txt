@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be non-toxic with a 99% probability.
-
-```json
-{
-"message": "winking_face:",
-"reason": "The message contains a simple emoticon and does not contain any offensive or harmful language. The model predicts this message to be non-toxic with a 99% probability.",
-"predicted": "clean"
-}
-```

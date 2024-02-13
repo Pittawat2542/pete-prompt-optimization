@@ -1,6 +1,6 @@
 {
   "message": "danucdChair",
-  "reason": "The message 'danucdChair' does not contain any explicit or offensive language. It appears to be a combination of a username 'danucd' and the word 'Chair'. Without any context, it is difficult to determine the intent or meaning behind this message. Therefore, it can be classified as a clean message.",
+  "reason": "The message 'danucdChair' does not contain any explicit or offensive language. It appears to be a combination of two words, 'danucd' and 'Chair', which do not provide any context or meaning. Therefore, the message can be classified as 'clean'.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "clean",

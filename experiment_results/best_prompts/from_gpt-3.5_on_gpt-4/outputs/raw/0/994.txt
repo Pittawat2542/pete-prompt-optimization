@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be "clean".
-
-```json
-{
-"message": "@der_bisang he can miss it, long cd, needs grit. camille? she doesn't give a shit, spam Q for 1k true dmg YEP",
-"reason": "The message is discussing game strategies and character abilities, despite the use of strong language, it is not offensive or harmful.",
-"predicted": "clean"
-}
-```

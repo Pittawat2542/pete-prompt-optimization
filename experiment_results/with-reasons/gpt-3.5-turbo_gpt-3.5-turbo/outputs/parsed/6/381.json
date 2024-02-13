@@ -1,6 +1,6 @@
 {
   "message": "he has 60 fucking dashes",
-  "reason": "The message contains offensive language ('fucking') which makes it toxic.",
+  "reason": "The message contains offensive language, specifically the use of the word 'fucking', which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 6,
   "label": "toxic",

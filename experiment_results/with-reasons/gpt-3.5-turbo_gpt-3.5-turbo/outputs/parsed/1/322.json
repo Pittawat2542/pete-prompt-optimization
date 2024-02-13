@@ -1,7 +1,7 @@
 {
   "message": "yes ionians are fun as fuck",
-  "reason": "The message contains profanity ('fuck'), which is considered toxic language. However, the overall tone of the message is positive and expresses enjoyment, which suggests that it is not intended to be offensive or harmful. Therefore, I classify it as clean.",
-  "predicted": "clean",
+  "reason": "The message contains profanity, which can be considered toxic.",
+  "predicted": "toxic",
   "prompt_version": 1,
   "label": "clean",
   "model": "gpt-3.5-turbo"

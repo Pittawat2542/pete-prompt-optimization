@@ -1,7 +1,7 @@
 ```json
 {
-"message": "daaaaam",
-"reason": "The message does not contain any explicit or offensive language, and it does not seem to be targeting or harassing anyone. Therefore, it can be classified as clean.",
-"predicted": "clean"
+  "message": "daaaaam",
+  "reason": "The message consists of repeated letters and an exclamation mark, which indicates excitement or surprise. However, without any additional context, it is difficult to determine the exact intention behind the message.",
+  "predicted": "clean"
 }
 ```

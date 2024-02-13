@@ -1,6 +1,6 @@
 {
   "message": "Shootin the shit smokin sum herb",
-  "reason": "The text contains informal language and mentions drug use, which is likely to be classified as toxic.",
+  "reason": "The message contains slang and references to drug use, which may be considered offensive or harmful to some people, making it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

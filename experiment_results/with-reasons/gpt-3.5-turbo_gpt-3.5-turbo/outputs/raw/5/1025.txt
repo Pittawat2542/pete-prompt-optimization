@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Who put me on the RNG shit list?",
-"reason": "The message can be classified as toxic because it contains offensive language ('shit'). The use of offensive language is often considered toxic behavior in online communities.",
-"predicted": "toxic"
+  "message": "Who put me on the RNG shit list?",
+  "reason": "The message contains offensive language ('shit') and is directed towards someone in a negative manner. It is considered toxic and offensive.",
+  "predicted": "toxic"
 }
 ```

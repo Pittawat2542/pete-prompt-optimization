@@ -1,7 +1,7 @@
 ```json
 {
   "message": "and tell you that kayle is ugly and stupid and is a loser",
-  "reason": "The message contains derogatory language and insults towards someone, calling them ugly, stupid, and a loser. This kind of language is offensive and disrespectful.",
+  "reason": "The message contains derogatory language and insults towards a specific person, which is considered toxic behavior.",
   "predicted": "toxic"
 }
 ```

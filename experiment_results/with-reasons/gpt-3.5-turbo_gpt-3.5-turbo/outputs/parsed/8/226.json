@@ -1,6 +1,6 @@
 {
   "message": "which is dumb as fuck lmao",
-  "reason": "The text contains offensive language ('dumb as fuck') and a derogatory term ('lmao'), which indicates a toxic tone.",
+  "reason": "The message contains offensive language, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

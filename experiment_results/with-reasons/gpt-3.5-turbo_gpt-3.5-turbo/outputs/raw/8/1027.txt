@@ -1,7 +1,7 @@
 ```json
 {
-"message": "why did pubg add this creepy shit?",
-"reason": "The text contains a negative sentiment and uses offensive language ('creepy shit'). This indicates that the text is toxic.",
-"predicted": "toxic"
+  "message": "why did pubg add this creepy shit?",
+  "reason": "The message contains offensive language and displays a disrespectful tone, making it toxic.",
+  "predicted": "toxic"
 }
 ```

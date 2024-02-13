@@ -1,7 +1,7 @@
 ```json
 {
-"message": "faxGG faxGG faxGG",
-"reason": "The message consists of repetitive text, which is a common pattern in toxic messages. Additionally, the message does not contain any meaningful content or context, further indicating that it is likely toxic.",
-"predicted": "toxic"
+  "message": "faxGG faxGG faxGG",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
 ```

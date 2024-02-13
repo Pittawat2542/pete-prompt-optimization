@@ -1,7 +1,6 @@
 ```json
 {
-"message": "It's like lol bitch you thought",
-"reason": "toxic",
-"predicted": "toxic"
+  "message": "It's like lol bitch you thought",
+  "reason": "The message contains offensive language and derogatory terms, which makes it toxic.",
+  "predicted": "toxic"
 }
-```

@@ -1,6 +1,6 @@
 {
   "message": "but they do it such a i dont give a shit way",
-  "reason": "The message contains offensive language ('i dont give a shit') which is disrespectful and derogatory. This indicates a toxic category.",
+  "reason": "The message contains offensive language ('i dont give a shit') which is considered toxic and disrespectful.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "clean",

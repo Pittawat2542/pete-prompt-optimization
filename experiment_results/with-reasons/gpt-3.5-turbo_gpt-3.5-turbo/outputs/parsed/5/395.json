@@ -1,6 +1,6 @@
 {
   "message": "fuck that",
-  "reason": "The predicted category is 'toxic'. The word 'fuck' is a strong profanity and is generally considered offensive and disrespectful. This indicates that the message contains toxic language.",
+  "reason": "The message contains a profanity and is considered offensive and toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

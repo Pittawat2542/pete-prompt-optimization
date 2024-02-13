@@ -1,6 +1,6 @@
 {
   "message": "why did pubg add this creepy shit?",
-  "reason": "The message contains profanity ('shit') which is considered toxic. Additionally, the message expresses a negative sentiment towards PUBG ('creepy shit'), which can be seen as toxic behavior in an online community.",
+  "reason": "The message contains offensive language ('creepy shit') and expresses a negative sentiment towards the game ('why did pubg add'). It can be considered toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

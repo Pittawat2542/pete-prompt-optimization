@@ -1,6 +1,6 @@
 {
   "message": "Like what the hell is this",
-  "reason": "The message contains strong language ('hell') which is considered toxic. The use of such language can contribute to a negative and hostile environment in the online community.",
+  "reason": "The message contains offensive language ('hell') and expresses frustration or confusion. It can be considered toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

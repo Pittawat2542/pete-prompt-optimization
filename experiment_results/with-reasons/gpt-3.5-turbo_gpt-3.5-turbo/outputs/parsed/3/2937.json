@@ -1,6 +1,6 @@
 {
   "message": "but it sucks that we dont have enough player to do that now @hambinooo",
-  "reason": "The message does not contain any offensive or harmful language. It expresses disappointment about not having enough players to do something. Therefore, it can be classified as 'clean'.",
+  "reason": "The message expresses disappointment and frustration, but does not contain any offensive or harmful language. It is a normal expression of dissatisfaction.",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "toxic",

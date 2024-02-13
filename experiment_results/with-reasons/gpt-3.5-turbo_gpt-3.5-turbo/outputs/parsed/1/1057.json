@@ -1,6 +1,6 @@
 {
   "message": "Like what the hell is this",
-  "reason": "The message contains offensive language ('hell') and expresses frustration ('what the hell').",
+  "reason": "The message contains offensive language ('hell') and a negative tone ('what the hell is this').",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

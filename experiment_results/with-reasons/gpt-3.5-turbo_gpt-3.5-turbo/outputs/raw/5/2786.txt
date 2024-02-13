@@ -1,7 +1,6 @@
 ```json
 {
-"message": "STOP DOING WHAT I THINK IS SHIT STREAMER",
-"reason": "The message contains offensive language ('shit') which is derogatory and disrespectful. This indicates a toxic category.",
-"predicted": "toxic"
+  "message": "STOP DOING WHAT I THINK IS SHIT STREAMER",
+  "reason": "The message contains offensive language ('shit') and is directed towards the streamer in a negative way. It is considered toxic and disrespectful.",
+  "predicted": "toxic"
 }
-```

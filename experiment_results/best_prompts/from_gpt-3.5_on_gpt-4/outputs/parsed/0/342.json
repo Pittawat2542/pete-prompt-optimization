@@ -1,8 +1,0 @@
-{
-  "message": "> who the FUCK plays asol i BAN aury sol",
-  "reason": "The message contains aggressive language and potential hostility towards other players, which is considered toxic behavior in an online community.",
-  "predicted": "toxic",
-  "prompt_version": 0,
-  "label": "toxic",
-  "model": "gpt-4"
-}

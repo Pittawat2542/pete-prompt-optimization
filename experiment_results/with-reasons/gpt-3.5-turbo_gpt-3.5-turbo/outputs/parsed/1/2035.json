@@ -1,6 +1,6 @@
 {
   "message": "asia sever is many china player..",
-  "reason": "The message contains a generalization and a negative sentiment towards Chinese players. It implies that having many Chinese players on the Asia server is a negative thing. This can be seen as toxic behavior as it promotes stereotypes and discrimination.",
+  "reason": "The message contains a generalization and a negative sentiment towards Chinese players. It implies that the presence of Chinese players on the Asia server is undesirable or problematic. This negative sentiment and generalization can be considered toxic.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "clean",

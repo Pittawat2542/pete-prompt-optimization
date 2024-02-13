@@ -1,7 +1,0 @@
-```json
-{
-"message": "dont u dare put the yuumi passive in there fuck u",
-"reason": "The message contains explicit language and aggressive tone, which is considered as toxic behavior in an online community.",
-"predicted": "toxic"
-}
-```

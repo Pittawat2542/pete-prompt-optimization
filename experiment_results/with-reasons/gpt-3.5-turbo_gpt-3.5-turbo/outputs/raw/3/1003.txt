@@ -1,7 +1,9 @@
 ```json
 {
 "message": "here I just an administrator up my ass",
-"reason": "The predicted category is 'toxic' because the text contains offensive language ('up my ass') which is likely to be considered disrespectful or vulgar. This is consistent with the prediction result that shows a high toxicity score of 0.95.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message contains offensive language and is disrespectful towards an administrator. Therefore, it is classified as "toxic".

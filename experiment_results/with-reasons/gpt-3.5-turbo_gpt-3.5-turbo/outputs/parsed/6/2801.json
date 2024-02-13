@@ -1,6 +1,6 @@
 {
   "message": "@guccixslaya cheaters suck hard tho",
-  "reason": "The message contains negative language ('suck') and expresses a negative sentiment towards cheaters. This indicates a toxic category.",
+  "reason": "The message contains offensive language and insults, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 6,
   "label": "toxic",

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "dont u dare put the yuumi passive in there fuck u",
-"reason": "The message contains offensive language ('fuck u') which indicates toxic behavior.",
-"predicted": "toxic"
+  "message": "dont u dare put the yuumi passive in there fuck u",
+  "reason": "The message contains offensive language and insults, which makes it toxic.",
+  "predicted": "toxic"
 }
 ```

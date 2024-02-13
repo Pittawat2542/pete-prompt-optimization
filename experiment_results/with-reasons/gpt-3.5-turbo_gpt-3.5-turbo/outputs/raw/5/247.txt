@@ -1,7 +1,6 @@
 ```json
 {
-"message": "> Fuck, I just died by the twitch. look at death recap",
-"reason": "The message contains offensive language ('Fuck'), which is considered toxic.",
-"predicted": "toxic"
+  "message": "> Fuck, I just died by the twitch. look at death recap",
+  "reason": "The message contains offensive language ('Fuck') which is considered toxic and inappropriate.",
+  "predicted": "toxic"
 }
-```

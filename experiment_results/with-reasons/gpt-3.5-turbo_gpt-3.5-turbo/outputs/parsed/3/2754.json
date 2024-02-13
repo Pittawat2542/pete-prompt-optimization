@@ -1,6 +1,6 @@
 {
   "message": "too E Z",
-  "reason": "The text 'too E Z' is classified as toxic because it contains a derogatory term. The model has identified the use of 'E Z' as toxic language, which is commonly used to mock or belittle others. This classification is consistent with the model's prediction result, which labels the text as toxic with a high confidence score.",
+  "reason": "The message contains a derogatory term 'E Z' which is often used to mock or belittle someone. This can be considered toxic behavior.",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "clean",

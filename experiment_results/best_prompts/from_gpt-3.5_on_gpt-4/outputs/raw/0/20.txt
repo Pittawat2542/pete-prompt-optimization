@@ -1,7 +1,0 @@
-```json
-{
-"message": "so he decided its my fault and wanted to ruin everyons game",
-"reason": "The message is expressing a personal situation without using any offensive or harmful language. It does not contain any personal attacks, threats, or inappropriate content.",
-"predicted": "clean"
-}
-```

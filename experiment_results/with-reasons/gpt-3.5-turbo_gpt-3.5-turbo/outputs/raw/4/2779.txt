@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Its a shit situation!",
-"reason": "The predicted category is 'toxic' because the phrase 'shit situation' contains a profanity ('shit') which is considered offensive and inappropriate in many contexts.",
-"predicted": "toxic"
+  "message": "Its a shit situation!",
+  "reason": "The message contains a profanity, which is considered offensive and disrespectful. The use of such language indicates a negative and toxic tone.",
+  "predicted": "toxic"
 }
 ```

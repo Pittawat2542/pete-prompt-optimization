@@ -1,6 +1,6 @@
 {
   "message": "@buttery_butt1094 YEAH shit funny af",
-  "reason": "The text contains profanity ('shit') which is likely to be classified as toxic.",
+  "reason": "The message contains offensive language ('shit') and is disrespectful, making it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

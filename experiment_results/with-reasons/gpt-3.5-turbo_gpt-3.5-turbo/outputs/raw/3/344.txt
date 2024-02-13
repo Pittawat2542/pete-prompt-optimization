@@ -1,7 +1,9 @@
 ```json
 {
 "message": "dont u dare put the yuumi passive in there fuck u",
-"reason": "The message contains offensive language ('fuck u') which indicates toxicity.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message contains offensive language and an aggressive tone, which indicates toxic behavior. Therefore, it is classified as "toxic".

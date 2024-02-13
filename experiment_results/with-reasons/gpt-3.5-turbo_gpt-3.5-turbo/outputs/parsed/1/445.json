@@ -1,6 +1,6 @@
 {
   "message": "fuck off",
-  "reason": "The message contains offensive language and is disrespectful. It is considered toxic behavior in online communities.",
+  "reason": "The message contains offensive language and is disrespectful.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "danucdPotato LUL",
-"reason": "The message is classified as clean. The word 'Potato' is not inherently toxic or offensive, and the 'LUL' at the end indicates that the message is meant to be humorous or lighthearted. Additionally, there is no mention of any harmful or offensive content in the message.",
-"predicted": "clean"
+  "message": "danucdPotato LUL",
+  "reason": "The message contains a username followed by an emote. It appears to be a harmless comment or reaction in an online community.",
+  "predicted": "clean"
 }
 ```

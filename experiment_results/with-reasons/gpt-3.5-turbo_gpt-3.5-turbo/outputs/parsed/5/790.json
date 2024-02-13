@@ -1,6 +1,6 @@
 {
   "message": "ewqawertqerqawertesaqweewtqa",
-  "reason": "The message consists of random characters and does not contain any meaningful words or phrases. It does not exhibit any toxic behavior or content. Therefore, it can be classified as clean.",
+  "reason": "The message consists of random characters and does not convey any meaningful information. It does not contain any offensive or harmful content.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

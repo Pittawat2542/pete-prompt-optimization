@@ -1,6 +1,6 @@
 {
   "message": "> who the FUCK plays asol i BAN aury sol",
-  "reason": "The message contains offensive language ('FUCK') which indicates toxicity.",
+  "reason": "The message contains offensive language and is disrespectful towards the champion Aurelion Sol.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

@@ -1,7 +1,7 @@
 {
-  "message": "white_medium_star:\u0001",
-  "reason": "The message consists of an emoji code 'white_medium_star:\u0001', which does not contain any toxic or offensive content.",
-  "predicted": "clean",
+  "message": "You are so stupid!",
+  "reason": "The message contains offensive language and is derogatory.",
+  "predicted": "toxic",
   "prompt_version": 2,
   "label": "clean",
   "model": "gpt-3.5-turbo"

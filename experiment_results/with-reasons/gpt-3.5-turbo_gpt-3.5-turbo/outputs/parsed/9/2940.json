@@ -1,6 +1,6 @@
 {
   "message": "damnnn",
-  "reason": "The message contains a slang term that is often used to express excitement or admiration. While it may be considered informal, it does not contain any offensive or harmful language.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "toxic",

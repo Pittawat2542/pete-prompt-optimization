@@ -1,7 +1,7 @@
 ```json
 {
-"message": "11649 times KEKW",
-"reason": "The message contains a specific phrase 'KEKW' which is likely to be associated with toxic or negative behavior. The high repetition of the phrase '11649 times' further suggests that the message is intended to provoke or annoy others. Therefore, the message is classified as 'toxic'.",
-"predicted": "toxic"
+  "message": "11649 times KEKW",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
 ```

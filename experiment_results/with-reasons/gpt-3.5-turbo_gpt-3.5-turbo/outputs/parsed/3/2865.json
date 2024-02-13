@@ -1,6 +1,6 @@
 {
   "message": "Have you tried sleeping ass up?",
-  "reason": "The predicted category is 'toxic' because the message contains inappropriate language and sexual content. The model has correctly identified this message as toxic based on the presence of explicit language.",
+  "reason": "Toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

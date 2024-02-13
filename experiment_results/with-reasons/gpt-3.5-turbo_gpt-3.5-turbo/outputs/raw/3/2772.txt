@@ -1,7 +1,9 @@
 ```json
 {
 "message": "@keckzn have a time out, come back when you're done saying dumb shit",
-"reason": "The message contains offensive language ('dumb shit') which indicates toxic behavior.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message is classified as "toxic" because it contains offensive language and insults directed towards another user. The phrase "saying dumb shit" is derogatory and disrespectful.

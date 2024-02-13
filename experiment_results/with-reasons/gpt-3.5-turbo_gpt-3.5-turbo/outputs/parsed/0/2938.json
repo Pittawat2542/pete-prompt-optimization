@@ -1,6 +1,6 @@
 {
   "message": "@RuralBiscuits damn - i knew it!",
-  "reason": "The message contains a mild swear word, but it does not seem to be directed towards anyone in a harmful or offensive manner.",
+  "reason": "The message contains a mild swear word, but it is not directed towards anyone in particular and does not seem to be intended to harm or offend anyone.",
   "predicted": "clean",
   "prompt_version": 0,
   "label": "toxic",

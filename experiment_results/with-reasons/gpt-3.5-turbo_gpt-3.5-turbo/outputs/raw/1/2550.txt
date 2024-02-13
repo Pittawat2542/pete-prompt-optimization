@@ -1,7 +1,7 @@
 ```json
 {
   "message": "hamb10 hamb10",
-  "reason": "The message consists of repeated characters without any context or meaning. It does not contain any offensive or harmful language. Therefore, it can be classified as clean.",
+  "reason": "The message consists of a repeated word 'hamb10'. It does not contain any explicit toxic language or harmful content. Therefore, it can be classified as clean.",
   "predicted": "clean"
 }
 ```

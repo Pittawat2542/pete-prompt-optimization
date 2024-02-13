@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be 80% toxic.
-
-```json
-{
-"message": "so its not the fucking card",
-"reason": "The message contains a profanity which is generally considered offensive and inappropriate in a respectful conversation. This makes the message toxic.",
-"predicted": "toxic"
-}
-```

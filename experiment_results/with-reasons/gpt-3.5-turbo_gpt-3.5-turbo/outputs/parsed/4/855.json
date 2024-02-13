@@ -1,6 +1,6 @@
 {
   "message": "osu? woow",
-  "reason": "The message does not contain any offensive or harmful language, and it does not seem to be disrespectful or aggressive. It is a simple expression of surprise or excitement about the topic of 'osu'. Therefore, it can be classified as clean.",
+  "reason": "The message does not contain any offensive or harmful language. It is a simple expression of surprise or excitement about the game 'osu'.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

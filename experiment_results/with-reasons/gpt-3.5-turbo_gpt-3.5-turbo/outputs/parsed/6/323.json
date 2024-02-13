@@ -1,6 +1,6 @@
 {
   "message": "basically a huge fuck you to all assassins",
-  "reason": "The message contains offensive language ('fuck you'), which is indicative of toxic behavior.",
+  "reason": "The message contains offensive language and insults, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 6,
   "label": "toxic",

@@ -1,7 +1,5 @@
-```json
 {
 "message": "@hambinooo sorry for ruining your fun",
-"reason": "The message is classified as clean because it shows remorse and an apology for ruining someone's fun. There is no evidence of any toxic or offensive language.",
+"reason": "The message expresses remorse and apologizes for ruining someone's fun.",
 "predicted": "clean"
 }
-```

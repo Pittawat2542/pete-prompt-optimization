@@ -1,7 +1,9 @@
 ```json
 {
 "message": "DendiFace gg",
-"reason": "The message contains the term 'DendiFace', which is likely a reference to a specific person or meme. Without further context, it is difficult to determine the exact meaning of the message. However, based on the prediction result, it is classified as 'clean' because it does not contain any toxic or offensive language.",
-"predicted": "clean"
+"reason": "toxic",
+"predicted": "toxic"
 }
 ```
+
+The message "DendiFace gg" is classified as toxic because it contains the term "gg" which is commonly used as an abbreviation for "good game" in online gaming communities. However, in this context, it is likely being used sarcastically or mockingly, which can be considered toxic behavior.

@@ -1,6 +1,6 @@
 {
   "message": "holy shit PogU",
-  "reason": "The message contains a profanity ('shit') which is considered toxic.",
+  "reason": "The message contains offensive language ('shit'), which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 9,
   "label": "toxic",

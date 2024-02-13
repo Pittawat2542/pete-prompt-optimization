@@ -1,7 +1,5 @@
-```json
 {
 "message": "ooo we get a chickirhinooooo",
-"reason": "The message does not contain any offensive or harmful language. It appears to be a playful and enthusiastic comment about something exciting or interesting. Therefore, it can be classified as clean.",
+"reason": "The message does not contain offensive language and is not derogatory. It appears to be a playful expression.",
 "predicted": "clean"
 }
-```

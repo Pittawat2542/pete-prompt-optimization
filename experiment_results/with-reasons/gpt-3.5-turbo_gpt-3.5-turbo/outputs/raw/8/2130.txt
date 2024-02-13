@@ -1,7 +1,7 @@
 ```json
 {
-"message": "tgl3Head",
-"reason": "The text 'tgl3Head' does not provide enough information to determine its category. It does not contain any explicit toxic or offensive language, and there is no context provided to make an informed classification.",
-"predicted": "clean"
+  "message": "tgl3Head",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

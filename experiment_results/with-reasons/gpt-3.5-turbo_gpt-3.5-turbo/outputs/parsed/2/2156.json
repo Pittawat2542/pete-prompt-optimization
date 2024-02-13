@@ -1,6 +1,6 @@
 {
   "message": "DendiFace gg",
-  "reason": "The message contains the term 'DendiFace', which is likely a reference to a Twitch emote. The term 'gg' is commonly used in online gaming to mean 'good game'. This message does not contain any offensive or harmful language, so it can be classified as clean.",
+  "reason": "The message does not contain offensive language or derogatory content. It appears to be a combination of an emote and the abbreviation 'gg' which stands for 'good game'.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "clean",

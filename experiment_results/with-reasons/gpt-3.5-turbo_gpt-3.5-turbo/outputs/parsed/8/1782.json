@@ -1,6 +1,6 @@
 {
   "message": "jd",
-  "reason": "The text 'jd' does not provide enough information to determine its category. It could be a username or an abbreviation that does not convey any toxic or clean content.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 8,
   "label": "clean",

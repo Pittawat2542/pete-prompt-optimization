@@ -1,6 +1,6 @@
 {
   "message": "PogChamp PogChamp PogChamp",
-  "reason": "The message contains the repeated use of the term 'PogChamp', which is a popular emote used in online gaming communities. This emote is generally associated with excitement, hype, or positive reactions. Therefore, the message can be classified as 'clean' because it does not contain any toxic or offensive content.",
+  "reason": "The message consists of repeated use of the term 'PogChamp', which is a popular emote used in online gaming communities. While the term itself is not inherently toxic, its excessive repetition may be considered spammy or annoying to some users. However, it does not contain any explicit or offensive language, so it can be classified as clean.",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

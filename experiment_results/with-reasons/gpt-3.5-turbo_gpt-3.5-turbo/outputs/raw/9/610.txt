@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@Yamikazexz who's your twitch crush? like a female streamer not taco LUL",
-"reason": "The message is a casual conversation in an online community asking about someone's crush on a female streamer. It does not contain any offensive or harmful language, and the tone is not aggressive or disrespectful. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "@Yamikazexz who's your twitch crush? like a female streamer not taco LUL",
+  "reason": "The message is asking about someone's crush on a female streamer, which is not offensive or harmful, making it clean.",
+  "predicted": "clean"
 }
 ```

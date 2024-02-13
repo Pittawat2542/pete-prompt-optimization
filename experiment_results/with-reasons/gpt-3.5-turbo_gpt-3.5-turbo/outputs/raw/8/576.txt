@@ -1,7 +1,7 @@
 ```json
 {
-"message": "hi yamikaze do you know enthralled?",
-"reason": "The text is clean because it is a polite greeting and a question about someone's knowledge.",
-"predicted": "clean"
+  "message": "hi yamikaze do you know enthralled?",
+  "reason": "The message is a simple greeting and does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

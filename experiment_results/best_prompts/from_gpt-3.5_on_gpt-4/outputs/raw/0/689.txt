@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message "YEP" as "clean" with a 99% confidence level.
-
-```json
-{
-"message": "YEP",
-"reason": "The message 'YEP' is classified as clean because it does not contain any offensive, disrespectful or inappropriate language. The prediction model also supports this classification with a 99% confidence level.",
-"predicted": "clean"
-}
-```

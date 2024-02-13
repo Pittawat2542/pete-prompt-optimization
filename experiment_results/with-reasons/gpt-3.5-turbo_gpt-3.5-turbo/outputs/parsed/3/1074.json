@@ -1,6 +1,6 @@
 {
   "message": "cause im an idiot lol",
-  "reason": "The text is classified as 'toxic' because it contains a derogatory term ('idiot') which is considered offensive and insulting.",
+  "reason": "The message contains self-deprecating language and the word 'idiot', which can be considered derogatory and offensive. This indicates a toxic tone.",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

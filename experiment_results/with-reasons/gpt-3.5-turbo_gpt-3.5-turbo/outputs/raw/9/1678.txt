@@ -1,7 +1,7 @@
 ```json
 {
-"message": "danucdHypePrime",
-"reason": "The message does not contain any explicit or offensive language, and it does not seem to be harmful or disrespectful. It appears to be a username or a phrase related to a user in the online community. Therefore, it can be classified as a clean message.",
-"predicted": "clean"
+  "message": "danucdHypePrime",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

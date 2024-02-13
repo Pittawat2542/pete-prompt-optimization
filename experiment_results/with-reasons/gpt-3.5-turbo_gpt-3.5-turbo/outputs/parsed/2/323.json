@@ -1,6 +1,6 @@
 {
-  "message": "basically a huge fuck you to all assassins",
-  "reason": "The message contains offensive language, specifically a profanity directed towards a specific group of people (assassins). This falls under the category of toxic.",
+  "message": "Basically a huge fuck you to all assassins",
+  "reason": "The message contains offensive language and is derogatory.",
   "predicted": "toxic",
   "prompt_version": 2,
   "label": "toxic",

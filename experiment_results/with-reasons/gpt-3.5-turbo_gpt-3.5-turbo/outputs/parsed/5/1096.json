@@ -1,6 +1,6 @@
 {
   "message": "Meebot is shit",
-  "reason": "The message contains a derogatory term ('shit') which is offensive and disrespectful. This indicates a toxic category.",
+  "reason": "The message contains a derogatory term and it is used to demean someone. It is considered toxic and offensive.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

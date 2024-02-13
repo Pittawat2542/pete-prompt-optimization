@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be non-toxic with a 98% probability.
-
-```json
-{
-"message": "what did they do to you @Yamikazexz",
-"reason": "The message is a simple question directed towards a user, without any offensive or harmful language. The model prediction also supports this with a 98% probability of being non-toxic.",
-"predicted": "clean"
-}
-```

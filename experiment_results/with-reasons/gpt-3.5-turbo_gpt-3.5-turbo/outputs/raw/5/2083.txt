@@ -1,7 +1,7 @@
 ```json
 {
-"message": "its really hard with your ping",
-"reason": "The message does not contain any offensive or harmful language. It simply states that it is difficult with the person's ping, which refers to the latency or delay in their internet connection. This does not fall into the toxic category.",
-"predicted": "clean"
+  "message": "its really hard with your ping",
+  "reason": "The message expresses frustration with the user's ping, but does not contain any offensive or harmful content. It is a neutral statement about a technical issue.",
+  "predicted": "clean"
 }
 ```

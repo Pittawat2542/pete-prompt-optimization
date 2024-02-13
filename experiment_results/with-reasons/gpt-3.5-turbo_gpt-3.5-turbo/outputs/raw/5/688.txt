@@ -1,7 +1,7 @@
 ```json
 {
-"message": 800,
-"reason": "The message cannot be classified into either 'toxic' or 'clean' category based on the given information.",
-"predicted": "N/A"
+  "message": "800",
+  "reason": "The message consists of a single number and does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

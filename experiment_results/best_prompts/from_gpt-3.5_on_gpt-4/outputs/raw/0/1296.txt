@@ -1,9 +1,0 @@
-Prediction result: The model predicts this message as "clean" with a 99.8% probability. The message contains no offensive or harmful language, but rather, it seems to be a series of emotes or commands related to a game or online community.
-
-```json
-{
-"message": "danucdRespect danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance danucdDance2 danucdDance danucdDance2 danucdDance danucdDance2 danucdDance forsenPls SourPls",
-"reason": "The message contains a series of emotes or commands related to a game or online community, with no offensive or harmful language.",
-"predicted": "clean"
-}
-```

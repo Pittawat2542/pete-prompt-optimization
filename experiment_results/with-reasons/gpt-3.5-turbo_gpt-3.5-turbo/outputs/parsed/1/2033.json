@@ -1,6 +1,6 @@
 {
   "message": "get out rogue",
-  "reason": "The message contains a command to someone to leave, which can be seen as aggressive and disrespectful. The use of the word 'rogue' adds a negative connotation to the message.",
+  "reason": "The message contains a command to someone to leave, which can be seen as aggressive and disrespectful. The use of the word 'rogue' adds a negative connotation to the message. Therefore, it can be classified as toxic.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "clean",

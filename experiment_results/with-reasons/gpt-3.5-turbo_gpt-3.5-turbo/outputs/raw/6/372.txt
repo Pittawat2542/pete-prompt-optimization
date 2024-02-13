@@ -1,7 +1,6 @@
 ```json
 {
-"message": "Cuz of that stupid strat",
-"reason": "The message contains a derogatory term ('stupid') which indicates a negative sentiment. This suggests that the message is likely to be toxic.",
-"predicted": "toxic"
+  "message": "Cuz of that stupid strat",
+  "reason": "The message contains a negative adjective ('stupid') which can be considered offensive or disrespectful, making it toxic.",
+  "predicted": "toxic"
 }
-```

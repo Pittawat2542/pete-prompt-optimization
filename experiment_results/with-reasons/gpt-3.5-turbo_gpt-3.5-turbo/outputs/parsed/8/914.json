@@ -1,6 +1,6 @@
 {
   "message": "or until u get shit on LUL",
-  "reason": "The text contains offensive language ('shit') which is likely to be classified as toxic.",
+  "reason": "The message contains offensive language, specifically the word 'shit', which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

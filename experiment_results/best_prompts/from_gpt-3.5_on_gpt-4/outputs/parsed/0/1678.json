@@ -1,8 +1,0 @@
-{
-  "message": "danucdHypePrime",
-  "reason": "The model predicts the message to be non-toxic with a 99% probability. The message appears to be a username or a specific term used in the online community, and does not contain any offensive or harmful language.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

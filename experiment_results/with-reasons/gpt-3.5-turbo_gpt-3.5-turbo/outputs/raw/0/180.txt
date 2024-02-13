@@ -1,7 +1,7 @@
 ```json
 {
 "message": "my god the stupidity of people",
-"reason": "The message contains negative language and expresses frustration towards people's intelligence.",
+"reason": "The message contains derogatory language and expresses a negative sentiment towards people.",
 "predicted": "toxic"
 }
 ```

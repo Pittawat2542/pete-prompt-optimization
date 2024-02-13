@@ -1,7 +1,0 @@
-```json
-{
-"message": "What the hell is that",
-"reason": "The message contains a mild swear word which might be considered offensive or disrespectful in some contexts. However, without additional context or explicit insults, threats, or hate speech, it's not necessarily toxic.",
-"predicted": "clean"
-}
-```

@@ -1,7 +1,5 @@
-```json
 {
-"message": "Northwood League of Legends finishes (5-3) on the weekend and takes 3rd place in the @DruryEsports invitational! ðŸº#wolfpack",
-"reason": "The message is clean because it contains positive information about a League of Legends team finishing with a good record and achieving a high placement in a tournament.",
-"predicted": "clean"
+  "message": "Northwood League of Legends finishes (5-3) on the weekend and takes 3rd place in the @DruryEsports invitational! ðŸº#wolfpack",
+  "reason": "The message shares positive news about the League of Legends team's performance and expresses excitement with the use of emojis and hashtags.",
+  "predicted": "clean"
 }
-```

@@ -1,7 +1,6 @@
 ```json
 {
-"message": "what matchups do you take elec on talon and what champs do u take conq on him?",
-"reason": "The message is asking for advice on which rune to take on Talon depending on the matchups and champions. It does not contain any offensive or harmful language, and the tone is neutral. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "what matchups do you take elec on talon and what champs do u take conq on him?",
+  "reason": "The message is asking for advice on champion matchups in a polite and respectful manner, without any offensive or harmful content. Therefore, it can be classified as clean.",
+  "predicted": "clean"
 }
-```

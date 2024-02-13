@@ -1,6 +1,6 @@
 {
   "message": "my god the stupidity of people",
-  "reason": "The message contains a negative sentiment and derogatory language ('stupidity'). It expresses frustration and contempt towards people, which can be considered toxic.",
+  "reason": "The message expresses frustration and negativity towards people's intelligence.",
   "predicted": "toxic",
   "prompt_version": 2,
   "label": "toxic",

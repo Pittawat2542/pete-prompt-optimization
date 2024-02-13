@@ -1,7 +1,7 @@
 ```json
 {
-"message": "ohh shit summit retired ?",
-"reason": "The message does not contain any explicit toxic language or offensive content. It is a simple expression of surprise and curiosity about someone's retirement. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "ohh shit summit retired ?",
+  "reason": "The message contains a mild swear word, but it is not used in an offensive or harmful way. It is a casual expression of surprise.",
+  "predicted": "clean"
 }
 ```

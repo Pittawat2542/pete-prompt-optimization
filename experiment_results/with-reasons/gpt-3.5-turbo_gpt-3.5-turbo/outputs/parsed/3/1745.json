@@ -1,6 +1,6 @@
 {
   "message": "WeirdChamp",
-  "reason": "The predicted category is 'toxic' because the term 'WeirdChamp' is often used in online communities as a way to mock or criticize someone or something. It is a derogatory term that is commonly associated with toxic behavior.",
+  "reason": "The message contains the term 'WeirdChamp', which is a popular emote used in online communities to express disapproval or mockery. While it may not be explicitly toxic, it can be considered as a negative or derogatory comment depending on the context.",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "clean",

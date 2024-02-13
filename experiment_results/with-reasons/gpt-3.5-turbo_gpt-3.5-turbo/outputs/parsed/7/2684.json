@@ -1,6 +1,6 @@
 {
   "message": "!gift @shanabana",
-  "reason": "The message contains the word 'gift' which suggests a positive or neutral intent. There are no offensive or toxic words present in the message. Therefore, it can be classified as 'clean'.",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 7,
   "label": "clean",

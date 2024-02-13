@@ -1,7 +1,9 @@
 ```json
 {
 "message": "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG",
-"reason": "The message contains a combination of words that are related to gaming and positive expressions like 'Love' and 'GG'. It does not contain any offensive or toxic language. Therefore, it can be classified as clean.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG" does not contain any offensive or harmful language. It appears to be a combination of words or phrases that may be specific to the online community, but it does not exhibit any toxic or inappropriate content. Therefore, it can be classified as "clean".

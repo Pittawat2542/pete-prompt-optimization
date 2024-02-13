@@ -1,6 +1,6 @@
 {
   "message": "daaaaam",
-  "reason": "The message contains a repeated letter 'a' which may indicate excitement or emphasis. However, without further context, it is difficult to determine the intent behind the message.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "toxic",

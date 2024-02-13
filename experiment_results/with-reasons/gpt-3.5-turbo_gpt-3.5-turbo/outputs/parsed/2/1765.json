@@ -1,6 +1,6 @@
 {
   "message": "@melihozkiremitci danucdHi danucdHi",
-  "reason": "The message does not contain any offensive or harmful language. It is a simple greeting directed at two users.",
+  "reason": "The message is a simple greeting and does not contain any offensive or toxic language.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "clean",

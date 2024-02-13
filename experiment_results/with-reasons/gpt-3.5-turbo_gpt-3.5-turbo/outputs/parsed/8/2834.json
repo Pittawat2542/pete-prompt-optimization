@@ -1,6 +1,6 @@
 {
   "message": "Taking a shit ehun ehun ehun ehun",
-  "reason": "The text contains explicit language and is considered offensive and vulgar. The model has predicted it as toxic.",
+  "reason": "The message contains vulgar language and references to bodily functions, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

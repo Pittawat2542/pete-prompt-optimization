@@ -1,6 +1,6 @@
 {
   "message": "rawryyLaugh @cinnova",
-  "reason": "The message contains a username mention and a laughing expression.",
+  "reason": "The message contains an emoji followed by a mention of another user.",
   "predicted": "clean",
   "prompt_version": 0,
   "label": "clean",

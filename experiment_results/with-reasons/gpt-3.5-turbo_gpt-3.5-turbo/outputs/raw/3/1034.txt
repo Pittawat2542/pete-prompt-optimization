@@ -1,7 +1,9 @@
 ```json
 {
-"message": "> cod is crap which one?",
-"reason": "The message contains negative language ('crap') which indicates a toxic sentiment.",
-"predicted": "toxic"
+  "message": "> cod is crap which one?",
+  "reason": "Toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message is classified as "toxic" because it contains derogatory language ("crap") and a negative opinion about "cod" (which could refer to the video game Call of Duty). This kind of language and negative sentiment can be considered toxic in an online community.

@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message "some good players" with a 98% probability to be non-toxic.
-
-```json
-{
-"message": "some good players",
-"reason": "The message is a neutral statement about players and does not contain any offensive or harmful language. The prediction model also classifies it as non-toxic with a high probability.",
-"predicted": "clean"
-}
-```

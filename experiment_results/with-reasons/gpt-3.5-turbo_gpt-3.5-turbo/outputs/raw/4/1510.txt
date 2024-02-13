@@ -1,7 +1,7 @@
 ```json
 {
 "message": "Jesus, it's a warzone in that city monkaS",
-"reason": "The message contains an expression of shock or surprise ('Jesus') and describes the situation in the city as a 'warzone'. This language can be seen as intense or alarming, which falls under the 'toxic' category.",
+"reason": "The message contains a negative and intense description of the situation in the city, referring to it as a warzone. The use of 'monkaS' also suggests a sense of fear or anxiety. However, there is no explicit toxic language or personal attack in the message.",
 "predicted": "toxic"
 }
 ```

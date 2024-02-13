@@ -1,7 +1,9 @@
 ```json
 {
-"message": "Greetings from New Orleans",
-"reason": "The message is classified as clean because it does not contain any toxic or offensive language. The model has predicted it as clean with a high confidence score of 0.98.",
-"predicted": "clean"
+  "message": "Greetings from New Orleans",
+  "reason": "clean",
+  "predicted": "clean"
 }
 ```
+
+The message "Greetings from New Orleans" is classified as "clean" because it is a friendly greeting and does not contain any offensive or harmful language.

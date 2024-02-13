@@ -1,6 +1,6 @@
 {
   "message": "FUCKING WOWOW",
-  "reason": "The message contains offensive language and is written in all caps, indicating anger or frustration.",
+  "reason": "The message contains offensive language, which is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

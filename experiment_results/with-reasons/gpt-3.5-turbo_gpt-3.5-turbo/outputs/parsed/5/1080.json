@@ -1,6 +1,6 @@
 {
   "message": "What the hell is that",
-  "reason": "The message contains a profanity ('hell'), which is considered toxic. The use of profanity can be offensive and disrespectful, creating a negative and hostile environment.",
+  "reason": "The message contains a strong expletive ('hell') which is considered offensive and inappropriate. It is classified as toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

@@ -1,7 +1,7 @@
 ```json
 {
   "message": "but it sucks that we dont have enough player to do that now @hambinooo",
-  "reason": "The message expresses disappointment about not having enough players to do something. Although it uses the word 'sucks', it does not contain any offensive or harmful language. The mention of '@hambinooo' suggests that the message is directed at a specific user, but it does not necessarily make the message toxic.",
-  "predicted": "clean"
+  "reason": "The message contains negative language ('sucks') and expresses disappointment about not having enough players. This could potentially create a negative atmosphere in the online community.",
+  "predicted": "toxic"
 }
 ```

@@ -1,8 +1,0 @@
-{
-  "message": "<ERROR_COULD_NOT_PARSE_JSON>",
-  "predicted": "<ERROR_PREDICTED_LABEL>",
-  "reason": "<ERROR>",
-  "label": "clean",
-  "prompt_version": 0,
-  "model": "gpt-4"
-}

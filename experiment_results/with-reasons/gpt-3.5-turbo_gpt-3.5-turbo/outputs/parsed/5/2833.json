@@ -1,6 +1,6 @@
 {
   "message": "madar bitch don't kill us",
-  "reason": "The message contains offensive language ('bitch') and a violent statement ('kill us'), which indicates a toxic category.",
+  "reason": "The message contains offensive language and a violent threat, making it toxic and harmful.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

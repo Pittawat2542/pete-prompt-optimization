@@ -1,7 +1,5 @@
-```json
 {
 "message": "> Yo Riot wtf \n fuck brand he always deals the most damage for some reason EVERY GANE",
-"reason": "The message contains profanity and negative sentiment towards a specific person (Brand). It also expresses frustration and confusion towards Riot, indicating a toxic tone.",
+"reason": "The message contains offensive language and is expressing frustration towards another player.",
 "predicted": "toxic"
 }
-```

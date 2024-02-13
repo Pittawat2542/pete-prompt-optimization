@@ -1,7 +1,0 @@
-```json
-{
-"message": "Shootin the shit smokin sum herb",
-"reason": "The message contains explicit language and references to drug use, which can be considered offensive or inappropriate in many online communities.",
-"predicted": "toxic"
-}
-```

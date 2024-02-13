@@ -1,7 +1,7 @@
 ```json
 {
-"message": "PogChamp PogChamp PogChamp",
-"reason": "The message consists of repeated use of the term 'PogChamp'. Based on the given information, it is not possible to determine whether this message is toxic or clean. The prediction result does not provide any specific indication about the toxicity of the message. Therefore, the message cannot be accurately classified into either the 'toxic' or 'clean' category.",
-"predicted": "unknown"
+  "message": "PogChamp PogChamp PogChamp",
+  "reason": "The message consists of repeated use of the term 'PogChamp'. While this term is commonly used in online gaming communities to express excitement or hype, the repeated use of it in this message may be considered spam or excessive. However, without further context, it is difficult to determine if the message is intended to be toxic or not.",
+  "predicted": "clean"
 }
 ```

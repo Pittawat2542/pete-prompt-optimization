@@ -1,7 +1,7 @@
 ```json
 {
 "message": "you W'd there because you were anticipating flash 4Head",
-"reason": "The message does not contain any offensive or harmful language. It appears to be a comment related to a gaming situation, specifically referring to a player's action in a game. The use of '4Head' suggests that it may be a lighthearted or sarcastic comment. Therefore, the message can be classified as 'clean'.",
-"predicted": "clean"
+"reason": "The message contains a sarcastic emote '4Head' which is often used in a toxic manner to mock or belittle someone. Additionally, the use of 'W'd' suggests a negative or derogatory tone.",
+"predicted": "toxic"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "its really hard with your ping",
-"reason": "The text does not contain any offensive or harmful language. It is a statement about the difficulty of playing with a high ping. The predicted category is 'clean' because the text is not toxic.",
-"predicted": "clean"
+  "message": "its really hard with your ping",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

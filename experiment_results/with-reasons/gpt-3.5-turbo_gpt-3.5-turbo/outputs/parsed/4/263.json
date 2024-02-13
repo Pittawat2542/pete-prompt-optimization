@@ -1,6 +1,6 @@
 {
   "message": "> why the fuck i get the code of conduct shit every time i open league clientPromise you will be a good player?",
-  "reason": "The message contains offensive language ('fuck') which indicates toxicity.",
+  "reason": "The message contains offensive language ('fuck') and expresses frustration towards the code of conduct. The use of offensive language and negative tone suggests a toxic behavior.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

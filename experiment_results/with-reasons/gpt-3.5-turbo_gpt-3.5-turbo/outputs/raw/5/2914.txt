@@ -1,7 +1,7 @@
 ```json
 {
-"message": "there are many cheaters in china",
-"reason": "The message can be classified as toxic because it contains a negative stereotype about a specific group of people, in this case, people from China. Making generalizations or derogatory statements about a particular nationality or ethnicity is considered toxic behavior.",
-"predicted": "toxic"
+  "message": "there are many cheaters in china",
+  "reason": "The message contains a generalization and a negative statement about a specific group of people. It can be considered offensive and toxic.",
+  "predicted": "toxic"
 }
 ```

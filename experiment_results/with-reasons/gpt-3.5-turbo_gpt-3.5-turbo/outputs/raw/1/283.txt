@@ -1,7 +1,7 @@
 ```json
 {
   "message": "HOW LE FUCK DO I FIGHT AHRI",
-  "reason": "The message contains offensive language ('le fuck') which is disrespectful and toxic. The use of such language indicates a negative and aggressive tone.",
+  "reason": "The message contains offensive language, which is inappropriate and disrespectful. The use of profanity indicates a toxic tone.",
   "predicted": "toxic"
 }
 ```

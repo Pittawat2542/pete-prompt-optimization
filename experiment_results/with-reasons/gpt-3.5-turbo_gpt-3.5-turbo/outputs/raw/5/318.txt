@@ -1,7 +1,7 @@
 ```json
 {
-"message": "like what the actual fuck is that",
-"reason": "The message contains offensive language ('fuck'), which is typically associated with toxic behavior. This indicates that the message falls into the 'toxic' category.",
-"predicted": "toxic"
+  "message": "like what the actual fuck is that",
+  "reason": "The message contains offensive language ('fuck') and expresses frustration or anger. It is considered toxic and offensive.",
+  "predicted": "toxic"
 }
 ```

@@ -1,6 +1,6 @@
 {
   "message": "YOU'RE SO GOOD",
-  "reason": "The message is classified as 'clean' because it contains positive sentiment and does not exhibit any toxic or offensive language.",
+  "reason": "The message is positive and does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 6,
   "label": "clean",

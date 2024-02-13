@@ -1,6 +1,6 @@
 {
   "message": "I dislike games where I carry and my team feeds ;/",
-  "reason": "The message expresses a negative sentiment towards a gaming experience where the person is carrying the team but the team members are not performing well (feeding). This negative sentiment indicates a frustration or dissatisfaction, but it does not contain any explicit toxic language or personal attacks.",
+  "reason": "The message expresses a negative sentiment towards teammates and implies frustration, but it does not contain any offensive or harmful content. Therefore, it can be classified as clean.",
   "predicted": "clean",
   "prompt_version": 6,
   "label": "toxic",

@@ -1,6 +1,6 @@
 {
   "message": "toxic spammer @hamitcankilic",
-  "reason": "The text contains the term 'toxic spammer' which indicates that the user is engaging in toxic behavior by spamming. This aligns with the prediction result of 'toxic' in the 'Prediction result' section.",
+  "reason": "The message contains the word 'toxic' and 'spammer', which suggests offensive and harmful content. Therefore, it is classified as toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

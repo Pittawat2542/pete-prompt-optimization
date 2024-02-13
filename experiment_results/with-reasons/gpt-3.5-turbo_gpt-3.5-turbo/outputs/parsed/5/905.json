@@ -1,6 +1,6 @@
 {
   "message": "HOLY SHIT karthus busted KEKW",
-  "reason": "The message contains profanity ('HOLY SHIT') which is considered toxic. Additionally, the use of 'busted' can be interpreted as negative or derogatory. The presence of 'KEKW' suggests that the message is intended to be sarcastic or mocking, which can contribute to a toxic atmosphere.",
+  "reason": "The message contains offensive language ('HOLY SHIT') and is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

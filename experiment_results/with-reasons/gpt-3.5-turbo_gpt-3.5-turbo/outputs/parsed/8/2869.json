@@ -1,6 +1,6 @@
 {
   "message": "ohh shit summit retired ?",
-  "reason": "The text does not contain any offensive or harmful language, and there is no indication of toxicity or negativity. It is a simple expression of surprise and concern about someone retiring.",
+  "reason": "The message contains a mild swear word, but it does not display any offensive, harmful, or disrespectful content. Therefore, it can be classified as clean.",
   "predicted": "clean",
   "prompt_version": 8,
   "label": "toxic",

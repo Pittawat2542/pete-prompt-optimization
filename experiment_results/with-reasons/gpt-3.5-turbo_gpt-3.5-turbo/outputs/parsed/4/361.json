@@ -1,6 +1,6 @@
 {
   "message": "He just fucking runs",
-  "reason": "The message contains offensive language ('fucking'), which indicates a toxic tone.",
+  "reason": "Toxic",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

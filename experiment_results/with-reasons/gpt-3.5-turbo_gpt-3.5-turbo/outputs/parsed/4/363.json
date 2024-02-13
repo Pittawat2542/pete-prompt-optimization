@@ -1,6 +1,6 @@
 {
   "message": "this game is annoying as fuck",
-  "reason": "The text contains strong profanity ('fuck'), which is likely to be classified as toxic.",
+  "reason": "The message contains offensive language ('fuck') which indicates a negative sentiment towards the game.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

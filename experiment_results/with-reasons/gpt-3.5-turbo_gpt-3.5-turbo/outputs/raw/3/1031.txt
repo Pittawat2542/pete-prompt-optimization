@@ -1,7 +1,9 @@
 ```json
 {
-"message": "Who else hate their life?",
-"reason": "The text expresses negative emotions and a feeling of dissatisfaction with life, which indicates a toxic sentiment.",
-"predicted": "toxic"
+  "message": "Who else hate their life?",
+  "reason": "Toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "Who else hate their life?" is classified as toxic because it expresses a negative sentiment and suggests a feeling of hatred towards one's own life. This kind of message can be harmful and may contribute to a toxic atmosphere in the online community.

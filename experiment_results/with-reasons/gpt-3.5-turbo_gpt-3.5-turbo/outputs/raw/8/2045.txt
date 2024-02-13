@@ -1,7 +1,7 @@
 ```json
 {
-"message": "noice team work forsenCD",
-"reason": "The text is classified as 'clean' because it contains positive language and shows appreciation for teamwork.",
-"predicted": "clean"
+  "message": "noice team work forsenCD",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

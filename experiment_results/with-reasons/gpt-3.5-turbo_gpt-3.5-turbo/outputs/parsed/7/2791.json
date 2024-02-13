@@ -1,6 +1,6 @@
 {
   "message": "i like how you dont talk shit about your dick neighbour cause he prob gonna rewatch your stream",
-  "reason": "The message contains offensive language ('talk shit', 'dick') and derogatory terms ('neighbour'). This indicates a toxic tone and disrespectful behavior towards others.",
+  "reason": "The message contains offensive language ('shit' and 'dick') and disrespectful content, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 7,
   "label": "toxic",

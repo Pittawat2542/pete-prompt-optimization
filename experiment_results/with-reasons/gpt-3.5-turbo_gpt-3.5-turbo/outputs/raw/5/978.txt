@@ -1,7 +1,6 @@
 ```json
 {
-"message": "because cosmic 1st is shit @Thebausffs",
-"reason": "The message contains a derogatory term ('shit') which is offensive and disrespectful. This indicates a toxic category.",
-"predicted": "toxic"
+  "message": "because cosmic 1st is shit @Thebausffs",
+  "reason": "The message contains offensive language ('shit') and is directed towards another user (@Thebausffs). It is considered toxic and disrespectful.",
+  "predicted": "toxic"
 }
-```

@@ -1,6 +1,6 @@
 {
   "message": "LETS FUCKING GOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-  "reason": "The message contains excessive use of profanity, which is indicative of toxic behavior.",
+  "reason": "The message contains excessive use of profanity, which is considered offensive and toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "clean",

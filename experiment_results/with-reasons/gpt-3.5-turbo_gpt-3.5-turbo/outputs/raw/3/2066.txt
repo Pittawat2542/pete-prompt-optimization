@@ -1,7 +1,9 @@
 ```json
 {
-"message": "they go super drop",
-"reason": "The predicted category is 'clean'. The text does not contain any offensive or harmful language. It seems to be a casual conversation about something going really well or being very successful.",
-"predicted": "clean"
+  "message": "they go super drop",
+  "reason": "clean",
+  "predicted": "clean"
 }
 ```
+
+The message "they go super drop" does not contain any offensive or harmful language, and it does not seem to be intended to provoke or insult anyone. Therefore, it can be classified as a clean message.

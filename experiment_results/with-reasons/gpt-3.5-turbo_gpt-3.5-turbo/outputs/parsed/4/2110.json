@@ -1,6 +1,6 @@
 {
   "message": "as you can see so clearly with those on low?",
-  "reason": "The predicted category is 'clean'. The message does not contain any offensive or harmful language. It appears to be a neutral question or statement.",
+  "reason": "The message does not contain any offensive or harmful language. It appears to be a neutral question without any toxic elements.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

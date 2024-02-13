@@ -1,7 +1,7 @@
 {
   "message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
-  "reason": "The message contains a statement about embracing being bad and making it their brand. This suggests a negative or toxic attitude.",
-  "predicted": "toxic",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",
   "model": "gpt-3.5-turbo"

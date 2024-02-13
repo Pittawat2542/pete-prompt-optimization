@@ -1,7 +1,7 @@
 ```json
 {
-"message": "I fucking hate lux",
-"reason": "The message contains strong profanity ('fucking') and expresses hate towards a specific person ('hate lux'). This indicates a toxic sentiment.",
-"predicted": "toxic"
+  "message": "I fucking hate lux",
+  "reason": "The message contains offensive language and expresses strong negative emotions towards someone. It is considered toxic.",
+  "predicted": "toxic"
 }
 ```

@@ -1,6 +1,6 @@
 {
   "message": "Melanie is in hell now",
-  "reason": "The predicted category is 'toxic' because the message contains negative and harmful language. The word 'hell' is associated with suffering and punishment, which contributes to a toxic atmosphere.",
+  "reason": "Toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

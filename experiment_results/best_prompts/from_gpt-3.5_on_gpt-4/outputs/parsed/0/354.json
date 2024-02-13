@@ -1,8 +1,0 @@
-{
-  "message": "what the hell??",
-  "reason": "The model classified the message as toxic with a high confidence of 0.85. The use of the phrase 'what the hell' can be considered as a mild form of swearing or expressing frustration, which can be perceived as toxic in an online community.",
-  "predicted": "toxic",
-  "prompt_version": 0,
-  "label": "toxic",
-  "model": "gpt-4"
-}

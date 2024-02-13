@@ -1,7 +1,5 @@
-```json
 {
 "message": "I suck so bad loool",
-"reason": "The message contains self-deprecating language and the word 'suck', which indicates a negative sentiment. This suggests that the message is expressing self-criticism or low self-esteem.",
-"predicted": "toxic"
+"reason": "The message contains self-deprecating language, but it is not offensive or derogatory towards others.",
+"predicted": "clean"
 }
-```

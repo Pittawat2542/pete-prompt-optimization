@@ -1,7 +1,9 @@
 ```json
 {
 "message": "HOW THE HELL IS THIS AN A",
-"reason": "The message contains strong language and is expressed in a confrontational and aggressive manner, which is indicative of toxic behavior.",
+"reason": "Toxic",
 "predicted": "toxic"
 }
 ```
+
+The message is classified as "toxic" because it uses offensive language and expresses outrage and frustration.

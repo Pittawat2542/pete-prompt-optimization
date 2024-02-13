@@ -1,7 +1,9 @@
 ```json
 {
 "message": "danucdNo Fattttttiiiiiiiiiiiiiiiiiiiiiiii",
-"reason": "The message contains derogatory language ('Fattttttiiiiiiiiiiiiiiiiiiiiiiii') which is offensive and disrespectful. This falls into the 'toxic' category.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message "danucdNo Fattttttiiiiiiiiiiiiiiiiiiiiiiii" is classified as toxic because it contains derogatory language ("Fattttttiiiiiiiiiiiiiiiiiiiiiiii"). The use of such language is considered offensive and disrespectful, making the message toxic.

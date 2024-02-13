@@ -1,7 +1,7 @@
 ```json
 {
   "message": "When is ps4 and xbox pts server finished? What date and time (uk) please? Thanks",
-  "reason": "The message is a polite and straightforward question about the completion date and time of the ps4 and xbox pts server. It does not contain any offensive or harmful language.",
+  "reason": "The message is clean because it is a simple question asking for information about the completion date and time of the PS4 and Xbox PTS servers in the UK.",
   "predicted": "clean"
 }
 ```

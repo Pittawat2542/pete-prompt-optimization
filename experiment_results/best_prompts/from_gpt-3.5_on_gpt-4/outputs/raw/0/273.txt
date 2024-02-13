@@ -1,7 +1,0 @@
-```json
-{
-"message": "Don't fuck it up",
-"reason": "The message contains a profanity which is generally considered offensive and inappropriate in a respectful online community. Therefore, it is classified as toxic.",
-"predicted": "toxic"
-}
-```

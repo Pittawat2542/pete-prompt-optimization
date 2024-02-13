@@ -1,7 +1,7 @@
 {
   "message": "in a Payload game the other day one of the randoms started shooting grens at me",
-  "reason": "The message describes a situation in an online game where one of the players started shooting grenades at the author. Although it may be frustrating or annoying, there is no indication of any toxic or offensive language in the message.",
-  "predicted": "clean",
+  "reason": "The message describes a negative experience where one of the random players in a game started shooting grenades at the author. This behavior can be considered toxic as it involves intentionally harming and disrupting the author's gameplay.",
+  "predicted": "toxic",
   "prompt_version": 1,
   "label": "clean",
   "model": "gpt-3.5-turbo"

@@ -1,9 +1,7 @@
 ```json
 {
-"message": "All the subs because your bananas love you danucdBukulove mtgngHype @DanucD",
-"reason": "clean",
-"predicted": "clean"
+  "message": "All the subs because your bananas love you danucdBukulove mtgngHype @DanucD",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```
-
-The message is classified as "clean" because the content does not contain any toxic or offensive language. The predicted category is also "clean" based on the information from the "Prediction result" section, which shows that the model has a high confidence score for the "clean" category.

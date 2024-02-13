@@ -1,6 +1,6 @@
 {
   "message": "@hf_spinach happy thursday!!",
-  "reason": "The text is classified as 'clean' because it contains a positive greeting and does not exhibit any toxic or offensive language.",
+  "reason": "The message is positive and does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 8,
   "label": "clean",

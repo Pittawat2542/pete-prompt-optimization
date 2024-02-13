@@ -1,7 +1,9 @@
 ```json
 {
 "message": "you W'd there because you were anticipating flash 4Head",
-"reason": "The message does not contain any offensive or harmful language. It appears to be a comment related to a gaming situation, specifically referring to a player using the 'W' key in anticipation of a flash move. The message is clean and does not exhibit any toxic behavior.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. Therefore, it can be classified as "clean".

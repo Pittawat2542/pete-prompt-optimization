@@ -1,7 +1,9 @@
 ```json
 {
 "message": "@SmirnofSoldier all good and you... danucdRespect danucdHi",
-"reason": "The message does not contain any offensive or harmful language. It consists of friendly greetings and expressions of respect. The predicted category is 'clean' because the text is not toxic.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message does not contain any offensive or harmful language. It consists of a casual conversation between users, expressing greetings and respect. Therefore, it can be classified as "clean".

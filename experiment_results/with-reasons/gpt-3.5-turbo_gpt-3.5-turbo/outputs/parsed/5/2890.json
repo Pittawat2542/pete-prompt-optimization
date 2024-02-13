@@ -1,6 +1,6 @@
 {
   "message": "@Tomshepmx going fucking great, you mate?",
-  "reason": "The message contains offensive language ('fucking'). This indicates a toxic category.",
+  "reason": "The message contains offensive language ('fucking') which is considered toxic and inappropriate.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

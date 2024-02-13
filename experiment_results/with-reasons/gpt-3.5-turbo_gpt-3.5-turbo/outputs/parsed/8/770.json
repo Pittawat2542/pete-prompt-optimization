@@ -1,6 +1,6 @@
 {
   "message": "Yami is my best friend",
-  "reason": "The text is classified as 'clean' because it expresses a positive sentiment and does not contain any offensive or harmful language. The model's prediction result also supports this classification as it has a high probability for the 'clean' category.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 8,
   "label": "clean",

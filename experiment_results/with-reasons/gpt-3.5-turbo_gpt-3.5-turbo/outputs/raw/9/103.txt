@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Just due to their sheer kits and presence they have",
-"reason": "The message does not contain any offensive or harmful language. It appears to be a neutral statement about someone's appearance or style.",
-"predicted": "clean"
+  "message": "Just due to their sheer kits and presence they have",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

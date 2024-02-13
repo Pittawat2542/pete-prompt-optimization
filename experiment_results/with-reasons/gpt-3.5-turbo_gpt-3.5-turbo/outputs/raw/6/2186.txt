@@ -1,7 +1,7 @@
 ```json
 {
-"message": "control setting and dpi",
-"reason": "The message does not contain any offensive or harmful language, and it seems to be a discussion about control settings and DPI (dots per inch) in a gaming context. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "control setting and dpi",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

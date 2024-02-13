@@ -1,6 +1,6 @@
 {
   "message": "tglGG",
-  "reason": "The text 'tglGG' does not contain any explicit toxic language or offensive content. It appears to be a random string of characters and does not convey any harmful intent or negative sentiment.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 8,
   "label": "clean",

@@ -1,7 +1,6 @@
 ```json
 {
-"message": "STOP DOING WHAT I THINK IS SHIT STREAMER",
-"reason": "The message contains offensive language ('shit') which is indicative of toxic behavior.",
-"predicted": "toxic"
+  "message": "STOP DOING WHAT I THINK IS SHIT STREAMER",
+  "reason": "The message contains offensive language and insults, which makes it toxic.",
+  "predicted": "toxic"
 }
-```

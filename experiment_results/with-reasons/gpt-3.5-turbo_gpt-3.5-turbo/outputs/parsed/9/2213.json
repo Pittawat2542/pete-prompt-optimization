@@ -1,6 +1,6 @@
 {
   "message": "how do you play with such high ping",
-  "reason": "The message is a question asking for advice or information about playing with high ping. It does not contain any offensive or harmful language.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",

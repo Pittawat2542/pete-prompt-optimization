@@ -1,6 +1,6 @@
 {
   "message": "DD",
-  "reason": "The message 'DD' does not provide any context or content to determine its meaning. It is too short and lacks any information to classify it as toxic or clean.",
+  "reason": "The message 'DD' does not provide enough information to determine its toxicity. It could be an abbreviation or a typo. Without further context, it is not possible to classify it as toxic or clean.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "clean",

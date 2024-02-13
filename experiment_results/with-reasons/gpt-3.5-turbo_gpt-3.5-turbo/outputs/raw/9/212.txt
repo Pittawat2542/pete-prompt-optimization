@@ -1,7 +1,7 @@
 ```json
 {
-"message": "> WHAT THE FUCKING FUCK IS THIS FUCKING RECALL ANIMATION  recall animation may be shit, but holy fuck the effects and animation are good",
-"reason": "The message contains offensive language and profanity, such as 'fuck' and 'shit'.",
-"predicted": "toxic"
+  "message": "> WHAT THE FUCKING FUCK IS THIS FUCKING RECALL ANIMATION  recall animation may be shit, but holy fuck the effects and animation are good",
+  "reason": "The message contains offensive language and swearing, which makes it toxic.",
+  "predicted": "toxic"
 }
 ```

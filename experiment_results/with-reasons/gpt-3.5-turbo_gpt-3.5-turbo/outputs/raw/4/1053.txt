@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Hell no ew",
-"reason": "The text falls into the 'toxic' category because it contains negative sentiment and derogatory language ('Hell' and 'ew'). The model's prediction result also indicates a high probability of toxicity.",
-"predicted": "toxic"
+  "message": "Hell no ew",
+  "reason": "The message contains negative language ('Hell no') and an expression of disgust ('ew').",
+  "predicted": "toxic"
 }
 ```

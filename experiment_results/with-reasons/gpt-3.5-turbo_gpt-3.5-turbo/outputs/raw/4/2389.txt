@@ -1,7 +1,7 @@
 ```json
 {
-"message": "kekwwwwwwww",
-"reason": "The message is classified as 'clean' because it does not contain any offensive or harmful language. The model has predicted it as 'clean' based on its analysis of the text.",
-"predicted": "clean"
+  "message": "kekwwwwwwww",
+  "reason": "The message consists of repeated characters and does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

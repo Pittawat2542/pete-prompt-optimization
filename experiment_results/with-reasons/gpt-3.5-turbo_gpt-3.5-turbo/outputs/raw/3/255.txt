@@ -1,7 +1,9 @@
 ```json
 {
 "message": "may I ask why the fuck shen is a thing?",
-"reason": "The message contains offensive language ('fuck'), which indicates a toxic tone.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message is classified as "toxic" because it contains offensive language ("fuck"). This type of language is often considered toxic and disrespectful in online communities.

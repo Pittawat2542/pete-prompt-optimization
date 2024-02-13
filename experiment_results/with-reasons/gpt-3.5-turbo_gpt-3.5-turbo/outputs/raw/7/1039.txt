@@ -1,7 +1,7 @@
 ```json
 {
-"message": "emojis here suck tbh",
-"reason": "The message contains negative language and expresses a negative opinion about emojis.",
-"predicted": "toxic"
+  "message": "emojis here suck tbh",
+  "reason": "The message expresses a negative opinion about emojis, but it does not contain any offensive, harmful, or disrespectful content. Therefore, it can be classified as clean.",
+  "predicted": "clean"
 }
 ```

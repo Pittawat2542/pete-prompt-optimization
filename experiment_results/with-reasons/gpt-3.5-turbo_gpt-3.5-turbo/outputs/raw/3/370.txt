@@ -1,7 +1,9 @@
 ```json
 {
 "message": "like holy shit make it stop",
-"reason": "The message contains profanity ('holy shit') which is considered toxic language.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message "like holy shit make it stop" contains profanity ("holy shit") and expresses frustration or annoyance ("make it stop"). These elements indicate a toxic tone, which is why I classified it as toxic.

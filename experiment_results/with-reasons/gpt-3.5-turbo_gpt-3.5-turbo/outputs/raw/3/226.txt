@@ -1,7 +1,9 @@
 ```json
 {
 "message": "which is dumb as fuck lmao",
-"reason": "The text contains offensive language ('dumb as fuck') which is classified as toxic.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message "which is dumb as fuck lmao" is classified as toxic because it contains offensive language ("dumb as fuck") and an acronym that is considered vulgar ("lmao"). These elements contribute to a negative and disrespectful tone, making the message toxic.

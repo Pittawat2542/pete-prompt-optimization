@@ -1,7 +1,7 @@
 ```json
 {
-"message": "The only idiot is you.",
-"reason": "The text is classified as toxic because it contains an offensive term ('idiot') directed towards someone ('you'). This type of language is typically considered disrespectful and insulting, which falls under the toxic category.",
-"predicted": "toxic"
+  "message": "The only idiot is you.",
+  "reason": "This message contains an insult directed at someone, which is considered toxic behavior.",
+  "predicted": "toxic"
 }
 ```

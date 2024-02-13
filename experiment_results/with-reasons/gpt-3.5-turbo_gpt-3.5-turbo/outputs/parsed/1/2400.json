@@ -1,6 +1,6 @@
 {
   "message": "got a song for you @ibiza",
-  "reason": "The message is a friendly and positive interaction where the person is sharing a song with someone. There is no offensive or harmful language used.",
+  "reason": "The message is clean because it is a simple statement expressing that the sender has a song for the recipient. There is no offensive or harmful language used.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "clean",

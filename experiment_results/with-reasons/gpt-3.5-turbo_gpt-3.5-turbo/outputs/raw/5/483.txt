@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@RiotSupport hi is there any update when riot will make a new and usable client for league of legends? Thanks",
-"reason": "The message is classified as 'clean'. The content is polite and does not contain any offensive or toxic language. The user is simply asking for an update on when Riot will release a new and usable client for League of Legends. The message is respectful and does not violate any community guidelines.",
-"predicted": "clean"
+  "message": "@RiotSupport hi is there any update when riot will make a new and usable client for league of legends? Thanks",
+  "reason": "The message is a polite inquiry about the development of a new client for League of Legends. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

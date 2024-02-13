@@ -1,7 +1,7 @@
 {
   "message": "I suck so bad loool",
-  "reason": "The text contains self-deprecating language, indicating a negative sentiment towards oneself. This could be interpreted as toxic.",
-  "predicted": "toxic",
+  "reason": "The message contains self-deprecating language, but it does not display any offensive, harmful, or disrespectful content. Therefore, it can be classified as clean.",
+  "predicted": "clean",
   "prompt_version": 8,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

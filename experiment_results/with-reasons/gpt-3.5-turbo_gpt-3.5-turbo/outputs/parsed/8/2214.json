@@ -1,6 +1,6 @@
 {
   "message": "why asia server ?",
-  "reason": "The text is clean because it does not contain any offensive or harmful language. The predicted category is 'clean' which is consistent with the absence of toxic content in the text.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 8,
   "label": "clean",

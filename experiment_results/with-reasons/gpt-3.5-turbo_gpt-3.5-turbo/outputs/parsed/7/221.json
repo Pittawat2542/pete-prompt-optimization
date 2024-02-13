@@ -1,6 +1,6 @@
 {
   "message": "this feels so shit",
-  "reason": "The message contains a negative sentiment and uses a profane word ('shit'). This indicates a toxic category.",
+  "reason": "The message contains offensive language, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 7,
   "label": "toxic",

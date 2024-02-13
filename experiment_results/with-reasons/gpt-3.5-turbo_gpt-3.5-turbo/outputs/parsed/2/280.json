@@ -1,6 +1,6 @@
 {
-  "message": "HOW THE HELL IS THIS AN A",
-  "reason": "The message contains strong language and is expressing frustration. The use of 'HELL' and the capitalization of 'A' indicate a negative tone, which suggests that the message is toxic.",
+  "message": "This is the worst thing I've ever seen!",
+  "reason": "The message expresses extreme negativity and dissatisfaction.",
   "predicted": "toxic",
   "prompt_version": 2,
   "label": "toxic",

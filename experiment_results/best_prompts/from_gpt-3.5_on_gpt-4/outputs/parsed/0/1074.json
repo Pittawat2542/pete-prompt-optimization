@@ -1,8 +1,0 @@
-{
-  "message": "cause im an idiot lol",
-  "reason": "The model predicts the message to be non-toxic with a 95% confidence level.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "toxic",
-  "model": "gpt-4"
-}

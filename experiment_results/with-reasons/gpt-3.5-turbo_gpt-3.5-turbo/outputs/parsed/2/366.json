@@ -1,6 +1,6 @@
 {
   "message": "stupid morgana players",
-  "reason": "The message contains an insult ('stupid') directed towards a specific group of players ('morgana players'). This derogatory language is considered toxic.",
+  "reason": "The message contains derogatory language and insults towards a specific group of players.",
   "predicted": "toxic",
   "prompt_version": 2,
   "label": "toxic",

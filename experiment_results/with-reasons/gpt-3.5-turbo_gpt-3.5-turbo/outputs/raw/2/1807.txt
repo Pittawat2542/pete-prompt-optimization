@@ -1,7 +1,5 @@
-```json
 {
 "message": "Who's victor Kappa",
-"reason": "The message does not contain any offensive or harmful language. It is a simple question asking about the identity of someone named Victor Kappa.",
+"reason": "The message is a simple question asking for information and does not contain any offensive or toxic language.",
 "predicted": "clean"
 }
-```

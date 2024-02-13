@@ -1,6 +1,6 @@
 {
   "message": "I like League of legends because I had a guy say I don't care about the role I got I'm playing what I want, then he went 1/9",
-  "reason": "The message does not contain any offensive or harmful language. It is a personal anecdote about a player's experience in the game League of Legends. The mention of the player going 1/9 indicates a poor performance, but it does not involve any toxic behavior or offensive language.",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 7,
   "label": "toxic",

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "its banana its banana",
-"reason": "The message contains repetitive and nonsensical content, which is characteristic of toxic behavior.",
-"predicted": "toxic"
+  "message": "its banana its banana",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

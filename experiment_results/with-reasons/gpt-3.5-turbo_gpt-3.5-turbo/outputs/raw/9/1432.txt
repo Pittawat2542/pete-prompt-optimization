@@ -1,7 +1,6 @@
 ```json
 {
-"message": "@Scoom danucdRespect mitKalp",
-"reason": "The message contains the word 'Respect' which indicates a positive and respectful tone. There are no offensive or toxic words present in the message.",
-"predicted": "clean"
+  "message": "@Scoom danucdRespect mitKalp",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```

@@ -1,8 +1,0 @@
-{
-  "message": "DD",
-  "reason": "The message 'DD' does not contain any offensive, disrespectful or inappropriate language. It seems to be a neutral term or abbreviation.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

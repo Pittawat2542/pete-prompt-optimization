@@ -1,7 +1,7 @@
 ```json
 {
 "message": "Sooooo if u say u have a GF ur actually lying so 5head",
-"reason": "The message contains derogatory language ('lying') and insults ('5head'), which indicates a toxic tone. The use of 'u' instead of 'you' and 'ur' instead of 'your' suggests informal and potentially disrespectful language. These factors contribute to the toxic classification.",
+"reason": "The message contains derogatory language and accuses someone of lying, which can be considered toxic behavior.",
 "predicted": "toxic"
 }
 ```

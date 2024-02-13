@@ -1,7 +1,7 @@
 ```json
 {
-"message": "shit winds are acomin'!",
-"reason": "The message contains offensive language ('shit'). This falls under the 'toxic' category.",
-"predicted": "toxic"
+  "message": "shit winds are acomin'!",
+  "reason": "The message contains offensive language, which makes it toxic.",
+  "predicted": "toxic"
 }
 ```

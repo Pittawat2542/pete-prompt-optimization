@@ -1,7 +1,9 @@
 ```json
 {
 "message": "No solo ranked in SEA DED",
-"reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It simply states that there is no solo ranked mode in the SEA DED community. Therefore, it can be classified as 'clean'.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "No solo ranked in SEA DED" does not contain any offensive or harmful language. It is a simple statement indicating that there is no solo ranked mode available in the SEA (South East Asia) server. Therefore, it can be classified as a clean message.

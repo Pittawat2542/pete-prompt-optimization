@@ -1,6 +1,6 @@
 {
   "message": "Good shit",
-  "reason": "The text is classified as 'toxic' because it contains profanity ('shit'). The model has likely learned that this word is often used in a negative or offensive context.",
+  "reason": "The message contains a positive adjective followed by a slang term that can be interpreted as vulgar or offensive. However, without further context, it is difficult to determine the exact intention behind the message.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

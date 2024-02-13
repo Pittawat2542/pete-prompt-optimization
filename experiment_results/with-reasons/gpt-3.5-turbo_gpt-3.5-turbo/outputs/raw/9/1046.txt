@@ -1,7 +1,7 @@
 ```json
 {
-"message": "HELL NO",
-"reason": "The message contains strong language and is likely to be considered toxic.",
-"predicted": "toxic"
+  "message": "HELL NO",
+  "reason": "The message contains offensive language, which makes it toxic.",
+  "predicted": "toxic"
 }
 ```

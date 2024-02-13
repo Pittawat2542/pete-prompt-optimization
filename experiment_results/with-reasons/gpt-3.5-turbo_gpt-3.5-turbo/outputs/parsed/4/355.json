@@ -1,6 +1,6 @@
 {
   "message": "oh shit guys",
-  "reason": "The text contains a profanity ('shit'), which is likely to be considered toxic.",
+  "reason": "The message contains a profanity ('shit'), which is considered offensive and inappropriate. It can be classified as toxic.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

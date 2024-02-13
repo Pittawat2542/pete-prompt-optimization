@@ -1,6 +1,6 @@
 {
   "message": "Fuck off chat, that guy deserves to be banned for risking this channels life",
-  "reason": "The message contains offensive language ('Fuck off') and expresses a negative sentiment towards another user ('that guy deserves to be banned'). This indicates a toxic behavior.",
+  "reason": "The message contains offensive language and displays disrespectful content, making it toxic.",
   "predicted": "toxic",
   "prompt_version": 9,
   "label": "toxic",

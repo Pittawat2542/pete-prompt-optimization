@@ -1,6 +1,6 @@
 {
-  "message": "Hey, I think your opinion is wrong.",
-  "reason": "The message is expressing disagreement, but it does not contain any offensive or harmful language. It is a respectful disagreement.",
+  "message": "Hey, I just wanted to say that I really enjoyed your post! It was very informative and well-written. Keep up the great work!",
+  "reason": "The message is positive and supportive, with no signs of toxicity or negativity.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "clean",

@@ -1,7 +1,7 @@
 {
   "message": "Ur not an assassin if u don\u00d5t one tap the adc",
-  "reason": "The message contains slang and abbreviations commonly used in online gaming communities. It also includes a statement that implies a certain skill level is required to be considered an assassin in the game. While the tone may come across as competitive or aggressive, it does not contain any explicit insults or offensive language.",
-  "predicted": "toxic",
+  "reason": "The message contains gaming jargon and does not contain any offensive or harmful language. It is a statement about the requirements to be considered an assassin in a game. Therefore, it can be classified as 'clean'.",
+  "predicted": "clean",
   "prompt_version": 1,
   "label": "clean",
   "model": "gpt-3.5-turbo"

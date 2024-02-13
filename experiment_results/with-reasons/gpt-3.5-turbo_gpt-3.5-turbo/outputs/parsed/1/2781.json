@@ -1,6 +1,6 @@
 {
   "message": "she's listening through the door, shut the fuck up dad",
-  "reason": "The message contains offensive language and is disrespectful towards the person mentioned. The use of profanity and the aggressive tone make it toxic.",
+  "reason": "The message contains offensive language and disrespectful behavior towards the father. It also implies a negative and toxic relationship between the speaker and their father.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

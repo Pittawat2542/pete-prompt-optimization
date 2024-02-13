@@ -1,7 +1,7 @@
 ```json
 {
-"message": "https://specs.gg/tgltn",
-"reason": "The text is classified as 'toxic' because the predicted probability for the 'toxic' category is higher than the 'clean' category.",
-"predicted": "toxic"
+  "message": "https://specs.gg/tgltn",
+  "reason": "The message is a URL and does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

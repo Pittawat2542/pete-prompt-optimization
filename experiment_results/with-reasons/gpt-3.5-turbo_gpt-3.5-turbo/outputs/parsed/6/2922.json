@@ -1,6 +1,6 @@
 {
   "message": "Dude tglWtf",
-  "reason": "The message contains offensive language ('Wtf') which is considered toxic.",
+  "reason": "The message contains offensive language and abbreviations, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 6,
   "label": "toxic",

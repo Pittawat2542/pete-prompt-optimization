@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Stupid net tbh",
-"reason": "The message contains a derogatory term ('stupid') which is considered toxic and offensive.",
-"predicted": "toxic"
+  "message": "Stupid net tbh",
+  "reason": "The message contains a derogatory term ('stupid') which can be considered offensive, making it toxic.",
+  "predicted": "toxic"
 }
 ```

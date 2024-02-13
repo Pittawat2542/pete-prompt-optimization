@@ -1,7 +1,7 @@
 ```json
 {
 "message": "centralia of the vibes",
-"reason": "The message does not contain any offensive or harmful language. It seems to be a random phrase without any negative connotation.",
+"reason": "The message does not contain any offensive or harmful language. It seems to be a creative phrase or metaphor.",
 "predicted": "clean"
 }
 ```

@@ -1,6 +1,6 @@
 {
   "message": "stop bypassing the chat you idiot",
-  "reason": "The text contains offensive language ('idiot') and is aggressive in tone ('stop bypassing'). This indicates a toxic category.",
+  "reason": "The message contains offensive language and insults, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

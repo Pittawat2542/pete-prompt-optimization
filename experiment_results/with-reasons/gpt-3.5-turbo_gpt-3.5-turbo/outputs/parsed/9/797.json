@@ -1,7 +1,7 @@
 {
   "message": "Pepega",
-  "reason": "The message contains a term that is commonly used in online communities as a way to mock or insult someone. This term is often associated with toxic behavior and can be considered offensive or derogatory.",
-  "predicted": "toxic",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",
   "model": "gpt-3.5-turbo"

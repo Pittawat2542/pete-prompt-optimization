@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@adooool18 on the way danucdSaspisas",
-"reason": "The message does not contain any explicit toxic language or offensive content. It appears to be a random combination of usernames and words that do not convey any harmful intent or negative sentiment.",
-"predicted": "clean"
+  "message": "@adooool18 on the way danucdSaspisas",
+  "reason": "The message contains random characters and does not convey any meaningful information. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

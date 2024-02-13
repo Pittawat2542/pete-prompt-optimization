@@ -1,7 +1,7 @@
 {
   "message": "Jesus, it's a warzone in that city monkaS",
-  "reason": "The message contains an expression of fear or anxiety ('monkaS') and describes the city as a warzone. This indicates a negative sentiment and potentially toxic content.",
-  "predicted": "toxic",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean",
   "prompt_version": 6,
   "label": "clean",
   "model": "gpt-3.5-turbo"

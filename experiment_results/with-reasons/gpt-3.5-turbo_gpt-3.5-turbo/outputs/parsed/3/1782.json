@@ -1,6 +1,6 @@
 {
   "message": "jd",
-  "reason": "The message 'jd' does not contain any explicit or offensive language, and it does not exhibit any toxic behavior. Therefore, it can be classified as clean.",
+  "reason": "The message 'jd' does not contain any explicit or offensive language, and there is not enough context to determine if it is toxic. Therefore, it can be classified as clean.",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

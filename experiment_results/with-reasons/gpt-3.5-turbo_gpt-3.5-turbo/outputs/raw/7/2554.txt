@@ -1,7 +1,6 @@
 ```json
 {
-"message": "centralia of the vibes",
-"reason": "The message does not contain any offensive or harmful language. It appears to be a positive statement about the atmosphere or energy of a place. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "centralia of the vibes",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
-```

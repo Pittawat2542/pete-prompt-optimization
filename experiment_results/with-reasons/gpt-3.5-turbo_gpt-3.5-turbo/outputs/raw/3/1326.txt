@@ -1,7 +1,9 @@
 ```json
 {
-"message": "1G$",
-"reason": "The message contains a combination of alphanumeric characters and symbols that do not form a coherent sentence or have any clear meaning. This type of message is often associated with spam or trolling behavior, which can be considered toxic in an online community.",
-"predicted": "toxic"
+  "message": "1G$",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "1G$" is classified as "toxic" because it contains a string that doesn't have any coherent meaning and may be perceived as offensive or inappropriate.

@@ -1,7 +1,9 @@
 ```json
 {
 "message": "Cuz of that stupid strat",
-"reason": "The message contains negative language ('stupid') which indicates a negative sentiment. This suggests that the message is likely to be toxic.",
+"reason": "Toxic",
 "predicted": "toxic"
 }
 ```
+
+The message "Cuz of that stupid strat" is classified as toxic because it contains derogatory language ("stupid") which is likely to create a negative and hostile environment in the online community.

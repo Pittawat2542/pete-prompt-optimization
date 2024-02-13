@@ -1,7 +1,7 @@
 {
   "message": "laners dying even with vision \u00f0\u0178\u00a4\u00a1",
-  "reason": "The message does not contain any offensive or harmful language. It is a statement about laners dying despite having vision in the game. It does not attack or insult anyone.",
-  "predicted": "clean",
+  "reason": "The message contains an expression of frustration and a negative emotion (\u00f0\u0178\u00a4\u00a1). It implies that the laners are dying despite having vision, which suggests a negative or frustrating situation. This negative tone and frustration indicate that the message is toxic.",
+  "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

@@ -1,8 +1,0 @@
-{
-  "message": "JESUS CHRIST",
-  "reason": "The model predicts the message to be non-toxic with a 98% probability. The message does not contain any offensive or harmful language.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

@@ -1,7 +1,7 @@
 ```json
 {
   "message": "The hell",
-  "reason": "The text 'The hell' is classified as toxic because it contains a strong negative sentiment. The model has predicted it as toxic with a high confidence score of 0.95.",
+  "reason": "The message contains offensive language, which makes it toxic.",
   "predicted": "toxic"
 }
 ```

@@ -1,7 +1,7 @@
 {
   "message": "oh shit my boy is bigtime",
-  "reason": "The message contains a mild profanity ('shit'), but it is not directed towards anyone in a harmful or offensive manner. It seems to express excitement or surprise about someone's success. Therefore, the message can be classified as clean.",
-  "predicted": "clean",
+  "reason": "The message contains profanity ('shit'), which is considered toxic language.",
+  "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

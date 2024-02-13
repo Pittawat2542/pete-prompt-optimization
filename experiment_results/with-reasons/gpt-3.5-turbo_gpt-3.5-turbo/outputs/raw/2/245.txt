@@ -1,7 +1,5 @@
-```json
 {
 "message": "oh fuck i got one of those omnistone bards in my ranked game",
-"reason": "The message contains profanity, which is considered toxic.",
+"reason": "The message contains offensive language.",
 "predicted": "toxic"
 }
-```

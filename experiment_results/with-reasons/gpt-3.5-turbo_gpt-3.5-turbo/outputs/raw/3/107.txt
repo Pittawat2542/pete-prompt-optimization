@@ -1,7 +1,9 @@
 ```json
 {
-"message": "In 12 mins",
-"reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It is a neutral statement indicating a time duration.",
-"predicted": "clean"
+  "message": "In 12 mins",
+  "reason": "clean",
+  "predicted": "clean"
 }
 ```
+
+The message "In 12 mins" does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. Therefore, it can be classified as a clean message.

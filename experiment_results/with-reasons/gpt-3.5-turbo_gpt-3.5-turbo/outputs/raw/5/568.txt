@@ -1,7 +1,7 @@
 ```json
 {
-"message": "11649 times KEKW",
-"reason": "The message does not contain any offensive or harmful language. It appears to be a repetition of the phrase 'KEKW' 11649 times. This repetition does not inherently make the message toxic or offensive.",
-"predicted": "clean"
+  "message": "11649 times KEKW",
+  "reason": "The message consists of a number followed by the phrase 'times KEKW'. Without further context, it is difficult to determine the intent or meaning of the message. However, it does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "eat shit riot",
-"reason": "The message contains offensive language ('shit') directed towards a specific entity ('riot'). This indicates a toxic behavior.",
-"predicted": "toxic"
+  "message": "eat shit riot",
+  "reason": "The message contains offensive language and insults, which makes it toxic.",
+  "predicted": "toxic"
 }
 ```

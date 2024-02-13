@@ -1,7 +1,7 @@
 ```json
 {
 "message": "there are many cheaters in china",
-"reason": "The message contains a negative sentiment towards a specific group of people, suggesting that there are many cheaters in China. This negative generalization can be considered toxic as it promotes stereotypes and can lead to discrimination or prejudice against Chinese individuals.",
+"reason": "The message contains a negative statement about a specific group of people, which can be considered as derogatory and offensive.",
 "predicted": "toxic"
 }
 ```

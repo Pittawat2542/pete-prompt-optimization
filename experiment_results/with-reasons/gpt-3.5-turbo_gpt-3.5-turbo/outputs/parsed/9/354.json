@@ -1,6 +1,6 @@
 {
   "message": "what the hell??",
-  "reason": "The message contains a profanity ('hell') which is considered toxic language.",
+  "reason": "The message contains offensive language, specifically the phrase 'what the hell??', which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 9,
   "label": "toxic",

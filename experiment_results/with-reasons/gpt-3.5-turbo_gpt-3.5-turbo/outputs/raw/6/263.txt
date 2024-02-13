@@ -1,9 +1,7 @@
 ```json
 {
-"message": "> why the fuck i get the code of conduct shit every time i open league clientPromise you will be a good player?",
-"reason": "toxic",
-"predicted": "toxic"
+  "message": "> why the fuck i get the code of conduct shit every time i open league clientPromise you will be a good player?",
+  "reason": "The message contains offensive language ('fuck') and displays frustration, which makes it toxic.",
+  "predicted": "toxic"
 }
 ```
-
-The message contains offensive language ("fuck") and expresses frustration towards the code of conduct. The predicted category is "toxic" which aligns with the presence of offensive language and negative sentiment in the message.

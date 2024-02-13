@@ -1,7 +1,6 @@
 ```json
 {
   "message": "daaaaam",
-  "reason": "The text 'daaaaam' is classified as toxic because it contains repetitive characters, which is a common characteristic of toxic language.",
-  "predicted": "toxic"
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```

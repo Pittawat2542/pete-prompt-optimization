@@ -1,6 +1,6 @@
 {
   "message": "4X m249 op on sanhok",
-  "reason": "The message does not contain any offensive or harmful language. It appears to be a discussion about a weapon in the game 'Sanhok'. Therefore, it can be classified as 'clean'.",
+  "reason": "The message appears to be discussing gameplay in an online community. It includes references to in-game items and locations, indicating a discussion about strategies or tactics. There is no offensive or harmful content present.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

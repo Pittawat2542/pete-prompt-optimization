@@ -1,6 +1,6 @@
 {
   "message": "HELL NO",
-  "reason": "The message contains strong language and is likely to be considered toxic.",
+  "reason": "The message contains offensive language, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 9,
   "label": "clean",

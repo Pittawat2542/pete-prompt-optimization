@@ -1,7 +1,0 @@
-```json
-{
-"message": "shit winds are acomin'!",
-"reason": "The message contains a profanity which is generally considered offensive and inappropriate in a respectful online community.",
-"predicted": "toxic"
-}
-```

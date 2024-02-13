@@ -1,7 +1,7 @@
 ```json
 {
-"message": "the hell is a karak?",
-"reason": "The message does not contain any offensive or harmful language. It is a simple question asking for the meaning of the word 'karak'.",
-"predicted": "clean"
+  "message": "the hell is a karak?",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
 ```

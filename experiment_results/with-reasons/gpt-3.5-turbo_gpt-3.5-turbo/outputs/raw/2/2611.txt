@@ -1,7 +1,5 @@
-```json
 {
 "message": "Spoopy hamtime",
-"reason": "The message does not contain any offensive or harmful language. It is a playful phrase that combines the words 'spoopy' and 'hamtime'.",
+"reason": "The message does not contain offensive language and is not derogatory. It is a playful and lighthearted phrase.",
 "predicted": "clean"
 }
-```

@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be "clean".
-
-```json
-{
-"message": "oh shit man... great stuff!",
-"reason": "Despite the use of a mild expletive, the model has classified the message as 'clean' because it does not contain any offensive or harmful content. The overall sentiment of the message is positive.",
-"predicted": "clean"
-}
-```

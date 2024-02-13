@@ -1,6 +1,6 @@
 {
   "message": "are you twitch single?",
-  "reason": "The message contains a question about someone's relationship status, which is not offensive or harmful. It does not contain any explicit or abusive language. Therefore, it can be classified as clean.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",

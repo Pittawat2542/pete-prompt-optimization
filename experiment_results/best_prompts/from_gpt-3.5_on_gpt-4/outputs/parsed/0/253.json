@@ -1,8 +1,0 @@
-{
-  "message": "I fucking love those videos",
-  "reason": "The model classified the message as toxic due to the use of profanity, despite the overall positive sentiment.",
-  "predicted": "toxic",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

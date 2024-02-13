@@ -1,7 +1,7 @@
 ```json
 {
 "message": "why asia server ?",
-"reason": "The message does not contain any offensive or harmful language, and it seems to be a simple question about the choice of the Asia server. Therefore, it can be classified as 'clean'.",
+"reason": "The message is a simple question asking about the reason behind the existence of an Asia server. It does not contain any offensive or harmful language.",
 "predicted": "clean"
 }
 ```

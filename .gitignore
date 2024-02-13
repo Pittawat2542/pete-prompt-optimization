@@ -1,4 +1,6 @@
 data/GGWP-Toxic-Behavior/
+experiment_results
+prev_with_new_pe
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,python,pycharm+all,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,python,pycharm+all,jupyternotebooks

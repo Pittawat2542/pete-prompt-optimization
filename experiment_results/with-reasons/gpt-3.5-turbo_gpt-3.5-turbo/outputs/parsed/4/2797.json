@@ -1,6 +1,6 @@
 {
   "message": "shit winds are acomin'!",
-  "reason": "The predicted category is 'toxic' because the message contains offensive language ('shit'). The model has correctly identified this as toxic based on its training data.",
+  "reason": "The message contains offensive language, specifically the word 'shit', which is considered vulgar and inappropriate. This indicates a toxic tone.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

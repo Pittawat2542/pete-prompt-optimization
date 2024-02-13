@@ -1,7 +1,5 @@
-```json
 {
 "message": "EZ GG",
-"reason": "The message contains the abbreviation 'EZ' which is commonly used in online gaming communities to mean 'easy'. This can be interpreted as a taunt or boastful comment, which falls under the 'toxic' category.",
-"predicted": "toxic"
+"reason": "The message is a common gaming phrase used to express victory and is not offensive or derogatory.",
+"predicted": "clean"
 }
-```

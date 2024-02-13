@@ -1,6 +1,6 @@
 {
   "message": "Well,rip clips alisaYikes",
-  "reason": "The message contains the word 'rip' which can be interpreted as a negative or disrespectful comment. Additionally, the word 'Yikes' is often used to express surprise or disappointment, which can contribute to a toxic atmosphere.",
+  "reason": "The message contains the phrase 'rip clips' which could be interpreted as negative or disrespectful towards someone or something. Additionally, the use of 'alisaYikes' suggests that the message may be mocking or making fun of someone named Alisa. Therefore, the message can be classified as toxic.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "clean",

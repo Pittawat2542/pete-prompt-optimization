@@ -1,7 +1,7 @@
 ```json
 {
   "message": "11649 times KEKW",
-  "reason": "The message consists of a number followed by a phrase that is likely a meme or slang term. It does not contain any offensive or harmful language, and there is no indication of toxicity or negativity.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean"
 }
 ```

@@ -1,7 +1,6 @@
 ```json
 {
-"message": "oh shit my boy is bigtime",
-"reason": "The message contains profanity ('shit'), which is considered toxic. Additionally, the use of the phrase 'bigtime' could be interpreted as boasting or bragging, which can also contribute to a toxic atmosphere.",
-"predicted": "toxic"
+  "message": "oh shit my boy is bigtime",
+  "reason": "The message contains profanity ('shit') which is considered offensive and inappropriate. It is classified as toxic.",
+  "predicted": "toxic"
 }
-```

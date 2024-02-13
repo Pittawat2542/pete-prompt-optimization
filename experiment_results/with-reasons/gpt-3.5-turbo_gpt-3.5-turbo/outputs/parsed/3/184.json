@@ -1,6 +1,6 @@
 {
   "message": "you mean blind pick?",
-  "reason": "The message is clean because it does not contain any offensive or harmful language. The predicted category is based on the model's analysis of the text and its comparison to the examples in the 'Prediction result' section.",
+  "reason": "clean",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

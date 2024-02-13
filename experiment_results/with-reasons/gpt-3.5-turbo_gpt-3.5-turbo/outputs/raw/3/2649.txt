@@ -1,7 +1,9 @@
 ```json
 {
-"message": "doooooo it",
-"reason": "The predicted category is 'clean'. The text 'doooooo it' does not contain any offensive or harmful language. It is a simple and harmless phrase that encourages someone to do something.",
-"predicted": "clean"
+  "message": "doooooo it",
+  "reason": "clean",
+  "predicted": "clean"
 }
 ```
+
+The message "doooooo it" does not contain any offensive or harmful language. It is a simple phrase that does not violate any community guidelines, hence it can be classified as "clean".

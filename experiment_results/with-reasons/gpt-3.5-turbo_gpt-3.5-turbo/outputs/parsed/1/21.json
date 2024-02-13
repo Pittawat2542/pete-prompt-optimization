@@ -1,7 +1,7 @@
 {
   "message": "dont know why every game i get people like this on my team",
-  "reason": "The message expresses frustration about consistently encountering difficult teammates in games. While it may be a negative sentiment, it does not contain any offensive or harmful language, and the tone is not aggressive or disrespectful. Therefore, it can be classified as a clean message.",
-  "predicted": "clean",
+  "reason": "The message expresses frustration and negativity towards the people the user encounters in their games. It implies a negative experience and a possible toxic environment.",
+  "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

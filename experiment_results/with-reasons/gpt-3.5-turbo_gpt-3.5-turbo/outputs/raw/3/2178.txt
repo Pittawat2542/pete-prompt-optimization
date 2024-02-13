@@ -1,7 +1,9 @@
 ```json
 {
 "message": "only 52 alive?",
-"reason": "The message does not contain any offensive or harmful language. It is a simple question about the number of people alive. Therefore, it can be classified as 'clean'.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "only 52 alive?" does not contain any offensive or harmful language. It appears to be a simple question asking about the number of people still alive. Therefore, it can be classified as a clean message.

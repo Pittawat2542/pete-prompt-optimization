@@ -1,7 +1,7 @@
 ```json
 {
 "message": "rando squad?",
-"reason": "The message is a simple question asking if anyone wants to form a random squad.",
+"reason": "The message is a simple question asking if anyone wants to form a random squad. It does not contain any offensive or harmful language.",
 "predicted": "clean"
 }
 ```

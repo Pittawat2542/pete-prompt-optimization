@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Sooooo if u say u have a GF ur actually lying so 5head",
-"reason": "The text contains derogatory language ('lying') and insults ('5head'), indicating a toxic tone.",
-"predicted": "toxic"
+  "message": "Sooooo if u say u have a GF ur actually lying so 5head",
+  "reason": "The message contains disrespectful content and uses offensive language, making it toxic.",
+  "predicted": "toxic"
 }
 ```

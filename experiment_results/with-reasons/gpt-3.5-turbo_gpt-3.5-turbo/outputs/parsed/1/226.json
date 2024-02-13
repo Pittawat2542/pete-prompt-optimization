@@ -1,6 +1,6 @@
 {
   "message": "which is dumb as fuck lmao",
-  "reason": "The message contains offensive language ('dumb as fuck') which is derogatory and disrespectful. The use of 'lmao' at the end does not negate the toxicity of the message.",
+  "reason": "The message contains offensive language ('dumb as fuck') which is disrespectful and derogatory. The use of such language indicates a toxic tone.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

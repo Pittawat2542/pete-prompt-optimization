@@ -1,7 +1,7 @@
 ```json
 {
   "message": "Hell no ew",
-  "reason": "The message contains negative language ('Hell no') and an expression of disgust ('ew'). These elements suggest a negative and potentially offensive tone, indicating that the message is toxic.",
+  "reason": "The message contains negative language and lacks context, which makes it difficult to determine the exact intention behind it. However, the use of the word 'Hell' and the negative response 'no' suggest a negative tone. Additionally, the inclusion of 'ew' indicates a strong negative reaction. Therefore, the message can be classified as toxic.",
   "predicted": "toxic"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Start with this and upgrade if it's shit",
-"reason": "The message contains a potentially offensive term 'shit', which indicates a toxic category. The model has predicted the category as toxic, which aligns with the presence of the offensive term.",
-"predicted": "toxic"
+  "message": "Start with this and upgrade if it's shit",
+  "reason": "The message contains a vulgar term ('shit') which is considered offensive and inappropriate. It can be classified as toxic.",
+  "predicted": "toxic"
 }
 ```

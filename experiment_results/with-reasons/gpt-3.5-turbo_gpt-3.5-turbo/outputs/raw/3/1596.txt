@@ -1,7 +1,9 @@
 ```json
 {
-"message": "yeah",
-"reason": "The predicted category is 'clean' because the text 'yeah' does not contain any offensive or harmful language. It is a simple and neutral response that does not violate any community guidelines.",
-"predicted": "clean"
+  "message": "yeah",
+  "reason": "clean",
+  "predicted": "clean"
 }
 ```
+
+The message "yeah" is classified as "clean" because it is a simple and neutral response that does not contain any offensive or harmful content.

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "tglGG",
-"reason": "The message 'tglGG' does not contain any explicit or offensive language. It is a short and ambiguous message that does not provide enough context to determine its intent. Therefore, it can be classified as a 'clean' message.",
-"predicted": "clean"
+  "message": "tglGG",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

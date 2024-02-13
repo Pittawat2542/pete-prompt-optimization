@@ -1,7 +1,9 @@
 ```json
 {
 "message": "so its not the fucking card",
-"reason": "The message contains offensive language ('fucking'), which is a strong indicator of toxicity.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message contains offensive language ("fucking"), which is considered toxic. Therefore, the message is classified as toxic.

@@ -1,6 +1,6 @@
 {
   "message": "nb3LUL nb3LUL nb3LUL",
-  "reason": "The message consists of repetitive text 'nb3LUL'. Although the content itself does not contain any explicit toxic language, the repetitive nature of the message could be considered spam or disruptive in an online community. Therefore, it can be classified as 'toxic'.",
+  "reason": "The message consists of repetitive text that does not convey any meaningful information. It is likely spam or trolling behavior, which can be considered toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "clean",

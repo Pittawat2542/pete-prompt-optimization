@@ -1,7 +1,9 @@
 ```json
 {
 "message": "PeepoWeen",
-"reason": "The message does not contain any offensive or harmful language. It appears to be a reference to a holiday or event called 'PeepoWeen'. Since the message does not exhibit any toxic behavior, it can be classified as clean.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "PeepoWeen" does not contain any offensive or harmful content. It appears to be a term or phrase related to Halloween, which is a harmless topic. Therefore, the message can be classified as "clean".

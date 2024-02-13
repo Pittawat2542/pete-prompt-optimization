@@ -1,6 +1,6 @@
 {
   "message": "time to get some free shit",
-  "reason": "The message contains offensive language ('shit') which indicates a toxic category.",
+  "reason": "The message contains offensive language ('shit') and is expressing a desire to obtain something for free, which can be seen as dishonest or unethical. It is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "clean",

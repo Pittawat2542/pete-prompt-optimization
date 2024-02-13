@@ -1,7 +1,7 @@
 {
   "message": "RT @PeterXinping: If You Want To Get Girls You Should Just Be Yourself! \n\nUnless You\u00e2\u20ac\u2122re 5\u00e2\u20ac\u21228, No Muscles, 3000 Hours League Of Legends, Twit\u00e2\u20ac\u00a6",
-  "reason": "The message contains derogatory language and negative stereotypes about physical appearance and interests. It is likely to be classified as toxic.",
-  "predicted": "toxic",
+  "reason": "The message contains sarcastic and self-deprecating remarks, but does not display offensive or harmful content. Therefore, it can be classified as clean.",
+  "predicted": "clean",
   "prompt_version": 6,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

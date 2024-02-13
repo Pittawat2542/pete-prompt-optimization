@@ -1,7 +1,5 @@
-```json
 {
 "message": "ahhh gotcha",
-"reason": "The message is classified as 'clean' because it does not contain any offensive or harmful language. It is a simple expression of understanding or realization.",
+"reason": "The message does not contain offensive language and is not derogatory. It is a casual expression of understanding.",
 "predicted": "clean"
 }
-```

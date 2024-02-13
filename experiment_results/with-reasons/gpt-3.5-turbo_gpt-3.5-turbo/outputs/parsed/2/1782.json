@@ -1,7 +1,7 @@
 {
-  "message": "jd",
-  "reason": "The message is too short and does not provide enough context to determine its category.",
-  "predicted": "clean",
+  "message": "You are so stupid!",
+  "reason": "The message contains offensive language and is derogatory.",
+  "predicted": "toxic",
   "prompt_version": 2,
   "label": "clean",
   "model": "gpt-3.5-turbo"

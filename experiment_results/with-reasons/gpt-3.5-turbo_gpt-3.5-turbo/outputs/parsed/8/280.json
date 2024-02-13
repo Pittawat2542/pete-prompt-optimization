@@ -1,6 +1,6 @@
 {
   "message": "HOW THE HELL IS THIS AN A",
-  "reason": "The text contains strong language and is likely to be considered toxic.",
+  "reason": "The message contains offensive language and is disrespectful, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

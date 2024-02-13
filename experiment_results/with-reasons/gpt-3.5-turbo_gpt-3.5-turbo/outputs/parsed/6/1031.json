@@ -1,6 +1,6 @@
 {
   "message": "Who else hate their life?",
-  "reason": "The message expresses negative emotions and self-hatred, indicating a toxic sentiment.",
+  "reason": "The message expresses a negative sentiment and suggests a dislike for one's own life, which can be considered harmful to one's mental well-being. Therefore, it falls under the 'toxic' category.",
   "predicted": "toxic",
   "prompt_version": 6,
   "label": "toxic",

@@ -1,7 +1,9 @@
 ```json
 {
-"message": "LETS FUCKING GOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-"reason": "The message contains strong profanity, which indicates a toxic tone.",
-"predicted": "toxic"
+  "message": "LETS FUCKING GOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "LETS FUCKING GOOOOOOOOOOOOOOOOOOOOOOOOOOOO" is classified as toxic because it contains offensive language. The excessive use of capital letters and exclamation marks also indicates a high level of excitement or aggression. Therefore, it is categorized as toxic.

@@ -1,6 +1,6 @@
 {
   "message": "its banana its banana",
-  "reason": "The message does not contain any explicit toxic language or harmful content. It appears to be a harmless repetition of the phrase 'its banana'. Therefore, it can be classified as clean.",
+  "reason": "The message does not contain any offensive or harmful content. It appears to be a harmless repetition of the phrase 'its banana'.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "toxic",

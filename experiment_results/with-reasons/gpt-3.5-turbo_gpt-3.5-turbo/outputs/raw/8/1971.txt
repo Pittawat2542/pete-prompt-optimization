@@ -1,7 +1,6 @@
 ```json
 {
   "message": "dizzy_face:",
-  "reason": "The text 'dizzy_face:' does not contain any toxic or offensive language. It appears to be an emoji or an expression used to convey a feeling of dizziness or disorientation. Therefore, it can be classified as 'clean'.",
+  "reason": "The message consists of an emoji, which does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean"
 }
-```

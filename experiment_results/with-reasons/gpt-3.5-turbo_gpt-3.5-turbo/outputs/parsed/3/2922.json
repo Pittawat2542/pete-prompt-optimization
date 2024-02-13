@@ -1,6 +1,6 @@
 {
   "message": "Dude tglWtf",
-  "reason": "The predicted category is 'toxic' because the text contains offensive language ('Wtf'). The model has correctly identified this as toxic based on the provided examples where similar language was classified as toxic.",
+  "reason": "toxic language used ('Wtf')",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

@@ -1,6 +1,6 @@
 {
   "message": "bc my stupid dog eat it",
-  "reason": "The message contains a derogatory term ('stupid') which is considered toxic. This indicates a negative sentiment towards the dog, which falls into the 'toxic' category.",
+  "reason": "The message contains a derogatory term ('stupid') which can be considered offensive and toxic.",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

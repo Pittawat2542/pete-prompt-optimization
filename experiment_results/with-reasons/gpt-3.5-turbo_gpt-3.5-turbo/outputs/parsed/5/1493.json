@@ -1,6 +1,6 @@
 {
   "message": "@jrrod91 do you think a new clip is a spam",
-  "reason": "The message does not contain any toxic language or offensive content. It is a simple question asking for an opinion about whether a new clip is considered spam. There is no indication of any harmful intent or negative behavior.",
+  "reason": "The message is asking for an opinion about whether a new clip is considered spam. It does not contain any offensive or harmful content.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

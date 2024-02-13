@@ -1,19 +1,44 @@
-Classify the text provided below from a chat in an online community into one of the specified categories along with a reason in the specified JSON format in a Markdown code block (between `json` and `code`). Utilize the information from the "Prediction result" section to correctly classify the text.
+**Prompt:**
 
-Categories: "toxic", "clean"
+Classify the following "Message" from chat in an online community into one of the specified categories along with a reason in the specified JSON format in a Markdown code block (between ```json and ```). Ensure that the output includes the predicted category. Also, ensure that the output format matches the original prompt exactly. 
 
-Text: <message>
+## Categories:
+- "toxic": Indicates if the message displays offensive, harmful, or disrespectful content.
+- "clean": Indicates if the message is free from offensive or harmful content.
 
-Output format:
+## Message: 
+<message>
+
+**Output format:**
 ```json
 {
-"message": <message>,
-"reason": <reason>,
-"predicted": <predicted category>
+  "message": "<message>",
+  "reason": "<reason>",
+  "predicted": "<predicted category>"
 }
 ```
 
-Please adhere to the following rules:
-1. The content of the "Text" and "predicted category" must not be modified.
-2. The "reason" should provide an explanation or justification for the classification, based on the information obtained from the "Prediction result" section.
-3. Consider other examples in the "Prediction result" section to guide your classification.
+Please provide a category along with a reason as to why you classified the message in that particular category. You should include the predicted category in the output exactly as shown in the original prompt. Ensure that the predicted category is one of the specified categories ("toxic" or "clean"). 
+
+**Examples:**
+- Example 1:
+  - Message: "You're such a stupid idiot!"
+  - Output format:
+    ```json
+    {
+      "message": "You're such a stupid idiot!",
+      "reason": "The message contains offensive language and insults, which makes it toxic.",
+      "predicted": "toxic"
+    }
+    ```
+
+- Example 2:
+  - Message: "Thanks for the help!"
+  - Output format:
+    ```json
+    {
+      "message": "Thanks for the help!",
+      "reason": "The message shows appreciation and does not contain any offensive content, making it clean.",
+      "predicted": "clean"
+    }
+    ```

@@ -1,7 +1,9 @@
 ```json
 {
 "message": "so he decided its my fault and wanted to ruin everyons game",
-"reason": "The message contains negative sentiment and expresses blame towards someone, indicating a toxic behavior. The word 'ruin' suggests an intention to harm or disrupt the game, further supporting the toxic classification.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message contains negative and accusatory language, suggesting a toxic behavior. The phrase "he decided its my fault and wanted to ruin everyons game" indicates a hostile and disruptive intention, which is characteristic of toxic behavior in online communities. Therefore, the message is classified as toxic.

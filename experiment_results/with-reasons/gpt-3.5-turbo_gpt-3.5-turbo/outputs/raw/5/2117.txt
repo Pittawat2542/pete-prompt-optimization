@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@mfyntz tgl5Head",
-"reason": "The message does not contain any explicit toxic language or offensive content. It appears to be a random combination of characters and does not convey any harmful intent or negative sentiment. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "@mfyntz tgl5Head",
+  "reason": "The message contains a username and a random string of characters. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

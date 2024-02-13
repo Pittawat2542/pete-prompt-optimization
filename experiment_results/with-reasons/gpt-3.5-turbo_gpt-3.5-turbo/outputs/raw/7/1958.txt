@@ -1,9 +1,7 @@
 ```json
 {
-"message": "https://specs.gg/tgltn",
-"reason": "clean",
-"predicted": "clean"
+  "message": "https://specs.gg/tgltn",
+  "reason": "The message does not contain any text, making it clean.",
+  "predicted": "clean"
 }
 ```
-
-The given message is classified as "clean" based on the information obtained from the "Prediction result" section. Since the message itself is a URL, it does not contain any text that can be classified as toxic. Therefore, it is considered clean.

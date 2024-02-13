@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Hell no ew",
-"reason": "The message contains negative sentiment and an expression of disgust ('ew'). This indicates a toxic tone.",
-"predicted": "toxic"
+  "message": "Hell no ew",
+  "reason": "The message contains offensive language ('Hell') and a derogatory term ('ew'), which makes it toxic.",
+  "predicted": "toxic"
 }
 ```

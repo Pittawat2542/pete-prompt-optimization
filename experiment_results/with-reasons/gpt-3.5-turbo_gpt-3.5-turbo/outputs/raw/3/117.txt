@@ -1,7 +1,9 @@
 ```json
 {
 "message": "TOP 0.1% popularity 33.3% win rate",
-"reason": "The message does not contain any offensive or harmful language. It is simply stating statistics about popularity and win rate. Therefore, it can be classified as clean.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "TOP 0.1% popularity 33.3% win rate" does not contain any offensive or harmful language. It appears to be a statement about someone's popularity and win rate in a game or online community. Therefore, it can be classified as a clean message.

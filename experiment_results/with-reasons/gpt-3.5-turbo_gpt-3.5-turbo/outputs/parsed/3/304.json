@@ -1,6 +1,6 @@
 {
   "message": "fuck this mmr god why",
-  "reason": "The message contains offensive language ('fuck') which is considered toxic. The user expresses frustration and anger ('why') which further indicates a negative sentiment. The model predicted the category as 'toxic' based on these indicators.",
+  "reason": "toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

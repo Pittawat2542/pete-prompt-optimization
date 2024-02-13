@@ -1,7 +1,6 @@
 ```json
 {
-"message": "fiesta fiesta pluma pluma gay",
-"reason": "The message contains offensive language and is derogatory towards the LGBTQ+ community.",
-"predicted": "toxic"
+  "message": "fiesta fiesta pluma pluma gay",
+  "reason": "The message contains offensive language and slurs, which makes it toxic.",
+  "predicted": "toxic"
 }
-```

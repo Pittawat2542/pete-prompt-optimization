@@ -1,7 +1,9 @@
 ```json
 {
-"message": "Yami has inted 11650 times KEKW",
-"reason": "The message contains the term 'inted', which is a slang term used in online gaming communities to refer to intentionally feeding or playing poorly on purpose. This behavior is often considered toxic and goes against the spirit of fair play and teamwork in online games.",
-"predicted": "toxic"
+  "message": "Yami has inted 11650 times KEKW",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message is classified as "toxic" because it contains the term "inted," which is a slang term used in online gaming communities to refer to intentionally feeding or throwing a game. This kind of behavior is often considered toxic and disruptive to the gaming experience.

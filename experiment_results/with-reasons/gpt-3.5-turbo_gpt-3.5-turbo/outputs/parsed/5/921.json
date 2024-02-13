@@ -1,6 +1,6 @@
 {
   "message": "Wiping shit WutFace",
-  "reason": "The message contains a vulgar term ('shit'), which is considered toxic. The presence of this term indicates that the message falls into the 'toxic' category.",
+  "reason": "The message contains offensive language and is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

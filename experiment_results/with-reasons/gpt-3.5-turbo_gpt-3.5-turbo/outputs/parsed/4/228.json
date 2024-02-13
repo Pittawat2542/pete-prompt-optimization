@@ -1,6 +1,6 @@
 {
   "message": "how can that even be fucking compared?",
-  "reason": "The message contains offensive language ('fucking'), which indicates a toxic tone.",
+  "reason": "The message contains offensive language ('fucking') which is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

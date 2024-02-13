@@ -1,7 +1,9 @@
 ```json
 {
 "message": "why the *fuck* do people in plat just s u c k",
-"reason": "The message contains offensive language ('fuck') which indicates toxic behavior.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message contains offensive language ("fuck") and a negative sentiment towards people in the "plat" category. This indicates a toxic behavior, hence the message is classified as "toxic".

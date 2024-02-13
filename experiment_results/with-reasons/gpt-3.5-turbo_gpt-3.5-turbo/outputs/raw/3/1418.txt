@@ -1,7 +1,7 @@
 ```json
 {
 "message": "ooo we get a chickirhinooooo",
-"reason": "The message does not contain any offensive or harmful language. It appears to be a playful and enthusiastic comment about something exciting or interesting. Therefore, it can be classified as 'clean'.",
+"reason": "The message contains informal language and repeated letters, which suggests excitement or enthusiasm. However, there is no offensive or harmful content present.",
 "predicted": "clean"
 }
 ```

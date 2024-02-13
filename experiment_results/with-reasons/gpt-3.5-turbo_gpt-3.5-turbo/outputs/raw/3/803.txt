@@ -1,7 +1,9 @@
 ```json
 {
 "message": "stop watch Pog",
-"reason": "The message does not contain any offensive or harmful language. It is a simple statement expressing excitement or approval. The predicted category is 'clean' because it does not exhibit any toxic behavior.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "stop watch Pog" does not contain any offensive or harmful language. It appears to be a simple statement related to stopping a watch, possibly in a gaming context. Therefore, it can be classified as a clean message.

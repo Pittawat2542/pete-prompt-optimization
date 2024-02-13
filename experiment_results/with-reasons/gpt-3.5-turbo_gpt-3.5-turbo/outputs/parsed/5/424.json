@@ -1,6 +1,6 @@
 {
   "message": "I'm safe for now so fuck you guys",
-  "reason": "The message contains offensive language ('fuck you guys'), which is a clear indication of toxicity. The model has correctly predicted the category as 'toxic'.",
+  "reason": "The message contains offensive language ('fuck you') which is considered toxic and disrespectful.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

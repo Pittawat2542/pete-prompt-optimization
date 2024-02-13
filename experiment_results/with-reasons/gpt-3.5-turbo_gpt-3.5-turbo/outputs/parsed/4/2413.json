@@ -1,6 +1,6 @@
 {
   "message": "did u like that solo ranked @ibiza",
-  "reason": "The message does not contain any offensive or harmful language, and it seems to be a question about someone's opinion on a solo ranked game. Therefore, it can be classified as clean.",
+  "reason": "The message does not contain any offensive or harmful language. It is a simple question asking if the person liked their solo ranked game with @ibiza.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

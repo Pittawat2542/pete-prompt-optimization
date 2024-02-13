@@ -1,7 +1,9 @@
 ```json
 {
 "message": "you mean blind pick?",
-"reason": "The message is clean because it does not contain any offensive or harmful language. The predicted category is also clean, which aligns with the content of the message.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "you mean blind pick?" is classified as "clean" because it does not contain any offensive or harmful language. It is a simple question related to a game mode in an online community.

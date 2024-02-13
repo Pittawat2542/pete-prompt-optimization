@@ -1,7 +1,7 @@
 {
   "message": "ohh shit summit retired ?",
-  "reason": "The message does not contain any offensive or harmful language. It is a simple expression of surprise and does not exhibit any toxic behavior.",
-  "predicted": "clean",
+  "reason": "The message contains offensive language, which makes it toxic.",
+  "predicted": "toxic",
   "prompt_version": 6,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

@@ -1,6 +1,6 @@
 {
   "message": "fiesta fiesta pluma pluma gay",
-  "reason": "The message contains offensive language ('pluma pluma gay') which is derogatory towards the LGBTQ+ community. This falls under the 'toxic' category.",
+  "reason": "The message contains words that may be considered offensive or derogatory.",
   "predicted": "toxic",
   "prompt_version": 2,
   "label": "toxic",

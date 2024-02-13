@@ -1,7 +1,7 @@
 ```json
 {
 "message": "Hes deceptilvely tanky and does not give a hairy rats ass about CC.",
-"reason": "The message contains some strong language ('hairy rats ass') which indicates a negative sentiment. Additionally, the message mentions that the person is 'deceptively tanky' and does not care about CC (crowd control), which suggests a toxic or negative attitude towards the character being discussed.",
+"reason": "The message contains offensive language ('hairy rats ass') which makes it toxic.",
 "predicted": "toxic"
 }
 ```

@@ -1,6 +1,6 @@
 {
   "message": "cause im an idiot lol",
-  "reason": "The message contains self-deprecating language and the use of the word 'idiot' suggests that the person is being harsh on themselves. However, the addition of 'lol' indicates that the statement is meant to be lighthearted and not intended to harm or offend anyone.",
+  "reason": "The message contains self-deprecating language, but it does not contain any offensive or harmful content. It seems to be a lighthearted comment made by the user about themselves.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "toxic",

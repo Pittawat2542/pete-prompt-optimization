@@ -1,7 +1,6 @@
 ```json
 {
-"message": "rawryyLaugh NT NT",
-"reason": "The message is classified as 'clean' because it does not contain any toxic or offensive language. The presence of 'rawryyLaugh' suggests that the message may be expressing laughter or amusement, which is a positive and non-toxic sentiment.",
-"predicted": "clean"
+  "message": "rawryyLaugh NT NT",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```

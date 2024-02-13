@@ -1,7 +1,6 @@
 ```json
 {
-"message": "toxic spammer @hamitcankilic",
-"reason": "The message contains the term 'toxic' which indicates that it is likely to be classified as toxic. Additionally, the term 'spammer' suggests that the message is intended to spam or harass others, further supporting the toxic classification.",
-"predicted": "toxic"
+  "message": "toxic spammer @hamitcankilic",
+  "reason": "The message contains the term 'spammer' which suggests that the user is engaging in unwanted and disruptive behavior. This makes the message toxic.",
+  "predicted": "toxic"
 }
-```

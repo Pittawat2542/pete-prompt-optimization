@@ -1,6 +1,6 @@
 {
   "message": "Hes deceptilvely tanky and does not give a hairy rats ass about CC.",
-  "reason": "The message contains offensive language ('hairy rats ass') and a negative tone ('deceptively tanky').",
+  "reason": "The message contains offensive language ('hairy rats ass') and a negative tone ('does not give a hairy rats ass').",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "clean",

@@ -1,7 +1,9 @@
 ```json
 {
-"message": "It's like lol bitch you thought",
-"reason": "The text contains offensive language ('bitch') which is likely to be classified as toxic.",
-"predicted": "toxic"
+  "message": "It's like lol bitch you thought",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "It's like lol bitch you thought" is classified as toxic because it contains offensive language ("bitch") and a derogatory term. This type of language is typically considered toxic and disrespectful in online communities.

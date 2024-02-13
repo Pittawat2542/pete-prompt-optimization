@@ -1,7 +1,7 @@
 ```json
 {
-"message": "im stupid hbu?ðŸ™‡",
-"reason": "The predicted category is 'toxic'. The text contains a derogatory term ('stupid') which is likely to be considered offensive or insulting. This aligns with the model's prediction of toxicity.",
-"predicted": "toxic"
+  "message": "im stupid hbu?ðŸ™‡",
+  "reason": "The message contains a derogatory term ('stupid') which is considered offensive and disrespectful. This indicates a toxic behavior.",
+  "predicted": "toxic"
 }
 ```

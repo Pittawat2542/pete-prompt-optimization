@@ -1,6 +1,6 @@
 {
   "message": "shit winds are acomin'!",
-  "reason": "The message contains profanity ('shit') which is considered toxic and offensive. The use of such language indicates a negative and disrespectful tone, making the message fall into the 'toxic' category.",
+  "reason": "The message contains offensive language ('shit') and has a negative tone. It can be considered toxic and offensive.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

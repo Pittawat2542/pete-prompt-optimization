@@ -1,7 +1,7 @@
 ```json
 {
-"message": "well\na champ remains in the game forever so",
-"reason": "The message does not contain any offensive or harmful language. It is a positive statement about a champion in a game.",
-"predicted": "clean"
+  "message": "well\na champ remains in the game forever so",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

@@ -1,7 +1,9 @@
 ```json
 {
-"message": "shit happens",
-"reason": "The text falls into the 'toxic' category because the model predicted it as toxic with a high confidence score of 0.95. The phrase 'shit happens' contains a profanity word, which is likely to be considered offensive or vulgar.",
-"predicted": "toxic"
+  "message": "shit happens",
+  "reason": "toxic language",
+  "predicted": "toxic"
 }
 ```
+
+The message "shit happens" contains offensive language, which is considered toxic. Therefore, it is classified as "toxic".

@@ -1,9 +1,0 @@
-Prediction result: The model predicts this message as "clean" with a 98% confidence score. The message seems to be a repetition of usernames or game tags, which doesn't contain any offensive or harmful content.
-
-```json
-{
-"message": "alisaGG alisaGG alisaGG alisaGG naught14Luv naught14Luv naught14Nuts naught14Nuts naught14Nuts naught14Luv naught14Nuts naught14Luv naught14Nuts",
-"reason": "The message is a repetition of usernames or game tags, which doesn't contain any offensive or harmful content.",
-"predicted": "clean"
-}
-```

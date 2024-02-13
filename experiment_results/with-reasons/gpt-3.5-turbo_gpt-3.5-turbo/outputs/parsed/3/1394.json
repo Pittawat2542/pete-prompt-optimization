@@ -1,6 +1,6 @@
 {
   "message": "Arm E D",
-  "reason": "The predicted category is 'clean' because the message does not contain any offensive or harmful language. It is a short phrase that does not convey any toxic or harmful intent.",
+  "reason": "The message 'Arm E D' does not contain any explicit or offensive language. It appears to be a random combination of words or letters without any clear meaning. Therefore, it can be classified as a clean message.",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

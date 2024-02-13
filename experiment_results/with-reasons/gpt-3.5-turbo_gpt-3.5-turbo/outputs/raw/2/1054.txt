@@ -1,7 +1,5 @@
-```json
 {
 "message": "Get the hell out",
-"reason": "The message contains strong language and is aggressive in nature, indicating a toxic tone.",
+"reason": "The message contains offensive language and is aggressive.",
 "predicted": "toxic"
 }
-```

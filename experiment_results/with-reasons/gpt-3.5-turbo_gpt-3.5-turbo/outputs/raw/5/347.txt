@@ -1,7 +1,7 @@
 ```json
 {
-"message": "this shit is like adc graves",
-"reason": "The message contains profanity ('shit'), which is considered toxic. Additionally, the comparison to 'adc graves' suggests a negative connotation, indicating a negative sentiment. Therefore, the message is classified as toxic.",
-"predicted": "toxic"
+  "message": "this shit is like adc graves",
+  "reason": "The message contains offensive language ('shit') which is considered toxic.",
+  "predicted": "toxic"
 }
 ```

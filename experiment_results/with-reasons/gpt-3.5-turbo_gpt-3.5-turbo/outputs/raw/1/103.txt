@@ -1,7 +1,7 @@
 ```json
 {
   "message": "Just due to their sheer kits and presence they have",
-  "reason": "The message does not contain any offensive or harmful language. It seems to be discussing the attributes or qualities of something or someone. There is no indication of toxicity or negativity in the message.",
+  "reason": "The message does not contain any offensive or harmful language. It seems to be discussing the appearance or attributes of something or someone. Therefore, it can be classified as a clean message.",
   "predicted": "clean"
 }
 ```

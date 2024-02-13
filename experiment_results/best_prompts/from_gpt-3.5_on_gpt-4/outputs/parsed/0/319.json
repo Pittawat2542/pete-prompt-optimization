@@ -1,8 +1,0 @@
-{
-  "message": "What the fuck is that",
-  "reason": "The message contains explicit language which is considered offensive and inappropriate in a respectful conversation.",
-  "predicted": "toxic",
-  "prompt_version": 0,
-  "label": "toxic",
-  "model": "gpt-4"
-}

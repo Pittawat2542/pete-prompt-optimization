@@ -1,6 +1,6 @@
 {
   "message": "white_medium_star:\u0001",
-  "reason": "The message 'white_medium_star:\u0001' does not contain any meaningful text or context, making it impossible to determine if it is toxic or clean.",
+  "reason": "The message consists of an emoji code, which does not contain any offensive or harmful content.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

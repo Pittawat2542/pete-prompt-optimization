@@ -1,6 +1,6 @@
 {
   "message": "too E Z",
-  "reason": "The message contains a derogatory term 'E Z' which is often used to belittle or mock someone's skill or effort. This can be considered toxic behavior.",
+  "reason": "The message contains a derogatory term 'E Z' which is often used to mock or belittle someone's skill or effort. This can be considered toxic behavior.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "clean",

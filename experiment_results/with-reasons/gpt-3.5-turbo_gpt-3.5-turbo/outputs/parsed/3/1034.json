@@ -1,6 +1,6 @@
 {
   "message": "> cod is crap which one?",
-  "reason": "The message contains negative language ('crap') which indicates a toxic sentiment.",
+  "reason": "Toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

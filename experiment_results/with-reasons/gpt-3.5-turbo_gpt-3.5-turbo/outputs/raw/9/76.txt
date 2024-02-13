@@ -1,7 +1,7 @@
 ```json
 {
-"message": "hecarim is busted more",
-"reason": "The message contains a statement about a champion being 'busted', which is a term commonly used in online gaming communities to describe a character or item that is overpowered or unbalanced. This suggests a negative sentiment towards the champion, indicating a toxic category.",
-"predicted": "toxic"
+  "message": "hecarim is busted more",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
   "message": "some good players",
-  "reason": "The message does not contain any offensive or harmful language. It simply states that there are some good players in the online community.",
+  "reason": "The message is positive and does not contain any offensive or harmful language. It simply states that there are some good players, which is a neutral and clean statement.",
   "predicted": "clean"
 }
 ```

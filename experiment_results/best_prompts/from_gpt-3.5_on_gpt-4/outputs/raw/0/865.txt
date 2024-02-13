@@ -1,7 +1,0 @@
-```json
-{
-"message": "PLAY SOME NIGHTCORE WEEB SHIT",
-"reason": "The message contains strong language and could be interpreted as offensive or disrespectful towards a certain group of people, hence it is classified as toxic.",
-"predicted": "toxic"
-}
-```

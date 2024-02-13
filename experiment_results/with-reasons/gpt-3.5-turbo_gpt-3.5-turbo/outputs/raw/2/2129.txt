@@ -1,7 +1,5 @@
-```json
 {
 "message": "ha ha ha",
-"reason": "The message consists of repeated laughter, which is typically associated with a positive and lighthearted tone. It does not contain any offensive or harmful language.",
+"reason": "The message consists of laughter, which is generally associated with positivity and humor.",
 "predicted": "clean"
 }
-```

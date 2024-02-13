@@ -1,6 +1,6 @@
 {
   "message": "the hell is a karak?",
-  "reason": "The message does not contain any offensive or harmful language, and it does not seem to be disrespectful or aggressive. It is a simple question asking for clarification about the meaning of 'karak'. Therefore, it can be classified as 'clean'.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 6,
   "label": "toxic",

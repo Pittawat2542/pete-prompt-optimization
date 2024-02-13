@@ -1,6 +1,6 @@
 {
   "message": "laners dying even with vision \u00f0\u0178\u00a4\u00a1",
-  "reason": "The message does not contain any explicit toxic language or offensive content. It seems to be a statement about players dying in a game despite having vision. Therefore, it can be classified as 'clean'.",
+  "reason": "The message expresses frustration and disappointment with the performance of the laners despite having vision. It does not contain any offensive or harmful content.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "toxic",

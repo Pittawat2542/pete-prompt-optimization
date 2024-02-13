@@ -1,7 +1,6 @@
 ```json
 {
-"message": "Iâ€™m married to the game and the game is league of legends and I want a divorce",
-"reason": "The message does not contain any offensive or harmful language. It is a metaphorical statement expressing the person's dedication to the game League of Legends and their desire to stop playing it. Therefore, the message can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "Iâ€™m married to the game and the game is league of legends and I want a divorce",
+  "reason": "The message expresses a strong negative sentiment towards the game 'League of Legends' and uses the metaphor of being married to convey the desire for separation. Although it may not contain explicit offensive language, the message indicates a negative and potentially toxic attitude towards the game.",
+  "predicted": "toxic"
 }
-```

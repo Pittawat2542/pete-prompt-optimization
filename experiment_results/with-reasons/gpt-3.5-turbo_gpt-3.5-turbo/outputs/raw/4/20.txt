@@ -1,7 +1,7 @@
 ```json
 {
 "message": "so he decided its my fault and wanted to ruin everyons game",
-"reason": "The message contains negative sentiment and expresses blame towards someone, indicating a toxic behavior.",
+"reason": "The message contains negative language and expresses a negative intention towards ruining the game for everyone. This indicates a toxic behavior.",
 "predicted": "toxic"
 }
 ```

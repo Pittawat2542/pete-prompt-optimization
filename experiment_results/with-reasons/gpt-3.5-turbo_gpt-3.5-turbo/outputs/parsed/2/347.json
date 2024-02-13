@@ -1,6 +1,6 @@
 {
-  "message": "this shit is like adc graves",
-  "reason": "The message contains profanity ('shit') which is considered toxic.",
+  "message": "This shit is like adc graves",
+  "reason": "The message contains offensive language.",
   "predicted": "toxic",
   "prompt_version": 2,
   "label": "toxic",

@@ -1,6 +1,6 @@
 {
   "message": "nexus blitz is ass",
-  "reason": "The text is classified as toxic because it contains a derogatory term ('ass') which is considered offensive and disrespectful.",
+  "reason": "The message contains a derogatory term, which is considered offensive and disrespectful.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

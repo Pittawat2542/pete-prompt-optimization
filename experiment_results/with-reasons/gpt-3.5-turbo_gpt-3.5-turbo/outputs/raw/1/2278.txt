@@ -1,7 +1,7 @@
 ```json
 {
   "message": "smh thats why i use the m4 long range",
-  "reason": "The message does not contain any offensive or harmful language. It simply states the user's preference for using the M4 long range weapon.",
+  "reason": "The message does not contain any offensive or harmful language. It is a simple statement about the speaker's preference for using the M4 long range weapon. There is no indication of toxicity or any negative intent.",
   "predicted": "clean"
 }
 ```

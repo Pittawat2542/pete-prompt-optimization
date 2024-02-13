@@ -1,6 +1,6 @@
 {
   "message": "gg",
-  "reason": "The message consists of the abbreviation 'gg', which is commonly used in online gaming communities to mean 'good game'. This is a positive and sportsmanlike expression, indicating that the message is clean.",
+  "reason": "The message is short and consists of the abbreviation 'gg', which is commonly used in online gaming to mean 'good game'. It does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",

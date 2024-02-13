@@ -1,7 +1,15 @@
+New Prompt:
+Classify the following "Message" from chat in an online community into one of the specified categories, "toxic" or "clean". Provide a reason for the classification in the specified JSON format. Include the prediction result, which is not present in the original prompt.
+
+Message: "rawryyLaugh @cinnova"
+
+Output format:
 ```json
 {
 "message": "rawryyLaugh @cinnova",
-"reason": "The message does not contain any offensive or harmful language. It is a simple mention or interaction between users.",
+"reason": "The message contains a username mention and an emoji, indicating a playful and friendly interaction.",
 "predicted": "clean"
 }
 ```
+
+Remember to provide the prediction result to accurately classify the message and provide a reason for the assigned category in the specified JSON format.

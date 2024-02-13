@@ -1,7 +1,6 @@
 ```json
 {
-"message": "OH SHIT DESYNC YOUR DEAD",
-"reason": "The message contains offensive language and aggressive tone, indicating a toxic category.",
-"predicted": "toxic"
+  "message": "OH SHIT DESYNC YOUR DEAD",
+  "reason": "The message contains offensive language and threats, which makes it toxic.",
+  "predicted": "toxic"
 }
-```

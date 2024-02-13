@@ -1,7 +1,7 @@
 ```json
 {
-"message": "LUL LUL LUL LUL LUL LUL LUL LUL",
-"reason": "The message consists of repeated instances of the word 'LUL'. Based on the given information, it is not possible to determine the exact meaning or context of this message. However, since the message does not contain any explicit toxic language or harmful content, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "LUL LUL LUL LUL LUL LUL LUL LUL",
+  "reason": "The message consists of repeated instances of 'LUL', which is a common abbreviation for 'laugh out loud'. It is often used in online communities to indicate laughter or amusement. The message does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

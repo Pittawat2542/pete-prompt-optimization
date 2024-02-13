@@ -1,6 +1,6 @@
 {
   "message": "well\na champ remains in the game forever so",
-  "reason": "The predicted category is 'clean'. The message does not contain any offensive or toxic language. It is a positive statement about a champion remaining in the game forever.",
+  "reason": "clean",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

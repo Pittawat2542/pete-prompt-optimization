@@ -1,6 +1,6 @@
 {
   "message": "@guccixslaya cheaters suck hard tho",
-  "reason": "The message contains a negative sentiment towards cheaters, which is a characteristic of toxic behavior.",
+  "reason": "The message contains offensive language ('suck') and negative sentiment ('cheaters') which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 9,
   "label": "toxic",

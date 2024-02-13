@@ -1,7 +1,7 @@
 ```json
 {
   "message": "I like League of legends because I had a guy say I don't care about the role I got I'm playing what I want, then he went 1/9",
-  "reason": "The message describes a negative experience with a player in the game, but it does not contain any offensive or harmful language. It simply states a personal opinion and shares an observation of another player's performance.",
+  "reason": "The message expresses frustration towards a player in League of Legends who disregarded their assigned role and performed poorly in the game. However, the message does not contain any offensive or harmful language, and the frustration is directed towards a specific incident rather than being toxic towards a group of people. Therefore, the message can be classified as 'clean'.",
   "predicted": "clean"
 }
 ```

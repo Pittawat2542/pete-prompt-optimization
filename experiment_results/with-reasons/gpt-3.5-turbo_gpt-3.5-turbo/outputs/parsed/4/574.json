@@ -1,6 +1,6 @@
 {
   "message": "Yami has inted 11650 times KEKW",
-  "reason": "The message contains the term 'inted' which is a slang term used in online gaming communities to refer to intentionally feeding or playing poorly on purpose. This term is often associated with toxic behavior in gaming communities.",
+  "reason": "The message contains the term 'inted', which is a slang term used in online gaming communities to refer to intentionally feeding or playing poorly. Additionally, the use of 'KEKW' suggests a sarcastic or mocking tone. These elements indicate a negative and potentially toxic message.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "clean",

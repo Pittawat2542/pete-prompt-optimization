@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@SmirnofSoldier all good and you... danucdRespect danucdHi",
-"reason": "The message does not contain any offensive or harmful language. It consists of friendly greetings and respectful behavior.",
-"predicted": "clean"
+  "message": "@SmirnofSoldier all good and you... danucdRespect danucdHi",
+  "reason": "The message contains mentions and greetings, but it does not contain any offensive or harmful content. It appears to be a friendly conversation.",
+  "predicted": "clean"
 }
 ```

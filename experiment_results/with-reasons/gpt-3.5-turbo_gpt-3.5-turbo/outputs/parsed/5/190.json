@@ -1,6 +1,6 @@
 {
   "message": "I see HoB more",
-  "reason": "The message does not contain any offensive or harmful language. It appears to be a neutral statement expressing the author's observation or preference. Therefore, it can be classified as 'clean'.",
+  "reason": "The message does not contain any offensive or harmful content. It appears to be a personal opinion or observation.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

@@ -1,6 +1,6 @@
 {
   "message": "this suck",
-  "reason": "The message contains a derogatory term 'suck', which is considered offensive and disrespectful. This indicates a toxic tone.",
+  "reason": "The message contains offensive language and is disrespectful, making it toxic.",
   "predicted": "toxic",
   "prompt_version": 6,
   "label": "toxic",

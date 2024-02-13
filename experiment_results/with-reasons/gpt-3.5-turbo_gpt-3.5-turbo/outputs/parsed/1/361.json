@@ -1,6 +1,6 @@
 {
   "message": "He just fucking runs",
-  "reason": "The use of profanity in the message indicates a negative and aggressive tone. The word 'fucking' is offensive and disrespectful. This message can be classified as toxic.",
+  "reason": "The message contains offensive language ('fucking'), which is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

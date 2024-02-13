@@ -1,7 +1,7 @@
 ```json
 {
-"message": "too E Z",
-"reason": "The message contains a common pattern of using capital letters and spaces to obfuscate offensive language. The use of 'E Z' is a common way to represent the phrase 'easy', which can be interpreted as a derogatory comment or taunt. Therefore, the message is classified as toxic.",
-"predicted": "toxic"
+  "message": "too E Z",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
 ```

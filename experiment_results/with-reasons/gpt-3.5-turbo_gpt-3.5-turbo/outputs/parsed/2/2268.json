@@ -1,6 +1,6 @@
 {
-  "message": "in a Payload game the other day one of the randoms started shooting grens at me",
-  "reason": "The message does not contain any offensive or harmful language. It simply describes an incident in a game where someone started shooting grenades at the author.",
+  "message": "In a Payload game the other day one of the randoms started shooting grens at me",
+  "reason": "The message describes a negative experience in a game, but does not contain offensive language or derogatory remarks.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "clean",

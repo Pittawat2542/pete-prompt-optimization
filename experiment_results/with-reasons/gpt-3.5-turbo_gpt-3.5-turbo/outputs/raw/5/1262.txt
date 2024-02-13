@@ -1,7 +1,7 @@
 ```json
 {
   "message": "hey",
-  "reason": "The message 'hey' is classified as a clean category. The model has predicted it as clean because it is a simple and neutral greeting without any offensive or harmful content.",
+  "reason": "The message is a simple greeting and does not contain any offensive or harmful content.",
   "predicted": "clean"
 }
 ```

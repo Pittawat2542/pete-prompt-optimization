@@ -1,7 +1,5 @@
-```json
 {
 "message": "XD I am gonna get that catch-phrased I promise Tig lol",
-"reason": "The message contains positive and playful language with the use of emoticons like 'XD' and 'lol'. It does not contain any offensive or harmful content.",
+"reason": "The message contains positive language and expresses excitement and humor.",
 "predicted": "clean"
 }
-```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Dont bother with salty lol he's tryna make yall look like an idiot when he is the moron himself",
-"reason": "The message contains derogatory language and insults towards others ('salty', 'idiot', 'moron'). This indicates a toxic behavior and a disrespectful attitude towards others.",
-"predicted": "toxic"
+  "message": "Dont bother with salty lol he's tryna make yall look like an idiot when he is the moron himself",
+  "reason": "The message contains derogatory language ('idiot', 'moron') and is intended to demean someone. It is considered toxic and offensive.",
+  "predicted": "toxic"
 }
 ```

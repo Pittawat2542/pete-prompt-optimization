@@ -1,7 +1,7 @@
 {
   "message": "alisaGG alisaGG alisaGG alisaGG naught14Luv naught14Luv naught14Nuts naught14Nuts naught14Nuts naught14Luv naught14Nuts naught14Luv naught14Nuts",
-  "reason": "The message consists of repeated words and usernames, which is a common pattern in spam or trolling behavior. This repetitive and nonsensical content suggests that the message is likely to be toxic.",
-  "predicted": "toxic",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",
   "model": "gpt-3.5-turbo"

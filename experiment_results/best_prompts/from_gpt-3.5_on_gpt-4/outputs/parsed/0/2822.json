@@ -1,8 +1,0 @@
-{
-  "message": "wtf is this nice @Grizz shit",
-  "reason": "The message contains strong language and potentially offensive words, which is why the model classified it as toxic.",
-  "predicted": "toxic",
-  "prompt_version": 0,
-  "label": "toxic",
-  "model": "gpt-4"
-}

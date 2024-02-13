@@ -1,6 +1,6 @@
 {
   "message": "just dont care",
-  "reason": "The message is short and does not contain any offensive or harmful language.",
+  "reason": "This message is classified as 'clean' because it does not contain any offensive or harmful language.",
   "predicted": "clean",
   "prompt_version": 0,
   "label": "toxic",

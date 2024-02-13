@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@Adooool18 Thanks for the gift sub! soggyWow brkSmaK soggyWow brkSmaK soggyPog brkTSM",
-"reason": "The message does not contain any offensive or harmful language. It is a positive message expressing gratitude for a gift sub. The presence of emotes like 'soggyWow', 'brkSmaK', and 'soggyPog' indicates that the message is related to gaming or streaming, but it does not make the message toxic or offensive.",
-"predicted": "clean"
+  "message": "@Adooool18 Thanks for the gift sub! soggyWow brkSmaK soggyWow brkSmaK soggyPog brkTSM",
+  "reason": "The message is a positive expression of gratitude and excitement for receiving a gift subscription. It includes some emotes commonly used in online communities, but they do not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "!hype",
-"reason": "The message '!hype' does not contain any offensive or harmful language. It is a positive expression of excitement or enthusiasm.",
-"predicted": "clean"
+  "message": "!hype",
+  "reason": "The message contains an exclamation mark followed by the word 'hype'. It does not display any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

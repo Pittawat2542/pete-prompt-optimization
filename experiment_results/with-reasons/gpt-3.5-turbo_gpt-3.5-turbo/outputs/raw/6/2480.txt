@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@animoputt I get it dude. just pokin ya.",
-"reason": "The message is classified as 'clean'. The predicted category is based on the absence of any toxic or offensive language in the message. The model has likely identified the use of friendly and casual language ('dude', 'pokin ya') which indicates a non-toxic conversation.",
-"predicted": "clean"
+  "message": "@animoputt I get it dude. just pokin ya.",
+  "reason": "The message is friendly and does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

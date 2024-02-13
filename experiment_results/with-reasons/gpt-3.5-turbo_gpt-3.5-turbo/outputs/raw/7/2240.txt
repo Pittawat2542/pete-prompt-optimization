@@ -1,7 +1,6 @@
 ```json
 {
-"message": "you need to say niu bi instead of number one",
-"reason": "The message contains a suggestion or recommendation to use a different phrase, but it does not contain any offensive or harmful language. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "you need to say niu bi instead of number one",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
-```

@@ -1,7 +1,7 @@
 {
   "message": "bc my stupid dog eat it",
-  "reason": "The text contains a misspelled word and uses informal language ('bc' instead of 'because'). The phrase 'my stupid dog eat it' suggests frustration or annoyance, which can be interpreted as toxic behavior.",
-  "predicted": "toxic",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean",
   "prompt_version": 8,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

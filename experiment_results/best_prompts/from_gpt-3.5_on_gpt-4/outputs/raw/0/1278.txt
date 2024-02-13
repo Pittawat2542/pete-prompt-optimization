@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message "EZ GG" as non-toxic with a 98% confidence score. The message is a common term used in online gaming communities to indicate an easy win (EZ) and good game (GG).
-
-```json
-{
-"message": "EZ GG",
-"reason": "The message 'EZ GG' is a common term used in online gaming communities to indicate an easy win (EZ) and good game (GG). The model predicts this message as non-toxic with a 98% confidence score.",
-"predicted": "clean"
-}
-```

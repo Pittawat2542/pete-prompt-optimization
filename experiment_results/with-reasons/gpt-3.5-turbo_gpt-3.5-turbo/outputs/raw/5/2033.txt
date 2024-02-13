@@ -1,7 +1,7 @@
 ```json
 {
-"message": "get out rogue",
-"reason": "The message 'get out rogue' can be classified as toxic because it contains an aggressive and derogatory term 'rogue'. This term is often used to insult or belittle someone, which indicates a negative and harmful intent.",
-"predicted": "toxic"
+  "message": "get out rogue",
+  "reason": "The message contains a command to 'get out' and the term 'rogue', which can be interpreted as an insult or derogatory term. It is considered toxic and offensive.",
+  "predicted": "toxic"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@melihozkiremitci danucdHi danucdHi",
-"reason": "The message does not contain any offensive or harmful language. It is a simple greeting or interaction between users.",
-"predicted": "clean"
+  "message": "@melihozkiremitci danucdHi danucdHi",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

@@ -1,7 +1,9 @@
 ```json
 {
-"message": "chocotGotem chocotGotem chocotGotem",
-"reason": "The message does not contain any explicit toxic language or harmful content. It appears to be a repetition of the phrase 'chocotGotem'. Without any context or additional information, it is difficult to determine the intent or meaning behind the message. Therefore, it can be classified as clean.",
-"predicted": "clean"
+  "message": "chocotGotem chocotGotem chocotGotem",
+  "reason": "clean",
+  "predicted": "clean"
 }
 ```
+
+The message "chocotGotem chocotGotem chocotGotem" does not contain any offensive or harmful language. It appears to be a repetitive phrase or username, but it does not exhibit any toxic or harmful behavior. Therefore, it can be classified as "clean".

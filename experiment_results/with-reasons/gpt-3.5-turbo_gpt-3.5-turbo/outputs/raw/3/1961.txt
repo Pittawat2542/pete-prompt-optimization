@@ -1,7 +1,7 @@
 ```json
 {
-"message": "!subs",
-"reason": "The message '!subs' is a command used in online communities to request information about subscriptions. It does not contain any offensive or harmful language, and therefore falls into the 'clean' category.",
-"predicted": "clean"
+  "message": "!subs",
+  "reason": "The message '!subs' does not contain any offensive or harmful language, and it does not violate any community guidelines. It appears to be a harmless request for information or a command related to subscriptions.",
+  "predicted": "clean"
 }
 ```

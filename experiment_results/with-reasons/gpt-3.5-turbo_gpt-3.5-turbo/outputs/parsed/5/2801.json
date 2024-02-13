@@ -1,7 +1,7 @@
 {
   "message": "@guccixslaya cheaters suck hard tho",
-  "reason": "The message contains a negative sentiment towards cheaters, but it does not contain any explicit harmful or offensive language. Therefore, it can be classified as 'clean'.",
-  "predicted": "clean",
+  "reason": "The message contains a derogatory term ('suck') and expresses a negative sentiment towards cheaters. It can be considered toxic and offensive.",
+  "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

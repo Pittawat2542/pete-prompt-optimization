@@ -1,6 +1,6 @@
 {
   "message": "its really hard with your ping",
-  "reason": "The message does not contain any offensive or harmful language. It simply states that it is difficult to perform a certain task due to the person's high ping. Therefore, it can be classified as 'clean'.",
+  "reason": "The message does not contain any offensive or harmful language. It simply states that it is difficult to perform a certain task due to the person's high ping, which refers to the delay in internet connection. There is no indication of any toxic behavior or intent.",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be 80% toxic.
-
-```json
-{
-"message": "fuck support yuumi",
-"reason": "The message contains a profanity directed towards a specific character or role, which is considered as toxic behavior in an online community.",
-"predicted": "toxic"
-}
-```

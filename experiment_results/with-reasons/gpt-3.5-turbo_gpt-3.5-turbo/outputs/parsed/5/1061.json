@@ -1,6 +1,6 @@
 {
   "message": "Melanie is in hell now",
-  "reason": "The message can be classified as toxic because it contains a negative and potentially harmful statement about someone. The use of the word 'hell' suggests a negative and hostile sentiment towards Melanie.",
+  "reason": "The message contains a negative statement about someone, suggesting that they are in a bad place. It may be interpreted as toxic or offensive.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

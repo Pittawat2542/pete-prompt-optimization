@@ -1,7 +1,7 @@
 ```json
 {
-"message": "doooooo it",
-"reason": "The message contains repeated characters, which is a common pattern in toxic messages. This suggests that the message may be intended to provoke or annoy others.",
-"predicted": "toxic"
+  "message": "doooooo it",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
 ```

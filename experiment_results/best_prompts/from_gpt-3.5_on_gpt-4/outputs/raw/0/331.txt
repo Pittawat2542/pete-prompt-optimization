@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be toxic with a 90% probability.
-
-```json
-{
-"message": "why the *fuck* do people in plat just s u c k",
-"reason": "The message contains explicit language and is disrespectful towards a group of people, which is considered toxic behavior in an online community.",
-"predicted": "toxic"
-}
-```

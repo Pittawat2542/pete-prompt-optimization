@@ -1,8 +1,0 @@
-{
-  "message": "rando squad?",
-  "reason": "The message is a simple question asking about a random squad, which does not contain any offensive or harmful content.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

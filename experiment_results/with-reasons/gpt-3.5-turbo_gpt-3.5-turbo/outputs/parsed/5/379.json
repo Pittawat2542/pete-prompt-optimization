@@ -1,6 +1,6 @@
 {
   "message": "fuck that champion and his entire bullshit kit",
-  "reason": "The message contains offensive language ('fuck') and expresses strong negative sentiment towards the champion and their abilities ('bullshit kit'). This indicates a toxic category.",
+  "reason": "The message contains offensive language and expresses frustration towards a specific champion and their abilities. It can be considered toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

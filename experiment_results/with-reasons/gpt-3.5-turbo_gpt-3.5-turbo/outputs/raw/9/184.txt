@@ -1,7 +1,7 @@
 ```json
 {
   "message": "you mean blind pick?",
-  "reason": "The message does not contain any offensive or harmful language. It is a simple question asking for clarification.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "hi yamikaze do you know enthralled?",
-"reason": "The message is clean.",
-"predicted": "clean"
+  "message": "hi yamikaze do you know enthralled?",
+  "reason": "The message is clean.",
+  "predicted": "clean"
 }
 ```

@@ -1,6 +1,6 @@
 {
   "message": "In 12 mins",
-  "reason": "The message 'In 12 mins' does not contain any toxic or offensive language. It is a neutral statement that does not attack or harm anyone. Therefore, it can be classified as 'clean'.",
+  "reason": "The message does not contain any offensive or harmful content. It is a neutral statement indicating a time duration.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

@@ -1,7 +1,7 @@
 {
   "message": "man i hate darius so much hes so stupid",
-  "reason": "The message contains negative sentiment and derogatory language towards a person named Darius. This indicates a toxic category.",
-  "predicted": "toxic",
+  "reason": "The message expresses a strong negative sentiment towards someone named Darius, but it does not contain any offensive or harmful language. Therefore, it can be classified as clean.",
+  "predicted": "clean",
   "prompt_version": 7,
   "label": "clean",
   "model": "gpt-3.5-turbo"

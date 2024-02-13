@@ -1,7 +1,5 @@
-```json
 {
 "message": "114 kills again? you're a legend",
-"reason": "The message contains positive language and compliments the person's performance, referring to them as a 'legend'. This indicates a positive and supportive tone, making it a clean message.",
+"reason": "The message contains positive language and expresses admiration.",
 "predicted": "clean"
 }
-```

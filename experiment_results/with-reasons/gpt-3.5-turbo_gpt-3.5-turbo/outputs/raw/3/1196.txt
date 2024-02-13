@@ -1,7 +1,9 @@
 ```json
 {
 "message": "Maybe it?s talking about her smoothie PogChamp",
-"reason": "The message does not contain any offensive or harmful language. It is a positive comment about someone's smoothie, which indicates a clean category.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message does not contain any offensive or harmful language. It appears to be a harmless comment about someone's smoothie. Therefore, it can be classified as "clean".

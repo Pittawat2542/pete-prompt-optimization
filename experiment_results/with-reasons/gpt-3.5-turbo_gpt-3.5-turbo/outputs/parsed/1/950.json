@@ -1,6 +1,6 @@
 {
   "message": "smd = shake my dick?",
-  "reason": "The message contains explicit and offensive language, which is inappropriate and disrespectful. It uses a vulgar term and implies a sexual connotation. This kind of content is considered toxic and goes against the community guidelines.",
+  "reason": "The message contains a vulgar and offensive term, which is not appropriate for a clean online community. The acronym 'smd' is commonly used as a derogatory and disrespectful phrase. Therefore, the message can be classified as toxic.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

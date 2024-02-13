@@ -1,7 +1,6 @@
 ```json
 {
-"message": "Ass to mouth",
-"reason": "The text contains explicit and offensive language, which is likely to be classified as toxic.",
-"predicted": "toxic"
+  "message": "Ass to mouth",
+  "reason": "The message contains offensive and sexually explicit language, which makes it toxic.",
+  "predicted": "toxic"
 }
-```

@@ -1,7 +1,7 @@
 ```json
 {
   "message": "I hate my life",
-  "reason": "The message expresses a negative sentiment and indicates a strong dislike towards one's own life. This aligns with the toxic category as it contains a negative emotion.",
+  "reason": "The message expresses a negative sentiment and indicates a feeling of hatred towards one's own life, which can be considered harmful and offensive. Therefore, it falls under the 'toxic' category.",
   "predicted": "toxic"
 }
 ```

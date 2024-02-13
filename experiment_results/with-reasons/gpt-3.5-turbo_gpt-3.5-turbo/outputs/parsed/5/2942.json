@@ -1,7 +1,7 @@
 {
   "message": "daaaaam",
-  "reason": "The message 'daaaaam' is classified as toxic because it contains repeated characters. The model may have learned that excessive repetition of characters is often associated with toxic or aggressive language.",
-  "predicted": "toxic",
+  "reason": "The message contains multiple consecutive letters 'a' which indicates emphasis or surprise. However, without any additional context, it is difficult to determine the intent of the message. Therefore, it can be classified as clean.",
+  "predicted": "clean",
   "prompt_version": 5,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

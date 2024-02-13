@@ -1,7 +1,9 @@
 ```json
 {
 "message": "asia sever is many china player..",
-"reason": "The message contains a generalization and a negative sentiment towards Chinese players, which can be considered toxic.",
+"reason": "Toxic",
 "predicted": "toxic"
 }
 ```
+
+The message is classified as "toxic" because it contains a derogatory statement about Chinese players. The use of the word "many" implies a negative generalization and could be seen as offensive or discriminatory towards a specific group of players.

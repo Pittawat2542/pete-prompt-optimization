@@ -1,7 +1,7 @@
 ```json
 {
-"message": "I can't believe you're so stupid!",
-"reason": "The message contains derogatory language and insults, which indicates a toxic category.",
-"predicted": "toxic"
+  "message": "(",
+  "reason": "The message consists of a single character '('. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

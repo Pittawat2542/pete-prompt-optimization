@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be non-toxic with a 99% probability.
-
-```json
-{
-"message": "PogChamp PogChamp PogChamp",
-"reason": "The model predicts the message to be non-toxic with a 99% probability. The message contains a popular emote used in online gaming communities and does not contain any offensive or harmful language.",
-"predicted": "clean"
-}
-```

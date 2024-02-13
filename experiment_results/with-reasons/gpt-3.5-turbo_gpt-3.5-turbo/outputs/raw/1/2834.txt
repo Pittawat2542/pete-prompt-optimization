@@ -1,7 +1,7 @@
 ```json
 {
   "message": "Taking a shit ehun ehun ehun ehun",
-  "reason": "The message contains vulgar language and is considered offensive. The phrase 'taking a shit' is crude and inappropriate for a clean online community.",
+  "reason": "The message contains vulgar language and is considered inappropriate for a clean online community.",
   "predicted": "toxic"
 }
 ```

@@ -1,6 +1,6 @@
 {
   "message": "WeirdChamp",
-  "reason": "The message contains the term 'WeirdChamp', which is often used in online communities to express disapproval or mockery. This can be considered as a form of toxic behavior.",
+  "reason": "The message contains a term commonly used in online communities to mock or criticize someone or something. It is often used in a sarcastic or derogatory manner.",
   "predicted": "toxic",
   "prompt_version": 2,
   "label": "clean",

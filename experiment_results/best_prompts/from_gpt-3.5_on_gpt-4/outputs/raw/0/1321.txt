@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be non-toxic with a 99% probability. The message contains emotes commonly used in online gaming communities and does not contain any offensive or harmful language.
-
-```json
-{
-"message": "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG",
-"reason": "The message contains emotes commonly used in online gaming communities and does not contain any offensive or harmful language.",
-"predicted": "clean"
-}
-```

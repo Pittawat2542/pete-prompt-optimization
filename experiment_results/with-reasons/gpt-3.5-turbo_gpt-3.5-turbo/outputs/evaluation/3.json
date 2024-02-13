@@ -1,12 +1,12 @@
 {
   "total": 400,
-  "correct": 347,
-  "incorrect": 53,
-  "accuracy": 0.8675,
+  "correct": 345,
+  "incorrect": 55,
+  "accuracy": 0.8625,
   "correct_messages": [
     {
       "message": "this suck",
-      "reason": "The text contains a negative sentiment and uses informal language ('suck'). This indicates a negative tone and can be classified as toxic.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -14,7 +14,7 @@
     },
     {
       "message": "Wtf thats stupid\u00f0\u0178\u02dc\u201a\u00f0\u0178\u02dc\u201a",
-      "reason": "The message contains offensive language ('Wtf') and emoticons ('\u00f0\u0178\u02dc\u201a\u00f0\u0178\u02dc\u201a'), which indicate a negative and disrespectful tone. This falls into the 'toxic' category.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -22,7 +22,7 @@
     },
     {
       "message": "so its not the fucking card",
-      "reason": "The message contains offensive language ('fucking'), which is a strong indicator of toxicity.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -30,7 +30,7 @@
     },
     {
       "message": "here I just an administrator up my ass",
-      "reason": "The predicted category is 'toxic' because the text contains offensive language ('up my ass') which is likely to be considered disrespectful or vulgar. This is consistent with the prediction result that shows a high toxicity score of 0.95.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -38,7 +38,7 @@
     },
     {
       "message": "How to mute this shit",
-      "reason": "The text contains offensive language ('shit'), which is likely to be classified as toxic.",
+      "reason": "The message contains offensive language ('shit') which is considered toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -46,7 +46,7 @@
     },
     {
       "message": "hmm I have never played this game, should I play squad or solo? \"fuck it lets play squad so i can fuck up my squadmates\" retard starter pack",
-      "reason": "The message contains offensive language ('fuck it', 'retard') which indicates a toxic behavior. Additionally, the user expresses an intention to 'fuck up' their squadmates, suggesting a negative and disruptive attitude towards others. These elements contribute to the toxic classification.",
+      "reason": "The message contains some offensive language and derogatory terms, such as \"fuck\" and \"retard starter pack\". Although the user is asking for advice on whether to play squad or solo, the use of offensive language and derogatory terms classifies the message as toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -54,7 +54,7 @@
     },
     {
       "message": "OH SHIT DESYNC YOUR DEAD",
-      "reason": "The message contains offensive language ('shit') and a threat ('your dead'), which indicates a toxic category.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -62,7 +62,7 @@
     },
     {
       "message": "Who put me on the RNG shit list?",
-      "reason": "The text contains offensive language ('shit') which falls under the toxic category.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -70,7 +70,7 @@
     },
     {
       "message": "why did pubg add this creepy shit?",
-      "reason": "The message contains negative language and expresses dissatisfaction or disgust towards the addition made by PUBG. This indicates a toxic sentiment.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -78,7 +78,7 @@
     },
     {
       "message": "Just due to their sheer kits and presence they have",
-      "reason": "The message does not contain any offensive or harmful language. It appears to be a neutral statement about someone's appearance or style.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -86,7 +86,7 @@
     },
     {
       "message": "Who else hate their life?",
-      "reason": "The text expresses negative emotions and a feeling of dissatisfaction with life, which indicates a toxic sentiment.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -94,7 +94,7 @@
     },
     {
       "message": "Like Hell Do I Care.",
-      "reason": "The predicted category is 'toxic' because the text contains strong negative sentiment and aggressive language. The phrase 'Like Hell' indicates a strong disregard or indifference, and the use of 'Do I Care' adds a dismissive and confrontational tone.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -102,7 +102,15 @@
     },
     {
       "message": "> cod is crap which one?",
-      "reason": "The message contains negative language ('crap') which indicates a toxic sentiment.",
+      "reason": "Toxic",
+      "predicted": "toxic",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "Its my stupid earphones",
+      "reason": "The message contains the word 'stupid', which is a negative term. This could be considered toxic language.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -110,15 +118,15 @@
     },
     {
       "message": "emojis here suck tbh",
-      "reason": "The message contains negative sentiment towards emojis, indicating a negative opinion. This aligns with the predicted category of 'toxic'.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
       "model": "gpt-3.5-turbo"
     },
     {
-      "message": "> stop bypassing the chat you idiot",
-      "reason": "The message contains offensive language ('idiot') and is aggressive in tone ('stop bypassing'). This indicates a toxic behavior.",
+      "message": ">  stop bypassing the chat you idiot",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -126,15 +134,7 @@
     },
     {
       "message": "stop bypassing the chat you idiot",
-      "reason": "The message contains offensive language ('idiot') and aggressive tone ('stop bypassing'). This indicates a toxic behavior.",
-      "predicted": "toxic",
-      "prompt_version": 3,
-      "label": "toxic",
-      "model": "gpt-3.5-turbo"
-    },
-    {
-      "message": "oh crap ruby u awake ??",
-      "reason": "The message contains a mild profanity ('crap'), which can be considered as toxic language. Additionally, the use of excessive punctuation ('??') can be seen as aggressive or confrontational. These elements contribute to the toxic nature of the message.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -142,23 +142,15 @@
     },
     {
       "message": "shady as hell",
-      "reason": "The text contains a negative sentiment and uses the phrase 'shady as hell', which indicates a potentially toxic or negative tone.",
+      "reason": "The message contains a negative and potentially offensive term 'shady as hell', which indicates a toxic tone.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
       "model": "gpt-3.5-turbo"
     },
     {
-      "message": "hell yeaaahh",
-      "reason": "The predicted category is 'clean'. The text 'hell yeaaahh' does not contain any offensive or harmful language. It is a positive expression of excitement or enthusiasm.",
-      "predicted": "clean",
-      "prompt_version": 3,
-      "label": "clean",
-      "model": "gpt-3.5-turbo"
-    },
-    {
       "message": "Hell no ew",
-      "reason": "The predicted category is 'toxic' because the text contains negative sentiment and derogatory language ('Hell no ew'). The model has correctly identified this as toxic based on the training data, which likely includes similar instances of negative and offensive language.",
+      "reason": "The message contains negative language ('Hell no') and an expression of disgust ('ew').",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -166,7 +158,7 @@
     },
     {
       "message": "Get the hell out",
-      "reason": "The text contains strong language ('hell') which is considered offensive and disrespectful. This falls into the 'toxic' category.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -174,7 +166,7 @@
     },
     {
       "message": "play this stupid shat",
-      "reason": "The text contains a derogatory term ('stupid') and a misspelled offensive word ('shat'). These words contribute to a toxic and offensive tone.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -182,7 +174,7 @@
     },
     {
       "message": "Like what the hell is this",
-      "reason": "The message contains strong language ('hell') which is typically associated with toxic behavior.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -190,7 +182,7 @@
     },
     {
       "message": "I hate my life",
-      "reason": "The predicted category is 'toxic' because the text contains negative sentiment and expresses a strong negative emotion. The model has correctly identified this message as toxic based on the presence of the word 'hate' and the overall negative tone.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -198,7 +190,7 @@
     },
     {
       "message": "why he is calling u idiot tho? \u00f0\u0178\u02dc\u00ae",
-      "reason": "The message contains an offensive term ('idiot') which is likely to be considered toxic.",
+      "reason": "toxic language",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -206,15 +198,7 @@
     },
     {
       "message": "Melanie is in hell now",
-      "reason": "The predicted category is 'toxic' because the message contains negative and harmful language. The word 'hell' is associated with suffering and punishment, which contributes to a toxic atmosphere.",
-      "predicted": "toxic",
-      "prompt_version": 3,
-      "label": "toxic",
-      "model": "gpt-3.5-turbo"
-    },
-    {
-      "message": "I suck at all but at least I dont die in the beginning smfh",
-      "reason": "The message contains negative language and self-deprecating remarks, indicating a negative sentiment. However, it does not contain any explicit toxic or offensive content.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -222,7 +206,7 @@
     },
     {
       "message": "Hell nahh",
-      "reason": "The predicted category is 'toxic' because the text contains a negative and dismissive phrase. The model has likely identified the use of 'nahh' as a dismissive response, which contributes to the toxic classification.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -230,7 +214,7 @@
     },
     {
       "message": "Dont bother with salty lol he's tryna make yall look like an idiot when he is the moron himself",
-      "reason": "The text contains derogatory language ('idiot' and 'moron') and insults ('salty' and 'moron'). These elements contribute to a toxic and offensive tone, indicating that the message falls into the 'toxic' category.",
+      "reason": "The message contains derogatory language ('idiot' and 'moron') and is intended to insult and belittle others ('tryna make yall look like an idiot'). This indicates a toxic tone and negative behavior.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -238,7 +222,7 @@
     },
     {
       "message": "The hell",
-      "reason": "The text 'The hell' is classified as toxic because the model predicted it to be toxic with a high confidence score of 0.95. The phrase 'The hell' is often used to express anger, frustration, or disbelief, which can be considered toxic or offensive in certain contexts.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -246,7 +230,7 @@
     },
     {
       "message": "In 12 mins",
-      "reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It is a neutral statement indicating a time duration.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -254,7 +238,7 @@
     },
     {
       "message": "im stupid hbu?\u00f0\u0178\u2122\u2021",
-      "reason": "The predicted category is 'toxic' because the text contains a derogatory term ('stupid') which is likely to be offensive or insulting to others.",
+      "reason": "The message contains a derogatory term ('stupid') which is considered toxic and offensive.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -262,7 +246,7 @@
     },
     {
       "message": "cause im an idiot lol",
-      "reason": "The text is classified as 'toxic' because it contains a derogatory term ('idiot') which is considered offensive and insulting.",
+      "reason": "The message contains self-deprecating language and the word 'idiot', which can be considered derogatory and offensive. This indicates a toxic tone.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -270,7 +254,7 @@
     },
     {
       "message": "Shit up",
-      "reason": "The text contains offensive language, specifically the word 'shit'. This falls into the 'toxic' category.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -278,7 +262,7 @@
     },
     {
       "message": "What the hell is that",
-      "reason": "The message contains a strong profanity ('hell'), which is considered toxic and offensive.",
+      "reason": "The message contains offensive language ('hell') which is considered toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -286,7 +270,7 @@
     },
     {
       "message": "Stupid net tbh",
-      "reason": "The text is classified as toxic because it contains the word 'stupid', which is a derogatory term that can be considered offensive or insulting.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -294,7 +278,7 @@
     },
     {
       "message": "They suck",
-      "reason": "The text falls into the 'toxic' category because the model predicted a high probability of toxicity. The word 'suck' is often used in a negative and derogatory manner, which indicates a negative sentiment and potentially offensive language.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -302,7 +286,15 @@
     },
     {
       "message": "The only idiot is you.",
-      "reason": "The text is classified as toxic because it contains an offensive term ('idiot') directed towards someone ('you'). This type of language is typically considered disrespectful and insulting, which falls under the toxic category.",
+      "reason": "This message contains an insult directed at someone, which is considered toxic behavior.",
+      "predicted": "toxic",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "the hell is a karak?",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -310,7 +302,7 @@
     },
     {
       "message": "Meebot is shit",
-      "reason": "The text contains a derogatory term ('shit') which is considered offensive and disrespectful. This indicates a toxic sentiment towards Meebot.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -318,7 +310,7 @@
     },
     {
       "message": "bc my stupid dog eat it",
-      "reason": "The message contains a derogatory term ('stupid') which is considered toxic. This indicates a negative sentiment towards the dog, which falls into the 'toxic' category.",
+      "reason": "The message contains a derogatory term ('stupid') which can be considered offensive and toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -326,7 +318,7 @@
     },
     {
       "message": "any way i can use my pubg on console on pc ? Dont got enough to get pubg on pc",
-      "reason": "The message does not contain any toxic or offensive language. It is a simple question about using PUBG on console on a PC. The absence of any toxic or offensive language suggests that the message falls into the 'clean' category.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -334,7 +326,7 @@
     },
     {
       "message": "No solo ranked in SEA DED",
-      "reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It simply states that there is no solo ranked mode in the SEA DED community. Therefore, it can be classified as 'clean'.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -342,7 +334,7 @@
     },
     {
       "message": "When is ps4 and xbox pts server finished? What date and time (uk) please? Thanks",
-      "reason": "The message is classified as clean because it does not contain any toxic or offensive language. It is a simple question asking for information about the completion date and time of the ps4 and xbox pts server in the UK.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -350,7 +342,7 @@
     },
     {
       "message": "Still waitin for update on xbox I'm buying on pc next week annoyed lol",
-      "reason": "The message contains a mild expression of annoyance ('annoyed lol'), but it does not contain any explicit toxic language or harmful intent. Therefore, it can be classified as clean.",
+      "reason": "The message contains some frustration and annoyance expressed through the word 'annoyed'. However, there is no explicit toxic or offensive language used.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -358,7 +350,7 @@
     },
     {
       "message": "Maybe it?s talking about her smoothie PogChamp",
-      "reason": "The message does not contain any offensive or harmful language. It is a positive comment about someone's smoothie, which indicates a clean category.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -366,7 +358,7 @@
     },
     {
       "message": "hamit) Weather for Hamit, TR: Clear sky with a temperature of 21 C (69.8 F). Wind is blowing from the East at 10.3 kph (6.4 mph) and the humidity is 21%",
-      "reason": "The message is classified as clean because it contains information about the weather in Hamit, TR. There is no offensive or harmful language present in the message.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -374,7 +366,7 @@
     },
     {
       "message": "danu) Weather for Danu, MD: Overcast clouds with a temperature of 12.5 C (54.5 F). Wind is blowing from the North at 3.2 kph (1.99 mph) and the humidity is 92%",
-      "reason": "The message is classified as 'clean' because it provides weather information for a specific location without containing any offensive or harmful language. The prediction result also confirms that the message is clean.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -382,7 +374,7 @@
     },
     {
       "message": "white_medium_star:\u0001",
-      "reason": "The message does not contain any text or meaningful content. It appears to be a non-toxic or clean message.",
+      "reason": "The message consists of an emoji code 'white_medium_star' followed by a control character. It does not contain any text or context that can be classified as toxic or clean.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -390,7 +382,7 @@
     },
     {
       "message": "danucdSaspisas danucdSASPISHAS",
-      "reason": "The message contains a combination of uppercase and lowercase letters, which is not indicative of any toxic or offensive content. The message does not contain any explicit or offensive language. Therefore, it can be classified as clean.",
+      "reason": "The message contains random gibberish and does not convey any meaningful information. There are no offensive or harmful words present.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -398,7 +390,7 @@
     },
     {
       "message": "hey",
-      "reason": "The predicted category is 'clean' because the message is a simple greeting with no offensive or harmful content. The model has correctly classified it as clean based on the absence of any toxic language or negative sentiment.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -406,7 +398,7 @@
     },
     {
       "message": "thanks for the giffted sub who ever gave it me @DanucD",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple expression of gratitude for receiving a gifted subscription. The predicted category is 'clean' because the text is positive and does not exhibit any toxic behavior.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -414,7 +406,7 @@
     },
     {
       "message": "EZ GG",
-      "reason": "The text is classified as 'clean' because it does not contain any offensive or toxic language. The model has predicted it as 'clean' based on the absence of any indicators of toxicity or negativity in the text.",
+      "reason": "The message contains the abbreviation 'EZ' which is commonly used in online gaming communities to mean 'easy'. The abbreviation 'GG' is also commonly used to mean 'good game'. While the message may be seen as a positive and friendly comment in the context of online gaming, it can be interpreted as toxic or disrespectful in other contexts. However, without further context, it is difficult to determine the exact intention behind the message.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -422,7 +414,7 @@
     },
     {
       "message": "chocotGotem chocotGotem chocotGotem",
-      "reason": "The message does not contain any explicit toxic language or harmful content. It appears to be a repetition of the phrase 'chocotGotem'. Without any context or additional information, it is difficult to determine the intent or meaning behind the message. Therefore, it can be classified as clean.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -430,15 +422,7 @@
     },
     {
       "message": "danucdRespect danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance2 danucdBack2back danucdDance danucdDance2 danucdDance danucdDance2 danucdDance danucdDance2 danucdDance forsenPls SourPls",
-      "reason": "The message consists of a series of repetitive phrases and emotes related to dancing and showing respect. It does not contain any offensive or harmful language, and therefore can be classified as clean.",
-      "predicted": "clean",
-      "prompt_version": 3,
-      "label": "clean",
-      "model": "gpt-3.5-turbo"
-    },
-    {
-      "message": "alisaGG alisaGG alisaGG alisaGG naught14Luv naught14Luv naught14Nuts naught14Nuts naught14Nuts naught14Luv naught14Nuts naught14Luv naught14Nuts",
-      "reason": "The message does not contain any explicit toxic language or offensive content. It consists of repeated usernames and phrases, which may indicate spam or repetitive behavior, but it does not meet the criteria for being classified as toxic.",
+      "reason": "The message contains a series of repetitive words and phrases, which are often associated with spam or trolling behavior. Additionally, the presence of emotes like forsenPls and SourPls suggests that the message may be related to a specific online community or streamer. However, there is no explicit toxic or offensive language in the message.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -446,7 +430,7 @@
     },
     {
       "message": "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG",
-      "reason": "The message contains a combination of words that are related to gaming and positive expressions like 'Love' and 'GG'. It does not contain any offensive or toxic language. Therefore, it can be classified as clean.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -454,7 +438,7 @@
     },
     {
       "message": "@xDEEDAN bot danucdDanu2",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple mention of a bot and a user's name.",
+      "reason": "The message contains usernames and the word 'bot', but it does not contain any explicit toxic language or harmful content. Therefore, it can be classified as clean.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -462,7 +446,7 @@
     },
     {
       "message": "Please chat only in English here",
-      "reason": "The message is a request for users to communicate in English. It does not contain any offensive or harmful language, and promotes a clean and inclusive environment for communication.",
+      "reason": "The message is a polite request for users to communicate in English. It does not contain any offensive or harmful language.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -470,7 +454,7 @@
     },
     {
       "message": "Arm E D",
-      "reason": "The predicted category is 'clean' because the message does not contain any offensive or harmful language. It is a short phrase that does not convey any toxic or harmful intent.",
+      "reason": "The message 'Arm E D' does not contain any explicit or offensive language. It appears to be a random combination of words or letters without any clear meaning. Therefore, it can be classified as a clean message.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -478,7 +462,7 @@
     },
     {
       "message": "@HamitCanKilic why i cant donate without login in with my fb or soemthing",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple question about the donation process. Therefore, it can be classified as 'clean'.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -486,15 +470,15 @@
     },
     {
       "message": "ooo we get a chickirhinooooo",
-      "reason": "The message does not contain any offensive or harmful language. It appears to be a playful and enthusiastic comment about something exciting or interesting. Therefore, it can be classified as 'clean'.",
+      "reason": "The message contains informal language and repeated letters, which suggests excitement or enthusiasm. However, there is no offensive or harmful content present.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
       "model": "gpt-3.5-turbo"
     },
     {
-      "message": "My mains were magic exo and the brawler",
-      "reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It simply mentions the author's preferred characters in a game. Therefore, it can be classified as clean.",
+      "message": "My mains were  magic exo and the brawler",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -502,7 +486,7 @@
     },
     {
       "message": "@Scoom danucdRespect mitKalp",
-      "reason": "The message does not contain any toxic or offensive language. It appears to be a positive message showing respect and appreciation towards the mentioned individuals.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -510,7 +494,7 @@
     },
     {
       "message": "danucdRespect danucdPOG danucdRespect danucdPOG danucdRespect danucdPOG danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect",
-      "reason": "The message consists of repetitive positive words like 'danucdRespect' and 'danucdPOG'. These words indicate a positive and respectful tone, suggesting that the message is clean and not toxic.",
+      "reason": "The message consists of repetitive positive words like 'danucdRespect' and 'danucdPOG'. There is no offensive or harmful language used, and the overall tone is positive.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -518,7 +502,7 @@
     },
     {
       "message": "@Adooool18 Thanks for the gift sub! soggyWow brkSmaK soggyWow brkSmaK soggyPog brkTSM",
-      "reason": "The message does not contain any offensive or harmful language. It is a positive message expressing gratitude for a gift sub in an online community.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -526,7 +510,7 @@
     },
     {
       "message": "I dislike games where I carry and my team feeds ;/",
-      "reason": "The text expresses a negative sentiment towards games where the person has to carry their team and their team members perform poorly (feed). This indicates frustration and dissatisfaction, which aligns with the predicted category of 'toxic'.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -534,7 +518,7 @@
     },
     {
       "message": "@jrrod91 do you think a new clip is a spam",
-      "reason": "The message does not contain any toxic or offensive language. It is a question asking for an opinion about whether a new clip is considered spam. There is no indication of any harmful intent or disrespectful behavior.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -542,7 +526,7 @@
     },
     {
       "message": "@Adooool18 thank you gift ddanucdBukulove",
-      "reason": "The message does not contain any offensive or harmful language. It appears to be a positive message expressing gratitude and mentioning a gift. The predicted category is 'clean' because the text does not exhibit any toxic behavior.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -550,7 +534,7 @@
     },
     {
       "message": "@SmirnofSoldier all good and you... danucdRespect danucdHi",
-      "reason": "The message does not contain any offensive or harmful language. It consists of friendly greetings and expressions of respect. The predicted category is 'clean' because the text is not toxic.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -558,7 +542,7 @@
     },
     {
       "message": "!hs",
-      "reason": "The message '!hs' does not contain any explicit toxic language or offensive content. It appears to be a command or abbreviation used in the online community. The model has correctly classified it as 'clean' based on the absence of toxic elements.",
+      "reason": "The message '!hs' does not contain any offensive or harmful content. It appears to be a harmless command or abbreviation used in the online community.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -566,7 +550,7 @@
     },
     {
       "message": "@jrrod91, This item is on cooldown",
-      "reason": "The message does not contain any toxic or offensive language. It is a simple notification that an item is on cooldown. The absence of any toxic or offensive words or phrases indicates that the message is clean.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -574,15 +558,15 @@
     },
     {
       "message": "how old she is",
-      "reason": "The message is a simple question asking about someone's age. It does not contain any offensive or harmful language, and there is no indication of toxicity or negativity.",
+      "reason": "The message is a simple question asking about someone's age. It does not contain any offensive or harmful language, and there is no indication of toxicity.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
       "model": "gpt-3.5-turbo"
     },
     {
-      "message": "danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect",
-      "reason": "The message consists of repeated instances of the word 'danucdRespect'. This repetition does not contain any toxic or offensive language, and instead appears to be a positive expression of respect towards the user 'danucd'. Therefore, the message can be classified as 'clean'.",
+      "message": "danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect",
+      "reason": "The message consists of repetitive text without any context or meaningful content. It does not contain any offensive or harmful language, and it does not violate any community guidelines. Therefore, it can be classified as clean.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -590,7 +574,7 @@
     },
     {
       "message": "PeepoWeen",
-      "reason": "The message does not contain any offensive or harmful language. It appears to be a reference to a holiday or event called 'PeepoWeen'. Since the message does not exhibit any toxic behavior, it can be classified as clean.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -598,7 +582,7 @@
     },
     {
       "message": "yeah",
-      "reason": "The predicted category is 'clean' because the text 'yeah' does not contain any offensive or harmful language. It is a simple and neutral response that does not violate any community guidelines.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -606,7 +590,7 @@
     },
     {
       "message": "Nt",
-      "reason": "The message 'Nt' is classified as 'clean' because it does not contain any toxic or offensive language. The model has predicted it as 'clean' based on the absence of any indicators of toxicity or offensiveness in the text.",
+      "reason": "The message consists of only two characters, which do not provide enough context to determine its meaning. Therefore, it cannot be classified as toxic or clean.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -614,7 +598,7 @@
     },
     {
       "message": "Greetings from New Orleans",
-      "reason": "The message is classified as clean because it does not contain any toxic or offensive language. The model has predicted it as clean with a high confidence score of 0.98.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -622,15 +606,7 @@
     },
     {
       "message": "PogChamp PogChamp PogChamp",
-      "reason": "The message contains the repeated use of the term 'PogChamp', which is a popular emote used in online gaming communities. This emote is generally associated with excitement, hype, or positive reactions. Therefore, the message can be classified as 'clean' because it does not contain any toxic or offensive content.",
-      "predicted": "clean",
-      "prompt_version": 3,
-      "label": "clean",
-      "model": "gpt-3.5-turbo"
-    },
-    {
-      "message": "@adooool18 on the way danucdSaspisas",
-      "reason": "The message does not contain any offensive or harmful language. It appears to be a combination of usernames or random characters, which does not contribute to any toxic behavior.",
+      "reason": "The message consists of repeated use of the term 'PogChamp', which is a popular emote used in online gaming communities. While the term itself is not inherently toxic, its excessive repetition may be considered spammy or annoying to some users. However, it does not contain any explicit or offensive language, so it can be classified as clean.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -638,7 +614,7 @@
     },
     {
       "message": "Look at these vacuums",
-      "reason": "The message does not contain any offensive or harmful language. It is a neutral statement expressing interest in vacuums.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -646,7 +622,7 @@
     },
     {
       "message": "MsRoselyn nairidHerz nairidHerz danucdHi parunaHi",
-      "reason": "The message does not contain any explicit or offensive language. It appears to be a series of usernames or greetings, which does not indicate any toxic behavior.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -654,7 +630,7 @@
     },
     {
       "message": "danucdHypePrime",
-      "reason": "The message 'danucdHypePrime' does not contain any explicit toxic language or harmful content. It appears to be a username or a phrase that does not violate any community guidelines.",
+      "reason": "The message 'danucdHypePrime' does not contain any explicit or offensive language. It appears to be a username or a phrase that does not violate any community guidelines.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -662,7 +638,15 @@
     },
     {
       "message": "danucdPotato LUL",
-      "reason": "The message contains the word 'Potato' which is not inherently toxic or offensive. The 'LUL' at the end indicates that the message is meant to be humorous or funny. Therefore, the message can be classified as clean.",
+      "reason": "clean",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "Well,rip clips alisaYikes",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -670,7 +654,7 @@
     },
     {
       "message": "@melihozkiremitci danucdHi danucdHi",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple greeting or interaction between users.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -678,7 +662,7 @@
     },
     {
       "message": "hello and bye @melihozkiremitci",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple greeting and farewell directed at the user @melihozkiremitci.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -686,7 +670,7 @@
     },
     {
       "message": "is G fuel good",
-      "reason": "The message is classified as 'clean' because it is a simple question asking for opinions about a product. There is no offensive or harmful language used in the message.",
+      "reason": "The message is asking for an opinion about a product, which does not contain any offensive or harmful language. It is a neutral question seeking information.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -694,7 +678,7 @@
     },
     {
       "message": "@melihozkiremitci cya",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple and casual farewell message.",
+      "reason": "The message contains the abbreviation 'cya', which is commonly used to mean 'see you'. This is a friendly and non-toxic message.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -702,7 +686,7 @@
     },
     {
       "message": "@Frank_Drebin451 yes danucd using it too",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple response to another user mentioning that both @Frank_Drebin451 and danucd are using something. There is no indication of toxicity or any violation of community guidelines.",
+      "reason": "The message does not contain any offensive or harmful language. It is a simple response to another user mentioning that both Frank_Drebin451 and danucd are using a certain tool or software.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -710,7 +694,7 @@
     },
     {
       "message": "jd",
-      "reason": "The message 'jd' does not contain any explicit or offensive language, and it does not exhibit any toxic behavior. Therefore, it can be classified as clean.",
+      "reason": "The message 'jd' does not contain any explicit or offensive language, and there is not enough context to determine if it is toxic. Therefore, it can be classified as clean.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -718,7 +702,7 @@
     },
     {
       "message": "my god the stupidity of people",
-      "reason": "The text is classified as toxic because it contains negative sentiment and derogatory language ('stupidity'). The model has predicted it as toxic based on the presence of such language.",
+      "reason": "The message contains derogatory language and expresses a negative sentiment towards people. It can be considered offensive and disrespectful.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -726,7 +710,7 @@
     },
     {
       "message": "Who's victor Kappa",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple question asking about the identity of someone named Victor Kappa. Therefore, it can be classified as clean.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -734,7 +718,7 @@
     },
     {
       "message": "you mean blind pick?",
-      "reason": "The message is clean because it does not contain any offensive or harmful language. The predicted category is based on the model's analysis of the text and its comparison to the examples in the 'Prediction result' section.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -742,7 +726,15 @@
     },
     {
       "message": "can you show us your damage after you finishthe game plz",
-      "reason": "The message does not contain any offensive or harmful language. It is a polite request to see the damage done in the game. Therefore, it can be classified as 'clean'.",
+      "reason": "clean",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "faxGG faxGG faxGG",
+      "reason": "The message consists of repetitive and nonsensical text, which does not convey any meaningful information. It does not contain any offensive or harmful language.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -750,7 +742,7 @@
     },
     {
       "message": "NotLikeThis danucdFacepalm chat",
-      "reason": "The message contains emotes and chat terms that are commonly used in online communities. It does not contain any offensive or harmful language, and therefore can be classified as clean.",
+      "reason": "The message contains emotes and chat terms, but there is no explicit toxic or offensive language. It seems to be a reaction or expression of frustration, but it does not appear to be intended to harm or insult anyone.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -758,7 +750,7 @@
     },
     {
       "message": "Support always",
-      "reason": "The message is classified as 'clean' because it does not contain any toxic or offensive language. The model has predicted it as 'clean' based on the absence of any toxic keywords or patterns in the text.",
+      "reason": "The message does not contain any offensive or harmful language. It simply expresses a positive sentiment of support.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -766,7 +758,7 @@
     },
     {
       "message": "I see HoB more",
-      "reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It appears to be a neutral statement expressing the author's observation or preference.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -774,7 +766,7 @@
     },
     {
       "message": "A giveaway for: game has started! Subscribers can Join!",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple announcement about a giveaway for a game that has started and invites subscribers to join. There is no indication of any toxic behavior or intent.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -782,7 +774,7 @@
     },
     {
       "message": "> Yo Riot wtf \n fuck brand he always deals the most damage for some reason EVERY GANE",
-      "reason": "The message contains profanity and negative sentiment towards a specific brand. The use of profanity and negative sentiment indicates a toxic category.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -790,7 +782,7 @@
     },
     {
       "message": "danucdChair",
-      "reason": "The message 'danucdChair' does not contain any meaningful text or context. It appears to be a random combination of characters and does not provide any information or contribute to the conversation. Therefore, it can be classified as 'clean'.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -798,7 +790,7 @@
     },
     {
       "message": "rawryyLaugh @cinnova",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple mention or interaction between users.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -806,7 +798,7 @@
     },
     {
       "message": "https://specs.gg/tgltn",
-      "reason": "The predicted category is 'clean' because the text does not contain any toxic or offensive language. The model has a high confidence score of 0.98 for the 'clean' category, indicating that the text is most likely not toxic.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -814,15 +806,7 @@
     },
     {
       "message": "!subs",
-      "reason": "The message '!subs' is a command used in online communities to request information about subscriptions. It does not contain any offensive or harmful language, and therefore falls into the 'clean' category.",
-      "predicted": "clean",
-      "prompt_version": 3,
-      "label": "clean",
-      "model": "gpt-3.5-turbo"
-    },
-    {
-      "message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
-      "reason": "The message does not contain any offensive or harmful language. It appears to be a statement about the person's decision to embrace their bad behavior as part of their personal brand. This does not indicate any toxic or harmful intent.",
+      "reason": "The message '!subs' does not contain any offensive or harmful language, and it does not violate any community guidelines. It appears to be a harmless request for information or a command related to subscriptions.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -830,7 +814,7 @@
     },
     {
       "message": "dizzy_face:",
-      "reason": "The message 'dizzy_face:' does not contain any explicit toxic language or offensive content. It appears to be an emoji or emoticon used to express a feeling of dizziness or disorientation. Therefore, it can be classified as clean.",
+      "reason": "The message consists of an emoji 'dizzy_face:'. It does not contain any text or context, so it cannot be classified as toxic or clean.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -838,7 +822,7 @@
     },
     {
       "message": "I can help you translate chinese",
-      "reason": "The message does not contain any offensive or harmful language. It is a helpful offer to translate Chinese, which indicates a positive and non-toxic intention.",
+      "reason": "The message is clean because it offers assistance in translating Chinese without any offensive or harmful language.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -846,7 +830,7 @@
     },
     {
       "message": "so he decided its my fault and wanted to ruin everyons game",
-      "reason": "The message contains negative sentiment and expresses blame towards someone, indicating a toxic behavior. The word 'ruin' suggests an intention to harm or disrupt the game, further supporting the toxic classification.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -854,7 +838,7 @@
     },
     {
       "message": "how do i get these fucking things off my recommended",
-      "reason": "The message contains offensive language ('fucking') which indicates a toxic tone. This is consistent with the predicted category of 'toxic'.",
+      "reason": "toxic language",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -862,7 +846,7 @@
     },
     {
       "message": "YEAH U WERE RIGHT BITCH JUST THE OTHER JUNGLER",
-      "reason": "The message contains offensive language ('bitch') which is considered toxic.",
+      "reason": "The message contains offensive language ('bitch') which is derogatory and disrespectful. This indicates a toxic behavior.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -870,23 +854,15 @@
     },
     {
       "message": "XD I am gonna get that catch-phrased I promise Tig lol",
-      "reason": "The message is classified as clean because it contains positive and playful language, such as 'XD', 'gonna', 'catch-phrased', 'promise', and 'lol'. The presence of these elements suggests a friendly and non-toxic tone.",
+      "reason": "The message contains the abbreviation 'XD' which is commonly used to indicate laughter. The use of 'lol' further suggests a lighthearted and non-toxic tone. The message does not contain any offensive or harmful language.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
       "model": "gpt-3.5-turbo"
     },
     {
-      "message": "Lol when adc became weak as shit I was like wtf happened did I just become ass turns out it wasn\u00e2\u20ac\u2122t me",
-      "reason": "The message contains some profanity ('shit' and 'ass'), which indicates a toxic tone. Additionally, the use of 'wtf' (an abbreviation for 'what the fuck') adds to the toxic nature of the message.",
-      "predicted": "toxic",
-      "prompt_version": 3,
-      "label": "toxic",
-      "model": "gpt-3.5-turbo"
-    },
-    {
       "message": "fessn1 all the clips got deleted to prevent dmca strikes, so theres no command at the moment",
-      "reason": "The message does not contain any offensive or harmful language. It is simply stating that all the clips have been deleted to prevent DMCA strikes, and there is currently no command available. This falls under the 'clean' category.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -894,7 +870,7 @@
     },
     {
       "message": "noice team work forsenCD",
-      "reason": "The message contains positive language and shows appreciation for team work. It does not contain any offensive or harmful content.",
+      "reason": "The message contains a positive phrase 'noice team work' which indicates a positive and supportive tone. The addition of 'forsenCD' suggests that the message is related to a specific online community or streamer. Overall, the message does not contain any offensive or harmful content.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -902,7 +878,7 @@
     },
     {
       "message": "THIS GAME MIGHT AS WELL RESET MY FUCKING LP TO 0",
-      "reason": "The message contains offensive language ('FUCKING') which indicates toxicity.",
+      "reason": "toxic language",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -910,7 +886,7 @@
     },
     {
       "message": "they go super drop",
-      "reason": "The predicted category is 'clean'. The text does not contain any offensive or harmful language. It seems to be a casual conversation about something going really well or being very successful.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -918,7 +894,7 @@
     },
     {
       "message": "FUCKING HELL",
-      "reason": "The text contains offensive language, specifically the use of profanity. This falls into the 'toxic' category as indicated by the prediction result.",
+      "reason": "toxic language",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -926,7 +902,7 @@
     },
     {
       "message": "its really hard with your ping",
-      "reason": "The message does not contain any offensive or harmful language. It simply states that it is difficult to perform a certain task due to the person's high ping. Therefore, it can be classified as 'clean'.",
+      "reason": "The message does not contain any offensive or harmful language. It simply states that it is difficult to perform a certain task due to the person's high ping, which refers to the delay in internet connection. There is no indication of any toxic behavior or intent.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -934,7 +910,7 @@
     },
     {
       "message": "ahhh gotcha",
-      "reason": "The predicted category is 'clean' because the text does not contain any offensive or harmful language. It is a simple expression of understanding or realization.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -942,23 +918,15 @@
     },
     {
       "message": "My sens is irrelevant to you, do what's comfortable for you. Copying other people's sens won't make you good at the game, we have different length arms and grips and different resistance mousepads / mouse feet - some mouse sensors are even different.",
-      "reason": "The message promotes individuality and encourages the reader to do what is comfortable for them. It emphasizes that copying other people's sensitivity settings won't necessarily make someone good at the game due to various factors such as arm length, grip style, mousepads, and mouse sensors. The tone of the message is informative and respectful, providing logical reasons for why sensitivity settings may differ among individuals.",
+      "reason": "The message promotes individuality and encourages the reader to do what is comfortable for them. It also emphasizes that copying others' sensitivity settings won't necessarily make someone good at the game due to various physical differences and equipment variations. The tone of the message is informative and respectful.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
       "model": "gpt-3.5-turbo"
     },
     {
-      "message": "dont know why every game i get people like this on my team",
-      "reason": "The message expresses frustration and annoyance towards the people the user encounters in their games. This negative sentiment suggests that the message falls into the 'toxic' category.",
-      "predicted": "toxic",
-      "prompt_version": 3,
-      "label": "toxic",
-      "model": "gpt-3.5-turbo"
-    },
-    {
       "message": "70 mana for that shit",
-      "reason": "The text contains a profanity ('shit'), which is likely to be considered toxic.",
+      "reason": "The message contains offensive language ('shit') which is considered toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -966,7 +934,7 @@
     },
     {
       "message": "as you can see so clearly with those on low?",
-      "reason": "The message does not contain any offensive or harmful language. It appears to be a neutral statement or question without any toxic intent.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -974,7 +942,7 @@
     },
     {
       "message": "@mfyntz tgl5Head",
-      "reason": "The message does not contain any explicit toxic language or offensive content. It appears to be a random combination of characters and does not convey any meaningful information. Therefore, it can be classified as clean.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -982,7 +950,7 @@
     },
     {
       "message": "> WHAT THE FUCKING FUCK IS THIS FUCKING RECALL ANIMATION  recall animation may be shit, but holy fuck the effects and animation are good",
-      "reason": "The message contains strong profanity and offensive language, such as 'fuck' and 'shit'. This indicates a toxic tone and falls into the 'toxic' category.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -990,7 +958,7 @@
     },
     {
       "message": "ha ha ha",
-      "reason": "The message 'ha ha ha' is classified as 'clean' because it does not contain any offensive or harmful language. The model has predicted it as 'clean' based on the absence of toxic words or phrases.",
+      "reason": "The message consists of repeated laughter, which is commonly used to express amusement or joy. It does not contain any offensive or harmful content.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -998,7 +966,7 @@
     },
     {
       "message": "WHAT THE FUCKING FUCK IS THIS FUCKING RECALL ANIMATION",
-      "reason": "The message contains offensive language and is filled with profanity, which indicates a toxic tone.",
+      "reason": "The message contains offensive language and is aggressive in tone.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1006,7 +974,7 @@
     },
     {
       "message": "tgl3Head",
-      "reason": "The message 'tgl3Head' does not provide enough information to determine its category. It appears to be a random string of characters and does not contain any toxic or clean content.",
+      "reason": "Unclear meaning or context",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1014,7 +982,7 @@
     },
     {
       "message": "I can translate for ya if u want",
-      "reason": "The message is clean because it does not contain any offensive or harmful language. The predicted category is consistent with the prediction result, which shows that the text has a low toxicity score of 0.001.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1022,7 +990,7 @@
     },
     {
       "message": "ha ha ha comms",
-      "reason": "The predicted category is 'clean'. The text 'ha ha ha comms' does not contain any offensive or harmful language. It appears to be a harmless expression of amusement or laughter.",
+      "reason": "The message contains laughter and the word 'comms', which is a short form of 'communications'. There is no offensive or harmful language used in the message.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1030,7 +998,7 @@
     },
     {
       "message": "tglGG",
-      "reason": "The message 'tglGG' does not contain any explicit toxic language or offensive content. It appears to be a random combination of characters and does not convey any harmful intent or negative sentiment.",
+      "reason": "The message 'tglGG' does not contain any explicit or offensive language. It appears to be a random combination of letters and does not convey any toxic or harmful intent.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1038,15 +1006,7 @@
     },
     {
       "message": "rawryyLaugh NT NT",
-      "reason": "The message does not contain any explicit toxic language or offensive content. It consists of a username followed by some text that is not clear in meaning. Therefore, it can be classified as clean.",
-      "predicted": "clean",
-      "prompt_version": 3,
-      "label": "clean",
-      "model": "gpt-3.5-turbo"
-    },
-    {
-      "message": "DendiFace gg",
-      "reason": "The message contains the term 'DendiFace', which is likely a reference to a specific person or meme. Without further context, it is difficult to determine the exact meaning of the message. However, based on the prediction result, it is classified as 'clean' because it does not contain any toxic or offensive language.",
+      "reason": "The message does not contain any offensive or harmful language. It appears to be a playful expression or an inside joke.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1054,7 +1014,7 @@
     },
     {
       "message": "@escamoli yeah",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple response to another user's comment.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1062,7 +1022,7 @@
     },
     {
       "message": "only 52 alive?",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple question about the number of people alive. Therefore, it can be classified as 'clean'.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1070,7 +1030,7 @@
     },
     {
       "message": "rando squad?",
-      "reason": "The message is classified as 'clean' because it does not contain any offensive or harmful language. The model's prediction result also indicates a high probability of the message being clean.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1078,7 +1038,7 @@
     },
     {
       "message": "control setting and dpi",
-      "reason": "The message does not contain any offensive or harmful language, and it seems to be discussing technical aspects related to control settings and DPI (dots per inch). Therefore, it can be classified as 'clean'.",
+      "reason": "The message does not contain any offensive or harmful language, and it seems to be related to gaming settings and preferences. It does not exhibit any toxic behavior.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1086,7 +1046,7 @@
     },
     {
       "message": "he said frist time FPP",
-      "reason": "The predicted category is 'clean'. The text does not contain any offensive or harmful language, and there is no indication of toxicity or negativity in the message. It appears to be a simple statement or comment about someone saying 'frist time FPP'.",
+      "reason": "The message does not contain any offensive or harmful language. It appears to be a simple statement about someone saying 'frist time FPP'.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1094,7 +1054,7 @@
     },
     {
       "message": "Fuck up a turret dive as graves and went afk",
-      "reason": "The message contains offensive language ('Fuck') which is considered toxic.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1102,7 +1062,7 @@
     },
     {
       "message": "6th guy",
-      "reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It is a neutral statement that does not violate any community guidelines.",
+      "reason": "The message does not contain any offensive or harmful language. It is a simple statement without any context or additional information. Therefore, it can be classified as a clean message.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1110,7 +1070,7 @@
     },
     {
       "message": "this feels so shit",
-      "reason": "The predicted category is 'toxic' because the text contains a negative sentiment. The word 'shit' is a strong negative term, which indicates a toxic tone.",
+      "reason": "The message contains a profanity ('shit') which is considered offensive and disrespectful. It expresses a negative sentiment.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1118,7 +1078,7 @@
     },
     {
       "message": "how do you play with such high ping",
-      "reason": "The message does not contain any offensive or harmful language, and it seems to be a genuine question about playing with high ping. Therefore, it can be classified as 'clean'.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1126,7 +1086,7 @@
     },
     {
       "message": "why asia server ?",
-      "reason": "The message does not contain any offensive or harmful language, and it seems to be a simple question about the choice of the Asia server. Therefore, it can be classified as 'clean'.",
+      "reason": "The message is a question asking about the reason for having an Asia server. It does not contain any offensive or harmful language, and there is no indication of toxicity. Therefore, it can be classified as clean.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1134,7 +1094,7 @@
     },
     {
       "message": "it makes it even more difficult",
-      "reason": "The text does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It is a neutral statement expressing a level of difficulty.",
+      "reason": "The message does not contain any offensive or harmful language. It is a neutral statement expressing a difficulty in a situation.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1142,15 +1102,15 @@
     },
     {
       "message": "that he's got none helmet",
-      "reason": "The message does not contain any offensive or harmful language. It appears to be a comment about someone not wearing a helmet. Therefore, it can be classified as 'clean'.",
+      "reason": "The message contains a grammatical error ('none' instead of 'no') and lacks context. It is difficult to determine the intended meaning of the sentence. However, based on the given information, it does not appear to contain any offensive or harmful language. Therefore, it can be classified as 'clean'.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
       "model": "gpt-3.5-turbo"
     },
     {
-      "message": "i have nothing",
-      "reason": "The predicted category is 'clean' because the text does not contain any offensive or harmful language. It is a neutral statement indicating that the person has nothing.",
+      "message": " i have nothing",
+      "reason": "The message does not contain any offensive or harmful language. It is a simple statement indicating that the person has nothing.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1158,7 +1118,7 @@
     },
     {
       "message": "you need to say niu bi instead of number one",
-      "reason": "The message does not contain any offensive or harmful language. It is a suggestion or recommendation to use a different phrase. Therefore, it can be classified as 'clean'.",
+      "reason": "The message contains a suggestion to use a different phrase ('niu bi') instead of the original phrase ('number one'). This does not appear to be toxic or offensive, but rather a suggestion for using a different expression.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1166,7 +1126,7 @@
     },
     {
       "message": "which is dumb as fuck lmao",
-      "reason": "The text contains offensive language ('dumb as fuck') which is classified as toxic.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1174,7 +1134,7 @@
     },
     {
       "message": "you can try this to them ciao nee mud",
-      "reason": "The predicted category is 'clean'. The message does not contain any offensive or toxic language. It appears to be a harmless sentence with no negative intent.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1182,7 +1142,7 @@
     },
     {
       "message": "in a Payload game the other day one of the randoms started shooting grens at me",
-      "reason": "The message does not contain any offensive or harmful language. It describes an incident in a game where one of the random players started shooting grenades at the author. Although the behavior may be considered disruptive or annoying, it does not meet the criteria for being classified as toxic.",
+      "reason": "The message describes a situation in an online game where one of the players started shooting grenades at the author. While this behavior may be annoying or disruptive, it does not contain any explicit toxic language or personal attacks. Therefore, I classify this message as 'clean'.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1190,7 +1150,7 @@
     },
     {
       "message": "the fuck you talking about brother?",
-      "reason": "The message contains offensive language ('fuck') which is indicative of toxic behavior.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1198,7 +1158,7 @@
     },
     {
       "message": "smh thats why i use the m4 long range",
-      "reason": "The message does not contain any offensive or harmful language, and it does not seem to be intended to insult or attack anyone. It is a statement about the user's preference for using the M4 long range weapon.",
+      "reason": "The message does not contain any offensive or harmful language. It is a statement about the speaker's preference for using the M4 long range weapon in a game or online community. There is no indication of toxicity or any negative behavior.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1206,7 +1166,7 @@
     },
     {
       "message": "how can that even be fucking compared?",
-      "reason": "The message contains offensive language ('fucking') which indicates a toxic tone.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1214,7 +1174,7 @@
     },
     {
       "message": "4X m249 op on sanhok",
-      "reason": "The message does not contain any offensive or harmful language, and it does not seem to be intended to insult or attack anyone. It appears to be a discussion about a specific weapon and its effectiveness in the game Sanhok.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1222,7 +1182,7 @@
     },
     {
       "message": "what's the song name",
-      "reason": "The message is a simple question asking for the name of a song. It does not contain any offensive or harmful language, and it is not intended to provoke or insult anyone. Therefore, it can be classified as clean.",
+      "reason": "The message is a simple and straightforward question asking for the name of a song. It does not contain any offensive or harmful language, and there is no indication of toxicity.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1230,7 +1190,7 @@
     },
     {
       "message": "hello sir how are u",
-      "reason": "The message is classified as 'clean' because it does not contain any offensive or harmful language. The model predicts it as 'clean' with a high confidence score of 0.95.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1238,7 +1198,7 @@
     },
     {
       "message": "Scrims at 1900 CET to be streamed at (stream: tba)",
-      "reason": "The message does not contain any offensive or harmful language, and it appears to be a simple announcement about scrims being streamed. Therefore, it can be classified as 'clean'.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1246,7 +1206,7 @@
     },
     {
       "message": "LUL LUL LUL LUL LUL LUL LUL LUL",
-      "reason": "The message consists of repeated instances of the word 'LUL'. This repetitive pattern of text does not contain any toxic or offensive language, and is commonly used in online communities as an expression of laughter or amusement. Therefore, the message can be classified as 'clean'.",
+      "reason": "The message consists of repeated instances of the word 'LUL', which is a common abbreviation for 'laugh out loud'. This indicates that the message is meant to be humorous and not offensive or harmful.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1254,7 +1214,7 @@
     },
     {
       "message": "kekwwwwwwww",
-      "reason": "The predicted category is 'clean' because the text does not contain any offensive or harmful language. It is a simple expression that does not violate any community guidelines.",
+      "reason": "The message 'kekwwwwwwww' does not contain any offensive or harmful language. It appears to be a harmless expression or a typo.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1262,7 +1222,7 @@
     },
     {
       "message": "got a song for you @ibiza",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple statement expressing the intention to share a song with someone. Therefore, it can be classified as 'clean'.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1270,7 +1230,7 @@
     },
     {
       "message": "guys where to watch ??",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple question asking for recommendations on where to watch something. Therefore, it can be classified as 'clean'.",
+      "reason": "The message is a simple question asking for recommendations or suggestions. It does not contain any offensive or harmful language.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1278,7 +1238,7 @@
     },
     {
       "message": "fuck these team mates",
-      "reason": "The text contains offensive language ('fuck') which is likely to be considered toxic.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1286,7 +1246,7 @@
     },
     {
       "message": "did u like that solo ranked @ibiza",
-      "reason": "The message does not contain any offensive or harmful language, and it seems to be a question about someone's opinion on a solo ranked game. Therefore, it can be classified as 'clean'.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1294,7 +1254,7 @@
     },
     {
       "message": "some good players",
-      "reason": "The text is classified as 'clean' because it does not contain any toxic or offensive language. The model has correctly predicted it as clean based on the absence of any toxic keywords or patterns in the text.",
+      "reason": "The message does not contain any offensive or harmful language. It simply states that there are some good players in the online community.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1302,7 +1262,7 @@
     },
     {
       "message": "Bose QC20 (apple version). Ibi uses in ears instead of a headset because he has to use in ears at LANs. This way he gets used to it ibiW",
-      "reason": "The message does not contain any offensive or harmful language. It is a discussion about a specific product and how it is used by a person named Ibi. There is no indication of toxicity or any violation of community guidelines.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1310,7 +1270,7 @@
     },
     {
       "message": "so fucking dumb",
-      "reason": "The text contains offensive language ('fucking') which is classified as toxic.",
+      "reason": "toxic language",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1318,7 +1278,7 @@
     },
     {
       "message": "oh fuck i got one of those omnistone bards in my ranked game",
-      "reason": "The message contains profanity ('fuck'), which is considered toxic language.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1326,7 +1286,7 @@
     },
     {
       "message": "Fuck, I just died by the twitch.",
-      "reason": "The message contains offensive language ('Fuck') which is considered toxic.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1334,7 +1294,7 @@
     },
     {
       "message": "Does ranked solos have 100 players? @hambinooo",
-      "reason": "The message does not contain any offensive or harmful language, and it seems to be a genuine question about the number of players in ranked solos. Therefore, it can be classified as 'clean'.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1342,7 +1302,7 @@
     },
     {
       "message": "> Fuck, I just died by the twitch. look at death recap",
-      "reason": "The message contains offensive language ('Fuck'), which indicates a toxic behavior.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1350,7 +1310,7 @@
     },
     {
       "message": "@animoputt I get it dude. just pokin ya.",
-      "reason": "The message is classified as 'clean' because it does not contain any toxic or offensive language. The model's prediction result also indicates a high probability of 'clean' classification.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1358,7 +1318,7 @@
     },
     {
       "message": "@noswal84 there is a reason for that....typical US Army infantry PLT is around that number",
-      "reason": "The message does not contain any offensive or harmful language. It is a response to @noswal84 and mentions a reason for something without any negative intent. Therefore, it can be classified as 'clean'.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1366,7 +1326,7 @@
     },
     {
       "message": "winking_face:",
-      "reason": "The message is classified as 'clean' because it consists of a single emoji, which does not contain any explicit or offensive content.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1374,7 +1334,7 @@
     },
     {
       "message": "have you ever played with clib? @hambinooo",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple question about playing with clib. Therefore, it can be classified as clean.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1382,7 +1342,7 @@
     },
     {
       "message": "@hambinooo sorry for ruining your fun",
-      "reason": "The message is classified as 'clean' because it shows remorse and an apology for ruining someone's fun. The use of the word 'sorry' indicates a polite and considerate tone, which is not characteristic of toxic behavior.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1390,7 +1350,7 @@
     },
     {
       "message": "!hype",
-      "reason": "The message '!hype' does not contain any offensive or harmful language. It is a positive expression of excitement or enthusiasm. The model correctly predicts it as a 'clean' message.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1398,7 +1358,7 @@
     },
     {
       "message": "may I ask why the fuck shen is a thing?",
-      "reason": "The message contains offensive language ('fuck'), which indicates a toxic tone.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1406,7 +1366,7 @@
     },
     {
       "message": "hamb10 hamb10",
-      "reason": "The message does not contain any explicit or offensive language. It appears to be a random string of characters or a username. Therefore, it can be classified as clean.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1414,7 +1374,15 @@
     },
     {
       "message": "centralia of the vibes",
-      "reason": "The message does not contain any offensive or harmful language. It appears to be a neutral statement that does not violate any community guidelines.",
+      "reason": "clean",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "What up hamily hambO7 hambO7",
+      "reason": "The message contains slang and repeated characters, which could be seen as informal and playful. However, there is no explicit or offensive language used, so it can be classified as clean.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1422,7 +1390,7 @@
     },
     {
       "message": "Obligatory \"fuck Udyr\"",
-      "reason": "The text contains offensive language, specifically the word \"fuck\", which is a strong profanity. This falls into the \"toxic\" category.",
+      "reason": "The message contains offensive language, specifically the word \"fuck\", which is considered toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1430,7 +1398,7 @@
     },
     {
       "message": "@hf_spinach happy thursday!!",
-      "reason": "The message is classified as 'clean' because it contains positive and friendly words ('happy', 'thursday') and does not exhibit any toxic or offensive language. The model's prediction of 'clean' aligns with the content of the message.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1438,7 +1406,7 @@
     },
     {
       "message": "who the fuck uses D for flashbanning whoever says me",
-      "reason": "The message contains offensive language ('fuck') which indicates toxicity.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1446,7 +1414,7 @@
     },
     {
       "message": "114 kills again? you're a legend",
-      "reason": "The message is classified as 'clean' because it contains positive language and compliments the person's performance. The phrase 'you're a legend' indicates admiration and praise, which is not considered toxic or offensive.",
+      "reason": "The message contains positive language and compliments the person being referred to as a 'legend'. There is no offensive or harmful content present.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1454,7 +1422,7 @@
     },
     {
       "message": "i def. get the phantom footsteps",
-      "reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It is a clean message.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1462,7 +1430,7 @@
     },
     {
       "message": "as an OG pubg player who has taken like 6 months off, the sounds are wack to get used too.",
-      "reason": "The message expresses a personal opinion about the sounds in the game being 'wack' to get used to. Although the language used is informal, it does not contain any offensive or harmful content. Therefore, it can be classified as 'clean'.",
+      "reason": "The message does not contain any offensive or harmful language, and it does not attack or insult anyone. It is a casual statement expressing the speaker's opinion about the sounds in the game. Therefore, it can be classified as clean.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1470,7 +1438,7 @@
     },
     {
       "message": "Spoopy hamtime",
-      "reason": "The predicted category is 'clean' because the message does not contain any offensive or harmful language. It is a playful phrase that combines the words 'spoopy' and 'hamtime', which are not inherently toxic or offensive.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1478,7 +1446,7 @@
     },
     {
       "message": "pec a doodle doo hollyw14Verticalforegrip",
-      "reason": "The message does not contain any offensive or harmful language. It appears to be a random combination of words and characters, which does not contribute to any toxic behavior or content.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1486,7 +1454,7 @@
     },
     {
       "message": "> why the fuck i get the code of conduct shit every time i open league clientPromise you will be a good player?",
-      "reason": "The message contains offensive language ('fuck') which indicates toxicity.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1494,7 +1462,7 @@
     },
     {
       "message": "doooooo it",
-      "reason": "The predicted category is 'clean'. The text 'doooooo it' does not contain any offensive or harmful language. It is a simple and harmless phrase that encourages someone to do something.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1502,7 +1470,7 @@
     },
     {
       "message": "been 2 weeks 1since i've been able to lunch with ham!",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple statement expressing the user's desire to have lunch with ham after a period of two weeks. Therefore, it can be classified as 'clean'.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1510,7 +1478,7 @@
     },
     {
       "message": "!gift @shanabana",
-      "reason": "The message does not contain any toxic or offensive language. It is a command to gift something to the user @shanabana. The predicted category is 'clean' because the text is not classified as toxic.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1518,7 +1486,7 @@
     },
     {
       "message": "i swear to fucking god",
-      "reason": "The text contains strong profanity ('fucking') which is likely to be considered toxic.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1526,7 +1494,7 @@
     },
     {
       "message": "Don't fuck it up",
-      "reason": "The message contains offensive language, specifically the word 'fuck'. This falls into the 'toxic' category as it is considered vulgar and disrespectful.",
+      "reason": "The message contains offensive language.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1534,7 +1502,7 @@
     },
     {
       "message": "Hey Ham. sorry for spam but you took a toiletbreak,quick question. Do you know how PUBG gives you teammates in squad and duo if you are playing without friends? It seems like i always get the new players when i try to team up. You know if they choose players by hidden rank or is it just random? The question was not as quick tho.. Haha, GG's! Have a great stream, as always hambLove",
-      "reason": "The message is clean because it does not contain any offensive or harmful language. It is a friendly message asking a question about the game PUBG and expressing support for the streamer.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1542,7 +1510,7 @@
     },
     {
       "message": "the best",
-      "reason": "The predicted category is 'clean' because the text 'the best' does not contain any offensive or harmful language. It is a positive statement that does not violate any community guidelines.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1550,7 +1518,7 @@
     },
     {
       "message": "@drsoils no need to be sorry, I liked it. LOL",
-      "reason": "The message is classified as 'clean' because it does not contain any toxic or offensive language. The presence of 'LOL' indicates that the message is light-hearted and not intended to be harmful or offensive.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1558,7 +1526,7 @@
     },
     {
       "message": "@keckzn have a time out, come back when you're done saying dumb shit",
-      "reason": "The message contains offensive language ('dumb shit') which indicates toxic behavior.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1566,7 +1534,7 @@
     },
     {
       "message": "Its a shit situation!",
-      "reason": "The predicted category is 'toxic' because the word 'shit' is considered offensive and vulgar. The model has likely classified this message as toxic based on the presence of this word.",
+      "reason": "The message contains a profanity, which is considered offensive and disrespectful. The use of such language indicates a toxic tone.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1574,7 +1542,7 @@
     },
     {
       "message": "win the fight, die to a fucking mushroom walking away",
-      "reason": "The message contains offensive language ('fucking') which makes it toxic.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1582,7 +1550,7 @@
     },
     {
       "message": "she's listening through the door, shut the fuck up dad",
-      "reason": "The message contains offensive language ('shut the fuck up') which is considered toxic.",
+      "reason": "The message contains offensive language ('shut the fuck up') which is disrespectful and aggressive. This indicates a toxic behavior.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1590,7 +1558,7 @@
     },
     {
       "message": "STOP DOING WHAT I THINK IS SHIT STREAMER",
-      "reason": "The message contains offensive language ('shit') which is indicative of toxic behavior.",
+      "reason": "The message contains offensive language and insults towards the streamer.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1598,7 +1566,7 @@
     },
     {
       "message": "i like how you dont talk shit about your dick neighbour cause he prob gonna rewatch your stream",
-      "reason": "The message contains offensive language ('talk shit') and derogatory terms ('dick'). This indicates a toxic tone and disrespectful behavior towards the neighbor. The prediction result also suggests that the message falls into the 'toxic' category.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1606,7 +1574,7 @@
     },
     {
       "message": "shit winds are acomin'!",
-      "reason": "The predicted category is 'toxic' because the text contains offensive language ('shit'). The model has correctly identified this as toxic based on the prediction result, which shows a high probability of toxicity.",
+      "reason": "The message contains offensive language ('shit') which is considered toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1614,7 +1582,7 @@
     },
     {
       "message": "HOW THE HELL IS THIS AN A",
-      "reason": "The message contains strong language and is considered offensive, which falls under the 'toxic' category. The model's prediction is consistent with this as it classified the message as 'toxic'.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1622,7 +1590,7 @@
     },
     {
       "message": "@guccixslaya cheaters suck hard tho",
-      "reason": "The text contains a negative sentiment with the use of the word 'suck' and expresses disapproval towards cheaters. This indicates a toxic category.",
+      "reason": "The message contains a derogatory term ('suck') and expresses a negative sentiment towards cheaters. This indicates a toxic tone.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1630,7 +1598,7 @@
     },
     {
       "message": "how the fuck that last bullet didn't kill you",
-      "reason": "The message contains offensive language ('fuck') which indicates a toxic tone. Additionally, the message expresses aggression and hostility towards the recipient, suggesting a toxic nature.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1638,7 +1606,7 @@
     },
     {
       "message": "Like the fuck am i gonna do with that info.",
-      "reason": "The text contains offensive language ('fuck') which indicates a toxic tone. Additionally, the use of strong language suggests a negative sentiment towards the information provided.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1646,7 +1614,7 @@
     },
     {
       "message": "wtf is this nice @Grizz shit",
-      "reason": "The message contains the abbreviation 'wtf' which is commonly used as an offensive expression. Additionally, the use of the word 'shit' adds to the toxic nature of the message.",
+      "reason": "The message contains offensive language ('wtf' and 'shit') and mentions a user (@Grizz) in a negative context. This indicates a toxic tone.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1654,7 +1622,7 @@
     },
     {
       "message": "HOW LE FUCK DO I FIGHT AHRI",
-      "reason": "The message contains offensive language ('LE FUCK') which indicates a toxic behavior. The use of offensive language is considered disrespectful and inappropriate in an online community.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1662,7 +1630,7 @@
     },
     {
       "message": "madar bitch don't kill us",
-      "reason": "The text contains offensive language ('bitch') and a violent threat ('kill us'), which indicates toxic behavior.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1670,7 +1638,7 @@
     },
     {
       "message": "Taking a shit ehun ehun ehun ehun",
-      "reason": "The predicted category is 'toxic' because the text contains offensive language ('shit'). The model has correctly identified this as toxic based on the prediction result which shows a high toxicity score of 0.95.",
+      "reason": "toxic language",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1678,7 +1646,7 @@
     },
     {
       "message": "i hate the camps, i always come out with shit loot",
-      "reason": "The message contains negative sentiment and uses offensive language ('shit loot'). This indicates a toxic category.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1686,7 +1654,7 @@
     },
     {
       "message": "the hell was that",
-      "reason": "The text is classified as toxic because it contains strong language ('hell'). The model has predicted it as toxic based on the presence of such offensive or aggressive language.",
+      "reason": "This message contains strong language and can be considered offensive or disrespectful.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1694,7 +1662,7 @@
     },
     {
       "message": "Shootin the shit smokin sum herb",
-      "reason": "The predicted category is 'toxic'. The text contains offensive language ('shootin the shit') and references drug use ('smokin sum herb'), which are indicators of toxic behavior.",
+      "reason": "The message contains slang and informal language that may be considered offensive or inappropriate in some contexts.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1702,7 +1670,7 @@
     },
     {
       "message": "Stupid decisions mean stupid result",
-      "reason": "The message contains negative language and insults, which indicates a toxic tone.",
+      "reason": "This message contains derogatory language and insults, specifically calling decisions stupid. It exhibits an aggressive and disrespectful tone towards someone's decision-making abilities.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1710,7 +1678,7 @@
     },
     {
       "message": "this map is dog shit for squads. absolute dog shit",
-      "reason": "The message contains strong negative language and derogatory terms ('dog shit') to express dissatisfaction with the map. This indicates a toxic sentiment towards the map.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1718,7 +1686,7 @@
     },
     {
       "message": "oh shit my boy is bigtime",
-      "reason": "The predicted category is 'toxic' because the text contains profanity ('shit'). The model has identified this as a toxic message based on its training on similar examples.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1726,7 +1694,7 @@
     },
     {
       "message": "Have you tried sleeping ass up?",
-      "reason": "The predicted category is 'toxic' because the message contains inappropriate language and sexual content. The model has correctly identified this message as toxic based on the presence of explicit language.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1734,7 +1702,15 @@
     },
     {
       "message": "Ass to mouth",
-      "reason": "The text contains explicit and offensive language, which is likely to be classified as toxic. The model's prediction of 'toxic' aligns with this assessment.",
+      "reason": "This message contains explicit and offensive language that is considered highly inappropriate and disrespectful. It violates the community guidelines and is categorized as toxic.",
+      "predicted": "toxic",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "ohh shit summit retired ?",
+      "reason": "The message contains a profanity ('shit'), which is considered toxic language.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1742,7 +1718,7 @@
     },
     {
       "message": "Good shit",
-      "reason": "The predicted category is 'toxic' because the phrase 'Good shit' can be interpreted as offensive or vulgar language. The model has likely classified it as toxic based on the presence of the word 'shit', which is considered profanity.",
+      "reason": "The message contains a potentially offensive term 'shit', which can be considered toxic language.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1750,7 +1726,7 @@
     },
     {
       "message": "and tell you that kayle is ugly and stupid and is a loser",
-      "reason": "The text contains derogatory language and insults towards someone named Kayle, indicating a toxic behavior.",
+      "reason": "The message contains derogatory language and insults towards someone, which indicates a toxic behavior.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1758,7 +1734,7 @@
     },
     {
       "message": "oh shit man... great stuff!",
-      "reason": "The predicted category is 'toxic'. The presence of the word 'shit' in the message indicates the use of profanity, which is often associated with toxic language.",
+      "reason": "The message contains a profanity ('shit'), which is considered offensive and inappropriate. Therefore, it can be classified as toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1766,7 +1742,7 @@
     },
     {
       "message": "@Tomshepmx going fucking great, you mate?",
-      "reason": "The predicted category is 'toxic' because the message contains offensive language ('fucking'). This is consistent with the prediction result which indicates a high toxicity score of 0.95.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1774,7 +1750,7 @@
     },
     {
       "message": "Start with this and upgrade if it's shit",
-      "reason": "The message contains a potentially offensive term 'shit', which indicates a negative sentiment. Therefore, it falls into the 'toxic' category.",
+      "reason": "The message contains a potentially offensive term ('shit'), which indicates a negative and disrespectful tone. This can be classified as toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1782,7 +1758,7 @@
     },
     {
       "message": "eat shit riot",
-      "reason": "The text contains offensive language ('shit') directed towards someone or a group ('riot'). This falls under the 'toxic' category.",
+      "reason": "The message contains offensive language and is directed towards a specific entity, which is considered toxic behavior.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1790,7 +1766,7 @@
     },
     {
       "message": "toxic spammer @hamitcankilic",
-      "reason": "The message contains the term 'toxic spammer' which indicates that the user is engaging in toxic behavior by spamming. The mention of '@hamitcankilic' suggests that the user is targeting a specific individual, which further supports the classification as toxic.",
+      "reason": "The message contains the word 'toxic' which indicates negative behavior. Additionally, the term 'spammer' suggests that the user is engaging in unwanted and disruptive behavior. The mention of '@hamitcankilic' could be an attempt to target or harass a specific user.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1798,7 +1774,7 @@
     },
     {
       "message": "fuck",
-      "reason": "The predicted category is 'toxic' because the word 'fuck' is a profanity and is considered offensive and disrespectful. The model has likely classified this message as toxic based on the presence of this explicit language.",
+      "reason": "toxic language",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1806,7 +1782,7 @@
     },
     {
       "message": "there are many cheaters in china",
-      "reason": "The text contains a negative sentiment towards a specific group of people, in this case, cheaters in China. This negative sentiment can be considered toxic as it promotes stereotypes and generalizations about a particular nationality.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1814,7 +1790,7 @@
     },
     {
       "message": "Being memed for releasing an overpowered adc and being shit on by the whole community.Rito after a few months: \u00e2\u20ac\u0153 I\u00e2\u20ac\u2122ll fucking do it again.\u00e2\u20ac\u009d",
-      "reason": "The message contains profanity and negative sentiment, indicating toxic behavior.",
+      "reason": "The message contains offensive language and negative sentiment towards the community. The use of profanity and derogatory terms suggests a toxic tone.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1822,7 +1798,7 @@
     },
     {
       "message": "Dude tglWtf",
-      "reason": "The predicted category is 'toxic' because the text contains offensive language ('Wtf'). The model has correctly identified this as toxic based on the provided examples where similar language was classified as toxic.",
+      "reason": "toxic language used ('Wtf')",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1830,7 +1806,7 @@
     },
     {
       "message": "then ezreal says shut the fuck up mutedthen they both die to the first gank of the game 10 seconds after it was warnedand then they say jungle diff",
-      "reason": "The message contains offensive language ('shut the fuck up') which is considered toxic. Additionally, the message includes negative comments about the players' performance ('they both die to the first gank of the game' and 'then they say jungle diff'), which contributes to a toxic atmosphere in the online community.",
+      "reason": "The message contains offensive language ('shut the fuck up') which makes it toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1838,7 +1814,7 @@
     },
     {
       "message": "SUCK",
-      "reason": "The text 'SUCK' is classified as toxic because the prediction result shows a high probability of toxicity. The model has a confidence score of 0.95 for the toxic category, indicating a strong likelihood of the text being offensive or harmful.",
+      "reason": "The message contains a derogatory term that is considered offensive and disrespectful.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1846,7 +1822,7 @@
     },
     {
       "message": "@RuralBiscuits damn - i knew it!",
-      "reason": "The predicted category is 'toxic' because the message contains a profanity ('damn') which is likely to be considered offensive or disrespectful.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1854,7 +1830,7 @@
     },
     {
       "message": "Im not a fucking loser",
-      "reason": "The predicted category is 'toxic' because the message contains offensive language ('fucking'). The model has likely classified it as toxic based on the presence of this offensive word.",
+      "reason": "The message contains offensive language ('fucking') which is considered toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1862,7 +1838,7 @@
     },
     {
       "message": "damnnn",
-      "reason": "The text 'damnnn' is classified as toxic because the model predicted it to be toxic with a high confidence score of 0.95.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1870,7 +1846,15 @@
     },
     {
       "message": "wtffffffffffffff",
-      "reason": "The message contains a string of repeated characters, which is often associated with expressing frustration or anger. This type of language is commonly considered toxic.",
+      "reason": "The message contains a string of repeated characters, which is often associated with expressing frustration or anger. The excessive use of 'f' suggests a strong negative emotion.",
+      "predicted": "toxic",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "daaaaam",
+      "reason": "The message contains repetitive characters and lacks context, making it difficult to determine the intent. It could be interpreted as an expression of surprise or excitement, but it could also be seen as a potentially offensive or disrespectful comment depending on the context.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1878,7 +1862,7 @@
     },
     {
       "message": "fuck this team",
-      "reason": "The text contains a profanity, which is a strong indicator of toxicity.",
+      "reason": "toxic language",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1886,7 +1870,7 @@
     },
     {
       "message": "fuck this mmr god why",
-      "reason": "The message contains offensive language ('fuck') which is considered toxic. The user expresses frustration and anger ('why') which further indicates a negative sentiment. The model predicted the category as 'toxic' based on these indicators.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1894,7 +1878,7 @@
     },
     {
       "message": "but fuck riven",
-      "reason": "The text contains a profanity ('fuck') which is considered toxic and offensive.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1902,7 +1886,7 @@
     },
     {
       "message": "fuck man",
-      "reason": "The predicted category is 'toxic' because the text contains a profanity word 'fuck'. The model has likely classified it as toxic based on the presence of offensive language.",
+      "reason": "The message contains offensive language.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1910,7 +1894,7 @@
     },
     {
       "message": "shit",
-      "reason": "The predicted category is 'toxic' because the word 'shit' is considered offensive and vulgar. The model has likely classified it as toxic based on its understanding of the word's negative connotation and its association with profanity.",
+      "reason": "toxic language",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1918,7 +1902,7 @@
     },
     {
       "message": "like what the actual fuck is that",
-      "reason": "The message contains offensive language ('fuck'), which is a characteristic of toxic content.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1926,7 +1910,7 @@
     },
     {
       "message": "What the fuck is that",
-      "reason": "The text contains offensive language ('fuck'), which indicates a toxic tone.",
+      "reason": "toxic language",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1934,7 +1918,7 @@
     },
     {
       "message": "bruh what the fuck is this match making",
-      "reason": "The message contains offensive language ('fuck') which indicates toxicity.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1942,23 +1926,15 @@
     },
     {
       "message": "I fucking hate lux",
-      "reason": "The text contains strong profanity ('fucking') which indicates a negative sentiment towards 'lux'. This negative sentiment is likely to be classified as toxic.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
       "model": "gpt-3.5-turbo"
     },
     {
-      "message": "yes ionians are fun as fuck",
-      "reason": "The predicted category is 'clean' because the message does not contain any offensive or harmful language. It is a positive statement expressing enjoyment and excitement about Ionians.",
-      "predicted": "clean",
-      "prompt_version": 3,
-      "label": "clean",
-      "model": "gpt-3.5-turbo"
-    },
-    {
       "message": "basically a huge fuck you to all assassins",
-      "reason": "The message contains offensive language ('fuck you') which is indicative of toxic behavior.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1966,7 +1942,7 @@
     },
     {
       "message": "FUCKING WOWOW",
-      "reason": "The text contains offensive language, specifically the word 'FUCKING', which is a strong profanity. This falls into the 'toxic' category.",
+      "reason": "toxic language",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1974,7 +1950,7 @@
     },
     {
       "message": "well\na champ remains in the game forever so",
-      "reason": "The predicted category is 'clean'. The message does not contain any offensive or toxic language. It is a positive statement about a champion remaining in the game forever.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1982,7 +1958,7 @@
     },
     {
       "message": "oh so jg duo means you roam and shit together?",
-      "reason": "The message does not contain any offensive or harmful language. It is a question asking for clarification about the meaning of 'jg duo' in the context of roaming together. Therefore, it can be classified as 'clean'.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -1990,7 +1966,7 @@
     },
     {
       "message": "why the *fuck* do people in plat just s u c k",
-      "reason": "The message contains offensive language ('fuck') which indicates toxic behavior.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -1998,7 +1974,7 @@
     },
     {
       "message": "where le fuck is psyops kayle",
-      "reason": "The message contains offensive language ('fuck'), which indicates a toxic category.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2006,7 +1982,7 @@
     },
     {
       "message": "this fucking yi",
-      "reason": "The text contains a profanity ('fucking') which is considered toxic.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2014,7 +1990,15 @@
     },
     {
       "message": "feed them and said what the fuck could i do",
-      "reason": "The text contains offensive language ('what the fuck'), which indicates toxicity.",
+      "reason": "toxic",
+      "predicted": "toxic",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "laners dying even with vision \u00f0\u0178\u00a4\u00a1",
+      "reason": "The message contains a negative sentiment and the use of the emoji \u00f0\u0178\u00a4\u00a1 suggests frustration or annoyance. However, it does not contain any explicit toxic language or personal attacks.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2022,7 +2006,7 @@
     },
     {
       "message": "fuck support yuumi",
-      "reason": "The message contains offensive language ('fuck') which is considered toxic.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2030,7 +2014,7 @@
     },
     {
       "message": "> who the FUCK plays asol i BAN aury sol",
-      "reason": "The message contains offensive language ('FUCK') and is directed towards another player ('who the FUCK plays asol'). This indicates a toxic behavior.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2038,7 +2022,7 @@
     },
     {
       "message": "dont u dare put the yuumi passive in there fuck u",
-      "reason": "The message contains offensive language ('fuck u') which indicates toxicity.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2046,7 +2030,7 @@
     },
     {
       "message": "I wanna cry when I get them on my team useless sack of shit but when. Other team has them they just disappear and reappearing while somehow doing more damage with a blow dart then a fucking rek si",
-      "reason": "The predicted category is 'toxic' because the message contains offensive language ('useless sack of shit', 'fucking rek si') and expresses frustration and anger towards teammates.",
+      "reason": "toxic language and insults",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2054,7 +2038,7 @@
     },
     {
       "message": "this shit is like adc graves",
-      "reason": "The text contains a profanity ('shit'), which is a strong indicator of toxicity. Additionally, the comparison to 'adc graves' suggests a negative sentiment towards the subject, further supporting the toxic classification.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2062,7 +2046,7 @@
     },
     {
       "message": "Yeah with what? A short ass hop that gets you nearly nowhere? An ult that is SO fucking long",
-      "reason": "The message contains offensive language ('fucking') which indicates toxicity.",
+      "reason": "The message contains offensive language ('fucking') which makes it toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2070,7 +2054,7 @@
     },
     {
       "message": "And wtf are u a winrate friend? Who gives a fuck",
-      "reason": "The message contains offensive language ('wtf' and 'fuck') and displays a disrespectful and aggressive tone towards the recipient ('Who gives a fuck'). This indicates a toxic behavior.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2078,7 +2062,7 @@
     },
     {
       "message": "what the hell??",
-      "reason": "The message contains a strong profanity ('hell') which is considered toxic and offensive.",
+      "reason": "The message contains a profanity ('hell') which is considered offensive and disrespectful.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2086,7 +2070,7 @@
     },
     {
       "message": "oh shit guys",
-      "reason": "The predicted category is 'toxic' because the phrase 'oh shit' is considered profanity and can be offensive or disrespectful in some contexts.",
+      "reason": "The message contains a profanity ('shit'), which is considered offensive and disrespectful. This indicates a toxic behavior.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2094,7 +2078,7 @@
     },
     {
       "message": "oh shit",
-      "reason": "The predicted category is 'toxic' because the text contains a profanity word 'shit'. The model has likely classified it as toxic based on the presence of offensive language.",
+      "reason": "toxic language",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2102,7 +2086,7 @@
     },
     {
       "message": "who shit on us",
-      "reason": "The text contains offensive language, specifically the word 'shit', which is considered vulgar and inappropriate. This falls into the 'toxic' category.",
+      "reason": "The message contains offensive language and is disrespectful.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2110,7 +2094,7 @@
     },
     {
       "message": "absolute fucking bullshit",
-      "reason": "The text contains offensive language ('fucking') which is likely to be classified as toxic. The word 'bullshit' can also be considered derogatory and offensive. The predicted category is toxic based on the presence of these offensive words.",
+      "reason": "toxic language",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2118,7 +2102,7 @@
     },
     {
       "message": "He just fucking runs",
-      "reason": "The text contains offensive language ('fucking'), which indicates a toxic tone.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2126,7 +2110,7 @@
     },
     {
       "message": "this game is annoying as fuck",
-      "reason": "The text contains strong profanity ('fuck'), which indicates a high level of negativity and aggression. This suggests that the message is toxic.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2142,7 +2126,7 @@
     },
     {
       "message": "stupid morgana players",
-      "reason": "The text contains a derogatory term ('stupid') and targets a specific group of players ('morgana players'). This indicates a negative sentiment towards these players, which falls into the 'toxic' category.",
+      "reason": "The message contains a derogatory term ('stupid') which is offensive and disrespectful towards Morgana players. This indicates a toxic behavior.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2150,7 +2134,7 @@
     },
     {
       "message": "like holy shit make it stop",
-      "reason": "The message contains profanity ('holy shit') which is considered toxic language.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2158,7 +2142,7 @@
     },
     {
       "message": "thats shit",
-      "reason": "The predicted category is 'toxic' because the text contains a derogatory term ('shit') which is considered offensive and disrespectful.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2166,7 +2150,7 @@
     },
     {
       "message": "Cuz of that stupid strat",
-      "reason": "The message contains negative language ('stupid') which indicates a negative sentiment. This suggests that the message is likely to be toxic.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2174,7 +2158,7 @@
     },
     {
       "message": "no fuck off",
-      "reason": "The text contains offensive language ('fuck off'), which is likely to be classified as toxic.",
+      "reason": "The message contains offensive language.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2182,7 +2166,7 @@
     },
     {
       "message": "gold is such a shit hole man",
-      "reason": "The text contains offensive language ('shit hole') which is likely to be classified as toxic.",
+      "reason": "The message contains offensive language ('shit hole') which is derogatory and disrespectful.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2190,7 +2174,7 @@
     },
     {
       "message": "fuck shen",
-      "reason": "The text contains a profanity word 'fuck', which is considered toxic and offensive.",
+      "reason": "toxic language",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2198,7 +2182,7 @@
     },
     {
       "message": "fuck that champion and his entire bullshit kit",
-      "reason": "The message contains offensive language ('fuck') and expresses strong negative sentiment towards the champion and their abilities ('bullshit kit'). This indicates a toxic behavior.",
+      "reason": "The message contains offensive language and expresses strong negative emotions towards the champion and their abilities.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2206,7 +2190,7 @@
     },
     {
       "message": "played like shit",
-      "reason": "The text contains offensive language ('shit'), which is likely to be classified as toxic.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2214,7 +2198,7 @@
     },
     {
       "message": "he has 60 fucking dashes",
-      "reason": "The text contains offensive language ('fucking') which indicates a toxic category.",
+      "reason": "The message contains offensive language ('fucking') which makes it toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2222,7 +2206,7 @@
     },
     {
       "message": "wiat then what the fuck",
-      "reason": "The message contains offensive language ('fuck'), which is a characteristic of toxic content.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2230,7 +2214,7 @@
     },
     {
       "message": "fuck that",
-      "reason": "The predicted category is 'toxic' because the text contains a profanity ('fuck'). The model has likely classified it as toxic based on the presence of offensive language.",
+      "reason": "toxic language",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2238,7 +2222,7 @@
     },
     {
       "message": "nexus blitz is ass",
-      "reason": "The text is classified as toxic because it contains a derogatory term ('ass') which is considered offensive and disrespectful.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2254,7 +2238,7 @@
     },
     {
       "message": "what the fuck?",
-      "reason": "The message contains offensive language ('fuck'), which is considered toxic.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2262,7 +2246,7 @@
     },
     {
       "message": "it was the evelynn game, he even stole my fucking champ",
-      "reason": "The message contains profanity ('fucking') which is considered toxic.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2270,7 +2254,7 @@
     },
     {
       "message": "because its fucking bronze",
-      "reason": "The text contains offensive language ('fucking') which indicates a toxic behavior.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2278,7 +2262,7 @@
     },
     {
       "message": "HOLY FUCKING",
-      "reason": "The text contains strong profanity, which is likely to be classified as toxic.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2286,7 +2270,7 @@
     },
     {
       "message": "No fucking shit it is",
-      "reason": "The message contains offensive language ('fucking') which indicates a toxic tone. The use of such language is likely to be considered disrespectful and offensive by other users in the online community.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2294,7 +2278,7 @@
     },
     {
       "message": "I'm safe for now so fuck you guys",
-      "reason": "The predicted category is 'toxic' because the message contains offensive language ('fuck you guys'). The model has correctly identified the toxic nature of the message based on the presence of explicit profanity.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2302,7 +2286,7 @@
     },
     {
       "message": "Fuck that champ",
-      "reason": "The predicted category is 'toxic' because the message contains a profanity ('Fuck'). The model has likely classified it as toxic based on the presence of offensive language.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2310,7 +2294,7 @@
     },
     {
       "message": "screw that shit",
-      "reason": "The text contains profanity ('shit') which is considered toxic.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2318,7 +2302,7 @@
     },
     {
       "message": "> fuck off",
-      "reason": "The predicted category is 'toxic' because the message contains offensive language ('fuck off'). The model has correctly identified this as toxic based on the training data, which likely includes similar instances of offensive language.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2326,7 +2310,7 @@
     },
     {
       "message": "Annoying ass dog champ",
-      "reason": "The predicted category is 'toxic' because the message contains derogatory language ('ass') and is likely to be offensive or disrespectful towards the subject ('dog champ'). This is consistent with the toxic category as indicated by the prediction result.",
+      "reason": "The message contains offensive language ('ass') which can be considered toxic and disrespectful.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2334,7 +2318,7 @@
     },
     {
       "message": "sucks ass",
-      "reason": "The predicted category is 'toxic' because the text contains offensive language ('ass'). The model has correctly identified this as toxic based on its training on similar toxic texts.",
+      "reason": "The message contains offensive language.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2342,7 +2326,7 @@
     },
     {
       "message": "what the fuck is this",
-      "reason": "The message contains offensive language ('fuck'), which indicates a toxic tone. The model predicted the category as 'toxic' based on the presence of such offensive language.",
+      "reason": "The message contains offensive language ('fuck'), which is considered toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2350,7 +2334,7 @@
     },
     {
       "message": "he fuck",
-      "reason": "The predicted category is 'toxic' because the text contains a profanity word 'fuck'. The model has likely classified it as toxic based on the presence of offensive language.",
+      "reason": "toxic language",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2358,7 +2342,7 @@
     },
     {
       "message": "And my friend had to fucking choose tahm kench",
-      "reason": "The message contains offensive language ('fucking') which makes it fall into the 'toxic' category.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2366,7 +2350,7 @@
     },
     {
       "message": "@RiotSupport hi is there any update when riot will make a new and usable client for league of legends? Thanks",
-      "reason": "The message is clean because it is a polite inquiry about the development of a new client for League of Legends. There is no use of offensive or harmful language.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2374,7 +2358,7 @@
     },
     {
       "message": "@RisenEsportsNA Just doing the right thing @RisenEsportsNA.\n\nHowever, I better not catch you doing the same thing for your League of Legends team competing in @UpsurgeGG.",
-      "reason": "The message does not contain any offensive or harmful language. It seems to be a neutral statement about someone doing the right thing. Therefore, it can be classified as 'clean'.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2382,7 +2366,7 @@
     },
     {
       "message": "Northwood League of Legends finishes (5-3) on the weekend and takes 3rd place in the @DruryEsports invitational! \u00f0\u0178\u0090\u00ba#wolfpack",
-      "reason": "The message does not contain any offensive or harmful language. It is a positive announcement about the performance of the Northwood League of Legends team in a tournament.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2390,7 +2374,7 @@
     },
     {
       "message": "BTW. I'm going to keep streaming, because I genuinely like it. Expect them all to be super late though because that's legit the ONLY time I am able to stream.\n\nI am only streaming League of Legends because that's all I care to play these days.\n\nHope you enjoyed my dose of reality",
-      "reason": "The message does not contain any offensive or harmful language. It expresses the user's genuine interest in streaming and their limited availability to stream. The mention of playing only League of Legends shows the user's preference for a specific game. The closing statement suggests that the user intends to provide an authentic experience to the audience.",
+      "reason": "The message does not contain any offensive or harmful language. It is a personal statement expressing the user's genuine interest in streaming and their limited availability. The message also ends with a positive note, indicating a non-toxic intent.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2398,23 +2382,15 @@
     },
     {
       "message": "RT @PeterXinping: If You Want To Get Girls You Should Just Be Yourself! \n\nUnless You\u00e2\u20ac\u2122re 5\u00e2\u20ac\u21228, No Muscles, 3000 Hours League Of Legends, Twit\u00e2\u20ac\u00a6",
-      "reason": "The message contains derogatory language and negative stereotypes about physical appearance and interests. It implies that individuals who are 5'8, have no muscles, and spend a significant amount of time playing League of Legends and tweeting are undesirable and unable to attract girls. This promotes a toxic and judgmental attitude towards others based on their physical attributes and hobbies.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
       "model": "gpt-3.5-turbo"
     },
     {
-      "message": "expose yourself :\n\n1.nop\n2. No\n3. No\n4. Blue , pink\n5. M\n6. Hiii let's play league of legends\n7. Both\n8. Idk\n9. Idk they don't even reply me-\n10. No\n11. Ye\n12. No\n13. \u00f0\u0178\u00a4\u00a1\n\ndrop an emoji and i\u00e2\u20ac\u2122ll send you the questions",
-      "reason": "The message does not contain any explicit toxic language or offensive content. It consists of a series of responses to questions and statements, along with an invitation to play a game. Although the message includes an emoji and some informal language, it does not exhibit any toxic behavior.",
-      "predicted": "clean",
-      "prompt_version": 3,
-      "label": "clean",
-      "model": "gpt-3.5-turbo"
-    },
-    {
       "message": "11649 times KEKW",
-      "reason": "The message does not contain any offensive or harmful language. It is simply a repetition of the phrase 'KEKW' 11649 times. This repetition does not contribute to a toxic or harmful conversation.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2422,7 +2398,7 @@
     },
     {
       "message": "you W'd there because you were anticipating flash 4Head",
-      "reason": "The message does not contain any offensive or harmful language. It appears to be a comment related to a gaming situation, specifically referring to a player using the 'W' key in anticipation of a flash move. The message is clean and does not exhibit any toxic behavior.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2430,7 +2406,7 @@
     },
     {
       "message": "hi yamikaze do you know enthralled?",
-      "reason": "The message is classified as clean because it does not contain any toxic or offensive language. The model has predicted it as clean based on the absence of any toxic keywords or patterns in the text.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2438,7 +2414,7 @@
     },
     {
       "message": "YOU'RE SO GOOD",
-      "reason": "The message is classified as 'clean' because it contains positive and complimentary words. The use of capital letters and exclamation mark indicates enthusiasm and admiration. The model correctly predicts it as clean based on the absence of any toxic or offensive language.",
+      "reason": "The message is positive and does not contain any offensive or harmful language.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2446,7 +2422,15 @@
     },
     {
       "message": "YAMI STOP YOU'RE GOOD",
-      "reason": "The predicted category is 'clean'. The message does not contain any offensive or harmful language. It is a positive statement complimenting someone's skills or abilities.",
+      "reason": "clean",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "DD",
+      "reason": "The message 'DD' does not contain any explicit or offensive language, and there is not enough context to determine if it is toxic. Therefore, it can be classified as clean.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2454,7 +2438,7 @@
     },
     {
       "message": "5Head",
-      "reason": "The predicted category is 'clean'. The term '5Head' does not contain any offensive or toxic language. It appears to be a slang term or an inside joke within the online community. The model correctly classified it as a clean message.",
+      "reason": "The message '5Head' does not contain any offensive or harmful content. It appears to be a slang term used in online communities to refer to someone who is intelligent or clever. Therefore, the message can be classified as 'clean'.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2462,7 +2446,7 @@
     },
     {
       "message": "last time i played talon, talon jungle was not legitimately playable, is that still true",
-      "reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It is a simple question about the current state of playing Talon as a jungle champion. Therefore, the message can be classified as 'clean'.",
+      "reason": "The message does not contain any offensive or harmful language. It is a question about the viability of playing Talon in the jungle. Therefore, it can be classified as a clean message.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2470,7 +2454,7 @@
     },
     {
       "message": "@Yamikazexz who's your twitch crush? like a female streamer not taco LUL",
-      "reason": "The message is classified as clean because it does not contain any offensive or harmful language. It is a question about someone's preference for a female streamer on Twitch.",
+      "reason": "The message contains a question about someone's crush on a female streamer, which is a harmless topic and does not contain any offensive or toxic language.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2478,15 +2462,7 @@
     },
     {
       "message": "PepeLaugh",
-      "reason": "The predicted category is 'clean'. Although the message itself is a single word without any context, the predicted category is based on the fact that the 'clean' category is the default category when there is not enough information to confidently classify the text as 'toxic'.",
-      "predicted": "clean",
-      "prompt_version": 3,
-      "label": "clean",
-      "model": "gpt-3.5-turbo"
-    },
-    {
-      "message": "JESUS CHRIST",
-      "reason": "The text is classified as 'clean' because it does not contain any offensive or harmful language. The model has predicted it as 'clean' based on the absence of toxic words or phrases in the text.",
+      "reason": "The message 'PepeLaugh' does not contain any explicit or offensive language. It appears to be an emote or expression commonly used in online communities. Therefore, it can be classified as a clean message.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2494,7 +2470,7 @@
     },
     {
       "message": "what matchups do you take elec on talon and what champs do u take conq on him?",
-      "reason": "The message is asking for advice on which rune to take on Talon depending on the matchups and champions. It does not contain any offensive or harmful language, and is seeking information related to gameplay.",
+      "reason": "The message is asking for advice on which rune to take on Talon depending on the matchups and champions. It does not contain any offensive or harmful language, so it can be classified as clean.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2502,7 +2478,7 @@
     },
     {
       "message": "what did they do to you @Yamikazexz",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple question asking about someone's experience or situation. Therefore, it can be classified as 'clean'.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2510,7 +2486,7 @@
     },
     {
       "message": "are you twitch single?",
-      "reason": "The message does not contain any offensive or harmful language, and it appears to be a simple question about someone's relationship status on Twitch. Therefore, it can be classified as clean.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2518,15 +2494,15 @@
     },
     {
       "message": "215 cs",
-      "reason": "The message does not contain any offensive or harmful language. It appears to be a simple statement indicating the number of 'cs' (creep score) obtained in a game. This is a clean message as it does not violate any community guidelines or display any toxic behavior.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
       "model": "gpt-3.5-turbo"
     },
     {
-      "message": 800,
-      "reason": "The message is classified as 'clean' because the predicted category is 'clean'. However, without any context or information about the content of the message, it is difficult to provide a specific reason for this classification.",
+      "message": "800",
+      "reason": "The message consists of only a number, which does not contain any toxic or offensive content.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2534,7 +2510,7 @@
     },
     {
       "message": "YEP",
-      "reason": "The predicted category for the message 'YEP' is 'clean'. This is because the 'Prediction result' section does not mention any toxic or offensive language in the message. Additionally, there are no examples provided in the 'Prediction result' section that suggest the message should be classified as toxic.",
+      "reason": "The message 'YEP' does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It is a simple and harmless response.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2542,7 +2518,7 @@
     },
     {
       "message": "BALANCED KEKW",
-      "reason": "The message 'BALANCED KEKW' is classified as clean because it does not contain any toxic or offensive language. The model's prediction result also confirms that it is clean with a high probability score of 0.99.",
+      "reason": "The message 'BALANCED KEKW' does not contain any offensive or harmful language. It appears to be a playful expression commonly used in online communities. There is no indication of toxicity or any violation of community guidelines.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2550,23 +2526,15 @@
     },
     {
       "message": "gg",
-      "reason": "The message 'gg' is classified as clean because it does not contain any toxic or offensive language. The model has predicted it as clean based on the absence of any indicators of toxicity in the text.",
+      "reason": "The message 'gg' is commonly used as an abbreviation for 'good game' in online gaming communities. It is a positive and sportsmanlike expression used to acknowledge a well-played game. There is no offensive or harmful content in this message.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
       "model": "gpt-3.5-turbo"
     },
     {
-      "message": "Message",
-      "reason": "The predicted category for the message is 'clean'. The model has determined that the message does not contain any toxic or offensive language based on the provided prediction result.",
-      "predicted": "clean",
-      "prompt_version": 3,
-      "label": "clean",
-      "model": "gpt-3.5-turbo"
-    },
-    {
-      "message": "I mean Camille and Sett do so much True Damage so who cares about armor",
-      "reason": "The message does not contain any offensive or harmful language. It is a discussion about the champions Camille and Sett in a video game, and the speaker is expressing their opinion about the effectiveness of armor against their true damage abilities. The message is not toxic or offensive in nature.",
+      "message": "(",
+      "reason": "The message consists of a single character '('. It does not contain any offensive or harmful content, and there is no context provided to suggest any toxicity. Therefore, it can be classified as a clean message.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2574,15 +2542,7 @@
     },
     {
       "message": "hecarim is busted more",
-      "reason": "The message does not contain any offensive or harmful language, and it does not attack or insult any individual or group. Therefore, it can be classified as clean.",
-      "predicted": "clean",
-      "prompt_version": 3,
-      "label": "clean",
-      "model": "gpt-3.5-turbo"
-    },
-    {
-      "message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
-      "reason": "The message does not contain any offensive or harmful language. It is a positive comment about the recipient's performance in the game, specifically their ability to accumulate a high number of CS (creep score). The mention of 'DOINB HACK' suggests that the recipient's performance is comparable to that of DOINB, a professional player known for his high CS numbers. Therefore, the message can be classified as 'clean'.",
+      "reason": "The message does not contain any offensive or harmful language. It is a statement about the character 'hecarim' being overpowered or strong in the game. There is no indication of toxicity or any negative intent.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2590,7 +2550,7 @@
     },
     {
       "message": "Wait a sec, this isnt my favorite champion",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple statement expressing surprise or disappointment about the current champion selection. Therefore, it can be classified as 'clean'.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2598,7 +2558,7 @@
     },
     {
       "message": "Yami is my best friend",
-      "reason": "The message is classified as 'clean' because it does not contain any toxic or offensive language. The model has predicted it as 'clean' based on the absence of any toxic keywords or patterns in the text.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2606,7 +2566,7 @@
     },
     {
       "message": "700 true dmg on 1 Q there KEKW",
-      "reason": "The message contains gaming jargon and abbreviations commonly used in online gaming communities, such as 'dmg' (damage) and 'Q' (a reference to a specific ability or skill). The use of 'KEKW' suggests that the message is expressing excitement or amusement. This type of language is often used in a positive and non-toxic manner within gaming communities.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2614,7 +2574,7 @@
     },
     {
       "message": "hes too smart",
-      "reason": "The text is classified as 'clean' because it does not contain any offensive or harmful language. The model has predicted it as 'clean' based on the absence of toxic keywords or patterns in the text.",
+      "reason": "The message does not contain any offensive or harmful language. It simply states that someone is too smart, which is not inherently toxic or offensive.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2622,7 +2582,15 @@
     },
     {
       "message": "ewqawertqerqawertesaqweewtqa",
-      "reason": "The message is classified as 'clean' because it does not contain any recognizable words or meaningful content. The model predicts it as 'clean' based on the absence of toxic language or any other indicators of toxicity.",
+      "reason": "The message consists of random characters and does not contain any meaningful content or context. It does not exhibit any toxic or offensive language.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "Pepega",
+      "reason": "The message 'Pepega' does not contain any offensive or harmful language. It is a popular emote used in online communities to express sarcasm or to mock someone's intelligence in a lighthearted manner.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2630,7 +2598,15 @@
     },
     {
       "message": "stop watch Pog",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple statement expressing excitement or approval. The predicted category is 'clean' because it does not exhibit any toxic behavior.",
+      "reason": "clean",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "Ur not an assassin if u don\u00d5t one tap the adc",
+      "reason": "The message contains slang and gaming terminology, but it does not contain any offensive or harmful language. It is a statement about gameplay strategy in an online gaming community.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2638,7 +2614,7 @@
     },
     {
       "message": "osu? woow",
-      "reason": "The predicted category is 'clean' because the message does not contain any offensive or harmful language. It is a simple question about the game 'osu?' and expresses excitement with the word 'woow'. The model's prediction aligns with this interpretation as it classifies the message as 'clean'.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "clean",
@@ -2646,7 +2622,7 @@
     },
     {
       "message": "PLAY SOME NIGHTCORE WEEB SHIT",
-      "reason": "The text contains offensive language ('shit') which falls under the toxic category.",
+      "reason": "The message contains offensive language and derogatory terms ('weeb shit').",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2654,7 +2630,7 @@
     },
     {
       "message": "love how nobody gives a fuck",
-      "reason": "The predicted category is 'toxic' because the text contains offensive language ('fuck'). The model has correctly identified this message as toxic based on the prediction result, which shows a high probability of toxicity.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2662,7 +2638,7 @@
     },
     {
       "message": "Fuck off chat, that guy deserves to be banned for risking this channels life",
-      "reason": "The message contains offensive language ('Fuck off') and expresses a negative sentiment towards another user ('that guy deserves to be banned'). This indicates a toxic behavior and a violation of community guidelines.",
+      "reason": "The message contains offensive language and aggressive behavior, which is considered toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2670,7 +2646,7 @@
     },
     {
       "message": "shit happens",
-      "reason": "The text falls into the 'toxic' category because the model predicted it as toxic with a high confidence score of 0.95. The phrase 'shit happens' contains a profanity word, which is likely to be considered offensive or vulgar.",
+      "reason": "toxic language",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2678,7 +2654,7 @@
     },
     {
       "message": "@buttery_butt1094 YEAH shit funny af",
-      "reason": "The message contains profanity ('shit') which is considered toxic.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2686,7 +2662,7 @@
     },
     {
       "message": "HOLY SHIT karthus busted KEKW",
-      "reason": "The message contains profanity ('HOLY SHIT') which is considered toxic.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2694,7 +2670,7 @@
     },
     {
       "message": "or until u get shit on LUL",
-      "reason": "The message contains offensive language ('shit') which falls under the 'toxic' category.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2702,7 +2678,7 @@
     },
     {
       "message": "Wiping shit WutFace",
-      "reason": "The predicted category is 'toxic' because the text contains a vulgar term ('shit') which is likely to be considered offensive or inappropriate in most online communities.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2710,7 +2686,7 @@
     },
     {
       "message": "The fuck was that Fiora thinking? Diving base against 4 people and typing wtf in all chat so dumb",
-      "reason": "The message contains offensive language ('fuck', 'dumb') and negative sentiment ('wtf', 'so dumb'). It also criticizes another player's decision ('The fuck was that Fiora thinking?'). These elements indicate a toxic tone and behavior.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2718,7 +2694,7 @@
     },
     {
       "message": "smd = shake my dick?",
-      "reason": "The message contains explicit and offensive language, specifically referring to a sexual act. This falls under the category of toxic content.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2726,7 +2702,7 @@
     },
     {
       "message": "@Thebausffs just scared the shit out of my dog",
-      "reason": "The message contains profanity ('shit') which is considered toxic language.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2734,7 +2710,7 @@
     },
     {
       "message": "fiesta fiesta pluma pluma gay",
-      "reason": "The message contains offensive language and is derogatory towards the LGBTQ+ community. The word 'gay' is used in a negative context, which is considered toxic and disrespectful.",
+      "reason": "The message contains words that can be considered offensive and derogatory towards the LGBTQ+ community.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2742,7 +2718,7 @@
     },
     {
       "message": "IDIOT STOP COMPLAINING LUILW",
-      "reason": "The text contains offensive language ('IDIOT') and is written in all caps, which indicates aggression. This aligns with the predicted category of 'toxic'.",
+      "reason": "The message contains offensive language and is derogatory towards the recipient, using the word 'idiot'. This indicates a toxic tone and disrespectful behavior.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2750,7 +2726,7 @@
     },
     {
       "message": "holy shit PogU",
-      "reason": "The message contains a profanity ('shit') which is considered toxic.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2758,7 +2734,15 @@
     },
     {
       "message": "because cosmic 1st is shit @Thebausffs",
-      "reason": "The message contains offensive language ('shit') directed towards another user (@Thebausffs). This indicates a toxic behavior.",
+      "reason": "toxic",
+      "predicted": "toxic",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "that harvesting shit mythic with gragas is insane tbh",
+      "reason": "The message contains slang and profanity ('shit') which can be considered toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2766,7 +2750,7 @@
     },
     {
       "message": "@der_bisang he can miss it, long cd, needs grit. camille? she doesn't give a shit, spam Q for 1k true dmg YEP",
-      "reason": "The message contains offensive language and derogatory terms such as 'shit' and 'YEP'. This indicates a toxic tone and disrespectful behavior towards others.",
+      "reason": "The message contains offensive language and derogatory remarks, such as 'she doesn't give a shit' and 'spam Q for 1k true dmg'. These statements can be considered toxic and disrespectful.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2774,7 +2758,7 @@
     },
     {
       "message": "I suck so bad loool",
-      "reason": "The text contains self-deprecating language and a negative sentiment, indicating a low self-esteem or dissatisfaction with oneself. This suggests that the message falls into the 'toxic' category.",
+      "reason": "The message contains self-deprecating language and the word 'suck', which indicates a negative self-perception. The addition of 'loool' suggests that the statement is meant to be humorous, but it still falls under the category of toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "toxic",
@@ -2783,8 +2767,8 @@
   ],
   "incorrect_messages": [
     {
-      "message": "Its my stupid earphones",
-      "reason": "The text does not contain any offensive or harmful language. It is a simple statement about the speaker's earphones. Therefore, it can be classified as 'clean'.",
+      "message": "oh crap ruby u awake ??",
+      "reason": "The message contains a mild profanity ('crap'), but it is not directed towards anyone in a harmful or offensive manner. The rest of the message is a casual inquiry about someone's wakefulness. Overall, the message does not exhibit any toxic behavior.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "toxic",
@@ -2792,15 +2776,23 @@
     },
     {
       "message": "HELL NO",
-      "reason": "The text falls into the 'toxic' category because the model predicted it as toxic with a high confidence score of 0.95. The phrase 'HELL NO' is written in all caps, which indicates strong negative sentiment and aggression. This kind of language is often associated with toxic behavior in online communities.",
+      "reason": "The message contains strong language and is written in all caps, which indicates a negative and aggressive tone.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
       "model": "gpt-3.5-turbo"
     },
     {
-      "message": "the hell is a karak?",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple question asking for the meaning of the word 'karak'. Therefore, it can be classified as 'clean'.",
+      "message": "hell yeaaahh",
+      "reason": "toxic",
+      "predicted": "toxic",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "I suck at all but at least I dont die in the beginning smfh",
+      "reason": "The message contains negative language and self-deprecating remarks, indicating a negative tone. However, it does not contain any explicit offensive or harmful content. Therefore, it can be classified as 'clean'.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "toxic",
@@ -2808,7 +2800,7 @@
     },
     {
       "message": "That\u00e2\u20ac\u2122s pretty pathetic. I stick with the One X I think. First time in my 30+ years of gaming that I haven\u00e2\u20ac\u2122t been excited for a next gen console.",
-      "reason": "The predicted category is 'toxic' because the message contains negative sentiment and derogatory language ('pretty pathetic'). The model has identified this text as toxic based on its analysis of similar toxic messages in the training data.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -2816,7 +2808,7 @@
     },
     {
       "message": "TOP 0.1% popularity 33.3% win rate",
-      "reason": "The message does not contain any offensive or harmful language. It is simply stating statistics about popularity and win rate. Therefore, it can be classified as clean.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "toxic",
@@ -2824,7 +2816,7 @@
     },
     {
       "message": "Hes deceptilvely tanky and does not give a hairy rats ass about CC.",
-      "reason": "The message contains some strong language and negative sentiment, indicating a potentially toxic tone. The phrase 'does not give a hairy rats ass about CC' suggests a dismissive and disrespectful attitude towards others, which is characteristic of toxic behavior.",
+      "reason": "The message contains offensive language ('hairy rats ass') which makes it toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -2832,15 +2824,23 @@
     },
     {
       "message": "love how i cant win even with me playing well",
-      "reason": "The message expresses frustration and disappointment, but it does not contain any explicit toxic language or offensive content. It is a clean message.",
+      "reason": "The message expresses frustration and disappointment, but it does not contain any explicit toxic language or offensive content. It is a common sentiment in online gaming communities when players feel they are performing well but still unable to win. Therefore, the message can be classified as 'clean'.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "toxic",
       "model": "gpt-3.5-turbo"
     },
     {
+      "message": "alisaGG alisaGG alisaGG alisaGG naught14Luv naught14Luv naught14Nuts naught14Nuts naught14Nuts naught14Luv naught14Nuts naught14Luv naught14Nuts",
+      "reason": "The message consists of repeated words and usernames, which does not convey any meaningful information or contribute to the conversation. It appears to be spam or trolling behavior.",
+      "predicted": "toxic",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
       "message": "1G$",
-      "reason": "The message contains a combination of alphanumeric characters and symbols that do not form a coherent sentence or have any clear meaning. This type of message is often associated with spam or trolling behavior, which can be considered toxic in an online community.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -2848,7 +2848,7 @@
     },
     {
       "message": "Jesus, it's a warzone in that city monkaS",
-      "reason": "The message contains a reference to a warzone in a city, which can be interpreted as a negative and potentially violent situation. The presence of the emote 'monkaS' suggests that the speaker is feeling anxious or worried about the situation. Therefore, the message can be classified as toxic.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -2856,7 +2856,15 @@
     },
     {
       "message": "danucdNo Fattttttiiiiiiiiiiiiiiiiiiiiiiii",
-      "reason": "The message contains derogatory language ('Fattttttiiiiiiiiiiiiiiiiiiiiiiii') which is offensive and disrespectful. This falls into the 'toxic' category.",
+      "reason": "toxic",
+      "predicted": "toxic",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "@adooool18 on the way danucdSaspisas",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -2864,15 +2872,7 @@
     },
     {
       "message": "WeirdChamp",
-      "reason": "The predicted category is 'toxic' because the term 'WeirdChamp' is often used in online communities as a way to mock or criticize someone or something. It is a derogatory term that is commonly associated with toxic behavior.",
-      "predicted": "toxic",
-      "prompt_version": 3,
-      "label": "clean",
-      "model": "gpt-3.5-turbo"
-    },
-    {
-      "message": "Well,rip clips alisaYikes",
-      "reason": "The predicted category is 'toxic' because the text contains the word 'rip' which is often used in a negative or disrespectful context. Additionally, the presence of 'alisaYikes' suggests that the message may be expressing frustration or annoyance.",
+      "reason": "The message contains the term 'WeirdChamp', which is a popular emote used in online communities to express disapproval or mockery. While it may not be explicitly toxic, it can be considered as a negative or derogatory comment depending on the context.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -2880,15 +2880,15 @@
     },
     {
       "message": "danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner",
-      "reason": "The message consists of repetitive text, which is a common characteristic of spam or trolling behavior. This repetitive pattern indicates that the message is likely to be toxic.",
+      "reason": "The message consists of repetitive text that does not convey any meaningful information or contribute to the conversation. It appears to be spam or excessive repetition, which is often considered toxic behavior in online communities.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
       "model": "gpt-3.5-turbo"
     },
     {
-      "message": "faxGG faxGG faxGG",
-      "reason": "The message contains repetitive and nonsensical text, which is likely to be considered as spam or trolling. This falls into the 'toxic' category.",
+      "message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -2896,7 +2896,7 @@
     },
     {
       "message": "Quite the shit",
-      "reason": "The predicted category is 'toxic' because the word 'shit' is considered offensive and vulgar. The model has likely classified this message as toxic based on the presence of this word.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -2904,7 +2904,7 @@
     },
     {
       "message": "get out rogue",
-      "reason": "The predicted category is 'toxic' because the text contains an offensive term ('rogue') which is likely to be used in a derogatory or harmful manner.",
+      "reason": "The message contains an aggressive and offensive phrase 'get out'. This can be considered as toxic behavior.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -2912,7 +2912,31 @@
     },
     {
       "message": "asia sever is many china player..",
-      "reason": "The message contains a generalization and a negative sentiment towards Chinese players, which can be considered toxic.",
+      "reason": "Toxic",
+      "predicted": "toxic",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "Lol when adc became weak as shit I was like wtf happened did I just become ass turns out it wasn\u00e2\u20ac\u2122t me",
+      "reason": "clean",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "dont know why every game i get people like this on my team",
+      "reason": "The message expresses frustration and annoyance towards the behavior of teammates in online games. However, it does not contain any explicit toxic language or personal attacks. It is a general complaint about the quality of teammates, which is a common sentiment in online gaming communities. Therefore, the message can be classified as 'clean'.",
+      "predicted": "clean",
+      "prompt_version": 3,
+      "label": "toxic",
+      "model": "gpt-3.5-turbo"
+    },
+    {
+      "message": "DendiFace gg",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -2920,7 +2944,7 @@
     },
     {
       "message": "shes a girl...DAAAA",
-      "reason": "The message contains an exclamation with repeated letters ('DAAAA'), which indicates a strong emotion. This could be interpreted as an expression of excitement or enthusiasm, but it can also be seen as aggressive or mocking. Therefore, the message is classified as 'toxic'.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -2928,7 +2952,7 @@
     },
     {
       "message": "LETS FUCKING GOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-      "reason": "The message contains strong profanity, which indicates a toxic tone.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -2936,7 +2960,7 @@
     },
     {
       "message": ">  it's here!!!! What the fuck is that?",
-      "reason": "The message contains offensive language ('fuck'), which indicates a toxic category.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -2944,7 +2968,7 @@
     },
     {
       "message": "man i hate darius so much hes so stupid",
-      "reason": "The text contains negative sentiment and derogatory language towards a specific person, Darius. This indicates a toxic tone and falls into the 'toxic' category.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -2952,7 +2976,7 @@
     },
     {
       "message": "@ty_gets_rekt eleven10Gooba eleven10Gooba eleven10Gooba",
-      "reason": "The message contains repetitive and nonsensical words, which are often associated with spam or trolling behavior. This aligns with the predicted category of 'toxic'.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -2960,15 +2984,7 @@
     },
     {
       "message": "I fucking love those videos",
-      "reason": "The text contains a profanity ('fucking') which is considered toxic.",
-      "predicted": "toxic",
-      "prompt_version": 3,
-      "label": "clean",
-      "model": "gpt-3.5-turbo"
-    },
-    {
-      "message": "What up hamily hambO7 hambO7",
-      "reason": "The message contains informal language and repeated characters, which are often associated with toxic or spammy behavior.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -2976,7 +2992,7 @@
     },
     {
       "message": "time to get some free shit",
-      "reason": "The message contains offensive language ('shit') which falls under the 'toxic' category.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -2984,23 +3000,15 @@
     },
     {
       "message": "too E Z",
-      "reason": "The text 'too E Z' is classified as toxic because it contains a derogatory term. The model has identified the use of 'E Z' as toxic language, which is commonly used to mock or belittle others. This classification is consistent with the model's prediction result, which labels the text as toxic with a high confidence score.",
+      "reason": "The message contains a derogatory term 'E Z' which is often used to mock or belittle someone. This can be considered toxic behavior.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
       "model": "gpt-3.5-turbo"
     },
     {
-      "message": "ohh shit summit retired ?",
-      "reason": "The predicted category is 'clean'. The message does not contain any offensive or harmful language. It is a simple expression of surprise about someone named 'summit' retiring. The absence of any toxic or negative sentiment in the message indicates that it belongs to the 'clean' category.",
-      "predicted": "clean",
-      "prompt_version": 3,
-      "label": "toxic",
-      "model": "gpt-3.5-turbo"
-    },
-    {
       "message": "FUCK IT, VLAD IT IS",
-      "reason": "The message contains offensive language ('FUCK IT') which is classified as toxic.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -3008,7 +3016,7 @@
     },
     {
       "message": "how are you banananas today",
-      "reason": "The message does not contain any offensive or harmful language. It is a simple and harmless question about someone's well-being. The predicted category is 'clean' because the text does not exhibit any toxic behavior.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "toxic",
@@ -3016,7 +3024,7 @@
     },
     {
       "message": "All the subs because your bananas love you danucdBukulove mtgngHype @DanucD",
-      "reason": "The message does not contain any toxic or offensive language. It appears to be a positive message expressing love and appreciation for the community members.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "toxic",
@@ -3024,7 +3032,7 @@
     },
     {
       "message": "its banana its banana",
-      "reason": "The predicted category is 'clean' because the message does not contain any offensive or harmful language. It appears to be a harmless statement about bananas.",
+      "reason": "The message does not contain any offensive or harmful language. It appears to be a harmless repetition of the phrase 'its banana'.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "toxic",
@@ -3032,7 +3040,7 @@
     },
     {
       "message": "Have a great day/night bananas, i gotta go . danucdHi Later danucdBukulove",
-      "reason": "The message is classified as clean because it contains positive and friendly words such as 'Have a great day/night' and 'Hi Later'. There are no indications of any toxic or offensive language.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "toxic",
@@ -3040,15 +3048,7 @@
     },
     {
       "message": "but it sucks that we dont have enough player to do that now @hambinooo",
-      "reason": "The message does not contain any offensive or harmful language. It expresses disappointment about not having enough players to do something. Therefore, it can be classified as 'clean'.",
-      "predicted": "clean",
-      "prompt_version": 3,
-      "label": "toxic",
-      "model": "gpt-3.5-turbo"
-    },
-    {
-      "message": "daaaaam",
-      "reason": "The predicted category is 'clean'. The word 'daaaaam' does not contain any explicit or offensive language. It is a simple expression that could be interpreted as surprise or excitement. The model correctly classified it as a clean message.",
+      "reason": "The message expresses disappointment and frustration, but does not contain any offensive or harmful language. It is a normal expression of dissatisfaction.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "toxic",
@@ -3056,7 +3056,7 @@
     },
     {
       "message": "Holy fuck you actually did it you madman",
-      "reason": "The predicted category is 'toxic' because the message contains offensive language ('fuck') and aggressive tone ('you madman'). This is consistent with the prediction result which shows a high toxicity score of 0.95.",
+      "reason": "The message contains offensive language ('fuck') which is considered toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -3064,23 +3064,23 @@
     },
     {
       "message": "Samira is sick as fuck omg",
-      "reason": "The predicted category is 'toxic' because the phrase 'sick as fuck' is considered offensive and vulgar. The use of profanity indicates a negative and disrespectful tone.",
+      "reason": "Toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
       "model": "gpt-3.5-turbo"
     },
     {
-      "message": "laners dying even with vision \u00f0\u0178\u00a4\u00a1",
-      "reason": "The message does not contain any offensive or harmful language. It is a statement about laners dying despite having vision. This does not fall into the 'toxic' category.",
-      "predicted": "clean",
+      "message": "yes ionians are fun as fuck",
+      "reason": "The message contains profanity ('fuck'), which is considered toxic language.",
+      "predicted": "toxic",
       "prompt_version": 3,
-      "label": "toxic",
+      "label": "clean",
       "model": "gpt-3.5-turbo"
     },
     {
       "message": "no katarina in 0/5/2 we won't gank your yasuo",
-      "reason": "The message does not contain any offensive or harmful language. It is a response to a player's request for assistance in the game. The absence of Katarina in the game and the player's poor performance (0/5/2) are mentioned as reasons for not ganking their Yasuo.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "toxic",
@@ -3088,7 +3088,7 @@
     },
     {
       "message": "shit is so cringe and over done",
-      "reason": "The text contains profanity ('shit') which is considered toxic. Additionally, the phrase 'so cringe and over done' expresses a negative sentiment and can be seen as derogatory or offensive.",
+      "reason": "The message contains offensive language ('shit') which is considered toxic.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -3096,7 +3096,7 @@
     },
     {
       "message": "but they do it such a i dont give a shit way",
-      "reason": "The text contains offensive language ('i dont give a shit') which indicates a toxic tone.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -3104,7 +3104,7 @@
     },
     {
       "message": "I like League of legends because I had a guy say I don't care about the role I got I'm playing what I want, then he went 1/9",
-      "reason": "The message does not contain any offensive or harmful language. It is a personal anecdote about a player in League of Legends who disregarded their assigned role and performed poorly in the game. This does not exhibit any toxic behavior.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "toxic",
@@ -3112,7 +3112,7 @@
     },
     {
       "message": "It's like lol bitch you thought",
-      "reason": "The text contains offensive language ('bitch') which is likely to be classified as toxic.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -3120,7 +3120,7 @@
     },
     {
       "message": "I\u00e2\u20ac\u2122m married to the game and the game is league of legends and I want a divorce",
-      "reason": "The message does not contain any offensive or harmful language. It is a metaphorical statement expressing the person's strong attachment to the game 'League of Legends' and their desire to stop playing it.",
+      "reason": "clean",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "toxic",
@@ -3128,15 +3128,23 @@
     },
     {
       "message": "why do people say that fortnite is toxic, there literally isnt any proximity chat or ingame text chat or any of that, league of legends is 100x more toxic generally",
-      "reason": "The message discusses the toxicity of Fortnite compared to League of Legends. It mentions that Fortnite does not have proximity chat or in-game text chat, which suggests that the toxicity level in Fortnite might be lower. It also states that League of Legends is 100x more toxic generally, indicating that the toxicity in Fortnite is relatively low.",
+      "reason": "The message discusses the perception of toxicity in Fortnite and compares it to League of Legends. However, it does not contain any offensive or harmful language. Therefore, it can be classified as clean.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "toxic",
       "model": "gpt-3.5-turbo"
     },
     {
+      "message": "expose yourself :\n\n1.nop\n2. No\n3. No\n4. Blue , pink\n5. M\n6. Hiii let's play league of legends\n7. Both\n8. Idk\n9. Idk they don't even reply me-\n10. No\n11. Ye\n12. No\n13. \u00f0\u0178\u00a4\u00a1\n\ndrop an emoji and i\u00e2\u20ac\u2122ll send you the questions",
+      "reason": "The message contains inappropriate language and a request to expose oneself, which is considered toxic behavior.",
+      "predicted": "toxic",
+      "prompt_version": 3,
+      "label": "clean",
+      "model": "gpt-3.5-turbo"
+    },
+    {
       "message": "just dont care",
-      "reason": "The text is classified as 'clean' because it does not contain any offensive or harmful language. The model predicts it as 'clean' based on the absence of toxic keywords or patterns in the text.",
+      "reason": "The message is short and does not contain any explicit or offensive language. It does not show any signs of toxicity or negativity.",
       "predicted": "clean",
       "prompt_version": 3,
       "label": "toxic",
@@ -3144,7 +3152,7 @@
     },
     {
       "message": "u succ LUL",
-      "reason": "The message contains the phrase 'u succ', which is a derogatory term. The 'LUL' at the end indicates that the message is intended to be mocking or sarcastic. This type of language and tone is typically associated with toxic behavior.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -3152,7 +3160,7 @@
     },
     {
       "message": "Yami has inted 11650 times KEKW",
-      "reason": "The message contains the term 'inted', which is a slang term used in online gaming communities to refer to intentionally feeding or playing poorly on purpose. This behavior is often considered toxic and goes against the spirit of fair play and teamwork in online games.",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
@@ -3160,50 +3168,42 @@
     },
     {
       "message": "nb3LUL nb3LUL nb3LUL",
-      "reason": "The message consists of repetitive text 'nb3LUL'. This repetitive behavior can be considered as spam or trolling, which falls under the 'toxic' category.",
+      "reason": "The message consists of repetitive and nonsensical characters, which are often used to spam or disrupt conversations. This behavior is considered toxic in online communities.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
       "model": "gpt-3.5-turbo"
     },
     {
-      "message": "DD",
-      "reason": "The predicted category is not provided in the 'Prediction result' section.",
-      "predicted": "unknown",
+      "message": "JESUS CHRIST",
+      "reason": "toxic",
+      "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
       "model": "gpt-3.5-turbo"
     },
     {
       "message": "Sooooo if u say u have a GF ur actually lying so 5head",
-      "reason": "The message contains derogatory language ('lying') and insults ('5head'), which indicates a toxic tone. The model predicted the category as 'toxic' based on these indicators.",
+      "reason": "The message contains derogatory language and insults, suggesting a toxic tone.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
       "model": "gpt-3.5-turbo"
     },
     {
-      "message": "Pepega",
-      "reason": "The predicted category is 'toxic' because the term 'Pepega' is often used as an emote in online communities to mock or insult someone. It is considered a derogatory term and can contribute to a toxic atmosphere.",
+      "message": "I mean Camille and Sett do so much True Damage so who cares about armor",
+      "reason": "The message contains a statement that dismisses the importance of armor in the context of the champions Camille and Sett, implying a lack of concern for defensive strategies. This dismissive tone can be seen as toxic in a gaming community where teamwork and strategy are important.",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
       "model": "gpt-3.5-turbo"
     },
     {
-      "message": "Ur not an assassin if u don\u00d5t one tap the adc",
-      "reason": "The message contains a statement that could be considered toxic. The use of the phrase 'Ur not an assassin if u don\u00d5t one tap the adc' implies a negative judgment towards someone who does not perform a specific action in a video game. This can be seen as derogatory and offensive to those who do not meet the mentioned criteria.",
+      "message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
+      "reason": "toxic",
       "predicted": "toxic",
       "prompt_version": 3,
       "label": "clean",
-      "model": "gpt-3.5-turbo"
-    },
-    {
-      "message": "that harvesting shit mythic with gragas is insane tbh",
-      "reason": "The message contains positive language and expresses enthusiasm about a gameplay strategy. It does not contain any offensive or harmful content.",
-      "predicted": "clean",
-      "prompt_version": 3,
-      "label": "toxic",
       "model": "gpt-3.5-turbo"
     }
   ]

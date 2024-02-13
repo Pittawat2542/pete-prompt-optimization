@@ -1,6 +1,6 @@
 {
   "message": "eat shit riot",
-  "reason": "The text contains offensive language ('shit') directed towards someone or a group ('riot'). This falls under the 'toxic' category.",
+  "reason": "The message contains offensive language and is directed towards a specific entity, which is considered toxic behavior.",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

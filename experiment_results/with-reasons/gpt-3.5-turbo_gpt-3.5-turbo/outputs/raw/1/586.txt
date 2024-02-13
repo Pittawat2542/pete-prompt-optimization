@@ -1,7 +1,7 @@
 ```json
 {
   "message": "YAMI STOP YOU'RE GOOD",
-  "reason": "The message contains positive words and does not include any offensive or harmful language. The phrase 'YOU'RE GOOD' indicates a positive sentiment.",
+  "reason": "The message is positive and encouraging, with no signs of toxicity or negativity.",
   "predicted": "clean"
 }
 ```

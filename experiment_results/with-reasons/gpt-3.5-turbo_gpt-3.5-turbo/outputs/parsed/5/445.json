@@ -1,6 +1,6 @@
 {
   "message": "> fuck off",
-  "reason": "The message contains offensive language, specifically the phrase 'fuck off'. This is a clear example of toxic behavior and falls under the 'toxic' category.",
+  "reason": "The message contains offensive language and is intended to be rude and disrespectful. It is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

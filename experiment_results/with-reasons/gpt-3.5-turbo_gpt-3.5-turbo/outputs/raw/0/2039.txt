@@ -1,7 +1,7 @@
 ```json
 {
   "message": "XD I am gonna get that catch-phrased I promise Tig lol",
-  "reason": "The message contains positive emotions and friendly banter.",
+  "reason": "The message contains positive emotions and friendly language.",
   "predicted": "clean"
 }
 ```

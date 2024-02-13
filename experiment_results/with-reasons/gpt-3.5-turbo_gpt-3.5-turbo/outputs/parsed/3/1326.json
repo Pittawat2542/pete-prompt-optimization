@@ -1,6 +1,6 @@
 {
   "message": "1G$",
-  "reason": "The message contains a combination of alphanumeric characters and symbols that do not form a coherent sentence or have any clear meaning. This type of message is often associated with spam or trolling behavior, which can be considered toxic in an online community.",
+  "reason": "toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "clean",

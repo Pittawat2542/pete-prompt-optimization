@@ -1,7 +1,6 @@
 ```json
 {
-"message": "Yami is my best friend",
-"reason": "The message is classified as 'clean' because it does not contain any toxic or offensive language. The model has predicted it as 'clean' with a high confidence score of 0.95.",
-"predicted": "clean"
+  "message": "Yami is my best friend",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```

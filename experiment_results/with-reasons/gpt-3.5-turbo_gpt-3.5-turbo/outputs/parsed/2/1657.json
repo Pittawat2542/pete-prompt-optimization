@@ -1,6 +1,6 @@
 {
   "message": "Look at these vacuums",
-  "reason": "The message does not contain any offensive or harmful language. It is a neutral statement inviting others to observe a group of vacuums.",
+  "reason": "The message does not contain offensive language and is not derogatory. It is a neutral statement.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "clean",

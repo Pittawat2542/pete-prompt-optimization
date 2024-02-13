@@ -1,7 +1,9 @@
 ```json
 {
-"message": "!gift @shanabana",
-"reason": "The message does not contain any toxic or offensive language. It is a command to gift something to the user @shanabana. The predicted category is 'clean' because the text is not classified as toxic.",
-"predicted": "clean"
+  "message": "!gift @shanabana",
+  "reason": "clean",
+  "predicted": "clean"
 }
 ```
+
+The message "!gift @shanabana" does not contain any offensive or harmful content. It appears to be a command to send a gift to the user "@shanabana". Hence, it can be classified as a clean message.

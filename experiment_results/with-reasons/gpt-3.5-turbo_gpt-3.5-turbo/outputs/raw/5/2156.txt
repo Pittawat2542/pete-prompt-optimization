@@ -1,7 +1,7 @@
 ```json
 {
-"message": "DendiFace gg",
-"reason": "The message 'DendiFace gg' is classified as toxic because it contains the term 'DendiFace' which is likely a derogatory or offensive term. The 'gg' at the end of the message could also be interpreted as a sarcastic or mocking remark, contributing to the toxic classification.",
-"predicted": "toxic"
+  "message": "DendiFace gg",
+  "reason": "The message contains an emote 'DendiFace' and the abbreviation 'gg', which is commonly used in online gaming to mean 'good game'. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

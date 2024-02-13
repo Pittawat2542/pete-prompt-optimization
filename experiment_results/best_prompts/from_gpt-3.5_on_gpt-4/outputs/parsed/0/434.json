@@ -1,8 +1,0 @@
-{
-  "message": "but they do it such a i dont give a shit way",
-  "reason": "The message contains a profanity which is generally considered offensive and inappropriate in a respectful conversation. Therefore, it is classified as toxic.",
-  "predicted": "toxic",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

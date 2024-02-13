@@ -1,6 +1,6 @@
 {
   "message": "Arm E D",
-  "reason": "The message consists of random letters and does not contain any meaningful or coherent content. It does not appear to be toxic or offensive.",
+  "reason": "The message consists of random letters and does not convey any meaningful content.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "clean",

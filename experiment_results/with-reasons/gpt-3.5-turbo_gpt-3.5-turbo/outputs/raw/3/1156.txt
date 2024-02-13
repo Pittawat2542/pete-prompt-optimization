@@ -1,7 +1,9 @@
 ```json
 {
 "message": "Thatâ€™s pretty pathetic. I stick with the One X I think. First time in my 30+ years of gaming that I havenâ€™t been excited for a next gen console.",
-"reason": "The predicted category is 'toxic' because the message contains negative sentiment and derogatory language ('pretty pathetic'). The model has identified this text as toxic based on its analysis of similar toxic messages in the training data.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message is classified as "toxic" because it contains derogatory language ("pretty pathetic") and expresses a negative sentiment towards the topic of discussion (lack of excitement for a next-gen console).

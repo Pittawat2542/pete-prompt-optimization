@@ -1,7 +1,6 @@
 ```json
 {
-"message": "are you twitch single?",
-"reason": "The message does not contain any toxic or offensive language. It is a simple question asking about someone's relationship status on Twitch, which is a popular streaming platform. Therefore, the message can be classified as clean.",
-"predicted": "clean"
+  "message": "are you twitch single?",
+  "reason": "The message is asking about someone's relationship status on Twitch, which is unrelated to the topic of discussion and can be considered inappropriate or intrusive. It may be seen as a violation of privacy and can be classified as toxic.",
+  "predicted": "toxic"
 }
-```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "> cod is crap which one?",
-"reason": "The message contains a negative sentiment towards 'cod' (which could refer to the game 'Call of Duty') and uses the word 'crap' to describe it. This negative language suggests that the message is toxic.",
-"predicted": "toxic"
+  "message": "> cod is crap which one?",
+  "reason": "The message contains a negative sentiment towards 'cod' (presumably referring to the video game Call of Duty) and uses the word 'crap' to describe it. This negative language suggests a toxic sentiment.",
+  "predicted": "toxic"
 }
 ```

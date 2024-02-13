@@ -1,6 +1,6 @@
 {
   "message": "YOU'RE SO GOOD",
-  "reason": "The message is positive and complimentary, expressing admiration or praise. There is no indication of any toxic or offensive language.",
+  "reason": "The message expresses positivity and admiration.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "clean",

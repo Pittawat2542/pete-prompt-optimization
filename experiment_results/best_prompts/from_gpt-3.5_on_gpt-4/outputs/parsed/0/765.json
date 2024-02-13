@@ -1,8 +1,0 @@
-{
-  "message": "Wait a sec, this isnt my favorite champion",
-  "reason": "The message is a simple statement expressing the user's preference in a game. It does not contain any offensive, aggressive, or harmful content.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

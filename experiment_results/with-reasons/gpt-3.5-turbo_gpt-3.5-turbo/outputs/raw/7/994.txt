@@ -1,7 +1,6 @@
 ```json
 {
-"message": "@der_bisang he can miss it, long cd, needs grit. camille? she doesn't give a shit, spam Q for 1k true dmg YEP",
-"reason": "The message contains offensive language and derogatory terms such as 'shit' and 'dmg'. It also includes aggressive and disrespectful behavior towards another user. These characteristics indicate that the message is toxic.",
-"predicted": "toxic"
+  "message": "@der_bisang he can miss it, long cd, needs grit. camille? she doesn't give a shit, spam Q for 1k true dmg YEP",
+  "reason": "The message contains offensive language and disrespectful content, making it toxic.",
+  "predicted": "toxic"
 }
-```

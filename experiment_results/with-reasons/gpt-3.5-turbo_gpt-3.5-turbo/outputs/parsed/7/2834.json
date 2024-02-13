@@ -1,6 +1,6 @@
 {
   "message": "Taking a shit ehun ehun ehun ehun",
-  "reason": "The message contains explicit language and is considered offensive and vulgar. The repeated use of the word 'ehun' suggests a disrespectful and derogatory tone.",
+  "reason": "The message contains vulgar language, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 7,
   "label": "toxic",

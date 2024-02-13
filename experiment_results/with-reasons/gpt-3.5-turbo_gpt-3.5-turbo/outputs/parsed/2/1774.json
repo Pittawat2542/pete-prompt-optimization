@@ -1,7 +1,7 @@
 {
-  "message": "@Frank_Drebin451 yes danucd using it too",
-  "reason": "The message does not contain any offensive or harmful language, and there is no indication of any toxic behavior. It is a simple statement acknowledging that both @Frank_Drebin451 and danucd are using something.",
-  "predicted": "clean",
+  "message": "You are so stupid!",
+  "reason": "The message contains offensive language and is derogatory.",
+  "predicted": "toxic",
   "prompt_version": 2,
   "label": "clean",
   "model": "gpt-3.5-turbo"

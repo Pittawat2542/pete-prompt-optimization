@@ -1,6 +1,6 @@
 {
   "message": "how old she is",
-  "reason": "The message is a simple question asking about someone's age. It does not contain any offensive or harmful language. It appears to be a neutral and harmless inquiry.",
+  "reason": "The message is a simple question asking about someone's age. It does not contain any offensive or harmful language. Therefore, it can be classified as a clean message.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "clean",

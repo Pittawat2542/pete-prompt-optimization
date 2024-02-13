@@ -1,7 +1,5 @@
-```json
 {
 "message": "I can translate for ya if u want",
-"reason": "The message is clean because it is offering to help translate for someone.",
+"reason": "The message is helpful and offers assistance.",
 "predicted": "clean"
 }
-```

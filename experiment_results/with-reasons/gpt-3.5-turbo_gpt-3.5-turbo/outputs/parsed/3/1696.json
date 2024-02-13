@@ -1,6 +1,6 @@
 {
   "message": "danucdPotato LUL",
-  "reason": "The message contains the word 'Potato' which is not inherently toxic or offensive. The 'LUL' at the end indicates that the message is meant to be humorous or funny. Therefore, the message can be classified as clean.",
+  "reason": "clean",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

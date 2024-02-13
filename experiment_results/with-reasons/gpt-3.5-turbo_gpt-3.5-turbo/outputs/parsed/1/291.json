@@ -1,6 +1,6 @@
 {
   "message": "fuck",
-  "reason": "The message contains a profanity which is considered offensive and inappropriate. It violates the community guidelines and is likely to be classified as toxic.",
+  "reason": "The message contains a profanity, which is considered offensive and inappropriate.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

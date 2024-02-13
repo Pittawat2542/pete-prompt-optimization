@@ -1,6 +1,6 @@
 {
   "message": "YOU'RE SO GOOD",
-  "reason": "The message 'YOU'RE SO GOOD' is classified as 'clean' based on the prediction result. The model has predicted a high probability for the 'clean' category, indicating that the message is likely positive and does not contain any toxic or offensive content. The absence of any negative or harmful language in the message supports this classification.",
+  "reason": "The message is positive and complimentary, without any offensive or harmful content.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

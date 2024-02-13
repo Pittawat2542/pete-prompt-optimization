@@ -1,7 +1,7 @@
 {
   "message": "there are many cheaters in china",
-  "reason": "The message contains a negative sentiment towards a specific group of people, which can be considered toxic.",
-  "predicted": "toxic",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean",
   "prompt_version": 7,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

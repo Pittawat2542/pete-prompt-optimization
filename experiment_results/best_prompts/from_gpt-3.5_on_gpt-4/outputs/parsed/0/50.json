@@ -1,8 +1,0 @@
-{
-  "message": "It's like lol bitch you thought",
-  "reason": "The message contains offensive language which is disrespectful and can be harmful to others in the community.",
-  "predicted": "toxic",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

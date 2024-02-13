@@ -1,7 +1,7 @@
 {
   "message": "danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect",
-  "reason": "The message consists of repeated words, which does not convey any meaningful information or contribute to the conversation. It does not contain any offensive or harmful language.",
-  "predicted": "clean",
+  "reason": "The message consists of repetitive text without any context or meaningful content. It appears to be spam or excessive repetition of a phrase, which is not contributing to the conversation. Therefore, it can be classified as 'toxic'.",
+  "predicted": "toxic",
   "prompt_version": 1,
   "label": "clean",
   "model": "gpt-3.5-turbo"

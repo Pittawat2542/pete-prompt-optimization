@@ -1,7 +1,7 @@
 ```json
 {
   "message": "HOW THE HELL IS THIS AN A",
-  "reason": "The message contains strong language and is expressed in an aggressive tone, using all caps and the word 'hell'. This indicates a toxic behavior.",
+  "reason": "The message contains strong language and is expressed in a confrontational and aggressive manner.",
   "predicted": "toxic"
 }
 ```

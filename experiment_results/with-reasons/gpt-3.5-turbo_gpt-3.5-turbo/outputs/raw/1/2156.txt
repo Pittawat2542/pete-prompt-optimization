@@ -1,7 +1,7 @@
 ```json
 {
   "message": "DendiFace gg",
-  "reason": "The message contains the term 'gg', which is commonly used in online gaming communities to mean 'good game'. There is no offensive or harmful language in the message.",
+  "reason": "The message 'DendiFace gg' does not contain any explicit toxic language or offensive content. It appears to be a simple expression or reaction, which does not violate any community guidelines.",
   "predicted": "clean"
 }
 ```

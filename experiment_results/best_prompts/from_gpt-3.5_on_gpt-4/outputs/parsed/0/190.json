@@ -1,8 +1,0 @@
-{
-  "message": "I see HoB more",
-  "reason": "The message does not contain any offensive, disrespectful or inappropriate language. It seems to be a neutral statement or opinion about something or someone referred to as 'HoB'.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

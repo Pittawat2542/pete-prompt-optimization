@@ -1,6 +1,6 @@
 {
   "message": "Dont bother with salty lol he's tryna make yall look like an idiot when he is the moron himself",
-  "reason": "The text contains derogatory language ('idiot' and 'moron') and insults ('salty' and 'moron'). These elements contribute to a toxic and offensive tone, indicating that the message falls into the 'toxic' category.",
+  "reason": "The message contains derogatory language ('idiot' and 'moron') and is intended to insult and belittle others ('tryna make yall look like an idiot'). This indicates a toxic tone and negative behavior.",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

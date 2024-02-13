@@ -1,6 +1,6 @@
 {
   "message": "Yeah with what? A short ass hop that gets you nearly nowhere? An ult that is SO fucking long",
-  "reason": "The message contains offensive language and insults, which indicates a toxic behavior.",
+  "reason": "The message contains offensive language ('fucking') and negative tone ('short ass hop', 'nearly nowhere', 'SO fucking long').",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

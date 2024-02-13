@@ -1,6 +1,6 @@
 {
   "message": "Please chat only in English here",
-  "reason": "The message is a request for users to communicate in English. It does not contain any offensive or harmful language, and promotes a clean and inclusive environment for communication.",
+  "reason": "The message is a polite request for users to communicate in English. It does not contain any offensive or harmful language.",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

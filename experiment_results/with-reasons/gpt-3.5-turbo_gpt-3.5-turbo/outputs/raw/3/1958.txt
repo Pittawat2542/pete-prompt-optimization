@@ -1,7 +1,9 @@
 ```json
 {
 "message": "https://specs.gg/tgltn",
-"reason": "The predicted category is 'clean' because the text does not contain any toxic or offensive language. The model has a high confidence score of 0.98 for the 'clean' category, indicating that the text is most likely not toxic.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "https://specs.gg/tgltn" is classified as "clean" because it is a URL and does not contain any explicit or offensive content.

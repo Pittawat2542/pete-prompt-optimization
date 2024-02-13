@@ -1,7 +1,7 @@
 {
   "message": "danucdSaspisas danucdSASPISHAS",
-  "reason": "The message contains a combination of uppercase and lowercase letters, which is a common pattern in toxic messages. Additionally, the message consists of repeated words, which can be indicative of spam or trolling behavior. These patterns align with the toxic category.",
-  "predicted": "toxic",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean",
   "prompt_version": 7,
   "label": "clean",
   "model": "gpt-3.5-turbo"

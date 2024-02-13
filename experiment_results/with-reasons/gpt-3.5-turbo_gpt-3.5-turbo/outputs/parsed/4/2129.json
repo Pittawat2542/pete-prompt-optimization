@@ -1,6 +1,6 @@
 {
   "message": "ha ha ha",
-  "reason": "The message is classified as 'clean' because it consists of laughter. The model has predicted it as 'clean' based on the absence of any toxic or offensive language.",
+  "reason": "The message consists of repeated laughter, which is typically associated with humor and positivity. It does not contain any offensive or harmful content.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

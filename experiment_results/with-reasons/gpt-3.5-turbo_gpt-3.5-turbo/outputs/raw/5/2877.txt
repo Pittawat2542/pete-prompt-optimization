@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Good shit",
-"reason": "The message 'Good shit' is classified as 'clean' based on the prediction result. Although the word 'shit' can be considered vulgar or offensive in some contexts, it is commonly used in informal conversations to express approval or excitement. In this case, the word 'good' preceding 'shit' indicates a positive sentiment, suggesting that the message is not intended to be toxic or offensive.",
-"predicted": "clean"
+  "message": "Good shit",
+  "reason": "The message contains a slang term that can be interpreted as positive or negative depending on the context. Without further context, it is difficult to determine the intent behind the message. Therefore, it can be classified as either toxic or clean.",
+  "predicted": "clean"
 }
 ```

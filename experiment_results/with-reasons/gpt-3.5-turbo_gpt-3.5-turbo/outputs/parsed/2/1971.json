@@ -1,6 +1,6 @@
 {
-  "message": "dizzy_face:",
-  "reason": "The message consists of an emoji, which does not contain any toxic or offensive content.",
+  "message": "I can't believe you would say something like that!",
+  "reason": "The message expresses disbelief and disappointment, but does not contain offensive language.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "clean",

@@ -1,6 +1,6 @@
 {
   "message": "smd = shake my dick?",
-  "reason": "The message contains explicit and offensive language, specifically referring to a sexual act. This falls under the category of toxic.",
+  "reason": "The message contains offensive and disrespectful content, as it uses explicit language and sexual innuendo. This makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 7,
   "label": "toxic",

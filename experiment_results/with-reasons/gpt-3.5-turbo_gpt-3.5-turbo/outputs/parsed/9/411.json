@@ -1,6 +1,6 @@
 {
   "message": "it was the evelynn game, he even stole my fucking champ",
-  "reason": "The message contains offensive language ('fucking').",
+  "reason": "The message contains offensive language ('fucking') and displays frustration, making it toxic.",
   "predicted": "toxic",
   "prompt_version": 9,
   "label": "toxic",

@@ -1,7 +1,5 @@
-```json
 {
 "message": "danucdSaspisas danucdSASPISHAS",
-"reason": "The message contains a combination of uppercase and lowercase letters, which is not coherent and does not convey any meaningful information. It appears to be random gibberish, which is typically associated with toxic or spammy behavior.",
-"predicted": "toxic"
+"reason": "The message does not contain any offensive language or derogatory content. It appears to be a random string of characters.",
+"predicted": "clean"
 }
-```

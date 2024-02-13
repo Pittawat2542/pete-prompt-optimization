@@ -1,7 +1,7 @@
 ```json
 {
-"message": "5Head",
-"reason": "The message '5Head' does not contain any explicit toxic language or harmful content. It appears to be a slang term used in online communities. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "5Head",
+  "reason": "The message consists of a single word that does not have any offensive or harmful content. It appears to be a slang term used in online communities, but it does not exhibit any toxic behavior.",
+  "predicted": "clean"
 }
 ```

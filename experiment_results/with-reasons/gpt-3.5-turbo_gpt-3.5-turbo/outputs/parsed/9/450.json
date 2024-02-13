@@ -1,6 +1,6 @@
 {
   "message": "sucks ass",
-  "reason": "The message contains offensive language, specifically the phrase 'sucks ass', which is derogatory and disrespectful.",
+  "reason": "The message contains offensive language, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 9,
   "label": "toxic",

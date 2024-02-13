@@ -1,7 +1,7 @@
 {
   "message": "fiesta fiesta pluma pluma gay",
-  "reason": "The text contains the words 'fiesta', 'pluma', and 'gay', which are not inherently toxic or offensive. However, without further context, it is difficult to determine the intent or tone of the message. Therefore, the text can be classified as 'clean'.",
-  "predicted": "clean",
+  "reason": "The message contains offensive language and slurs, which makes it toxic.",
+  "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

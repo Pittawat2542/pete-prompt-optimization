@@ -1,7 +1,7 @@
 ```json
 {
-"message": "danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner",
-"reason": "The message consists of repetitive text, which is a common characteristic of spam or trolling behavior. This repetitive pattern indicates that the message is likely to be toxic.",
-"predicted": "toxic"
+  "message": "danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner",
+  "reason": "The message consists of repetitive text that does not convey any meaningful information or contribute to the conversation. It appears to be spam or excessive repetition, which is often considered toxic behavior in online communities.",
+  "predicted": "toxic"
 }
 ```

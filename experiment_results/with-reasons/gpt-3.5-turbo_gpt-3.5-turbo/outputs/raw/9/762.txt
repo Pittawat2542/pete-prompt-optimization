@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
-"reason": "The message contains a mention of another user, but it does not contain any offensive or harmful language. It is a positive comment about the user's CS (creep score) in a game. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "@Yamikazexz you are getting close to 400 CS DOINB HACK",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

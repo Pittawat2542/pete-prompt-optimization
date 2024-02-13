@@ -1,9 +1,0 @@
-"Prediction result": The model predicts this message as non-toxic with a 99% confidence level.
-
-```json
-{
-"message": "nb3LUL nb3LUL nb3LUL",
-"reason": "The model predicts this message as non-toxic with a 99% confidence level.",
-"predicted": "clean"
-}
-```

@@ -1,7 +1,7 @@
 ```json
 {
   "message": "@Adooool18 Thanks for the gift sub! soggyWow brkSmaK soggyWow brkSmaK soggyPog brkTSM",
-  "reason": "The message contains positive expressions like 'Thanks for the gift sub!' and emotes like 'soggyWow' and 'soggyPog'. There is no offensive or harmful language used in the message.",
+  "reason": "The message contains a mix of words and emotes commonly used in online gaming communities. While it may not be considered toxic, it is not a clean message either. It is more of a casual and playful message.",
   "predicted": "clean"
 }
 ```

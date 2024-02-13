@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@hf_spinach happy thursday!!",
-"reason": "The message is classified as clean because it contains positive words and does not exhibit any toxic behavior or language. The prediction result also confirms that the message is clean with a high probability.",
-"predicted": "clean"
+  "message": "@hf_spinach happy thursday!!",
+  "reason": "The message is positive and friendly, expressing happiness and well-wishes. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

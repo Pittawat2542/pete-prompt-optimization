@@ -1,6 +1,6 @@
 {
   "message": "how are you banananas today",
-  "reason": "The message does not contain any offensive or harmful language, and it seems to be a friendly greeting or inquiry about someone's well-being. Therefore, it can be classified as clean.",
+  "reason": "The message does not contain any offensive or harmful language. It is a simple question asking about the well-being of the recipient. There is no indication of toxicity.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "toxic",

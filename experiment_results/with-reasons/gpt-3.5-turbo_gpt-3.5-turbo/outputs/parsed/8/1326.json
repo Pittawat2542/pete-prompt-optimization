@@ -1,6 +1,6 @@
 {
   "message": "1G$",
-  "reason": "The text contains a combination of alphanumeric characters and symbols that do not form a coherent sentence or have any meaningful context. It is likely to be classified as 'clean' because it does not exhibit any toxic or offensive language.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 8,
   "label": "clean",

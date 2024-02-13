@@ -1,6 +1,6 @@
 {
   "message": "ohh shit summit retired ?",
-  "reason": "The message contains a swear word and expresses surprise about someone retiring. Although the use of a swear word may be considered offensive, the overall tone of the message is not aggressive or harmful. It seems to be a genuine expression of surprise.",
+  "reason": "The message contains profanity ('shit') which is considered toxic language.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

@@ -1,8 +1,0 @@
-{
-  "message": "OH SHIT DESYNC YOUR DEAD",
-  "reason": "The message contains strong language and aggressive tone, which is considered as toxic behavior in an online community.",
-  "predicted": "toxic",
-  "prompt_version": 0,
-  "label": "toxic",
-  "model": "gpt-4"
-}

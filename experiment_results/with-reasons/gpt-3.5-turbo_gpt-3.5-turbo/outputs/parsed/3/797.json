@@ -1,7 +1,7 @@
 {
   "message": "Pepega",
-  "reason": "The predicted category is 'toxic' because the term 'Pepega' is often used as an emote in online communities to mock or insult someone. It is considered a derogatory term and can contribute to a toxic atmosphere.",
-  "predicted": "toxic",
+  "reason": "The message 'Pepega' does not contain any offensive or harmful language. It is a popular emote used in online communities to express sarcasm or to mock someone's intelligence in a lighthearted manner.",
+  "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",
   "model": "gpt-3.5-turbo"

@@ -1,7 +1,9 @@
 ```json
 {
 "message": "Fuck, I just died by the twitch.",
-"reason": "The message contains offensive language ('Fuck') which is considered toxic.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message contains offensive language ("Fuck"), which is considered toxic and inappropriate for an online community. Therefore, it is classified as toxic.

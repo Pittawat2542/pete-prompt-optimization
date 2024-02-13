@@ -1,7 +1,7 @@
 {
   "message": "emojis here suck tbh",
-  "reason": "The message contains negative language and expresses a negative opinion about emojis.",
-  "predicted": "toxic",
+  "reason": "The message expresses a negative opinion about emojis, but it does not contain any offensive, harmful, or disrespectful content. Therefore, it can be classified as clean.",
+  "predicted": "clean",
   "prompt_version": 7,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

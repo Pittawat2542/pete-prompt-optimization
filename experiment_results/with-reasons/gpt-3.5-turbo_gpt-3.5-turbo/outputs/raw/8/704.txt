@@ -1,7 +1,7 @@
 ```json
 {
-"message": "gg",
-"reason": "The text 'gg' is classified as clean because it does not contain any toxic or offensive language. The model has predicted it as clean with a high confidence score of 0.98.",
-"predicted": "clean"
+  "message": "gg",
+  "reason": "The message consists of the abbreviation 'gg', which stands for 'good game'. It is commonly used in online gaming communities to show sportsmanship and does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

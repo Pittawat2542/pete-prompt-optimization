@@ -1,6 +1,6 @@
 {
   "message": "oh crap ruby u awake ??",
-  "reason": "The message contains mild profanity ('crap'), but it is not directed towards anyone in a harmful or offensive manner. The use of question marks suggests a friendly and casual tone.",
+  "reason": "The message contains informal language and a mild expletive ('crap'), but it does not contain any offensive or harmful content. It is a casual and colloquial message asking if someone named Ruby is awake.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "toxic",

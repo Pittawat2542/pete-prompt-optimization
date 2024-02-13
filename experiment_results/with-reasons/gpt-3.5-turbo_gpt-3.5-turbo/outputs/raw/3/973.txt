@@ -1,7 +1,9 @@
 ```json
 {
-"message": "holy shit PogU",
-"reason": "The message contains a profanity ('shit') which is considered toxic.",
-"predicted": "toxic"
+  "message": "holy shit PogU",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "holy shit PogU" contains profanity ("shit"), which is considered toxic language. Therefore, it falls under the category of "toxic".

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Who put me on the RNG shit list?",
-"reason": "The message contains offensive language ('shit') which classifies it as toxic.",
-"predicted": "toxic"
+  "message": "Who put me on the RNG shit list?",
+  "reason": "The message contains offensive language ('shit') and displays frustration, which makes it toxic.",
+  "predicted": "toxic"
 }
 ```

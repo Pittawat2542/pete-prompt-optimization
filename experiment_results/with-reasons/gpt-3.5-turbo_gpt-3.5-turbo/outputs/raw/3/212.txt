@@ -1,7 +1,9 @@
 ```json
 {
 "message": "> WHAT THE FUCKING FUCK IS THIS FUCKING RECALL ANIMATION  recall animation may be shit, but holy fuck the effects and animation are good",
-"reason": "The message contains strong profanity and offensive language, such as 'fuck' and 'shit'. This indicates a toxic tone and falls into the 'toxic' category.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message contains offensive language and aggressive tone, which indicates a toxic category.

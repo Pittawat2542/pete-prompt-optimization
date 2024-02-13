@@ -1,7 +1,7 @@
 ```json
 {
   "message": "ewqawertqerqawertesaqweewtqa",
-  "reason": "The message consists of random characters and does not contain any meaningful words or context. It does not exhibit any toxic behavior or offensive language.",
+  "reason": "The message consists of random characters and does not contain any meaningful content or context. It does not convey any toxic or harmful intent.",
   "predicted": "clean"
 }
 ```

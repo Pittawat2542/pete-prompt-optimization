@@ -1,7 +1,5 @@
-```json
 {
 "message": "11649 times KEKW",
-"reason": "The message consists of a number followed by a phrase that is likely a slang or abbreviation. It does not contain any offensive or harmful language, and therefore can be classified as clean.",
+"reason": "The message does not contain offensive language or derogatory content. It appears to be a reference to the 'KEKW' emote, which is commonly used in online communities to express laughter or amusement.",
 "predicted": "clean"
 }
-```

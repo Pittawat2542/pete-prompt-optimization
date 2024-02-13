@@ -1,7 +1,7 @@
 ```json
 {
   "message": "why asia server ?",
-  "reason": "The message is a simple question asking why there is an Asia server. It does not contain any offensive or harmful language, and there is no indication of toxicity.",
+  "reason": "The message does not contain any offensive or harmful language. It is a simple question about the choice of the Asia server.",
   "predicted": "clean"
 }
 ```

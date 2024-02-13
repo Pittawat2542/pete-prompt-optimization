@@ -1,6 +1,6 @@
 {
   "message": "ahhh gotcha",
-  "reason": "The message does not contain any offensive or harmful language. It seems to be a casual expression of understanding or agreement.",
+  "reason": "The message is short and does not contain any offensive or harmful language. It appears to be a casual response indicating understanding or agreement. Therefore, it can be classified as 'clean'.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "clean",

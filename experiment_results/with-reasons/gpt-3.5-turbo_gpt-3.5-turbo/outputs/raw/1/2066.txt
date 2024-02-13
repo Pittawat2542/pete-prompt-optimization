@@ -1,7 +1,7 @@
 ```json
 {
   "message": "they go super drop",
-  "reason": "The message does not contain any offensive or harmful language. It appears to be a casual statement without any negative intent.",
+  "reason": "The message does not contain any offensive or harmful language. It appears to be a harmless statement without any toxic intent.",
   "predicted": "clean"
 }
 ```

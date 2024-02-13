@@ -1,7 +1,6 @@
 ```json
 {
-"message": "too E Z",
-"reason": "The text is classified as toxic because it contains a derogatory term. The model has correctly identified it as toxic based on the prediction result, which shows a high probability for the toxic category.",
-"predicted": "toxic"
+  "message": "too E Z",
+  "reason": "The message contains a phrase that is commonly used in online gaming to taunt or belittle opponents. This can be seen as disrespectful and offensive, classifying the message as toxic.",
+  "predicted": "toxic"
 }
-```

@@ -1,7 +1,7 @@
 ```json
 {
 "message": "@RuralBiscuits damn - i knew it!",
-"reason": "The message contains a mild profanity ('damn'), which is considered toxic.",
+"reason": "The message contains a profanity ('damn') which is considered offensive and disrespectful. This indicates a toxic behavior.",
 "predicted": "toxic"
 }
 ```

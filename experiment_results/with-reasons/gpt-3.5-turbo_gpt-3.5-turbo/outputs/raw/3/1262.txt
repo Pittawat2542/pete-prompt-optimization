@@ -1,7 +1,9 @@
 ```json
 {
-"message": "hey",
-"reason": "The predicted category is 'clean' because the message is a simple greeting with no offensive or harmful content. The model has correctly classified it as clean based on the absence of any toxic language or negative sentiment.",
-"predicted": "clean"
+  "message": "hey",
+  "reason": "clean",
+  "predicted": "clean"
 }
 ```
+
+The message "hey" is classified as "clean" because it is a simple greeting and does not contain any offensive or harmful content.

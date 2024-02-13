@@ -1,6 +1,6 @@
 {
   "message": "Have you tried sleeping ass up?",
-  "reason": "The message contains inappropriate language and is likely to be considered toxic.",
+  "reason": "The message contains inappropriate and offensive language, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 6,
   "label": "toxic",

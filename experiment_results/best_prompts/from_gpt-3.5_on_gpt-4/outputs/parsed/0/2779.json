@@ -1,8 +1,0 @@
-{
-  "message": "Its a shit situation!",
-  "reason": "The model classified the message as 'toxic' due to the use of a profanity, which is generally considered inappropriate or offensive in an online community. The model's confidence in this prediction is 0.85, indicating a high level of certainty.",
-  "predicted": "toxic",
-  "prompt_version": 0,
-  "label": "toxic",
-  "model": "gpt-4"
-}

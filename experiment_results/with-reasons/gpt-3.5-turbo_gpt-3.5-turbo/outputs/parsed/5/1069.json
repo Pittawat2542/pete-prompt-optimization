@@ -1,6 +1,6 @@
 {
   "message": "The hell",
-  "reason": "The message 'The hell' can be classified as toxic because it contains strong language that can be considered offensive or disrespectful.",
+  "reason": "The message contains a strong expletive and can be considered offensive or aggressive.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

@@ -1,6 +1,6 @@
 {
   "message": "@Thebausffs just scared the shit out of my dog",
-  "reason": "The message contains offensive language ('shit') which is likely to be classified as toxic.",
+  "reason": "The message contains offensive language ('shit') and can be considered harmful to animals, making it toxic.",
   "predicted": "toxic",
   "prompt_version": 7,
   "label": "toxic",

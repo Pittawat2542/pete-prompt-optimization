@@ -1,7 +1,9 @@
 ```json
 {
 "message": "oh shit my boy is bigtime",
-"reason": "The predicted category is 'toxic' because the text contains profanity ('shit'). The model has identified this as a toxic message based on its training on similar examples.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message "oh shit my boy is bigtime" is classified as toxic because it contains profanity ("shit").

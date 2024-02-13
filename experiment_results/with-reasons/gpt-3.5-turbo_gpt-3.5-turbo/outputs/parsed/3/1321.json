@@ -1,6 +1,6 @@
 {
   "message": "zedraFlexL natiCreep zedraFlexR zedraLove zedraGG",
-  "reason": "The message contains a combination of words that are related to gaming and positive expressions like 'Love' and 'GG'. It does not contain any offensive or toxic language. Therefore, it can be classified as clean.",
+  "reason": "clean",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

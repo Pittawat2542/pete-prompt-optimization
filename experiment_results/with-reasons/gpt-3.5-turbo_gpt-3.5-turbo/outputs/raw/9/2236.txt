@@ -1,7 +1,6 @@
 ```json
 {
-  "message": "i have nothing",
-  "reason": "The message does not contain any offensive or harmful language. It is a simple statement indicating that the person has nothing. There is no indication of toxicity or any violation of community guidelines.",
+  "message": " i have nothing",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean"
 }
-```

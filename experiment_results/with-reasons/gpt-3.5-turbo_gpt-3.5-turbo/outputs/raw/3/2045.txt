@@ -1,7 +1,7 @@
 ```json
 {
 "message": "noice team work forsenCD",
-"reason": "The message contains positive language and shows appreciation for team work. It does not contain any offensive or harmful content.",
+"reason": "The message contains a positive phrase 'noice team work' which indicates a positive and supportive tone. The addition of 'forsenCD' suggests that the message is related to a specific online community or streamer. Overall, the message does not contain any offensive or harmful content.",
 "predicted": "clean"
 }
 ```

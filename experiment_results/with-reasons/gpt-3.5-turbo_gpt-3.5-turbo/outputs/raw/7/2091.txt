@@ -1,7 +1,7 @@
 ```json
 {
-"message": "ahhh gotcha",
-"reason": "The message does not contain any offensive or toxic language. It is a simple expression of understanding or realization.",
-"predicted": "clean"
+  "message": "ahhh gotcha",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
 ```

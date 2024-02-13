@@ -1,6 +1,6 @@
 {
   "message": "hello sir how are u",
-  "reason": "The predicted category is 'clean' because the message does not contain any offensive or harmful language. It is a polite greeting and does not violate any community guidelines.",
+  "reason": "The message is polite and does not contain any offensive or harmful language.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

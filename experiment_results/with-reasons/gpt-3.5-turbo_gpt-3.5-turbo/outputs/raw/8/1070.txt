@@ -1,7 +1,7 @@
 ```json
 {
-"message": "im stupid hbu?ðŸ™‡",
-"reason": "The text contains a derogatory term ('stupid') which is likely to be considered toxic.",
-"predicted": "toxic"
+  "message": "im stupid hbu?ðŸ™‡",
+  "reason": "The message contains self-deprecating language, but it does not display any offensive or harmful content. Therefore, it can be classified as clean.",
+  "predicted": "clean"
 }
 ```

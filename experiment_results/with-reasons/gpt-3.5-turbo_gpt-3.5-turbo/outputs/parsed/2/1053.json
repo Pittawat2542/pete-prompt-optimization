@@ -1,6 +1,6 @@
 {
   "message": "Hell no ew",
-  "reason": "The message contains negative language ('Hell no') and an interjection ('ew'), which indicates a negative sentiment. This suggests that the message is toxic.",
+  "reason": "The message contains negative language and expresses disgust.",
   "predicted": "toxic",
   "prompt_version": 2,
   "label": "toxic",

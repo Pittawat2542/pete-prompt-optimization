@@ -1,6 +1,6 @@
 {
   "message": "what's the song name",
-  "reason": "The message is classified as clean because it is a simple and straightforward question asking for the name of a song. There is no offensive or harmful language used, and the message does not contain any toxic elements.",
+  "reason": "The message is a simple and neutral question asking for the name of a song. It does not contain any offensive or harmful content.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

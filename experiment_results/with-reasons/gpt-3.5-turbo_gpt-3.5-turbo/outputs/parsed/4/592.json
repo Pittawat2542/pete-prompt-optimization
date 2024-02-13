@@ -1,6 +1,6 @@
 {
   "message": "DD",
-  "reason": "The message is classified as 'clean' because it does not contain any toxic or offensive language. The model has predicted it as 'clean' based on the absence of any indicators of toxicity or offensiveness.",
+  "reason": "The message 'DD' does not contain any explicit or offensive language, and there is no context provided to determine its meaning. Therefore, it can be classified as a clean message.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

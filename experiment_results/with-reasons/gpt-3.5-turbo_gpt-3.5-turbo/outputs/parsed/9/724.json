@@ -1,7 +1,7 @@
 {
-  "message": "You're such an idiot!",
-  "reason": "The message contains an offensive term ('idiot') which is a strong indicator of toxicity.",
-  "predicted": "toxic",
+  "message": "(",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",
   "model": "gpt-3.5-turbo"

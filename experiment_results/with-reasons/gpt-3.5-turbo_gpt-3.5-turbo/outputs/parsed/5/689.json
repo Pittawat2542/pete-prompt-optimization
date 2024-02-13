@@ -1,6 +1,6 @@
 {
   "message": "YEP",
-  "reason": "The message 'YEP' is classified as a clean category. The prediction result shows that the model has a high confidence score for the clean category. Additionally, there are no examples in the 'Prediction result' section that suggest the message should be classified as toxic.",
+  "reason": "The message consists of a single word that does not contain any offensive or harmful content. It is a neutral and harmless response.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

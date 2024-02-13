@@ -1,7 +1,9 @@
 ```json
 {
 "message": "Melanie is in hell now",
-"reason": "The predicted category is 'toxic' because the message contains negative and harmful language. The word 'hell' is associated with suffering and punishment, which contributes to a toxic atmosphere.",
+"reason": "Toxic",
 "predicted": "toxic"
 }
 ```
+
+The message "Melanie is in hell now" is classified as toxic because it contains negative and harmful language. The use of the word "hell" suggests a negative and hostile sentiment towards Melanie.

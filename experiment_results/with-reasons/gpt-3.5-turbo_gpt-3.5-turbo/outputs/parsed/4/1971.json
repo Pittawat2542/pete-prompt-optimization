@@ -1,6 +1,6 @@
 {
   "message": "dizzy_face:",
-  "reason": "The message does not contain any text, only an emoji. Therefore, it does not fall into any category.",
+  "reason": "The message consists of an emoji 'dizzy_face:'. It does not contain any text or context, making it impossible to determine if it is toxic or clean.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

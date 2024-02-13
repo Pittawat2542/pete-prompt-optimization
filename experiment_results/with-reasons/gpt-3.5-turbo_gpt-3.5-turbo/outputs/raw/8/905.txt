@@ -1,7 +1,6 @@
 ```json
 {
-"message": "HOLY SHIT karthus busted KEKW",
-"reason": "The text contains profanity ('HOLY SHIT') which is likely to be classified as toxic.",
-"predicted": "toxic"
+  "message": "HOLY SHIT karthus busted KEKW",
+  "reason": "The message contains offensive language, which makes it toxic.",
+  "predicted": "toxic"
 }
-```

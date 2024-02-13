@@ -1,7 +1,9 @@
 ```json
 {
 "message": "@adooool18 on the way danucdSaspisas",
-"reason": "The message does not contain any offensive or harmful language. It appears to be a combination of usernames or random characters, which does not contribute to any toxic behavior.",
-"predicted": "clean"
+"reason": "toxic",
+"predicted": "toxic"
 }
 ```
+
+The message "@adooool18 on the way danucdSaspisas" is classified as "toxic" because it contains random characters and does not make any coherent sense.

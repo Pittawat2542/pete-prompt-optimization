@@ -1,7 +1,7 @@
 {
   "message": "I suck at all but at least I dont die in the beginning smfh",
-  "reason": "The message contains negative language and self-deprecating remarks, indicating a negative sentiment. However, it does not contain any explicit toxic or offensive language.",
-  "predicted": "toxic",
+  "reason": "The message contains self-deprecating language but does not contain offensive or derogatory language.",
+  "predicted": "clean",
   "prompt_version": 2,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

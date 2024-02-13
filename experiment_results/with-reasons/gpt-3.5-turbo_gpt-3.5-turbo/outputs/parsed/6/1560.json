@@ -1,6 +1,6 @@
 {
   "message": "how old she is",
-  "reason": "The message is a neutral question asking about someone's age. It does not contain any offensive or harmful language.",
+  "reason": "The message is a simple question asking about someone's age and does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 6,
   "label": "clean",

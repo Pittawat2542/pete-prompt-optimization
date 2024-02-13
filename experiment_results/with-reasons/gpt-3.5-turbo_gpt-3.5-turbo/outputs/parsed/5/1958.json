@@ -1,7 +1,7 @@
 {
   "message": "https://specs.gg/tgltn",
-  "reason": "The message is classified as toxic. The prediction result shows a high toxicity score of 0.92, indicating a high likelihood of toxic content. Additionally, the presence of offensive language and personal attacks in the message further supports the classification as toxic.",
-  "predicted": "toxic",
+  "reason": "The message is a URL and does not contain any text. It cannot be classified as toxic or clean.",
+  "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",
   "model": "gpt-3.5-turbo"

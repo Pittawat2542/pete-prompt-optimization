@@ -1,7 +1,7 @@
 ```json
 {
-"message": "ha ha ha comms",
-"reason": "The message 'ha ha ha comms' is classified as clean. The word 'ha' repeated multiple times is likely an expression of laughter or amusement, which is a common and harmless occurrence in online communities. The word 'comms' is a shortened form of 'communications' and does not appear to contain any toxic or offensive content. Therefore, based on the given information, the message can be classified as clean.",
-"predicted": "clean"
+  "message": "ha ha ha comms",
+  "reason": "The message contains laughter and the word 'comms', which is likely a short form of 'communications'. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

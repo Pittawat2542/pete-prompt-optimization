@@ -1,6 +1,6 @@
 {
   "message": "!hype",
-  "reason": "The message '!hype' does not contain any offensive or harmful language. It is a positive expression of excitement or enthusiasm. The model correctly predicts it as a 'clean' message.",
+  "reason": "clean",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

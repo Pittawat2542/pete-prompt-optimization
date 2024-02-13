@@ -1,6 +1,6 @@
 {
   "message": "danucdChair",
-  "reason": "The message 'danucdChair' does not contain any meaningful text or context. Therefore, it cannot be classified as toxic or clean.",
+  "reason": "The message consists of a combination of characters that do not form a coherent sentence or convey any meaningful information. It does not contain any offensive or harmful content.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

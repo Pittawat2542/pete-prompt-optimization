@@ -1,7 +1,7 @@
 {
-  "message": "@hf_spinach happy thursday!!",
-  "reason": "The message is classified as clean because it contains positive and friendly content. The user is wishing someone a happy Thursday, which indicates a positive and non-toxic interaction.",
-  "predicted": "clean",
+  "message": "You are so dumb!",
+  "reason": "The message contains offensive language and is derogatory.",
+  "predicted": "toxic",
   "prompt_version": 2,
   "label": "clean",
   "model": "gpt-3.5-turbo"

@@ -1,7 +1,7 @@
 {
   "message": "cause im an idiot lol",
-  "reason": "The message contains self-deprecating language and the term 'idiot', which indicates a negative self-perception. This suggests that the message is likely to be classified as toxic.",
-  "predicted": "toxic",
+  "reason": "The message self-deprecates and uses informal language, but does not contain offensive language or derogatory remarks.",
+  "predicted": "clean",
   "prompt_version": 2,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

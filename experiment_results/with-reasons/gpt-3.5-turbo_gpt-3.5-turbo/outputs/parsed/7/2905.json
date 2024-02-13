@@ -1,6 +1,6 @@
 {
   "message": "Have a great day/night bananas, i gotta go . danucdHi Later danucdBukulove",
-  "reason": "The message is classified as clean because it contains positive and friendly words such as 'Have a great day/night' and 'Hi Later'. There are no offensive or toxic words present in the message.",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 7,
   "label": "toxic",

@@ -1,6 +1,6 @@
 {
   "message": "who the fuck uses D for flashbanning whoever says me",
-  "reason": "The message contains offensive language ('fuck') which is considered toxic. The use of such language is disrespectful and can create a hostile environment in the online community.",
+  "reason": "The message contains offensive language ('fuck') and is aggressive in tone. It is considered toxic and offensive.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

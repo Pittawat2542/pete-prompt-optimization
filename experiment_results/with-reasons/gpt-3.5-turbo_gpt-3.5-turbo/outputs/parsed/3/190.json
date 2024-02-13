@@ -1,6 +1,6 @@
 {
   "message": "I see HoB more",
-  "reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It appears to be a neutral statement expressing the author's observation or preference.",
+  "reason": "clean",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

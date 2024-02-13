@@ -1,6 +1,6 @@
 {
   "message": "my god the stupidity of people",
-  "reason": "The message contains derogatory language and expresses a negative sentiment towards people. It can be considered offensive and disrespectful.",
+  "reason": "The message contains negative language and expresses frustration towards people. It can be seen as derogatory and disrespectful, which makes it fall into the 'toxic' category.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

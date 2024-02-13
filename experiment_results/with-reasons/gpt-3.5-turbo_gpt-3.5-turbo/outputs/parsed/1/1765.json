@@ -1,6 +1,6 @@
 {
   "message": "@melihozkiremitci danucdHi danucdHi",
-  "reason": "The message consists of usernames and greetings, which are common in online communities. There is no offensive or harmful language used in the message.",
+  "reason": "The message consists of a mention and repeated greetings. It does not contain any offensive or harmful language.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "clean",

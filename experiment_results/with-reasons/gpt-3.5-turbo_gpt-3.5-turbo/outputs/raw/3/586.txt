@@ -1,7 +1,9 @@
 ```json
 {
-"message": "YAMI STOP YOU'RE GOOD",
-"reason": "The predicted category is 'clean'. The message does not contain any offensive or harmful language. It is a positive statement complimenting someone's skills or abilities.",
-"predicted": "clean"
+  "message": "YAMI STOP YOU'RE GOOD",
+  "reason": "clean",
+  "predicted": "clean"
 }
 ```
+
+The message "YAMI STOP YOU'RE GOOD" does not contain any offensive or harmful language. It appears to be a positive and encouraging message, indicating that the person named YAMI is doing well. Therefore, it can be classified as a "clean" message.

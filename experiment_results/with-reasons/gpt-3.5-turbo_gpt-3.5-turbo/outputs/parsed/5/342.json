@@ -1,6 +1,6 @@
 {
   "message": "> who the FUCK plays asol i BAN aury sol",
-  "reason": "The message contains offensive language ('FUCK') which is considered toxic. The use of offensive language is a clear indication of toxicity.",
+  "reason": "The message contains offensive language ('FUCK') and is written in all caps, which indicates aggression. It is considered toxic and offensive.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

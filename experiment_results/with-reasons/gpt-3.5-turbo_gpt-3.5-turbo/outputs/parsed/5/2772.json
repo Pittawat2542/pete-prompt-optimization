@@ -1,6 +1,6 @@
 {
   "message": "@keckzn have a time out, come back when you're done saying dumb shit",
-  "reason": "The message contains offensive language ('dumb shit') which is derogatory and disrespectful. This falls under the 'toxic' category.",
+  "reason": "The message contains offensive language and is directed towards someone in a derogatory manner. It is considered toxic and disrespectful.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

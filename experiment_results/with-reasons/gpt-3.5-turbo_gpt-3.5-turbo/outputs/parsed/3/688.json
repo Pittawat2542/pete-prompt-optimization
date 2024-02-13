@@ -1,6 +1,6 @@
 {
-  "message": 800,
-  "reason": "The message is classified as 'clean' because the predicted category is 'clean'. However, without any context or information about the content of the message, it is difficult to provide a specific reason for this classification.",
+  "message": "800",
+  "reason": "The message consists of only a number, which does not contain any toxic or offensive content.",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

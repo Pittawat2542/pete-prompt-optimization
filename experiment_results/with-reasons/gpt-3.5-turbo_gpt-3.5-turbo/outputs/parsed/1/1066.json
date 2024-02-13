@@ -1,7 +1,7 @@
 {
   "message": "Hell nahh",
-  "reason": "The message contains a negative and dismissive response, which can be interpreted as rude or offensive. The use of slang and the double 'h' in 'nahh' adds to the informal and potentially disrespectful tone.",
-  "predicted": "toxic",
+  "reason": "The message contains a negative and dismissive tone, but it does not contain any explicit offensive or harmful language. Therefore, it can be classified as a 'clean' message.",
+  "predicted": "clean",
   "prompt_version": 1,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

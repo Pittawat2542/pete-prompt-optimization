@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@Frank_Drebin451 yes danucd using it too",
-"reason": "The message does not contain any offensive or harmful language. It is a simple response to another user mentioning that both @Frank_Drebin451 and danucd are using something. There is no indication of toxicity or any violation of community guidelines.",
-"predicted": "clean"
+  "message": "@Frank_Drebin451 yes danucd using it too",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

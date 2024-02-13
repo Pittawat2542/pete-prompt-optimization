@@ -1,8 +1,0 @@
-{
-  "message": "shady as hell",
-  "reason": "The message contains a negative connotation and could be interpreted as offensive or insulting, which is characteristic of toxic messages.",
-  "predicted": "toxic",
-  "prompt_version": 0,
-  "label": "toxic",
-  "model": "gpt-4"
-}

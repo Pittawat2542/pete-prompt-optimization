@@ -1,6 +1,6 @@
 {
   "message": "Support always",
-  "reason": "The message is classified as 'clean' because it does not contain any toxic or offensive language. The model has consistently predicted it as 'clean' in the provided examples.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 6,
   "label": "clean",

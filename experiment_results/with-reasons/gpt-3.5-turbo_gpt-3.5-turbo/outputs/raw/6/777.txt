@@ -1,7 +1,7 @@
 ```json
 {
-"message": "700 true dmg on 1 Q there KEKW",
-"reason": "The message contains gaming jargon and abbreviations like 'dmg' and 'Q', which are commonly used in online gaming communities. The presence of 'KEKW' suggests that the message is likely to be a positive or neutral comment rather than a toxic one.",
-"predicted": "clean"
+  "message": "700 true dmg on 1 Q there KEKW",
+  "reason": "The message contains gaming jargon and abbreviations, but does not display any offensive or harmful content. Therefore, it can be classified as clean.",
+  "predicted": "clean"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "as an OG pubg player who has taken like 6 months off, the sounds are wack to get used too.",
-"reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It is a simple statement expressing the speaker's opinion about the sounds in the game. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "as an OG pubg player who has taken like 6 months off, the sounds are wack to get used too.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

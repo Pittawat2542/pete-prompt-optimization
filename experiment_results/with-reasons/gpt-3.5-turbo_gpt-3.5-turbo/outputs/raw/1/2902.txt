@@ -1,7 +1,7 @@
 ```json
 {
   "message": "All the subs because your bananas love you danucdBukulove mtgngHype @DanucD",
-  "reason": "The message contains positive words like 'love' and 'hype' and does not contain any offensive or harmful language. It also includes a mention of '@DanucD', which suggests a friendly and positive interaction.",
+  "reason": "The message does not contain any offensive or harmful language. It seems to be a positive message expressing love and appreciation.",
   "predicted": "clean"
 }
 ```

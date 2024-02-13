@@ -1,7 +1,7 @@
 ```json
 {
-"message": "danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect",
-"reason": "The message consists of repetitive text, which does not contain any toxic or offensive language. It seems to be a repetition of the word 'danucdRespect' multiple times, possibly as a form of appreciation or admiration.",
-"predicted": "clean"
+  "message": "danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect",
+  "reason": "The message consists of repetitive text that does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

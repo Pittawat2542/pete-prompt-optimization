@@ -1,7 +1,7 @@
 ```json
 {
-"message": "bc my stupid dog eat it",
-"reason": "The message contains a derogatory term ('stupid') which is considered toxic. Additionally, the message is written in a casual and informal manner, which is often associated with toxic language.",
-"predicted": "toxic"
+  "message": "bc my stupid dog eat it",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

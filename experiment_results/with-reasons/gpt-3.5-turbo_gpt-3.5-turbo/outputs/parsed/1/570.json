@@ -1,7 +1,7 @@
 {
   "message": "you W'd there because you were anticipating flash 4Head",
-  "reason": "The message contains a sarcastic emote '4Head' which is often used in a toxic manner to mock or belittle someone. Additionally, the use of 'W'd' suggests that the person made a mistake or failed in some way. These elements contribute to a toxic tone in the message.",
-  "predicted": "toxic",
+  "reason": "The message contains gaming jargon and an emote, indicating that it is likely from a gaming community. The use of the emote '4Head' suggests that the message is meant to be humorous or sarcastic. Overall, the message does not contain any offensive or harmful language, making it a clean message.",
+  "predicted": "clean",
   "prompt_version": 1,
   "label": "clean",
   "model": "gpt-3.5-turbo"

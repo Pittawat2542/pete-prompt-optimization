@@ -1,7 +1,7 @@
 ```json
 {
-"message": "pec a doodle doo hollyw14Verticalforegrip",
-"reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It appears to be a random combination of words or phrases that does not convey any specific meaning or intent.",
-"predicted": "clean"
+  "message": "pec a doodle doo hollyw14Verticalforegrip",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

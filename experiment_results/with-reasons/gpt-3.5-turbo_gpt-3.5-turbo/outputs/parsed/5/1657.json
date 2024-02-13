@@ -1,6 +1,6 @@
 {
   "message": "Look at these vacuums",
-  "reason": "The message is classified as 'clean' because it does not contain any toxic or offensive language. The content of the message is neutral and does not violate any community guidelines or rules.",
+  "reason": "The message is neutral and does not contain any offensive or harmful content.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

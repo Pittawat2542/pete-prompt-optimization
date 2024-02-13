@@ -1,7 +1,9 @@
 ```json
 {
 "message": "time to get some free shit",
-"reason": "The message contains offensive language ('shit') which falls under the 'toxic' category.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message "time to get some free shit" is classified as toxic because it contains offensive language. The word "shit" is considered vulgar and inappropriate for most online communities. Therefore, the message is predicted to be in the "toxic" category.

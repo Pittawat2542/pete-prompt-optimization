@@ -1,7 +1,7 @@
 ```json
 {
-"message": "cause im an idiot lol",
-"reason": "The text is classified as 'toxic' because it contains the word 'idiot', which is a derogatory term often used to insult or belittle someone.",
-"predicted": "toxic"
+  "message": "cause im an idiot lol",
+  "reason": "The message contains self-deprecating language and the term 'idiot', which can be considered derogatory and offensive.",
+  "predicted": "toxic"
 }
 ```

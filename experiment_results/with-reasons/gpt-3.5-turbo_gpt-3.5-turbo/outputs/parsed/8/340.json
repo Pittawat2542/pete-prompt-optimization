@@ -1,6 +1,6 @@
 {
   "message": "fuck support yuumi",
-  "reason": "The text contains offensive language ('fuck') which is likely to be classified as toxic.",
+  "reason": "The message contains offensive language, specifically a profanity, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

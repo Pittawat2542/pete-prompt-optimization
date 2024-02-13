@@ -1,7 +1,7 @@
 ```json
 {
-"message": "PLAY SOME NIGHTCORE WEEB SHIT",
-"reason": "The message contains offensive language and derogatory terms ('shit'). It also includes a reference to 'weeb', which is a term often used to insult or mock individuals with an interest in Japanese culture. These elements indicate a toxic and disrespectful tone.",
-"predicted": "toxic"
+  "message": "PLAY SOME NIGHTCORE WEEB SHIT",
+  "reason": "The message contains offensive language and derogatory terms, which makes it toxic.",
+  "predicted": "toxic"
 }
 ```

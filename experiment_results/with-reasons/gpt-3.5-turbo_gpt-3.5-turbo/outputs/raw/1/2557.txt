@@ -1,7 +1,7 @@
 ```json
 {
   "message": "What up hamily hambO7 hambO7",
-  "reason": "The message contains some slang words and repeated characters, but it does not contain any offensive or harmful language. It seems to be a casual greeting or expression of excitement.",
+  "reason": "The message contains informal language and the use of repeated characters, which suggests a casual and friendly tone. There is no offensive or harmful content in the message.",
   "predicted": "clean"
 }
 ```

@@ -1,6 +1,6 @@
 {
   "message": "he said frist time FPP",
-  "reason": "The message does not contain any offensive or harmful language. It appears to be a simple statement about someone saying 'frist time FPP'.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",

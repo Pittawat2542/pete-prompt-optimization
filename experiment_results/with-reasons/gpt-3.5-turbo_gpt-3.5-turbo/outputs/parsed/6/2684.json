@@ -1,6 +1,6 @@
 {
   "message": "!gift @shanabana",
-  "reason": "The message does not contain any toxic or offensive language. It is a command to gift something to the user @shanabana.",
+  "reason": "The message contains a command to gift someone, which is a positive action and does not display any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 6,
   "label": "clean",

@@ -1,7 +1,9 @@
 ```json
 {
-"message": "the fuck you talking about brother?",
-"reason": "The message contains offensive language ('fuck') which is indicative of toxic behavior.",
-"predicted": "toxic"
+  "message": "the fuck you talking about brother?",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message contains offensive language ("fuck") which is considered toxic and disrespectful. Therefore, it falls under the "toxic" category.

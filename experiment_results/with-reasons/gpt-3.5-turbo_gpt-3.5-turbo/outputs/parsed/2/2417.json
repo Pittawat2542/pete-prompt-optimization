@@ -1,6 +1,6 @@
 {
   "message": "some good players",
-  "reason": "The message is classified as 'clean' because it does not contain any offensive or harmful language. It simply states that there are some good players, which is a positive statement.",
+  "reason": "The message expresses positivity and does not contain offensive language.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "clean",

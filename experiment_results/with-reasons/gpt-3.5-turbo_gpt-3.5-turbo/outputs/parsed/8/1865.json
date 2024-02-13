@@ -1,7 +1,7 @@
 {
   "message": "faxGG faxGG faxGG",
-  "reason": "The text is classified as toxic because it consists of repetitive and nonsensical content. The model has likely learned that such repetitive and nonsensical content is often associated with toxic behavior in online communities.",
-  "predicted": "toxic",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean",
   "prompt_version": 8,
   "label": "clean",
   "model": "gpt-3.5-turbo"

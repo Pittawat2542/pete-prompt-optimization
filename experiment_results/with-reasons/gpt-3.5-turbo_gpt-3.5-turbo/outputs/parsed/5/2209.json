@@ -1,6 +1,6 @@
 {
   "message": "6th guy",
-  "reason": "The message does not contain any explicit toxic language or harmful content. It appears to be a neutral statement without any offensive or aggressive intent. Therefore, it can be classified as 'clean'.",
+  "reason": "The message does not contain any offensive or harmful content. It is a neutral statement without any context, so it cannot be classified as toxic.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

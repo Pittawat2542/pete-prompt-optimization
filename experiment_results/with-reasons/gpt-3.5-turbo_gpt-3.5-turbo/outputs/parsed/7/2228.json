@@ -1,6 +1,6 @@
 {
   "message": "that he's got none helmet",
-  "reason": "The message does not contain any offensive or harmful language. It appears to be a statement about someone not wearing a helmet. Therefore, it can be classified as 'clean'.",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 7,
   "label": "clean",

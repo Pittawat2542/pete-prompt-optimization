@@ -1,6 +1,6 @@
 {
   "message": "Who else hate their life?",
-  "reason": "The text expresses negative emotions and could be considered as self-harm or self-hate. The model has predicted it as toxic.",
+  "reason": "The message expresses a negative sentiment and suggests a dislike for one's life, which can be considered harmful to one's mental well-being. Therefore, it falls under the toxic category.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

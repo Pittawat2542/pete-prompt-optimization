@@ -1,6 +1,6 @@
 {
   "message": "The only idiot is you.",
-  "reason": "The text contains an offensive term ('idiot') which is likely to be classified as toxic.",
+  "reason": "The message contains an offensive term ('idiot'), which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

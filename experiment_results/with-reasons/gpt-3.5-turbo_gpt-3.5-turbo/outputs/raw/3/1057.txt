@@ -1,7 +1,9 @@
 ```json
 {
 "message": "Like what the hell is this",
-"reason": "The message contains strong language ('hell') which is typically associated with toxic behavior.",
+"reason": "Toxic",
 "predicted": "toxic"
 }
 ```
+
+The message "Like what the hell is this" contains strong language ("hell") and expresses frustration or annoyance ("what the hell"). This indicates a negative and potentially offensive tone, which classifies it as toxic.

@@ -1,7 +1,7 @@
 {
   "message": "bc my stupid dog eat it",
-  "reason": "The message contains a derogatory term ('stupid') which can be considered offensive. However, the overall tone of the message is not aggressive or harmful. It seems to be a casual statement about a dog eating something. Therefore, the message can be classified as 'clean'.",
-  "predicted": "clean",
+  "reason": "The message contains derogatory language ('stupid') and lacks proper grammar and punctuation. It also seems to express frustration or annoyance towards the dog. These factors suggest a negative and potentially toxic tone.",
+  "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

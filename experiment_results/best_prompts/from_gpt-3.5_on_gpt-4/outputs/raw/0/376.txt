@@ -1,7 +1,0 @@
-```json
-{
-"message": "gold is such a shit hole man",
-"reason": "The message contains offensive language which is disrespectful and inappropriate, hence it is classified as toxic.",
-"predicted": "toxic"
-}
-```

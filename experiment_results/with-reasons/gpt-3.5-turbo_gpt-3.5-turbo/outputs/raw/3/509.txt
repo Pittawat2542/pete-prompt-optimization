@@ -1,7 +1,9 @@
 ```json
 {
 "message": "Northwood League of Legends finishes (5-3) on the weekend and takes 3rd place in the @DruryEsports invitational! ðŸº#wolfpack",
-"reason": "The message does not contain any offensive or harmful language. It is a positive announcement about the performance of the Northwood League of Legends team in a tournament.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message is classified as "clean" because it contains information about a League of Legends tournament and the performance of Northwood team. There is no offensive or harmful language present in the message.

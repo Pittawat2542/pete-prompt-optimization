@@ -1,7 +1,7 @@
 ```json
 {
-"message": "oh so jg duo means you roam and shit together?",
-"reason": "The message does not contain any offensive or harmful language. It is a question asking for clarification about the meaning of 'jg duo'.",
-"predicted": "clean"
+  "message": "oh so jg duo means you roam and shit together?",
+  "reason": "The message contains a mild profanity ('shit'), but it is used in a non-offensive context to refer to playing together in a game. Therefore, the message can be considered clean.",
+  "predicted": "clean"
 }
 ```

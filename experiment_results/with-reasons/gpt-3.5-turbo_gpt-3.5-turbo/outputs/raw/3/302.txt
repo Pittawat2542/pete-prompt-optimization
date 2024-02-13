@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Holy fuck you actually did it you madman",
-"reason": "The predicted category is 'toxic' because the message contains offensive language ('fuck') and aggressive tone ('you madman'). This is consistent with the prediction result which shows a high toxicity score of 0.95.",
-"predicted": "toxic"
+  "message": "Holy fuck you actually did it you madman",
+  "reason": "The message contains offensive language ('fuck') which is considered toxic.",
+  "predicted": "toxic"
 }
 ```

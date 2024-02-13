@@ -1,6 +1,6 @@
 {
   "message": "its really hard with your ping",
-  "reason": "The message does not contain any offensive or harmful language, and it does not seem to be attacking or insulting anyone. It is simply expressing frustration with the person's ping, which refers to the latency or delay in their internet connection. This falls under the 'clean' category.",
+  "reason": "The message expresses frustration or difficulty with the person's ping, which is a technical issue related to internet connection. It does not contain any offensive or harmful language.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

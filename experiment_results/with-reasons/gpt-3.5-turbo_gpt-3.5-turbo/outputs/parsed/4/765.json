@@ -1,6 +1,6 @@
 {
   "message": "Wait a sec, this isnt my favorite champion",
-  "reason": "The message does not contain any offensive or harmful language. It is a simple statement expressing surprise or disappointment about the champion not being the user's favorite. Therefore, it can be classified as clean.",
+  "reason": "The message does not contain any offensive or harmful language. It is a simple statement expressing surprise or disappointment about the champion not being the user's favorite.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

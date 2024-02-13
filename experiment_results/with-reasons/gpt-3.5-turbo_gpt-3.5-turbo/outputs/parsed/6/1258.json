@@ -1,6 +1,6 @@
 {
   "message": "danucdSaspisas danucdSASPISHAS",
-  "reason": "The message contains a combination of uppercase and lowercase letters, which is not indicative of toxic or clean content. Additionally, there is no context provided to determine the meaning of the message. Therefore, it is difficult to classify this message accurately.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 6,
   "label": "clean",

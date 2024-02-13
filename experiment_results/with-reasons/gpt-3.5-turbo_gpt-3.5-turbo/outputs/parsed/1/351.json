@@ -1,6 +1,6 @@
 {
   "message": "And wtf are u a winrate friend? Who gives a fuck",
-  "reason": "The message contains offensive language and insults, which indicates a toxic behavior.",
+  "reason": "The message contains offensive language and insults, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

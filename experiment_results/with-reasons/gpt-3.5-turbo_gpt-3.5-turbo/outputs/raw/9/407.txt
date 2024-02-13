@@ -1,7 +1,7 @@
 ```json
 {
-"message": "shit is so cringe and over done",
-"reason": "The message contains offensive language ('shit') which is considered toxic.",
-"predicted": "toxic"
+  "message": "shit is so cringe and over done",
+  "reason": "The message contains offensive language ('shit') and negative sentiment ('cringe' and 'over done'), which makes it toxic.",
+  "predicted": "toxic"
 }
 ```

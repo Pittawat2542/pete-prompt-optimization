@@ -1,7 +1,7 @@
 ```json
 {
   "message": "dizzy_face:",
-  "reason": "The message consists of an emoji 'dizzy_face:'. It does not contain any text or context, making it impossible to determine its intent or meaning. Therefore, it cannot be classified into any specific category.",
-  "predicted": null
+  "reason": "The message contains an emoji, but it does not display offensive, harmful, or disrespectful content. Therefore, it is clean.",
+  "predicted": "clean"
 }
 ```

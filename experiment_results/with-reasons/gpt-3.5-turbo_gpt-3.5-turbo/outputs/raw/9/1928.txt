@@ -1,7 +1,7 @@
 ```json
 {
   "message": "danucdChair",
-  "reason": "The message does not contain any explicit or offensive language, and it does not seem to be harmful or disrespectful. It appears to be a random combination of words or a username. Therefore, it can be classified as clean.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean"
 }
 ```

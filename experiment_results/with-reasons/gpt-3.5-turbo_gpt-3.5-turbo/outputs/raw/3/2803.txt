@@ -1,7 +1,9 @@
 ```json
 {
 "message": "how the fuck that last bullet didn't kill you",
-"reason": "The message contains offensive language ('fuck') which indicates a toxic tone. Additionally, the message expresses aggression and hostility towards the recipient, suggesting a toxic nature.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message contains offensive language ("fuck") and expresses aggression and hostility towards the recipient. Therefore, it can be classified as toxic.

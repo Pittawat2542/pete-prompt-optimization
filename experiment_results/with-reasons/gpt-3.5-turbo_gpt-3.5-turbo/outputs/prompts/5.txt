@@ -1,4 +1,4 @@
-Classify the given "Message" from a chat in an online community into either "toxic" or "clean" category. Provide a reason in the specified JSON format in a Markdown code block (between ```json and ```), utilizing the information from the "Prediction result" section to accurately classify the text.
+Classify the following "Message" from chat in an online community into one of the specified categories along with a reason in the specified JSON format in a Markdown code block (between ```json and ```). Ensure that the output includes the predicted category. Also, ensure that the output format matches the original prompt exactly. 
 
 Categories: "toxic", "clean"
 
@@ -7,13 +7,40 @@ Message: <message>
 Output format:
 ```json
 {
-"message": <message>,
-"reason": <reason>,
-"predicted": <predicted category>,
+  "message": "<message>",
+  "reason": "<reason>",
+  "predicted": "<predicted category>",
 }
 ```
 
-Please adhere to the following rules:
-1. Do not modify the content of the "Message" and "predicted category".
-2. The "reason" must include an explanation or justification for the assigned category based on information in the "Prediction result" section.
-3. Extra examples in the "Prediction result" can be referred to for classification guidance.
+Please provide a category along with a reason as to why you classified the message in that particular category. Remember to include the predicted category in the output exactly as shown in the original prompt. 
+
+**Example 1:**
+
+Categories: "toxic", "clean"
+
+Message: "Hey, how are you doing?"
+
+Output format:
+```json
+{
+  "message": "Hey, how are you doing?",
+  "reason": "The message is polite and friendly, without any offensive or harmful content.",
+  "predicted": "clean",
+}
+```
+
+**Example 2:**
+
+Categories: "toxic", "clean"
+
+Message: "You are such a loser!"
+
+Output format:
+```json
+{
+  "message": "You are such a loser!",
+  "reason": "The message contains a derogatory term and it is used to demean someone. It is considered toxic and offensive.",
+  "predicted": "toxic",
+}
+```

@@ -1,7 +1,5 @@
-```json
 {
 "message": "@RuralBiscuits damn - i knew it!",
-"reason": "The message contains a profanity ('damn'), which is considered toxic.",
+"reason": "The message contains a mild expletive and expresses frustration.",
 "predicted": "toxic"
 }
-```

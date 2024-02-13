@@ -1,7 +1,7 @@
 ```json
 {
 "message": "rawryyLaugh @cinnova",
-"reason": "The message does not contain any offensive or harmful language. It is a simple mention or interaction between users.",
+"reason": "The message contains an emoji and a mention of another user, but there is no clear indication of toxicity or offensive language.",
 "predicted": "clean"
 }
 ```

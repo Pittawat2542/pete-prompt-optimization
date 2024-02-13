@@ -1,7 +1,7 @@
 ```json
 {
-"message": "I wanna cry when I get them on my team useless sack of shit but when. Other team has them they just disappear and reappearing while somehow doing more damage with a blow dart then a fucking rek si",
-"reason": "The message contains offensive language and insults, such as 'useless sack of shit' and 'fucking rek si'. This indicates a toxic tone and disrespectful behavior towards others.",
-"predicted": "toxic"
+  "message": "I wanna cry when I get them on my team useless sack of shit but when. Other team has them they just disappear and reappearing while somehow doing more damage with a blow dart then a fucking rek si",
+  "reason": "The message contains offensive language and insults, which makes it toxic.",
+  "predicted": "toxic"
 }
 ```

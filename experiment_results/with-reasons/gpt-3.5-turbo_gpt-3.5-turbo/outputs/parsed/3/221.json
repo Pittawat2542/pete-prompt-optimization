@@ -1,6 +1,6 @@
 {
   "message": "this feels so shit",
-  "reason": "The predicted category is 'toxic' because the text contains a negative sentiment. The word 'shit' is a strong negative term, which indicates a toxic tone.",
+  "reason": "The message contains a profanity ('shit') which is considered offensive and disrespectful. It expresses a negative sentiment.",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

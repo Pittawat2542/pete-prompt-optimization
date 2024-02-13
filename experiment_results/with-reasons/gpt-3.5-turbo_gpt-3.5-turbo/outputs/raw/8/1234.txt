@@ -1,7 +1,7 @@
 ```json
 {
-"message": "danu) Weather for Danu, MD: Overcast clouds with a temperature of 12.5 C (54.5 F). Wind is blowing from the North at 3.2 kph (1.99 mph) and the humidity is 92%",
-"reason": "The text is classified as clean because it provides factual information about the weather in Danu, MD. There is no offensive or harmful language present.",
-"predicted": "clean"
+  "message": "danu) Weather for Danu, MD: Overcast clouds with a temperature of 12.5 C (54.5 F). Wind is blowing from the North at 3.2 kph (1.99 mph) and the humidity is 92%",
+  "reason": "The message is a weather report and does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

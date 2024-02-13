@@ -1,6 +1,6 @@
 {
   "message": "in a Payload game the other day one of the randoms started shooting grens at me",
-  "reason": "The message describes a negative experience where someone in a game intentionally attacked the author with grenades.",
+  "reason": "The message describes a negative experience where one of the random players in a game started shooting grenades at the author.",
   "predicted": "toxic",
   "prompt_version": 0,
   "label": "clean",

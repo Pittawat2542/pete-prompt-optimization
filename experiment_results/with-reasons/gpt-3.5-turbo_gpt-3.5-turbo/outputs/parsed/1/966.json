@@ -1,6 +1,6 @@
 {
   "message": "IDIOT STOP COMPLAINING LUILW",
-  "reason": "The message contains offensive language and is directed towards someone with the intention to insult or belittle them.",
+  "reason": "The message contains offensive language and is derogatory towards the recipient.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

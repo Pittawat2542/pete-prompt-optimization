@@ -1,6 +1,6 @@
 {
   "message": "winking_face:",
-  "reason": "The message consists of an emoji, specifically a winking face. Emojis are typically neutral and do not convey any toxic or offensive content.",
+  "reason": "The message consists of an emoji, which does not contain any offensive language or derogatory content.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "clean",

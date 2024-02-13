@@ -1,7 +1,7 @@
 {
   "message": "damnnn",
-  "reason": "The message is classified as toxic because it contains multiple consecutive letters in the word 'damnnn', which is often associated with strong negative emotions or offensive language.",
-  "predicted": "toxic",
+  "reason": "The message contains a slang term with multiple 'n's, which could be interpreted as expressing surprise or excitement. However, without further context, it is difficult to determine the exact intention behind the message.",
+  "predicted": "clean",
   "prompt_version": 4,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

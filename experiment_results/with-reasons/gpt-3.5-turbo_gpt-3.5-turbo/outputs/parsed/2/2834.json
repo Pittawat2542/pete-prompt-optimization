@@ -1,6 +1,6 @@
 {
   "message": "Taking a shit ehun ehun ehun ehun",
-  "reason": "The message contains vulgar language and is considered offensive and inappropriate.",
+  "reason": "The message contains vulgar language and is inappropriate.",
   "predicted": "toxic",
   "prompt_version": 2,
   "label": "toxic",

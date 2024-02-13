@@ -1,7 +1,6 @@
 ```json
 {
-"message": "how can that even be fucking compared?",
-"reason": "The text contains offensive language ('fucking'), which indicates a toxic tone.",
-"predicted": "toxic"
+  "message": "how can that even be fucking compared?",
+  "reason": "The message contains offensive language, which makes it toxic.",
+  "predicted": "toxic"
 }
-```

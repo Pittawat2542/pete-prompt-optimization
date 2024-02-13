@@ -1,6 +1,6 @@
 {
   "message": "fuck this mmr god why",
-  "reason": "The message contains profanity ('fuck') which is considered toxic. Additionally, the message expresses frustration and anger ('why') which contributes to the toxic nature of the message.",
+  "reason": "The message contains offensive language ('fuck') and expresses frustration ('why'). It is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

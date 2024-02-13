@@ -1,8 +1,0 @@
-{
-  "message": "rawryyLaugh @cinnova",
-  "reason": "The message is a simple mention of a user with an emoticon, without any offensive or harmful content. The model prediction also strongly suggests that the message is non-toxic.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

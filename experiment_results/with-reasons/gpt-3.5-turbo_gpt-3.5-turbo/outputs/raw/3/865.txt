@@ -1,7 +1,7 @@
 ```json
 {
-"message": "PLAY SOME NIGHTCORE WEEB SHIT",
-"reason": "The text contains offensive language ('shit') which falls under the toxic category.",
-"predicted": "toxic"
+  "message": "PLAY SOME NIGHTCORE WEEB SHIT",
+  "reason": "The message contains offensive language and derogatory terms ('weeb shit').",
+  "predicted": "toxic"
 }
 ```

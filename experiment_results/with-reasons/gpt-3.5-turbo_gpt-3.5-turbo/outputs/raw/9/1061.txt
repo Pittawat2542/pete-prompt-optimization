@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Melanie is in hell now",
-"reason": "The message contains negative language and implies harm or suffering towards someone. This aligns with the toxic category.",
-"predicted": "toxic"
+  "message": "Melanie is in hell now",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

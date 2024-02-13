@@ -1,7 +1,7 @@
 ```json
 {
-"message": 800,
-"reason": "The message is classified as 'clean' because it is a numerical value and does not contain any text that can be classified as toxic.",
-"predicted": "clean"
+  "message": "800",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

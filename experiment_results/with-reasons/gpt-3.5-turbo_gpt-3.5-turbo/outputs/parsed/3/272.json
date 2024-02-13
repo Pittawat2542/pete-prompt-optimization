@@ -1,6 +1,6 @@
 {
   "message": "i swear to fucking god",
-  "reason": "The text contains strong profanity ('fucking') which is likely to be considered toxic.",
+  "reason": "Toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

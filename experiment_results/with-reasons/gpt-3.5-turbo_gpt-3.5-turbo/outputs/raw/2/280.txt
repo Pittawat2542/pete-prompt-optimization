@@ -1,7 +1,12 @@
+New Prompt: Classify the following "Message" from chat in an online community into one of the specified categories, "toxic" or "clean". Provide a reason for the classification in the specified JSON format. Include the prediction result, which is not present in the original prompt.
+
+Message: "This is the worst thing I've ever seen!"
+
+Output format:
 ```json
 {
-"message": "HOW THE HELL IS THIS AN A",
-"reason": "The message contains strong language and is expressing frustration. The use of 'HELL' and the capitalization of 'A' indicate a negative tone, which suggests that the message is toxic.",
+"message": "This is the worst thing I've ever seen!",
+"reason": "The message expresses extreme negativity and dissatisfaction.",
 "predicted": "toxic"
 }
 ```

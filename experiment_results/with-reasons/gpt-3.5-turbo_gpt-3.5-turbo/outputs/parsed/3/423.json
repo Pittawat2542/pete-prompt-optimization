@@ -1,6 +1,6 @@
 {
   "message": "No fucking shit it is",
-  "reason": "The message contains offensive language ('fucking') which indicates a toxic tone. The use of such language is likely to be considered disrespectful and offensive by other users in the online community.",
+  "reason": "toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

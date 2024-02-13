@@ -1,7 +1,5 @@
-```json
 {
 "message": "YEP",
-"reason": "The message is classified as clean because it does not contain any offensive or harmful language.",
+"reason": "The message is short and does not contain any offensive language or derogatory remarks.",
 "predicted": "clean"
 }
-```

@@ -1,7 +1,14 @@
+New Prompt:
+Message: "well
+a champ remains in the game forever so"
+
+Output format:
 ```json
 {
 "message": "well\na champ remains in the game forever so",
-"reason": "The message does not contain any offensive or harmful language. It is a positive statement about a champion remaining in the game forever.",
+"reason": "The message is positive and motivational.",
 "predicted": "clean"
 }
 ```
+
+Reasoning: The message is positive and motivational, expressing the idea that a champion remains in the game forever. It does not contain offensive language or derogatory remarks. Therefore, it can be classified as "clean".

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "jd",
-"reason": "The message 'jd' does not contain any explicit toxic language or offensive content. It is a short and neutral message that does not violate any community guidelines.",
-"predicted": "clean"
+  "message": "jd",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

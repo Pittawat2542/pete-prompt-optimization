@@ -1,7 +1,0 @@
-```json
-{
-"message": "The fuck was that Fiora thinking? Diving base against 4 people and typing wtf in all chat so dumb",
-"reason": "The message contains explicit language and is expressing frustration towards another player's actions in a game, which can be considered as toxic behavior in an online community.",
-"predicted": "toxic"
-}
-```

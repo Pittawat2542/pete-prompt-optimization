@@ -1,6 +1,6 @@
 {
   "message": "wtffffffffffffff",
-  "reason": "The message contains a string of repeated characters, which is often associated with expressing frustration or anger. This type of language is commonly considered toxic.",
+  "reason": "The message contains a string of repeated characters, which is often associated with expressing frustration or disbelief.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

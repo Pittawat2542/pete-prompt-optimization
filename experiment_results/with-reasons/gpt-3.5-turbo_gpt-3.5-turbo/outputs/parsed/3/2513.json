@@ -1,6 +1,6 @@
 {
   "message": "winking_face:",
-  "reason": "The message is classified as 'clean' because it consists of a single emoji, which does not contain any explicit or offensive content.",
+  "reason": "clean",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

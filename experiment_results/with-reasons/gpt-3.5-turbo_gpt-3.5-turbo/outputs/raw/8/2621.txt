@@ -1,7 +1,6 @@
 ```json
 {
-"message": "pec a doodle doo hollyw14Verticalforegrip",
-"reason": "The text does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "pec a doodle doo hollyw14Verticalforegrip",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```

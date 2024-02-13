@@ -1,7 +1,7 @@
 ```json
 {
 "message": "@guccixslaya cheaters suck hard tho",
-"reason": "The text contains a negative sentiment with the use of the word 'suck' and expresses disapproval towards cheaters. This indicates a toxic category.",
+"reason": "The message contains a derogatory term ('suck') and expresses a negative sentiment towards cheaters. This indicates a toxic tone.",
 "predicted": "toxic"
 }
 ```

@@ -1,6 +1,6 @@
 {
   "message": "@keckzn have a time out, come back when you're done saying dumb shit",
-  "reason": "The text contains offensive language ('dumb shit') which is classified as toxic.",
+  "reason": "The message contains offensive language and insults, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

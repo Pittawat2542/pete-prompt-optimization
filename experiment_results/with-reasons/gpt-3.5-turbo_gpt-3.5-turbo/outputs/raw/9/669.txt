@@ -1,7 +1,6 @@
 ```json
 {
   "message": "215 cs",
-  "reason": "The message does not contain any offensive or harmful language. It appears to be a reference to a game or a specific action within a game.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean"
 }
-```

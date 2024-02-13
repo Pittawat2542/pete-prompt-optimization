@@ -1,7 +1,7 @@
 ```json
 {
-"message": "nb3LUL nb3LUL nb3LUL",
-"reason": "The message consists of repetitive text 'nb3LUL'. This repetitive behavior can be considered as spam or trolling, which falls under the 'toxic' category.",
-"predicted": "toxic"
+  "message": "nb3LUL nb3LUL nb3LUL",
+  "reason": "The message consists of repetitive and nonsensical characters, which are often used to spam or disrupt conversations. This behavior is considered toxic in online communities.",
+  "predicted": "toxic"
 }
 ```

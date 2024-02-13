@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Annoying ass dog champ",
-"reason": "The message contains a derogatory term ('ass') which is considered offensive and disrespectful. This falls into the 'toxic' category.",
-"predicted": "toxic"
+  "message": "Annoying ass dog champ",
+  "reason": "The message contains a derogatory term ('ass') which can be considered offensive and disrespectful. This indicates a negative sentiment and can be classified as toxic.",
+  "predicted": "toxic"
 }
 ```

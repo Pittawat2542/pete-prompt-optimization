@@ -1,7 +1,0 @@
-```json
-{
-"message": "I hate my life",
-"reason": "The message contains negative sentiment and self-deprecating language, which can be considered as toxic in an online community.",
-"predicted": "toxic"
-}
-```

@@ -1,6 +1,6 @@
 {
   "message": "stop watch Pog",
-  "reason": "The text is classified as 'clean' because it does not contain any offensive or harmful language. The model's prediction result also shows a high probability for the 'clean' category.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 8,
   "label": "clean",

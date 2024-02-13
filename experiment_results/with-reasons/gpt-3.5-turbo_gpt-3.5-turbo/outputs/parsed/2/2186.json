@@ -1,6 +1,6 @@
 {
   "message": "control setting and dpi",
-  "reason": "The message does not contain any offensive or harmful language, and it seems to be discussing technical aspects related to control settings and DPI (dots per inch). Therefore, it can be classified as clean.",
+  "reason": "The message is neutral and does not contain any offensive or derogatory language.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "clean",

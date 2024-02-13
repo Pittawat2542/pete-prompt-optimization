@@ -1,7 +1,9 @@
 ```json
 {
 "message": "oh so jg duo means you roam and shit together?",
-"reason": "The message does not contain any offensive or harmful language. It is a question asking for clarification about the meaning of 'jg duo' in the context of roaming together. Therefore, it can be classified as 'clean'.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message does not contain any offensive or harmful language. It is a question about the meaning of a term used in online gaming. Therefore, it can be classified as "clean".

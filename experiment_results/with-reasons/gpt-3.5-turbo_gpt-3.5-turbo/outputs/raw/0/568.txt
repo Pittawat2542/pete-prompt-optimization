@@ -1,7 +1,7 @@
 ```json
 {
-"message": "11649 times KEKW",
-"reason": "The message consists of a number followed by the phrase 'times KEKW'. It does not contain any offensive or harmful language.",
-"predicted": "clean"
+  "message": "11649 times KEKW",
+  "reason": "The message consists of a number followed by the phrase 'times KEKW'.",
+  "predicted": "clean"
 }
 ```

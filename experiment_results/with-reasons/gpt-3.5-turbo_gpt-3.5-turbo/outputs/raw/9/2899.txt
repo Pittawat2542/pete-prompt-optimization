@@ -1,7 +1,7 @@
 ```json
 {
-"message": "how are you banananas today",
-"reason": "The message does not contain any offensive or harmful language. It is a simple and friendly greeting asking about the well-being of the recipient.",
-"predicted": "clean"
+  "message": "how are you banananas today",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

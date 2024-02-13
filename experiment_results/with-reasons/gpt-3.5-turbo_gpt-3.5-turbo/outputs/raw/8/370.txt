@@ -1,7 +1,6 @@
 ```json
 {
-"message": "like holy shit make it stop",
-"reason": "The text contains profanity ('holy shit'), which is likely to be classified as toxic.",
-"predicted": "toxic"
+  "message": "like holy shit make it stop",
+  "reason": "The message contains offensive language, which makes it toxic.",
+  "predicted": "toxic"
 }
-```

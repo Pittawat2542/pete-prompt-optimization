@@ -1,6 +1,6 @@
 {
   "message": "!hs",
-  "reason": "The message '!hs' does not contain any explicit toxic language or harmful content. It appears to be a command or abbreviation used in the online community. Therefore, it can be classified as 'clean'.",
+  "reason": "The message consists of a command or query that is not inherently toxic or offensive. It does not contain any harmful or offensive content.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

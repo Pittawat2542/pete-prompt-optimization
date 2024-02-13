@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Good shit",
-"reason": "The message is classified as 'clean' because it does not contain any offensive or harmful language. The word 'good' is positive and 'shit' is used in a colloquial sense to mean something impressive or excellent.",
-"predicted": "clean"
+  "message": "Good shit",
+  "reason": "The message contains a phrase that can be interpreted as offensive or vulgar, making it toxic.",
+  "predicted": "toxic"
 }
 ```

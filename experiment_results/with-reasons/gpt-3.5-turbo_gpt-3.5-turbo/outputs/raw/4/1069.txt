@@ -1,7 +1,7 @@
 ```json
 {
-"message": "The hell",
-"reason": "The text is classified as toxic because it contains a profanity ('hell'). The presence of profanity is often an indicator of toxic language.",
-"predicted": "toxic"
+  "message": "The hell",
+  "reason": "This message contains a mild profanity, which can be considered offensive or disrespectful. Although it is not extremely toxic, it still falls under the 'toxic' category.",
+  "predicted": "toxic"
 }
 ```

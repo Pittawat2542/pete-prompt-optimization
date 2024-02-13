@@ -1,7 +1,7 @@
 ```json
 {
   "message": "who the fuck uses D for flashbanning whoever says me",
-  "reason": "The message contains offensive language ('fuck') and aggressive tone ('whoever says me').",
+  "reason": "The message contains offensive language and insults, which makes it toxic.",
   "predicted": "toxic"
 }
 ```

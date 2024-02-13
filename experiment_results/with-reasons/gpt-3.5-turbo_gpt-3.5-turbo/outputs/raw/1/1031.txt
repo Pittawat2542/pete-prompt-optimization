@@ -1,7 +1,7 @@
 ```json
 {
   "message": "Who else hate their life?",
-  "reason": "The message expresses negative emotions and indicates a dislike for one's own life, which can be considered as a sign of distress or unhappiness. It may potentially trigger or contribute to a toxic environment.",
+  "reason": "The message expresses negative emotions and suggests that the person hates their life. This can be seen as a toxic message as it promotes negativity and can potentially harm the mental well-being of others.",
   "predicted": "toxic"
 }
 ```

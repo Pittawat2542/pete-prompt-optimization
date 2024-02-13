@@ -1,6 +1,6 @@
 {
   "message": "why the *fuck* do people in plat just s u c k",
-  "reason": "The text contains offensive language ('fuck') which indicates a toxic tone.",
+  "reason": "The message contains offensive language and insults, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

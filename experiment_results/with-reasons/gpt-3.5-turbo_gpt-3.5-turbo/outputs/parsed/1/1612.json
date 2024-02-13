@@ -1,6 +1,6 @@
 {
   "message": "danucdNo Fattttttiiiiiiiiiiiiiiiiiiiiiiii",
-  "reason": "The message contains derogatory language and insults, specifically targeting someone's weight. This kind of language is offensive and disrespectful.",
+  "reason": "The message contains derogatory language and is intended to insult or demean someone based on their weight. This kind of language is toxic and promotes negativity and harm.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "clean",

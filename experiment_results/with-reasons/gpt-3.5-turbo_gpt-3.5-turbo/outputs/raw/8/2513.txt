@@ -1,7 +1,6 @@
 ```json
 {
   "message": "winking_face:",
-  "reason": "The text is classified as 'clean' because it is a simple emoticon, which is unlikely to be considered toxic or offensive.",
+  "reason": "The message consists of an emoji, which does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean"
 }
-```

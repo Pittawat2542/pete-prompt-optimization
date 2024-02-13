@@ -1,7 +1,7 @@
 ```json
 {
 "message": "NotLikeThis danucdFacepalm chat",
-"reason": "The message contains emotes and chat terms that are commonly used in online communities. It does not contain any offensive or harmful language, and therefore can be classified as clean.",
+"reason": "The message contains emotes and chat terms, but there is no explicit toxic or offensive language. It seems to be a reaction or expression of frustration, but it does not appear to be intended to harm or insult anyone.",
 "predicted": "clean"
 }
 ```

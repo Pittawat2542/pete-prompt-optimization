@@ -1,7 +1,6 @@
 ```json
 {
-"message": "man i hate darius so much hes so stupid",
-"reason": "The message contains negative sentiment and derogatory language towards a person named Darius. This indicates a toxic behavior.",
-"predicted": "toxic"
+  "message": "man i hate darius so much hes so stupid",
+  "reason": "The message contains negative sentiment and derogatory language. It expresses hatred towards someone and calls them stupid. It is considered toxic and offensive.",
+  "predicted": "toxic"
 }
-```

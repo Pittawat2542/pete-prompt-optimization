@@ -1,6 +1,6 @@
 {
   "message": "Get the hell out",
-  "reason": "The text contains strong language ('hell') which is considered offensive and disrespectful. This falls into the 'toxic' category.",
+  "reason": "toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

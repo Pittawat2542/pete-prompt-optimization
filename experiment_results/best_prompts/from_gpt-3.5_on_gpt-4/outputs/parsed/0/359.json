@@ -1,8 +1,0 @@
-{
-  "message": "who shit on us",
-  "reason": "The model predicts the message to be toxic with a high probability of 0.85. The language used in the message is offensive and disrespectful, which is characteristic of toxic messages.",
-  "predicted": "toxic",
-  "prompt_version": 0,
-  "label": "toxic",
-  "model": "gpt-4"
-}

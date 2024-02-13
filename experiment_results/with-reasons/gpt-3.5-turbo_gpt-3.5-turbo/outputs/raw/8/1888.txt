@@ -1,7 +1,7 @@
 ```json
 {
-"message": "NotLikeThis danucdFacepalm chat",
-"reason": "The text contains emotes and chat terms, but it does not appear to contain any offensive or harmful language. The predicted category is 'clean' based on the absence of toxic language.",
-"predicted": "clean"
+  "message": "NotLikeThis danucdFacepalm chat",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

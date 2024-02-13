@@ -1,7 +1,7 @@
 ```json
 {
 "message": "he said frist time FPP",
-"reason": "The predicted category is 'clean'. The text does not contain any offensive or harmful language, and there is no indication of toxicity or negativity in the message. It appears to be a simple statement or comment about someone saying 'frist time FPP'.",
+"reason": "The message does not contain any offensive or harmful language. It appears to be a simple statement about someone saying 'frist time FPP'.",
 "predicted": "clean"
 }
 ```

@@ -1,6 +1,6 @@
 {
   "message": "THIS GAME MIGHT AS WELL RESET MY FUCKING LP TO 0",
-  "reason": "The text contains strong profanity ('FUCKING') which is likely to be classified as toxic.",
+  "reason": "The message contains offensive language, indicated by the use of profanity, making it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

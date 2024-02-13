@@ -1,7 +1,9 @@
 ```json
 {
 "message": "did u like that solo ranked @ibiza",
-"reason": "The message does not contain any offensive or harmful language, and it seems to be a question about someone's opinion on a solo ranked game. Therefore, it can be classified as 'clean'.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "did u like that solo ranked @ibiza" does not contain any offensive or harmful language. It appears to be a question about someone's opinion on a solo ranked game. Therefore, it can be classified as "clean".

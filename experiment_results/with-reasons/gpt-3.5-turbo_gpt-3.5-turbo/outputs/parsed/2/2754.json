@@ -1,6 +1,6 @@
 {
   "message": "too E Z",
-  "reason": "The message contains a short phrase that is commonly used in online gaming to taunt or mock opponents. The use of capital letters and the absence of spaces between the letters adds emphasis to the phrase. This type of language is often considered toxic and disrespectful in online communities.",
+  "reason": "The message is short and contains a common phrase used in online gaming to mock or belittle opponents. It can be seen as disrespectful or toxic.",
   "predicted": "toxic",
   "prompt_version": 2,
   "label": "clean",

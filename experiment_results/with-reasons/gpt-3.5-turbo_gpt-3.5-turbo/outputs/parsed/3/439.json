@@ -1,6 +1,6 @@
 {
   "message": "screw that shit",
-  "reason": "The text contains profanity ('shit') which is considered toxic.",
+  "reason": "toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

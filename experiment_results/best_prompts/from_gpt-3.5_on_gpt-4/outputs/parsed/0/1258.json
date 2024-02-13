@@ -1,8 +1,0 @@
-{
-  "message": "danucdSaspisas danucdSASPISHAS",
-  "reason": "The message consists of non-offensive, non-abusive words. It seems to be a repetition of a username or a specific term in the community, which doesn't violate any community guidelines.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

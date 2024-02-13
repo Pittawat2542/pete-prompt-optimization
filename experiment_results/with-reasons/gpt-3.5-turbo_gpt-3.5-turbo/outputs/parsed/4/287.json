@@ -1,6 +1,6 @@
 {
   "message": "FUCK IT, VLAD IT IS",
-  "reason": "The message contains offensive language ('FUCK') which is considered toxic.",
+  "reason": "The message contains offensive language.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "clean",

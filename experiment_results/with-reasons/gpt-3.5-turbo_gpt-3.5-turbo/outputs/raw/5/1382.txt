@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Please chat only in English here",
-"reason": "The message is clean because it is a polite request for users to communicate in English. There is no offensive or harmful language used.",
-"predicted": "clean"
+  "message": "Please chat only in English here",
+  "reason": "The message is a polite request asking users to communicate in English. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
   "message": "MsRoselyn nairidHerz nairidHerz danucdHi parunaHi",
-  "reason": "The message consists of a series of usernames and greetings, which are common in online communities. There is no offensive or harmful language used in the message.",
+  "reason": "The message consists of a series of usernames and greetings, which do not contain any offensive or harmful content. It appears to be a simple exchange of greetings between users in an online community.",
   "predicted": "clean"
 }
 ```

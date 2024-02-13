@@ -1,7 +1,9 @@
 ```json
 {
 "message": "man i hate darius so much hes so stupid",
-"reason": "The text contains negative sentiment and derogatory language towards a specific person, Darius. This indicates a toxic tone and falls into the 'toxic' category.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message is classified as "toxic" because it contains negative emotions and derogatory language towards a person (Darius). The use of the word "hate" and the description of Darius as "stupid" indicate a strong negative sentiment.

@@ -1,6 +1,6 @@
 {
   "message": "is G fuel good",
-  "reason": "The message is clean because it is a simple question asking for opinions about G Fuel. It does not contain any offensive or harmful language.",
+  "reason": "The message is asking for an opinion about a product, which does not contain any offensive or harmful language. It is a neutral question seeking information.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

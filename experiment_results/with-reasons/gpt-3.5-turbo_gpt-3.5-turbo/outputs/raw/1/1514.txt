@@ -1,7 +1,7 @@
 ```json
 {
   "message": "@SmirnofSoldier all good and you... danucdRespect danucdHi",
-  "reason": "The message contains positive and respectful words like 'all good' and 'respect'. There are no offensive or harmful words used. Hence, the message can be classified as clean.",
+  "reason": "The message contains positive and respectful words such as 'all good' and 'respect'. There is no evidence of any toxic or offensive language.",
   "predicted": "clean"
 }
 ```

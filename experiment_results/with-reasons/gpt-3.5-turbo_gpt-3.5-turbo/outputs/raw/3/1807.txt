@@ -1,7 +1,9 @@
 ```json
 {
-"message": "Who's victor Kappa",
-"reason": "The message does not contain any offensive or harmful language. It is a simple question asking about the identity of someone named Victor Kappa. Therefore, it can be classified as clean.",
-"predicted": "clean"
+  "message": "Who's victor Kappa",
+  "reason": "clean",
+  "predicted": "clean"
 }
 ```
+
+The message "Who's victor Kappa" does not contain any offensive or harmful language. It appears to be a simple question asking about the identity of someone named Victor Kappa. Hence, it can be classified as a clean message.

@@ -1,7 +1,7 @@
 {
   "message": "I mean Camille and Sett do so much True Damage so who cares about armor",
-  "reason": "The message does not contain any offensive or harmful language. It is a discussion about the champions Camille and Sett in a video game, and the user expresses their opinion about the effectiveness of armor against their true damage abilities.",
-  "predicted": "clean",
+  "reason": "The message expresses a dismissive attitude towards the importance of armor in the context of the champions Camille and Sett, suggesting that it is not necessary due to the high amount of True Damage they deal.",
+  "predicted": "toxic",
   "prompt_version": 4,
   "label": "clean",
   "model": "gpt-3.5-turbo"

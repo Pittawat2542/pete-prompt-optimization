@@ -1,8 +1,0 @@
-{
-  "message": "ooo we get a chickirhinooooo",
-  "reason": "The message does not contain any offensive, disrespectful or inappropriate language. It seems to be a playful or excited expression.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

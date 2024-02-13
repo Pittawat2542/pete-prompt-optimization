@@ -1,6 +1,6 @@
 {
   "message": "TOP 0.1% popularity 33.3% win rate",
-  "reason": "The message contains statistics about popularity and win rate, which are neutral and informative. There is no offensive or harmful language used, and the tone of the message is not aggressive or disrespectful. Therefore, the message can be classified as clean.",
+  "reason": "The message does not contain any offensive or harmful language. It simply states statistics about popularity and win rate. Therefore, it can be classified as clean.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "toxic",

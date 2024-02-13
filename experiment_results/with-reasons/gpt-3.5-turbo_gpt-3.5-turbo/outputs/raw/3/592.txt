@@ -1,7 +1,7 @@
 ```json
 {
-"message": "DD",
-"reason": "The predicted category is not provided in the 'Prediction result' section.",
-"predicted": "unknown"
+  "message": "DD",
+  "reason": "The message 'DD' does not contain any explicit or offensive language, and there is not enough context to determine if it is toxic. Therefore, it can be classified as clean.",
+  "predicted": "clean"
 }
 ```

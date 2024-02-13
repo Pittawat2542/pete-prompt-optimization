@@ -1,6 +1,6 @@
 {
   "message": "hey",
-  "reason": "The message is a simple greeting and does not contain any offensive or harmful content. It is a common and polite way to start a conversation.",
+  "reason": "The message is short and does not contain any offensive or harmful content. It is a simple greeting, which is considered a clean message.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "clean",

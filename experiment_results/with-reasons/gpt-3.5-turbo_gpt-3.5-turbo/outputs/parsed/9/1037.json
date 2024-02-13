@@ -1,6 +1,6 @@
 {
   "message": "Its my stupid earphones",
-  "reason": "The message contains a negative word 'stupid', which indicates a negative sentiment. However, it does not contain any explicit toxic or offensive language. Therefore, it can be classified as 'clean'.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "toxic",

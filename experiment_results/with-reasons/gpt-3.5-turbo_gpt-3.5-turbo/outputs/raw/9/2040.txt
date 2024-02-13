@@ -1,7 +1,7 @@
 ```json
 {
-"message": "fessn1 all the clips got deleted to prevent dmca strikes, so theres no command at the moment",
-"reason": "The message does not contain any offensive or harmful language. It is simply stating that all the clips have been deleted to prevent DMCA strikes and there is currently no command available. There is no indication of toxicity or any violation of community guidelines.",
-"predicted": "clean"
+  "message": "fessn1 all the clips got deleted to prevent dmca strikes, so theres no command at the moment",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

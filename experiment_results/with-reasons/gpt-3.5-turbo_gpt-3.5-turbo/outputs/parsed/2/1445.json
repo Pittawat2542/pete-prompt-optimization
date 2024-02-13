@@ -1,7 +1,7 @@
 {
-  "message": "danucdRespect danucdPOG danucdRespect danucdPOG danucdRespect danucdPOG danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect danucdRespect",
-  "reason": "The message consists of repetitive phrases of 'danucdRespect' and 'danucdPOG'. These phrases do not contain any toxic or offensive language, and they seem to be expressing admiration or respect for someone named 'danucd'. Therefore, the message can be classified as 'clean'.",
-  "predicted": "clean",
+  "message": "You are so stupid!",
+  "reason": "The message contains offensive language and is derogatory.",
+  "predicted": "toxic",
   "prompt_version": 2,
   "label": "clean",
   "model": "gpt-3.5-turbo"

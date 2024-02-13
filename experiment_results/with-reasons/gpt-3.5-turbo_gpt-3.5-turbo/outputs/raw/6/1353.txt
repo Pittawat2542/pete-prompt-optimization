@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@xDEEDAN bot danucdDanu2",
-"reason": "The message does not contain any offensive or harmful language. It appears to be a mention or reference to a bot or user named 'danucdDanu2'.",
-"predicted": "clean"
+  "message": "@xDEEDAN bot danucdDanu2",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

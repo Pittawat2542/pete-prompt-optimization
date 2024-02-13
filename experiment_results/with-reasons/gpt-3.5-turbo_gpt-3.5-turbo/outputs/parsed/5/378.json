@@ -1,6 +1,6 @@
 {
   "message": "fuck shen",
-  "reason": "The message contains a profanity, which is considered toxic and offensive.",
+  "reason": "The message contains offensive language and is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

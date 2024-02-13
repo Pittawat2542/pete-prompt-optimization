@@ -1,6 +1,6 @@
 {
   "message": "Taking a shit ehun ehun ehun ehun",
-  "reason": "The predicted category is 'toxic' because the message contains vulgar language ('shit') which is considered offensive and inappropriate in most online communities.",
+  "reason": "The message contains vulgar language and is considered offensive and disrespectful.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

@@ -1,7 +1,6 @@
 ```json
 {
-"message": "Does ranked solos have 100 players? @hambinooo",
-"reason": "The text does not contain any offensive or harmful language, and it does not seem to be intended to provoke or insult anyone. It is a simple question about the number of players in ranked solos.",
-"predicted": "clean"
+  "message": "Does ranked solos have 100 players? @hambinooo",
+  "reason": "The message is a simple question about the number of players in ranked solos and does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```

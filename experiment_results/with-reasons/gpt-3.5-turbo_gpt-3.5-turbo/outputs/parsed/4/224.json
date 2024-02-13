@@ -1,6 +1,6 @@
 {
   "message": "LETS FUCKING GOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-  "reason": "The message contains strong profanity, which is likely to be classified as toxic.",
+  "reason": "The message contains offensive language with excessive use of exclamation marks.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "clean",

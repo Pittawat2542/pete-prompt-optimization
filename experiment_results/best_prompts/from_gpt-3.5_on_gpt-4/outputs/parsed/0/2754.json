@@ -1,8 +1,0 @@
-{
-  "message": "too E Z",
-  "reason": "The message is predicted as clean with a high confidence score. It does not contain any offensive or harmful content. It appears to be a gaming term, meaning 'too easy'.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

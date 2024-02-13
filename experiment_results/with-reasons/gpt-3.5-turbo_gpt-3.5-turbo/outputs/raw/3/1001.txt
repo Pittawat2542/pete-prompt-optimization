@@ -1,7 +1,9 @@
 ```json
 {
-"message": "Wtf thats stupidðŸ˜‚ðŸ˜‚",
-"reason": "The message contains offensive language ('Wtf') and emoticons ('ðŸ˜‚ðŸ˜‚'), which indicate a negative and disrespectful tone. This falls into the 'toxic' category.",
-"predicted": "toxic"
+  "message": "Wtf thats stupidðŸ˜‚ðŸ˜‚",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "Wtf thats stupidðŸ˜‚ðŸ˜‚" contains offensive language ("Wtf") and the use of laughing emojis ("ðŸ˜‚ðŸ˜‚") which indicate a negative and disrespectful tone. Therefore, it can be classified as toxic.

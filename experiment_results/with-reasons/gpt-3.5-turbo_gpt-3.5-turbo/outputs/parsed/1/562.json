@@ -1,6 +1,6 @@
 {
   "message": "u succ LUL",
-  "reason": "The message contains an offensive term 'succ' which is a derogatory slang term. The 'LUL' at the end indicates that the sender finds it amusing. This message can be considered toxic as it is intended to insult or demean someone.",
+  "reason": "The message contains an offensive term 'succ' which is a derogatory slang term. This indicates that the message is toxic and disrespectful.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "clean",

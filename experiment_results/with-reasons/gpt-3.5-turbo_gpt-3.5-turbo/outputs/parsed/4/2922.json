@@ -1,6 +1,6 @@
 {
   "message": "Dude tglWtf",
-  "reason": "The text contains an abbreviation 'Wtf' which is commonly used as an offensive term. This indicates that the message is toxic.",
+  "reason": "The message contains offensive language and an abbreviation that is commonly used to express surprise or disbelief. The use of such language can be considered toxic.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

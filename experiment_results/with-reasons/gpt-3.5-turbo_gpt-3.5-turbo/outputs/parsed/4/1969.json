@@ -1,7 +1,7 @@
 {
   "message": "iam_GH0ST ive decided to embrace it and being bad is now my brand",
-  "reason": "The message does not contain any offensive or harmful language. It seems to be a statement about the person's decision to embrace a certain behavior or attitude. Although the phrase 'being bad' might suggest negativity, it is used in the context of creating a personal brand, which does not necessarily indicate toxicity.",
-  "predicted": "clean",
+  "reason": "The message contains a statement about embracing being bad and making it their brand. This suggests a negative or toxic attitude.",
+  "predicted": "toxic",
   "prompt_version": 4,
   "label": "clean",
   "model": "gpt-3.5-turbo"

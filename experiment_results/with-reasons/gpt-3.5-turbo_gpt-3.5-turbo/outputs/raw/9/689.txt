@@ -1,7 +1,7 @@
 ```json
 {
-"message": "YEP",
-"reason": "The message consists of a single word, 'YEP', which does not contain any offensive or harmful language. It is a simple and neutral response that does not exhibit any toxic behavior.",
-"predicted": "clean"
+  "message": "YEP",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

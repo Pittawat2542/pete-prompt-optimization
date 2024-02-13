@@ -1,7 +1,0 @@
-```json
-{
-"message": "@drsoils no need to be sorry, I liked it. LOL",
-"reason": "The message is a friendly response to another user, expressing positive sentiment and humor. There are no signs of offensive or harmful language.",
-"predicted": "clean"
-}
-```

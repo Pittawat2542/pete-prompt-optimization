@@ -1,7 +1,7 @@
 ```json
 {
-"message": "I can translate for ya if u want",
-"reason": "The message is classified as clean. The text is polite and helpful, offering to translate for someone if they want. There is no evidence of any toxic or offensive language in the message.",
-"predicted": "clean"
+  "message": "I can translate for ya if u want",
+  "reason": "The message is polite and helpful, offering to translate for someone. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

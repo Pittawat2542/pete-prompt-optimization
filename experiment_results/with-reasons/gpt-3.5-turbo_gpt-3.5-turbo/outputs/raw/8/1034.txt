@@ -1,7 +1,6 @@
 ```json
 {
-"message": "> cod is crap which one?",
-"reason": "The text contains negative sentiment and derogatory language, indicating a toxic category.",
-"predicted": "toxic"
+  "message": "cod is crap which one?",
+  "reason": "The message contains a negative opinion about 'cod' and uses the word 'crap', which can be considered offensive. Therefore, it is classified as toxic.",
+  "predicted": "toxic"
 }
-```

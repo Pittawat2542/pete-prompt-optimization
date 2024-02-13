@@ -1,7 +1,7 @@
 ```json
 {
 "message": "@melihozkiremitci cya",
-"reason": "The message does not contain any offensive or harmful language. It is a simple abbreviation for 'see you later'.",
+"reason": "The message contains the abbreviation 'cya', which is commonly used to mean 'see you'. This is a friendly and casual way of saying goodbye, indicating a clean message.",
 "predicted": "clean"
 }
 ```

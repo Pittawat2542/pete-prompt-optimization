@@ -1,7 +1,7 @@
 ```json
 {
-"message": "I can't believe you would say something like that!",
-"reason": "The message contains strong negative sentiment and expresses disbelief towards something said. This indicates a toxic tone.",
-"predicted": "toxic"
+  "message": "(",
+  "reason": "The message consists of a single character '('. It does not contain any offensive or harmful content, and there is no context provided to determine its intent. Therefore, it can be classified as a clean message.",
+  "predicted": "clean"
 }
 ```

@@ -1,7 +1,5 @@
-```json
 {
 "message": "Who else hate their life?",
-"reason": "The message expresses negative emotions and a dislike for one's own life, which indicates a toxic sentiment.",
+"reason": "The message expresses negative emotions and indicates a dislike for one's own life.",
 "predicted": "toxic"
 }
-```

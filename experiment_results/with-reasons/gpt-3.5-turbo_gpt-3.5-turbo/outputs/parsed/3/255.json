@@ -1,6 +1,6 @@
 {
   "message": "may I ask why the fuck shen is a thing?",
-  "reason": "The message contains offensive language ('fuck'), which indicates a toxic tone.",
+  "reason": "toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

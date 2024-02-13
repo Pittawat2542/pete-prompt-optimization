@@ -1,7 +1,6 @@
 ```json
 {
-"message": "danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner",
-"reason": "The message consists of repetitive text, which is a common pattern in spam or repetitive content. This repetitive nature suggests that the message is likely to be clean and not toxic.",
-"predicted": "clean"
+  "message": "danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
-```

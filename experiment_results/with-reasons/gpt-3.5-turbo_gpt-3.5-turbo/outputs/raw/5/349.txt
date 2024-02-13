@@ -1,7 +1,6 @@
 ```json
 {
-"message": "Yeah with what? A short ass hop that gets you nearly nowhere? An ult that is SO fucking long",
-"reason": "The message contains offensive language ('fucking') which indicates toxicity. Additionally, the use of aggressive language ('short ass hop', 'ult that is SO fucking long') suggests a negative and confrontational tone. Therefore, the message can be classified as toxic.",
-"predicted": "toxic"
+  "message": "Yeah with what? A short ass hop that gets you nearly nowhere? An ult that is SO fucking long",
+  "reason": "The message contains offensive language and is aggressive in tone. It is considered toxic and disrespectful.",
+  "predicted": "toxic"
 }
-```

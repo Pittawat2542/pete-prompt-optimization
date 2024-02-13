@@ -1,6 +1,6 @@
 {
   "message": "Hell no ew",
-  "reason": "The text contains negative sentiment and offensive language ('ew'). It is likely to be classified as toxic.",
+  "reason": "The message contains offensive language and displays a negative sentiment, making it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

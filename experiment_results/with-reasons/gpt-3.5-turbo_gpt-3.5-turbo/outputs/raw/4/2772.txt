@@ -1,7 +1,7 @@
 ```json
 {
 "message": "@keckzn have a time out, come back when you're done saying dumb shit",
-"reason": "The message contains offensive language ('dumb shit') which indicates toxicity.",
+"reason": "The message contains offensive language and insults directed towards another user ('saying dumb shit').",
 "predicted": "toxic"
 }
 ```

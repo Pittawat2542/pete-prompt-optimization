@@ -1,7 +1,7 @@
 {
   "message": "Lol when adc became weak as shit I was like wtf happened did I just become ass turns out it wasn\u00e2\u20ac\u2122t me",
-  "reason": "The text contains some profanity and negative language, such as 'weak as shit' and 'wtf happened'. This indicates a toxic tone.",
-  "predicted": "toxic",
+  "reason": "The message contains mild offensive language ('shit' and 'ass'), but it does not display any harmful or disrespectful content. Therefore, it can be classified as clean.",
+  "predicted": "clean",
   "prompt_version": 8,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

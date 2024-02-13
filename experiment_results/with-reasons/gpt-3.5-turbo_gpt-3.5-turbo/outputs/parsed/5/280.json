@@ -1,6 +1,6 @@
 {
   "message": "HOW THE HELL IS THIS AN A",
-  "reason": "The message contains strong language and is expressed in a confrontational tone, which indicates a toxic category.",
+  "reason": "The message contains offensive language and is written in all caps, which indicates anger and aggression. It is considered toxic and offensive.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

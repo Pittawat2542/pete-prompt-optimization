@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be toxic with a probability of 0.85.
-
-```json
-{
-"message": "70 mana for that shit",
-"reason": "The model predicts the message to be toxic with a high probability of 0.85. The use of profanity in the message contributes to its toxicity.",
-"predicted": "toxic"
-}
-```

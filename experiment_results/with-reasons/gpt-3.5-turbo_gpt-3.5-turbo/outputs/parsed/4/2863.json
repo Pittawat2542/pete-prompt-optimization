@@ -1,6 +1,6 @@
 {
   "message": "this map is dog shit for squads. absolute dog shit",
-  "reason": "The message contains offensive language ('dog shit') which is considered toxic.",
+  "reason": "The message contains offensive language and derogatory terms, which indicates a toxic behavior.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

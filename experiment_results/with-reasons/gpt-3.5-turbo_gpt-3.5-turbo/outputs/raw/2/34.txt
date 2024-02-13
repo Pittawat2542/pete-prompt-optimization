@@ -1,7 +1,5 @@
-```json
 {
 "message": "laners dying even with vision ðŸ¤¡",
-"reason": "The message contains a negative sentiment with the use of the word 'dying' and an emoji that represents shock or surprise. This indicates frustration or disappointment, which is often associated with toxic behavior in online communities.",
-"predicted": "toxic"
+"reason": "The message is expressing frustration and disappointment with the performance of laners despite having vision.",
+"predicted": "clean"
 }
-```

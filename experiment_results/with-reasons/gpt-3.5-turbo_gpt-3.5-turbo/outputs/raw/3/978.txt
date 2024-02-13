@@ -1,7 +1,9 @@
 ```json
 {
 "message": "because cosmic 1st is shit @Thebausffs",
-"reason": "The message contains offensive language ('shit') directed towards another user (@Thebausffs). This indicates a toxic behavior.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message is classified as "toxic" because it contains offensive language ("shit") and is directed towards another user (@Thebausffs) in a derogatory manner.

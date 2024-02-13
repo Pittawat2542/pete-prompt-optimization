@@ -1,7 +1,12 @@
+New Prompt: Classify the following "Message" from chat in an online community into one of the specified categories, "toxic" or "clean". Provide a reason for the classification in the specified JSON format. Include the prediction result, which is not present in the original prompt.
+
+Message: "I can't believe you would say something like that!"
+
+Output format:
 ```json
 {
-"message": "dizzy_face:",
-"reason": "The message consists of an emoji, which does not contain any toxic or offensive content.",
+"message": "I can't believe you would say something like that!",
+"reason": "The message expresses disbelief and disappointment, but does not contain offensive language.",
 "predicted": "clean"
 }
 ```

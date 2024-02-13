@@ -1,7 +1,6 @@
 ```json
 {
   "message": "how old she is",
-  "reason": "The text is a simple question asking about someone's age. It does not contain any offensive or harmful language, and there is no indication of toxicity.",
+  "reason": "The message is a simple question asking about someone's age and does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean"
 }
-```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "that he's got none helmet",
-"reason": "The message contains grammatical errors and lacks punctuation. It also uses informal language ('none' instead of 'no'). These characteristics suggest that the message is likely to be classified as toxic.",
-"predicted": "toxic"
+  "message": "that he's got none helmet",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
 "message": "laners dying even with vision ðŸ¤¡",
-"reason": "The message does not contain any offensive or harmful language. It is a statement about laners dying despite having vision. This does not fall into the 'toxic' category.",
-"predicted": "clean"
+"reason": "The message contains a negative sentiment and the use of the emoji ðŸ¤¡ suggests frustration or annoyance. However, it does not contain any explicit toxic language or personal attacks.",
+"predicted": "toxic"
 }
 ```

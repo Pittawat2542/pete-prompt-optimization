@@ -1,6 +1,6 @@
 {
   "message": "I can help you translate chinese",
-  "reason": "The message is classified as clean because it is a helpful and positive statement offering assistance in translating Chinese. The words used in the message are not offensive or harmful, and there is no indication of toxicity or negativity.",
+  "reason": "The message is offering assistance in translating Chinese, which is a helpful and positive contribution to the community.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

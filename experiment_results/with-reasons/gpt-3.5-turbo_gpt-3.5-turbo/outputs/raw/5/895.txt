@@ -1,7 +1,6 @@
 ```json
 {
-"message": "@buttery_butt1094 YEAH shit funny af",
-"reason": "The message contains a profanity ('shit'), which indicates a toxic category. Additionally, the use of 'af' (as fuck) intensifies the profanity, further supporting the toxic classification.",
-"predicted": "toxic"
+  "message": "@buttery_butt1094 YEAH shit funny af",
+  "reason": "The message contains offensive language ('shit') and is used in a positive context ('funny af'). It can be considered toxic.",
+  "predicted": "toxic"
 }
-```

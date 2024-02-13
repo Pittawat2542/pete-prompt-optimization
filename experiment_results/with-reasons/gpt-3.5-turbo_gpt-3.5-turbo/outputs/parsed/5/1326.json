@@ -1,6 +1,6 @@
 {
   "message": "1G$",
-  "reason": "The message is classified as toxic. The presence of a dollar sign ($) at the end of the message suggests that it may be related to financial scams or illegal activities. This aligns with the toxic category, which typically includes messages that are offensive, harmful, or intended to deceive or defraud others.",
+  "reason": "The message contains a combination of alphanumeric characters and symbols that do not form a coherent sentence or have any clear meaning. It appears to be random and nonsensical, which is often associated with spam or trolling behavior. Therefore, it is classified as toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "clean",

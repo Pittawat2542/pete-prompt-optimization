@@ -1,6 +1,6 @@
 {
   "message": "I\u00e2\u20ac\u2122m married to the game and the game is league of legends and I want a divorce",
-  "reason": "The message does not contain any offensive or harmful language. It is a statement expressing the author's dissatisfaction with the game League of Legends and their desire to stop playing it. Therefore, it can be classified as 'clean'.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "toxic",

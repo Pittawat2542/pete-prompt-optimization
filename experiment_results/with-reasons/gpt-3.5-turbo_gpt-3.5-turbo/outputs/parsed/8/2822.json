@@ -1,6 +1,6 @@
 {
   "message": "wtf is this nice @Grizz shit",
-  "reason": "The text contains a profanity ('wtf') and a derogatory term ('shit'), which indicates a toxic language.",
+  "reason": "The message contains offensive language (wtf) and disrespectful content (@Grizz shit), which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

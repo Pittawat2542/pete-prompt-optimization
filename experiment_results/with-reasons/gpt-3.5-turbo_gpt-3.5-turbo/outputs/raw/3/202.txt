@@ -1,7 +1,9 @@
 ```json
 {
-"message": "Quite the shit",
-"reason": "The predicted category is 'toxic' because the word 'shit' is considered offensive and vulgar. The model has likely classified this message as toxic based on the presence of this word.",
-"predicted": "toxic"
+  "message": "Quite the shit",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "Quite the shit" contains offensive language, specifically the word "shit", which is considered toxic and offensive. Therefore, the message is classified as toxic.

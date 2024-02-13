@@ -1,7 +1,7 @@
 ```json
 {
-"message": "5Head",
-"reason": "The message '5Head' does not contain any offensive or toxic language. It appears to be a non-offensive term or phrase. The predicted category is 'clean'.",
-"predicted": "clean"
+  "message": "5Head",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
 ```

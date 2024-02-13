@@ -1,7 +1,7 @@
 ```json
 {
   "message": "ahhh gotcha",
-  "reason": "The text is classified as 'clean' because it does not contain any offensive or toxic language. The 'Prediction result' section also shows that the model has a high confidence score for the 'clean' category.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean"
 }
 ```

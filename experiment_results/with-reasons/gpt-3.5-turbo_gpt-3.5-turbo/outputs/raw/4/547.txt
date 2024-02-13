@@ -1,7 +1,7 @@
 ```json
 {
-"message": "expose yourself :\n\n1.nop\n2. No\n3. No\n4. Blue , pink\n5. M\n6. Hiii let's play league of legends\n7. Both\n8. Idk\n9. Idk they don't even reply me-\n10. No\n11. Ye\n12. No\n13. ðŸ¤¡\n\ndrop an emoji and iâ€™ll send you the questions",
-"reason": "The message does not contain any explicit toxic language or offensive content. It consists of a series of short responses and statements related to various topics, including gaming and personal experiences. Although some parts may be unclear or nonsensical, there is no clear indication of toxicity or harmful intent.",
-"predicted": "clean"
+  "message": "expose yourself :\n\n1.nop\n2. No\n3. No\n4. Blue , pink\n5. M\n6. Hiii let's play league of legends\n7. Both\n8. Idk\n9. Idk they don't even reply me-\n10. No\n11. Ye\n12. No\n13. ðŸ¤¡\n\ndrop an emoji and iâ€™ll send you the questions",
+  "reason": "The message contains inappropriate language and a request to expose oneself, which indicates toxic behavior.",
+  "predicted": "toxic"
 }
 ```

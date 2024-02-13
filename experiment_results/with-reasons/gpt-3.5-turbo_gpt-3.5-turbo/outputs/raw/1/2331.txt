@@ -1,7 +1,7 @@
 ```json
 {
   "message": "Scrims at 1900 CET to be streamed at (stream: tba)",
-  "reason": "The message is providing information about a scheduled event and a streaming link. There is no offensive or harmful language used in the message.",
+  "reason": "The message is clean because it is simply announcing that there will be scrims at a specific time and they will be streamed. There is no offensive or harmful language used.",
   "predicted": "clean"
 }
 ```

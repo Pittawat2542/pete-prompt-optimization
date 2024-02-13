@@ -1,7 +1,7 @@
 ```json
 {
-"message": "yes ionians are fun as fuck",
-"reason": "The message contains profanity ('fuck'), which is considered toxic.",
-"predicted": "toxic"
+  "message": "yes ionians are fun as fuck",
+  "reason": "The message contains profanity ('fuck'), which is considered offensive and inappropriate. Therefore, it can be classified as toxic.",
+  "predicted": "toxic"
 }
 ```

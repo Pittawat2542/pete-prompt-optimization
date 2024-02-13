@@ -1,6 +1,6 @@
 {
   "message": "it was the evelynn game, he even stole my fucking champ",
-  "reason": "The message contains offensive language ('fucking'). This indicates a toxic category.",
+  "reason": "The message contains offensive language ('fucking') and expresses frustration and anger towards someone stealing the user's champion. It is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Ur not an assassin if u donÕt one tap the adc",
-"reason": "The message contains gaming jargon and does not contain any offensive or harmful language. It is a statement about gameplay strategy in an online game.",
-"predicted": "clean"
+  "message": "Ur not an assassin if u donÕt one tap the adc",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

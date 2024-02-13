@@ -1,6 +1,6 @@
 {
   "message": "nb3LUL nb3LUL nb3LUL",
-  "reason": "The message consists of repeated characters 'nb3LUL', which does not convey any meaningful information. It appears to be spam or trolling.",
+  "reason": "The message consists of repeated characters without any meaningful content. It does not contribute to the conversation and can be considered spam or noise. Therefore, it can be classified as toxic.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "clean",

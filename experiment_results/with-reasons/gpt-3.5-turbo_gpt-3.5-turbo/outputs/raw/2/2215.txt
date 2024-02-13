@@ -1,7 +1,5 @@
-```json
 {
 "message": "it makes it even more difficult",
-"reason": "The message does not contain any offensive or harmful language. It is a neutral statement expressing that something is becoming more challenging.",
+"reason": "The message does not contain offensive language and does not express any negativity. It is a neutral statement.",
 "predicted": "clean"
 }
-```

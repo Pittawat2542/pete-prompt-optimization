@@ -1,6 +1,6 @@
 {
   "message": "HOLY SHIT karthus busted KEKW",
-  "reason": "The message contains profanity ('HOLY SHIT') which is considered toxic.",
+  "reason": "toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

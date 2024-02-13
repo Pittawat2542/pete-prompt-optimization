@@ -1,6 +1,6 @@
 {
   "message": "u succ LUL",
-  "reason": "The text contains a derogatory term ('succ') which is likely to be considered toxic.",
+  "reason": "The message contains offensive language and is disrespectful, making it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "clean",

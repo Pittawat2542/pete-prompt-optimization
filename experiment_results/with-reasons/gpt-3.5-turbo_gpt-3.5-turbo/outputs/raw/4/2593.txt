@@ -1,7 +1,7 @@
 ```json
 {
 "message": "i def. get the phantom footsteps",
-"reason": "The message does not contain any offensive or harmful language. It is a neutral statement about experiencing phantom footsteps. Therefore, it can be classified as 'clean'.",
+"reason": "The message does not contain any offensive or harmful language. It is a simple statement about experiencing phantom footsteps. There is no indication of toxicity or any negative behavior.",
 "predicted": "clean"
 }
 ```

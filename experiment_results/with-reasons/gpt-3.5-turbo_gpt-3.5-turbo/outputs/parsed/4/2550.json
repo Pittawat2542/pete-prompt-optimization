@@ -1,7 +1,7 @@
 {
   "message": "hamb10 hamb10",
-  "reason": "The message does not contain any explicit or offensive language, and it does not seem to be harmful or toxic in any way. It appears to be a random string of characters or a username.",
-  "predicted": "clean",
+  "reason": "The message consists of repetitive and nonsensical text, which does not convey any meaningful information or contribute to the conversation. It appears to be spam or gibberish.",
+  "predicted": "toxic",
   "prompt_version": 4,
   "label": "clean",
   "model": "gpt-3.5-turbo"

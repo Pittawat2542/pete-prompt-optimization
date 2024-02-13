@@ -1,7 +1,7 @@
 ```json
 {
   "message": "700 true dmg on 1 Q there KEKW",
-  "reason": "The message contains gaming jargon and an emote (KEKW) commonly used in online gaming communities. The phrase '700 true dmg on 1 Q' refers to dealing a high amount of damage in a game. While the message may be difficult to understand for those unfamiliar with gaming terminology, it does not contain any offensive or harmful language. Therefore, it can be classified as clean.",
+  "reason": "The message contains gaming jargon and an emote, indicating that it is likely a message from an online gaming community. The phrase '700 true dmg on 1 Q' refers to dealing 700 damage with a specific ability, which is a common topic of discussion in gaming communities. The emote 'KEKW' is a popular emote used to express laughter or amusement. Overall, the message does not contain any offensive or harmful content, and is simply discussing gameplay mechanics.",
   "predicted": "clean"
 }
 ```

@@ -1,6 +1,6 @@
 {
   "message": "Arm E D",
-  "reason": "The message consists of random letters and does not convey any meaningful information.",
+  "reason": "The message consists of random words or letters that do not make sense in the context of the conversation.",
   "predicted": "clean",
   "prompt_version": 0,
   "label": "clean",

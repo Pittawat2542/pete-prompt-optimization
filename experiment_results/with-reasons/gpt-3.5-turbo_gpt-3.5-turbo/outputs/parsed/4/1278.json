@@ -1,6 +1,6 @@
 {
   "message": "EZ GG",
-  "reason": "The text is classified as 'toxic' because it contains the abbreviation 'GG', which is commonly used in online gaming to mean 'good game'. However, in this context, it is used sarcastically or mockingly to taunt or belittle the opponent, which is considered toxic behavior.",
+  "reason": "The message contains the abbreviation 'EZ' which is commonly used in online gaming communities to mean 'easy'. Additionally, 'GG' is an abbreviation for 'good game'. Both of these phrases are often used to taunt or mock opponents, suggesting a toxic tone.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "clean",

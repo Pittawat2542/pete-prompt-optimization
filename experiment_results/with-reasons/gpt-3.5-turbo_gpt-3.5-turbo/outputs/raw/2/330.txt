@@ -1,7 +1,5 @@
-```json
 {
 "message": "oh so jg duo means you roam and shit together?",
-"reason": "The message contains a slang term that can be considered offensive ('shit'). This indicates a potentially toxic language.",
+"reason": "The message contains offensive language.",
 "predicted": "toxic"
 }
-```

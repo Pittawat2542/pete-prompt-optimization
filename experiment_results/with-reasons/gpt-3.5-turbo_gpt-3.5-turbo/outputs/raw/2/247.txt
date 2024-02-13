@@ -1,7 +1,5 @@
-```json
 {
-"message": "> Fuck, I just died by the twitch. look at death recap",
-"reason": "The message contains offensive language ('Fuck'), which is a strong indicator of toxicity.",
+"message": "Fuck, I just died by the twitch. look at death recap",
+"reason": "The message contains offensive language.",
 "predicted": "toxic"
 }
-```

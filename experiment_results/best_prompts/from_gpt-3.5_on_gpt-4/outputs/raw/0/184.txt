@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message "you mean blind pick?" with a 98% probability to be non-toxic.
-
-```json
-{
-"message": "you mean blind pick?",
-"reason": "The message is a simple question and does not contain any offensive or harmful content. The model prediction also strongly suggests that the message is non-toxic with a 98% probability.",
-"predicted": "clean"
-}
-```

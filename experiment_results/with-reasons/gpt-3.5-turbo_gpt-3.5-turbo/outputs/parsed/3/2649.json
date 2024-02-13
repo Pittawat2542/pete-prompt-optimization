@@ -1,6 +1,6 @@
 {
   "message": "doooooo it",
-  "reason": "The predicted category is 'clean'. The text 'doooooo it' does not contain any offensive or harmful language. It is a simple and harmless phrase that encourages someone to do something.",
+  "reason": "clean",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

@@ -1,7 +1,0 @@
-```json
-{
-"message": "114 kills again? you're a legend",
-"reason": "The message is a compliment towards the user's gaming skills and does not contain any offensive or harmful content.",
-"predicted": "clean"
-}
-```

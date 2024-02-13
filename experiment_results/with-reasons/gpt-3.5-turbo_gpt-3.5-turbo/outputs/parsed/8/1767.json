@@ -1,6 +1,6 @@
 {
   "message": "is G fuel good",
-  "reason": "The text is asking for an opinion about G Fuel. It does not contain any offensive or harmful language, and there is no indication of toxicity or negativity. Therefore, it can be classified as 'clean'.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 8,
   "label": "clean",

@@ -1,6 +1,6 @@
 {
   "message": "I'm safe for now so fuck you guys",
-  "reason": "The text contains offensive language ('fuck you guys'), which indicates a toxic category.",
+  "reason": "The message contains offensive language and insults, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

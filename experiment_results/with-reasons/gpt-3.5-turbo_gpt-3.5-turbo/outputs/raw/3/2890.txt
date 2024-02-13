@@ -1,7 +1,9 @@
 ```json
 {
 "message": "@Tomshepmx going fucking great, you mate?",
-"reason": "The predicted category is 'toxic' because the message contains offensive language ('fucking'). This is consistent with the prediction result which indicates a high toxicity score of 0.95.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message is classified as "toxic" because it contains offensive language ("fucking").

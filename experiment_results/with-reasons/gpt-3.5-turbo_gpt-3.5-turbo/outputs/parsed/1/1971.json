@@ -1,6 +1,6 @@
 {
   "message": "dizzy_face:",
-  "reason": "The message consists of an emoji 'dizzy_face:'. Emojis are typically used to express emotions or reactions, and this particular emoji does not contain any offensive or harmful content. Therefore, the message can be classified as clean.",
+  "reason": "The message consists of an emoji 'dizzy_face:' without any accompanying text. It does not contain any explicit or offensive language, and there is no context provided to determine if it is toxic or clean. Therefore, it can be classified as 'clean'.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "clean",

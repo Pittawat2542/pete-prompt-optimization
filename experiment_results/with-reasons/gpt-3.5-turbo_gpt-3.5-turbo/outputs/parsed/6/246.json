@@ -1,6 +1,6 @@
 {
   "message": "Fuck, I just died by the twitch.",
-  "reason": "The message contains offensive language, specifically the word 'Fuck', which is considered toxic.",
+  "reason": "The message contains offensive language, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 6,
   "label": "toxic",

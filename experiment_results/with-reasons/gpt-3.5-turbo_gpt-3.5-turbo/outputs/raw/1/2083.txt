@@ -1,7 +1,7 @@
 ```json
 {
   "message": "its really hard with your ping",
-  "reason": "The message does not contain any offensive or harmful language. It simply states that it is difficult to play with a high ping, which is a common frustration in online gaming.",
+  "reason": "The message does not contain any offensive or harmful language. It simply states that it is difficult to perform a certain task due to the person's high ping. Therefore, it can be classified as a clean message.",
   "predicted": "clean"
 }
 ```

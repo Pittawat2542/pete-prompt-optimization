@@ -1,6 +1,6 @@
 {
   "message": "Get the hell out",
-  "reason": "The message contains offensive language",
+  "reason": "The message contains offensive language and is aggressive in tone.",
   "predicted": "toxic",
   "prompt_version": 0,
   "label": "toxic",

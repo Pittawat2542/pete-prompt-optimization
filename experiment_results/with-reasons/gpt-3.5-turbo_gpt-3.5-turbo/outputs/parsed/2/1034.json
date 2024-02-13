@@ -1,6 +1,6 @@
 {
   "message": "> cod is crap which one?",
-  "reason": "The message contains a derogatory term ('crap') which indicates a negative sentiment towards the topic. This negative sentiment classifies the message as toxic.",
+  "reason": "The message contains derogatory language and negative sentiment towards the topic.",
   "predicted": "toxic",
   "prompt_version": 2,
   "label": "toxic",

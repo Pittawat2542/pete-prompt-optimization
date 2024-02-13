@@ -1,6 +1,6 @@
 {
   "message": "been 2 weeks 1since i've been able to lunch with ham!",
-  "reason": "The message does not contain any offensive or harmful language. It is a simple statement expressing the person's desire to have lunch with ham after a long time. Therefore, it can be classified as 'clean'.",
+  "reason": "The message does not contain any offensive or harmful content. It is a simple statement expressing the duration of time since the person last had lunch with ham.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

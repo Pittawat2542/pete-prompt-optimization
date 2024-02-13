@@ -1,6 +1,6 @@
 {
   "message": "it makes it even more difficult",
-  "reason": "The message does not contain any toxic or offensive language. It is a neutral statement expressing a difficulty. Therefore, it can be classified as 'clean'.",
+  "reason": "The message does not contain any offensive or harmful content. It is a neutral statement expressing a level of difficulty.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "clean",

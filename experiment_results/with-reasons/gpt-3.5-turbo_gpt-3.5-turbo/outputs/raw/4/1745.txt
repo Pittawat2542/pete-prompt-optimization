@@ -1,7 +1,7 @@
 ```json
 {
-"message": "WeirdChamp",
-"reason": "The text 'WeirdChamp' is classified as toxic because it contains a term that is commonly used in online communities to mock or insult someone or something. The model has predicted it as toxic based on its understanding of the term and its association with negative sentiment.",
-"predicted": "toxic"
+  "message": "WeirdChamp",
+  "reason": "The message contains the term 'WeirdChamp', which is often used in online communities to express disapproval or mockery. This term can be considered derogatory and toxic.",
+  "predicted": "toxic"
 }
 ```

@@ -1,6 +1,6 @@
 {
   "message": "Wtf thats stupid\u00f0\u0178\u02dc\u201a\u00f0\u0178\u02dc\u201a",
-  "reason": "The message contains the abbreviation 'Wtf' which is commonly used as an acronym for 'What the f***'. This indicates that the message is expressing frustration or disbelief. Additionally, the use of multiple laughing emojis '\u00f0\u0178\u02dc\u201a\u00f0\u0178\u02dc\u201a' suggests that the message is intended to be sarcastic or mocking. These elements contribute to a toxic tone in the message.",
+  "reason": "The message contains offensive language (Wtf) and emojis (\u00f0\u0178\u02dc\u201a\u00f0\u0178\u02dc\u201a) that indicate a negative and disrespectful tone. It is considered toxic and offensive.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "in a Payload game the other day one of the randoms started shooting grens at me",
-"reason": "The message contains a description of a negative experience in a game, where one of the players started shooting grenades at the author. This behavior can be considered toxic and disruptive to the gameplay.",
-"predicted": "toxic"
+  "message": "in a Payload game the other day one of the randoms started shooting grens at me",
+  "reason": "The message describes a negative experience in a game, but it does not contain any offensive, harmful, or disrespectful content. Therefore, it can be classified as clean.",
+  "predicted": "clean"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "no katarina in 0/5/2 we won't gank your yasuo",
-"reason": "The text does not contain any offensive or harmful language. It is a statement about not ganking a player's champion in a game. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "no katarina in 0/5/2 we won't gank your yasuo",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

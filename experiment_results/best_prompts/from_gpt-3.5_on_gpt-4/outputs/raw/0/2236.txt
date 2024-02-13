@@ -1,7 +1,0 @@
-```json
-{
-"message":  "i have nothing",
-"reason": "The message does not contain any offensive or harmful content. It is a simple statement expressing the user's current state or possession.",
-"predicted": "clean"
-}
-```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "what did they do to you @Yamikazexz",
-"reason": "The text does not contain any offensive or harmful language. It is a question asking about someone's experience or situation. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "what did they do to you @Yamikazexz",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

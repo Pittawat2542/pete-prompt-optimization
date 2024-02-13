@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message "yeah" as non-toxic with a 99% probability.
-
-```json
-{
-"message": "yeah",
-"reason": "The model predicts the message as non-toxic with a 99% probability.",
-"predicted": "clean"
-}
-```

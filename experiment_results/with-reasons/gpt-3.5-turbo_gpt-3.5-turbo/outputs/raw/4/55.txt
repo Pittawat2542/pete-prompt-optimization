@@ -1,7 +1,7 @@
 ```json
 {
-"message": "just dont care",
-"reason": "The message does not contain any explicit or offensive language, and it does not seem to be targeting or attacking anyone. Therefore, it can be classified as clean.",
-"predicted": "clean"
+  "message": "just dont care",
+  "reason": "The message is short and lacks context, making it difficult to determine the intent or tone. It could be interpreted as dismissive or apathetic, but without further information, it is not possible to definitively classify it as toxic or clean.",
+  "predicted": "clean"
 }
 ```

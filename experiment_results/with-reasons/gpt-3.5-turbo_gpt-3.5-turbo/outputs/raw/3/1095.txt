@@ -1,7 +1,9 @@
 ```json
 {
 "message": "the hell is a karak?",
-"reason": "The message does not contain any offensive or harmful language. It is a simple question asking for the meaning of the word 'karak'. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+"reason": "Toxic",
+"predicted": "toxic"
 }
 ```
+
+The message "the hell is a karak?" is classified as toxic because it contains offensive language ("hell") and a negative tone.

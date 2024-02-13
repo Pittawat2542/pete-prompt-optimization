@@ -1,6 +1,6 @@
 {
   "message": "get out rogue",
-  "reason": "The predicted category is 'toxic' because the text contains an offensive term ('rogue') which is likely to be used in a derogatory or harmful manner.",
+  "reason": "The message contains an aggressive and offensive phrase 'get out'. This can be considered as toxic behavior.",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "clean",

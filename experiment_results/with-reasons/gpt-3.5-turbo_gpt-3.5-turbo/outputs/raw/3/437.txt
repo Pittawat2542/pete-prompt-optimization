@@ -1,7 +1,9 @@
 ```json
 {
-"message": "Fuck that champ",
-"reason": "The predicted category is 'toxic' because the message contains a profanity ('Fuck'). The model has likely classified it as toxic based on the presence of offensive language.",
-"predicted": "toxic"
+  "message": "Fuck that champ",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "Fuck that champ" contains offensive language, specifically the word "fuck", which is considered toxic and disrespectful. Therefore, the message is classified as toxic.

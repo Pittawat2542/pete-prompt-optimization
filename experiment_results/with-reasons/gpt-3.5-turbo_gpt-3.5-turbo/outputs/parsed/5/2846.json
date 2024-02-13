@@ -1,6 +1,6 @@
 {
   "message": "the hell was that",
-  "reason": "The message contains strong language ('hell') which can be considered toxic or offensive. The phrase 'the hell was that' also expresses frustration or anger, which contributes to the toxic tone of the message.",
+  "reason": "The message contains profanity ('hell') which is considered offensive and disrespectful. It can be classified as toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

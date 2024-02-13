@@ -1,6 +1,6 @@
 {
   "message": "like holy shit make it stop",
-  "reason": "The message contains profanity ('holy shit') which is considered toxic. The use of strong language indicates a negative and potentially offensive tone.",
+  "reason": "The message contains offensive language ('holy shit') and expresses frustration. It can be considered toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

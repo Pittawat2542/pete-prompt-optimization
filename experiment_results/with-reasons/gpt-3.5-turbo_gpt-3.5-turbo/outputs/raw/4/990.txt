@@ -1,7 +1,7 @@
 ```json
 {
-"message": "that harvesting shit mythic with gragas is insane tbh",
-"reason": "The message contains positive language and expresses excitement about a gameplay strategy. It does not contain any offensive or harmful content.",
-"predicted": "clean"
+  "message": "that harvesting shit mythic with gragas is insane tbh",
+  "reason": "The message contains slang and profanity ('shit') which can be considered toxic.",
+  "predicted": "toxic"
 }
 ```

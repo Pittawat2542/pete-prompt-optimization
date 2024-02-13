@@ -1,7 +1,7 @@
 ```json
 {
 "message": "Fuck off chat, that guy deserves to be banned for risking this channels life",
-"reason": "The message contains offensive language ('Fuck off') and expresses a negative sentiment towards another user ('that guy deserves to be banned'). This indicates a toxic behavior and a violation of community guidelines.",
+"reason": "The message contains offensive language and aggressive behavior, which is considered toxic.",
 "predicted": "toxic"
 }
 ```

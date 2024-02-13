@@ -1,7 +1,6 @@
 ```json
 {
-"message": "The only idiot is you.",
-"reason": "The text contains an offensive term ('idiot') which is likely to be classified as toxic.",
-"predicted": "toxic"
+  "message": "The only idiot is you.",
+  "reason": "The message contains an offensive term ('idiot'), which makes it toxic.",
+  "predicted": "toxic"
 }
-```

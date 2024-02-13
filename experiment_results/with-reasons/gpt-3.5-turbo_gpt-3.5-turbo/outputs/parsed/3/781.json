@@ -1,6 +1,6 @@
 {
   "message": "hes too smart",
-  "reason": "The text is classified as 'clean' because it does not contain any offensive or harmful language. The model has predicted it as 'clean' based on the absence of toxic keywords or patterns in the text.",
+  "reason": "The message does not contain any offensive or harmful language. It simply states that someone is too smart, which is not inherently toxic or offensive.",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

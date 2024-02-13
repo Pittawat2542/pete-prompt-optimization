@@ -1,7 +1,7 @@
 ```json
 {
-"message": "1G$",
-"reason": "The message contains a combination of alphanumeric characters and special characters, which is often associated with toxic or spam content. The presence of a special character ('$') suggests that the message may be attempting to promote or sell something, which is a common characteristic of toxic or spam messages.",
-"predicted": "toxic"
+  "message": "1G$",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

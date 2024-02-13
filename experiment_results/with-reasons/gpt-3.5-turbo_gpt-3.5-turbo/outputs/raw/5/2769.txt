@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@drsoils no need to be sorry, I liked it. LOL",
-"reason": "The message is classified as 'clean' because it contains positive sentiment ('I liked it') and the use of 'LOL' indicates humor or amusement. The absence of any offensive or toxic language supports the classification as 'clean'.",
-"predicted": "clean"
+  "message": "@drsoils no need to be sorry, I liked it. LOL",
+  "reason": "The message is friendly and positive, expressing enjoyment and amusement. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

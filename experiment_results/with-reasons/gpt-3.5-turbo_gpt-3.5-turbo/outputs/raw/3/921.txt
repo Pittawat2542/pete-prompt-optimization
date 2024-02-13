@@ -1,7 +1,9 @@
 ```json
 {
 "message": "Wiping shit WutFace",
-"reason": "The predicted category is 'toxic' because the text contains a vulgar term ('shit') which is likely to be considered offensive or inappropriate in most online communities.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message "Wiping shit WutFace" contains offensive language ("shit") which is considered toxic. Therefore, the message is classified as toxic.

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "PepeLaugh",
-"reason": "The predicted category is 'clean'. Although the message itself is a single word without any context, the predicted category is based on the fact that the 'clean' category is the default category when there is not enough information to confidently classify the text as 'toxic'.",
-"predicted": "clean"
+  "message": "PepeLaugh",
+  "reason": "The message 'PepeLaugh' does not contain any explicit or offensive language. It appears to be an emote or expression commonly used in online communities. Therefore, it can be classified as a clean message.",
+  "predicted": "clean"
 }
 ```

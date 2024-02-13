@@ -1,6 +1,6 @@
 {
   "message": "https://specs.gg/tgltn",
-  "reason": "The message is classified as 'clean' because it is a URL and does not contain any text that could be considered toxic.",
+  "reason": "The message does not contain any text or content to analyze, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",

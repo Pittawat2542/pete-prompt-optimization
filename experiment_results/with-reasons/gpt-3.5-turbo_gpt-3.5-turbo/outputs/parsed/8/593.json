@@ -1,6 +1,6 @@
 {
   "message": "5Head",
-  "reason": "The text '5Head' does not contain any offensive or toxic language. It appears to be a non-offensive term or phrase.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 8,
   "label": "clean",

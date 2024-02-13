@@ -1,6 +1,6 @@
 {
   "message": "!subs",
-  "reason": "The message '!subs' is a command used in online communities to request information about subscribing to a channel or newsletter. It does not contain any offensive or harmful language, and there is no indication of toxicity or any violation of community guidelines.",
+  "reason": "The message '!subs' does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",

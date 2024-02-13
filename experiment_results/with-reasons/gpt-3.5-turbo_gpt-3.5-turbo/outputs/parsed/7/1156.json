@@ -1,7 +1,7 @@
 {
   "message": "That\u00e2\u20ac\u2122s pretty pathetic. I stick with the One X I think. First time in my 30+ years of gaming that I haven\u00e2\u20ac\u2122t been excited for a next gen console.",
-  "reason": "The message contains negative sentiment and derogatory language, indicating a toxic tone.",
-  "predicted": "toxic",
+  "reason": "The message contains negative language and expresses disappointment, but it does not contain any offensive or harmful content. Therefore, it can be classified as clean.",
+  "predicted": "clean",
   "prompt_version": 7,
   "label": "clean",
   "model": "gpt-3.5-turbo"

@@ -1,6 +1,6 @@
 {
   "message": "https://specs.gg/tgltn",
-  "reason": "The given message is a URL and does not contain any text or context. Therefore, it cannot be classified as toxic or clean.",
+  "reason": "The message is a URL without any accompanying text or context. Without further information, it is difficult to determine the content of the link and whether it is toxic or clean.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "clean",

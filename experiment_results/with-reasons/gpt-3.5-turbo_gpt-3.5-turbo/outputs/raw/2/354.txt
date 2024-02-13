@@ -1,7 +1,5 @@
-```json
 {
-"message": "what the hell??",
-"reason": "The message contains a strong expletive, 'hell', which is considered offensive and inappropriate. This falls into the 'toxic' category.",
-"predicted": "toxic"
+  "message": "what the hell??",
+  "reason": "The message contains offensive language.",
+  "predicted": "toxic"
 }
-```

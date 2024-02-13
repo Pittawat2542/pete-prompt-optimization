@@ -1,7 +1,9 @@
 ```json
 {
-"message": "danucdPotato LUL",
-"reason": "The message contains the word 'Potato' which is not inherently toxic or offensive. The 'LUL' at the end indicates that the message is meant to be humorous or funny. Therefore, the message can be classified as clean.",
-"predicted": "clean"
+  "message": "danucdPotato LUL",
+  "reason": "clean",
+  "predicted": "clean"
 }
 ```
+
+The message "danucdPotato LUL" does not contain any offensive or harmful language. It appears to be a harmless comment or reaction in an online community. Therefore, it can be classified as "clean".

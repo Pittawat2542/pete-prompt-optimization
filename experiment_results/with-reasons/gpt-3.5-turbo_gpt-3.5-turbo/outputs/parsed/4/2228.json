@@ -1,7 +1,7 @@
 {
   "message": "that he's got none helmet",
-  "reason": "The predicted category is 'toxic' because the text contains a negative remark about someone not having a helmet. It is likely to be seen as offensive or disrespectful towards the person being referred to.",
-  "predicted": "toxic",
+  "reason": "The message does not contain any offensive or harmful language. It appears to be a grammatically incorrect sentence, but it does not exhibit any toxic behavior or intent.",
+  "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",
   "model": "gpt-3.5-turbo"

@@ -1,6 +1,6 @@
 {
   "message": "!hs",
-  "reason": "The message '!hs' does not contain any explicit toxic language or offensive content. It appears to be a command or request in an online community. Therefore, it can be classified as 'clean'.",
+  "reason": "The message consists of the text '!hs' which does not contain any offensive, harmful, or disrespectful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 7,
   "label": "clean",

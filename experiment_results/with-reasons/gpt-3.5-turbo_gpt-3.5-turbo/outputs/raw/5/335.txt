@@ -1,7 +1,7 @@
 ```json
 {
-"message": "where le fuck is psyops kayle",
-"reason": "The message contains offensive language ('fuck'), which indicates a toxic category.",
-"predicted": "toxic"
+  "message": "where le fuck is psyops kayle",
+  "reason": "The message contains offensive language ('fuck') which is considered toxic and inappropriate.",
+  "predicted": "toxic"
 }
 ```

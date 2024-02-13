@@ -1,7 +1,7 @@
 ```json
 {
-"message": "how do you play with such high ping",
-"reason": "The text does not contain any offensive or harmful language. It is a question about playing with high ping, which is a technical issue in online gaming.",
-"predicted": "clean"
+  "message": "how do you play with such high ping",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

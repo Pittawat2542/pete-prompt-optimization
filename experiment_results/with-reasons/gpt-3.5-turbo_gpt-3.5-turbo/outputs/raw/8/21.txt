@@ -1,7 +1,7 @@
 ```json
 {
-"message": "dont know why every game i get people like this on my team",
-"reason": "The text expresses frustration and annoyance towards the people the author encounters in their games. However, it does not contain any explicit toxic language or personal attacks. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "dont know why every game i get people like this on my team",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

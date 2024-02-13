@@ -1,7 +1,9 @@
 ```json
 {
 "message": "@hambinooo sorry for ruining your fun",
-"reason": "The message is classified as 'clean' because it shows remorse and an apology for ruining someone's fun. The use of the word 'sorry' indicates a polite and considerate tone, which is not characteristic of toxic behavior.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "@hambinooo sorry for ruining your fun" is classified as "clean" because it shows remorse and an apology for potentially spoiling someone's enjoyment. There is no evidence of any toxic or offensive language in the message.

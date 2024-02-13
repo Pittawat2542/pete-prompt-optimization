@@ -1,6 +1,6 @@
 {
   "message": "man i hate darius so much hes so stupid",
-  "reason": "The text contains negative sentiment and derogatory language towards a specific person, Darius. This indicates a toxic tone and falls into the 'toxic' category.",
+  "reason": "toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "clean",

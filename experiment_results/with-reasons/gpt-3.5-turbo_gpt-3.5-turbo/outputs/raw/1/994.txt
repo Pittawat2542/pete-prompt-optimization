@@ -1,7 +1,7 @@
 ```json
 {
   "message": "@der_bisang he can miss it, long cd, needs grit. camille? she doesn't give a shit, spam Q for 1k true dmg YEP",
-  "reason": "The message contains offensive language and derogatory remarks towards another player. The use of profanity and the disrespectful tone indicate a toxic behavior.",
+  "reason": "The message contains offensive language and derogatory terms ('doesn't give a shit'). It also promotes toxic behavior by encouraging spamming and boasting about high damage. Therefore, the message is classified as toxic.",
   "predicted": "toxic"
 }
 ```

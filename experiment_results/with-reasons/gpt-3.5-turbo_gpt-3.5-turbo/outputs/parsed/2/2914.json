@@ -1,6 +1,6 @@
 {
-  "message": "there are many cheaters in china",
-  "reason": "The message contains a negative statement about a group of people based on their nationality, which can be considered as a form of discrimination or hate speech. This falls into the 'toxic' category.",
+  "message": "There are many cheaters in China.",
+  "reason": "The message makes a generalization about a specific group of people, which can be considered derogatory and offensive.",
   "predicted": "toxic",
   "prompt_version": 2,
   "label": "toxic",

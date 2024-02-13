@@ -1,7 +1,7 @@
 ```json
 {
   "message": "!hs",
-  "reason": "The message '!hs' does not contain any offensive or harmful content. It appears to be a command or abbreviation used in the online community. Therefore, it can be classified as clean.",
+  "reason": "The message '!hs' does not contain any explicit or offensive language. It appears to be a random or incomplete message that does not convey any toxic content.",
   "predicted": "clean"
 }
 ```

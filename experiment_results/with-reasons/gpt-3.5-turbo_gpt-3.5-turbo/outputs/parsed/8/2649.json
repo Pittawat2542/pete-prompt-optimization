@@ -1,7 +1,7 @@
 {
   "message": "doooooo it",
-  "reason": "The text contains repeated characters, which is a common characteristic of toxic or offensive language. This suggests that the text may be toxic.",
-  "predicted": "toxic",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean",
   "prompt_version": 8,
   "label": "clean",
   "model": "gpt-3.5-turbo"

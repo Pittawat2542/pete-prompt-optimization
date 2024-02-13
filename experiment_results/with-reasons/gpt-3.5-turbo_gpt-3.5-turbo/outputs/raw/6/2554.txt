@@ -1,7 +1,6 @@
 ```json
 {
-"message": "centralia of the vibes",
-"reason": "The message does not contain any offensive or harmful language, and it does not seem to be intended to provoke or insult anyone. It appears to be a neutral statement or observation.",
-"predicted": "clean"
+  "message": "centralia of the vibes",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```

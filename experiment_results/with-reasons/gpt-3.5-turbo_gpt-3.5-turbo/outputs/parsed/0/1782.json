@@ -1,6 +1,6 @@
 {
   "message": "jd",
-  "reason": "The message consists of only two characters and does not provide any context or information. It is not possible to accurately classify it based on such limited content.",
+  "reason": "The message consists of only two characters, which makes it difficult to determine its intent or meaning.",
   "predicted": "clean",
   "prompt_version": 0,
   "label": "clean",

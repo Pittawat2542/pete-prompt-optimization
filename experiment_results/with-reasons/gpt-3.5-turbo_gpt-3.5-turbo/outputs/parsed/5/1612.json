@@ -1,6 +1,6 @@
 {
   "message": "danucdNo Fattttttiiiiiiiiiiiiiiiiiiiiiiii",
-  "reason": "The message contains derogatory language with excessive repetition. The word 'Fattttttiiiiiiiiiiiiiiiiiiiiiiii' is used to insult and demean someone based on their weight. This falls under the category of toxic behavior.",
+  "reason": "The message contains derogatory language and is used to insult someone based on their appearance. It is considered toxic and offensive.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "clean",

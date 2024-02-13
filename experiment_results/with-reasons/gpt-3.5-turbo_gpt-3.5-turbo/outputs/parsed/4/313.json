@@ -1,6 +1,6 @@
 {
   "message": "shit",
-  "reason": "The predicted category is 'toxic' because the word 'shit' is considered offensive and vulgar. It is likely to be classified as toxic based on the model's training data.",
+  "reason": "The message contains a profanity, which is offensive and vulgar.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

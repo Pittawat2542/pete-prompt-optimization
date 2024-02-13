@@ -1,7 +1,7 @@
 {
   "message": "@ty_gets_rekt eleven10Gooba eleven10Gooba eleven10Gooba",
-  "reason": "The message contains repetitive and nonsensical words, which could be considered as spam or trolling behavior. This indicates a toxic message.",
-  "predicted": "toxic",
+  "reason": "The message consists of repeated gibberish and does not convey any meaningful content.",
+  "predicted": "clean",
   "prompt_version": 2,
   "label": "clean",
   "model": "gpt-3.5-turbo"

@@ -1,6 +1,6 @@
 {
   "message": "cause im an idiot lol",
-  "reason": "The message is classified as 'clean'. Although the user refers to themselves as an 'idiot', the use of 'lol' indicates that the statement is meant to be lighthearted and not intended to harm or offend anyone. Additionally, the message does not contain any explicit or offensive language.",
+  "reason": "The message contains self-deprecating language, but it is not offensive or harmful towards others. It can be considered as a light-hearted comment.",
   "predicted": "clean",
   "prompt_version": 5,
   "label": "toxic",

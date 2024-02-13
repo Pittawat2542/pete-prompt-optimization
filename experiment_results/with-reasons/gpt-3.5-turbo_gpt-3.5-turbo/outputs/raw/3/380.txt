@@ -1,7 +1,9 @@
 ```json
 {
 "message": "played like shit",
-"reason": "The text contains offensive language ('shit'), which is likely to be classified as toxic.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message "played like shit" is classified as toxic because it contains offensive language.

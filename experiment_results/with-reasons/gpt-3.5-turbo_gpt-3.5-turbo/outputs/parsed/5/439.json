@@ -1,6 +1,6 @@
 {
   "message": "screw that shit",
-  "reason": "The message contains profanity ('shit') which is considered toxic and offensive. The use of such language can create a negative and hostile environment in the online community.",
+  "reason": "The message contains offensive language and is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

@@ -1,9 +1,0 @@
-Prediction result: The model predicts this message as "clean" with a 98% confidence score.
-
-```json
-{
-"message": "@Adooool18 Thanks for the gift sub! soggyWow brkSmaK soggyWow brkSmaK soggyPog brkTSM",
-"reason": "The message is a positive interaction between users in the online community, expressing gratitude for a gift subscription. There are no offensive or harmful words used.",
-"predicted": "clean"
-}
-```

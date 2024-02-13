@@ -1,7 +1,0 @@
-```json
-{
-"message": "And wtf are u a winrate friend? Who gives a fuck",
-"reason": "The message contains explicit language and aggressive tone, which is indicative of a toxic behavior in an online community.",
-"predicted": "toxic"
-}
-```

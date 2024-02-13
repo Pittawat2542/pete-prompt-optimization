@@ -1,7 +1,7 @@
 ```json
 {
-"message": "too E Z",
-"reason": "The message contains a common toxic phrase 'E Z', which is often used to taunt or belittle others. This phrase is frequently associated with toxic behavior in online communities.",
-"predicted": "toxic"
+  "message": "too E Z",
+  "reason": "The message contains a phrase that is commonly used in online gaming to taunt or belittle opponents. This can be seen as disrespectful and offensive, making the message toxic.",
+  "predicted": "toxic"
 }
 ```

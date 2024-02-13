@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be non-toxic with a 99% probability.
-
-```json
-{
-"message": "TOP 0.1% popularity 33.3% win rate",
-"reason": "The message is simply stating a fact or statistic about a game or player's performance. It does not contain any offensive or harmful content.",
-"predicted": "clean"
-}
-```

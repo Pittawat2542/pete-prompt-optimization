@@ -1,7 +1,7 @@
 ```json
 {
-"message": "got a song for you @ibiza",
-"reason": "The message does not contain any offensive or harmful language. It is a simple statement offering a song to someone. There is no indication of toxicity or any violation of community guidelines.",
-"predicted": "clean"
+  "message": "got a song for you @ibiza",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

@@ -1,6 +1,6 @@
 {
   "message": "im stupid hbu?\u00f0\u0178\u2122\u2021",
-  "reason": "The message contains the word 'stupid', which is considered derogatory and offensive. This indicates that the message is toxic.",
+  "reason": "The message contains self-deprecating language ('im stupid') which can be considered toxic and harmful to one's self-esteem.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

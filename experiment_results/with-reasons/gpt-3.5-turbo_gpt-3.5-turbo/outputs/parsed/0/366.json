@@ -1,6 +1,6 @@
 {
   "message": "stupid morgana players",
-  "reason": "The message contains an insult towards a specific group of players.",
+  "reason": "This message includes the word 'stupid' which expresses a negative sentiment towards Morgana players.",
   "predicted": "toxic",
   "prompt_version": 0,
   "label": "toxic",

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Wtf thats stupidðŸ˜‚ðŸ˜‚",
-"reason": "The message contains the abbreviation 'Wtf' which is commonly used as an acronym for 'What the f***'. This indicates that the message is expressing frustration or disbelief. Additionally, the use of multiple laughing emojis 'ðŸ˜‚ðŸ˜‚' suggests that the message is intended to be sarcastic or mocking. These elements contribute to a toxic tone in the message.",
-"predicted": "toxic"
+  "message": "Wtf thats stupidðŸ˜‚ðŸ˜‚",
+  "reason": "The message contains offensive language (Wtf) and emojis (ðŸ˜‚ðŸ˜‚) that indicate a negative and disrespectful tone. It is considered toxic and offensive.",
+  "predicted": "toxic"
 }
 ```

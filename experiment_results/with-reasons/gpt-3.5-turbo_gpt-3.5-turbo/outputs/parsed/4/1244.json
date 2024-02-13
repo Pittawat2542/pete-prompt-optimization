@@ -1,6 +1,6 @@
 {
   "message": "white_medium_star:\u0001",
-  "reason": "The message does not contain any text or meaningful content. It appears to be a non-toxic or clean message.",
+  "reason": "The message consists of an emoji and a special character, which does not convey any meaningful information or context. Therefore, it can be considered as a clean message.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

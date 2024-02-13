@@ -1,7 +1,42 @@
+New Prompt:
+Classify the following "Message" from chat in an online community into one of the specified categories, "toxic" or "clean". Provide a reason for the classification in the specified JSON format. Include the prediction result, which is not present in the original prompt. Utilize this information to design a new prompt without changing the output format.
+
+Message: "white_medium_star:"
+
+### Examples:
+
+#### Example 1:
+Message: "You are so stupid!"
+
+Output format:
+```json
+{
+"message": "You are so stupid!",
+"reason": "The message contains offensive language and is derogatory.",
+"predicted": "toxic"
+}
+```
+
+#### Example 2:
+Message: "Thanks for helping out!"
+
+Output format:
+```json
+{
+"message": "Thanks for helping out!",
+"reason": "The message expresses gratitude and positivity.",
+"predicted": "clean"
+}
+```
+
+#### Example 3:
+Message: "white_medium_star:"
+
+Output format:
 ```json
 {
 "message": "white_medium_star:",
-"reason": "The message consists of an emoji code 'white_medium_star:', which does not contain any toxic or offensive content.",
+"reason": "The message is a non-linguistic character or symbol and does not convey any meaning.",
 "predicted": "clean"
 }
 ```

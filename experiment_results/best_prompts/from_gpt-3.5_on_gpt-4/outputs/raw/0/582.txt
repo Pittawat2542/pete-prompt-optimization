@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message as "clean" with a 98% confidence score.
-
-```json
-{
-"message": "YOU'RE SO GOOD",
-"reason": "The message is a compliment and does not contain any offensive or harmful language. The model predicts it as 'clean' with a high confidence score of 98%.",
-"predicted": "clean"
-}
-```

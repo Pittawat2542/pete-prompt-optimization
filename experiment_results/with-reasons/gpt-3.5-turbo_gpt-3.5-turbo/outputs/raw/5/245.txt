@@ -1,7 +1,6 @@
 ```json
 {
-"message": "oh fuck i got one of those omnistone bards in my ranked game",
-"reason": "The message contains profanity ('fuck'), which is considered toxic. Additionally, the user expresses frustration and negativity towards having an 'omnistone bard' in their ranked game. This negative attitude towards a teammate can contribute to a toxic environment.",
-"predicted": "toxic"
+  "message": "oh fuck i got one of those omnistone bards in my ranked game",
+  "reason": "The message contains offensive language ('fuck') and expresses frustration towards a teammate ('one of those omnistone bards'). It can be considered toxic.",
+  "predicted": "toxic"
 }
-```

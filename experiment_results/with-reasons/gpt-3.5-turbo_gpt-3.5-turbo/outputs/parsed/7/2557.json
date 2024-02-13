@@ -1,6 +1,6 @@
 {
   "message": "What up hamily hambO7 hambO7",
-  "reason": "The message contains a combination of words and characters that do not appear to be toxic or offensive. The presence of repeated characters ('hambO7 hambO7') does not necessarily indicate toxicity. Additionally, the absence of any offensive language or negative sentiment in the message suggests that it is clean.",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 7,
   "label": "clean",

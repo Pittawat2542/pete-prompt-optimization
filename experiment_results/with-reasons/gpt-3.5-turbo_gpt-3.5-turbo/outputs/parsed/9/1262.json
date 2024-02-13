@@ -1,6 +1,6 @@
 {
   "message": "hey",
-  "reason": "The message consists of a simple greeting and does not contain any offensive or harmful language.",
+  "reason": "The message is a simple greeting and does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",

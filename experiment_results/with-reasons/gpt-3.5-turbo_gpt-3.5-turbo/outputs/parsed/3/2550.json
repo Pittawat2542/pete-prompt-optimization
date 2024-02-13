@@ -1,6 +1,6 @@
 {
   "message": "hamb10 hamb10",
-  "reason": "The message does not contain any explicit or offensive language. It appears to be a random string of characters or a username. Therefore, it can be classified as clean.",
+  "reason": "clean",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

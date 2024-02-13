@@ -1,6 +1,6 @@
 {
   "message": "Good shit",
-  "reason": "The message contains a positive adjective followed by a slang term. Although the term 'shit' may be considered vulgar in some contexts, in this case, it is used to express approval or excitement. Therefore, the message is classified as clean.",
+  "reason": "The message contains a positive phrase, 'Good shit', which is commonly used to express approval or satisfaction. It does not contain any offensive or harmful language. Therefore, it can be classified as 'clean'.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "toxic",

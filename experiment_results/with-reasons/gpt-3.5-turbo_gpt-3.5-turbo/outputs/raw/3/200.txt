@@ -1,7 +1,9 @@
 ```json
 {
 "message": "how do i get these fucking things off my recommended",
-"reason": "The message contains offensive language ('fucking') which indicates a toxic tone. This is consistent with the predicted category of 'toxic'.",
+"reason": "toxic language",
 "predicted": "toxic"
 }
 ```
+
+The message contains offensive language ("fucking"), which is considered toxic. Therefore, the message is classified as "toxic".

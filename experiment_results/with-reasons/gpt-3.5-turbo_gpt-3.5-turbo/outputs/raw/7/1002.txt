@@ -1,7 +1,7 @@
 ```json
 {
-"message": "so its not the fucking card",
-"reason": "The message contains offensive language ('fucking'), which classifies it as toxic.",
-"predicted": "toxic"
+  "message": "so its not the fucking card",
+  "reason": "The message contains offensive language, specifically the use of the word 'fucking', which makes it toxic.",
+  "predicted": "toxic"
 }
 ```

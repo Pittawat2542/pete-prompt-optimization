@@ -1,8 +1,0 @@
-{
-  "message": "Wiping shit WutFace",
-  "reason": "The message contains a vulgar term which can be considered offensive or inappropriate in a community setting.",
-  "predicted": "toxic",
-  "prompt_version": 0,
-  "label": "toxic",
-  "model": "gpt-4"
-}

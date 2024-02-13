@@ -1,7 +1,7 @@
 ```json
 {
-"message": "here I just an administrator up my ass",
-"reason": "The predicted category is 'toxic'. The phrase 'up my ass' is a vulgar and offensive expression, which is likely to be considered toxic in an online community.",
-"predicted": "toxic"
+  "message": "here I just an administrator up my ass",
+  "reason": "The message contains offensive language and is disrespectful towards the administrator.",
+  "predicted": "toxic"
 }
 ```

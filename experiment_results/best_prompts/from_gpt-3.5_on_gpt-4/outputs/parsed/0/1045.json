@@ -1,8 +1,0 @@
-{
-  "message": "oh crap ruby u awake ??",
-  "reason": "The model predicts the message to be clean with a 95% confidence. The language used, although informal, does not contain any offensive or harmful content.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "toxic",
-  "model": "gpt-4"
-}

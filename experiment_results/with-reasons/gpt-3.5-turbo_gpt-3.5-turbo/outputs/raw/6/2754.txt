@@ -1,7 +1,7 @@
 ```json
 {
-"message": "too E Z",
-"reason": "The message contains a short and simple phrase that is commonly used in online gaming to taunt or mock opponents. This type of language is often considered toxic and disrespectful.",
-"predicted": "toxic"
+  "message": "too E Z",
+  "reason": "The message contains a derogatory term ('E Z'), which can be considered offensive and disrespectful. Therefore, it is classified as toxic.",
+  "predicted": "toxic"
 }
 ```

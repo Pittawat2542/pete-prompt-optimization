@@ -1,6 +1,6 @@
 {
   "message": "im stupid hbu?\u00f0\u0178\u2122\u2021",
-  "reason": "The message contains a self-deprecating statement and an abbreviation that could be interpreted as a negative emotion. This indicates a negative tone and potentially toxic behavior.",
+  "reason": "The message contains a derogatory term ('stupid') which can be considered offensive and toxic. The use of such language can contribute to a negative and harmful online environment.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

@@ -1,6 +1,6 @@
 {
   "message": "rawryyLaugh @cinnova",
-  "reason": "The message does not contain any offensive or harmful language. It is a simple mention or interaction between users.",
+  "reason": "The message contains a username mention and an emoji, indicating a playful and friendly interaction.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "clean",

@@ -1,6 +1,6 @@
 {
   "message": "it was the evelynn game, he even stole my fucking champ",
-  "reason": "The use of profanity and the expression of frustration indicate a negative and toxic tone in the message.",
+  "reason": "The message contains offensive language ('fucking') and expresses frustration and anger ('he even stole my fucking champ'). This indicates a toxic tone.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

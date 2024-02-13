@@ -1,7 +1,11 @@
 ```json
 {
-"message": "RT @PeterXinping: If You Want To Get Girls You Should Just Be Yourself! \n\nUnless Youâ€™re 5â€™8, No Muscles, 3000 Hours League Of Legends, Twitâ€¦",
-"reason": "The message contains derogatory language and negative stereotypes about physical appearance and interests. It implies that individuals who are 5'8, have no muscles, and spend a significant amount of time playing League of Legends and tweeting are undesirable and unable to attract girls. This promotes a toxic and judgmental attitude towards others based on their physical attributes and hobbies.",
+"message": "RT @PeterXinping: If You Want To Get Girls You Should Just Be Yourself! 
+
+Unless Youâ€™re 5â€™8, No Muscles, 3000 Hours League Of Legends, Twitâ€¦",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message is classified as "toxic" because it contains derogatory remarks about physical appearance and implies a negative attitude towards individuals who spend a significant amount of time playing video games and using social media.

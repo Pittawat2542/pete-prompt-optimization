@@ -1,6 +1,6 @@
 {
   "message": "FUCKING HELL",
-  "reason": "The message contains offensive language, specifically the use of profanity.",
+  "reason": "The message contains offensive language, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 6,
   "label": "toxic",

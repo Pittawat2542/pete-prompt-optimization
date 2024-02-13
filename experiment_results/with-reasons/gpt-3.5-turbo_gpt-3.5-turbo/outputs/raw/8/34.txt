@@ -1,7 +1,6 @@
 ```json
 {
-"message": "laners dying even with vision ðŸ¤¡",
-"reason": "The text contains a negative sentiment and expresses frustration or disbelief about laners dying despite having vision. This indicates a toxic category.",
-"predicted": "toxic"
+  "message": "laners dying even with vision ðŸ¤¡",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```

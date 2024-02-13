@@ -1,7 +1,7 @@
 ```json
 {
-"message": "DD",
-"reason": "The message 'DD' does not provide enough information to determine its toxicity. Without any context or content, it is not possible to classify it as toxic or clean.",
-"predicted": "clean"
+  "message": "DD",
+  "reason": "The message consists of two letters without any context or meaning. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "you W'd there because you were anticipating flash 4Head",
-"reason": "The text contains a sarcastic remark with the use of '4Head', which is a Twitch emote often used to indicate sarcasm or mockery. This indicates that the text is not intended to be toxic or offensive, but rather a playful comment.",
-"predicted": "clean"
+  "message": "you W'd there because you were anticipating flash 4Head",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

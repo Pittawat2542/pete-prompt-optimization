@@ -1,6 +1,6 @@
 {
   "message": "so he decided its my fault and wanted to ruin everyons game",
-  "reason": "The message contains negative sentiment and expresses blame towards someone, indicating a toxic behavior. The word 'ruin' suggests an intention to harm or disrupt the game, further supporting the toxic classification.",
+  "reason": "toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

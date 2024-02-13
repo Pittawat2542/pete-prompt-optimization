@@ -1,7 +1,9 @@
 ```json
 {
-"message": "@escamoli yeah",
-"reason": "The message does not contain any offensive or harmful language. It is a simple response to another user's comment.",
-"predicted": "clean"
+  "message": "@escamoli yeah",
+  "reason": "clean",
+  "predicted": "clean"
 }
 ```
+
+The message "@escamoli yeah" is classified as "clean" because it does not contain any offensive or harmful language. It is a simple response acknowledging the previous message.

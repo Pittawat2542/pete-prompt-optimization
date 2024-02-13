@@ -1,7 +1,7 @@
 ```json
 {
 "message": "in a Payload game the other day one of the randoms started shooting grens at me",
-"reason": "The message does not contain any offensive or harmful language. It describes an incident in a game where someone started shooting grenades at the author. This does not fall into the 'toxic' category as it does not involve any toxic behavior or language.",
-"predicted": "clean"
+"reason": "The message describes a situation in an online game where one of the players started shooting grenades at the author. Although the message does not contain any explicit toxic language, the action of shooting grenades at someone can be considered disruptive and potentially harmful in the game. Therefore, the message can be classified as toxic.",
+"predicted": "toxic"
 }
 ```

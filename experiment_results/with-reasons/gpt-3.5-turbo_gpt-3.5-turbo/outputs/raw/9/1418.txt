@@ -1,7 +1,7 @@
 ```json
 {
-"message": "ooo we get a chickirhinooooo",
-"reason": "The message does not contain any offensive or harmful language. It appears to be a playful and harmless comment.",
-"predicted": "clean"
+  "message": "ooo we get a chickirhinooooo",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

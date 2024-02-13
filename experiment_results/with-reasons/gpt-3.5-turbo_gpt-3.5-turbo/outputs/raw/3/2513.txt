@@ -1,7 +1,9 @@
 ```json
 {
-"message": "winking_face:",
-"reason": "The message is classified as 'clean' because it consists of a single emoji, which does not contain any explicit or offensive content.",
-"predicted": "clean"
+  "message": "winking_face:",
+  "reason": "clean",
+  "predicted": "clean"
 }
 ```
+
+The message "winking_face:" is classified as "clean" because it is a simple emoticon representing a winking face. It does not contain any offensive or harmful content.

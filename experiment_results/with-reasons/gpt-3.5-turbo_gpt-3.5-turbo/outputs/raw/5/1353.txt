@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@xDEEDAN bot danucdDanu2",
-"reason": "The message does not contain any explicit toxic language or harmful content. It appears to be a mention of a bot and a user's username. Therefore, it can be classified as clean.",
-"predicted": "clean"
+  "message": "@xDEEDAN bot danucdDanu2",
+  "reason": "The message contains a combination of usernames and the word 'bot', which suggests that it may be related to automated or spam content. It is difficult to determine the exact intent of the message, but it does not appear to be toxic or offensive.",
+  "predicted": "clean"
 }
 ```

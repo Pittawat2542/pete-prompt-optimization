@@ -1,7 +1,5 @@
-```json
 {
-"message": "This is a great community! Everyone is so helpful and supportive.",
-"reason": "The message is positive and expresses appreciation for the community. There is no offensive or harmful language used.",
-"predicted": "clean"
+"message": "You are so stupid!",
+"reason": "The message contains offensive language and is derogatory.",
+"predicted": "toxic"
 }
-```

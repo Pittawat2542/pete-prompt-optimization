@@ -1,6 +1,6 @@
 {
   "message": "Like Hell Do I Care.",
-  "reason": "The text is classified as toxic because it contains strong negative sentiment and aggressive language.",
+  "reason": "The message contains strong language and a dismissive tone, indicating a lack of concern or empathy.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

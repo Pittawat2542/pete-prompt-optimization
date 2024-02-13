@@ -1,6 +1,6 @@
 {
   "message": "white_medium_star:\u0001",
-  "reason": "The text 'white_medium_star:\u0001' does not contain any meaningful words or context, making it difficult to determine its category.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 8,
   "label": "clean",

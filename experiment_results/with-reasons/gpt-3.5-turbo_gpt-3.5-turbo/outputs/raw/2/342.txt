@@ -1,7 +1,5 @@
-```json
 {
-"message": "> who the FUCK plays asol i BAN aury sol",
-"reason": "The message contains offensive language ('FUCK') and is aggressive in tone. It shows a negative attitude towards the champion Aurelion Sol ('aury sol') and expresses a desire to ban him. This aggressive and negative language classifies the message as toxic.",
+"message": "who the FUCK plays asol i BAN aury sol",
+"reason": "The message contains offensive language and is derogatory.",
 "predicted": "toxic"
 }
-```

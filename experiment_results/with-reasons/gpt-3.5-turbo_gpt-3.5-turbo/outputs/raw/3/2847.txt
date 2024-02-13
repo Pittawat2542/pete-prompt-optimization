@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Shootin the shit smokin sum herb",
-"reason": "The predicted category is 'toxic'. The text contains offensive language ('shootin the shit') and references drug use ('smokin sum herb'), which are indicators of toxic behavior.",
-"predicted": "toxic"
+  "message": "Shootin the shit smokin sum herb",
+  "reason": "The message contains slang and informal language that may be considered offensive or inappropriate in some contexts.",
+  "predicted": "toxic"
 }
 ```

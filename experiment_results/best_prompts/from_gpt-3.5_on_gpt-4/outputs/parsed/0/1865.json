@@ -1,8 +1,0 @@
-{
-  "message": "faxGG faxGG faxGG",
-  "reason": "The message consists of repeated non-offensive words, and the model predicts it to be non-toxic with a 99% probability.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

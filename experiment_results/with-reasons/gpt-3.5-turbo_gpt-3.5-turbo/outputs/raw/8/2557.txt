@@ -1,7 +1,6 @@
 ```json
 {
-"message": "What up hamily hambO7 hambO7",
-"reason": "The text contains a combination of words and characters that do not appear to be toxic or offensive. The predicted category is 'clean'.",
-"predicted": "clean"
+  "message": "What up hamily hambO7 hambO7",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```

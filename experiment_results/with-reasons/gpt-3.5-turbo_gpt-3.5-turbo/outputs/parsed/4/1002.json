@@ -1,6 +1,6 @@
 {
   "message": "so its not the fucking card",
-  "reason": "The message contains offensive language ('fucking'), which is a characteristic of toxic content.",
+  "reason": "The message contains offensive language ('fucking'), which is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

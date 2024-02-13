@@ -1,7 +1,9 @@
 ```json
 {
-"message": "They suck",
-"reason": "The text falls into the 'toxic' category because the model predicted a high probability of toxicity. The word 'suck' is often used in a negative and derogatory manner, which indicates a negative sentiment and potentially offensive language.",
-"predicted": "toxic"
+  "message": "They suck",
+  "reason": "Toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "They suck" is classified as toxic because it contains a derogatory term ("suck") which is generally considered offensive and disrespectful.

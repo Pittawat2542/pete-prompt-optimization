@@ -1,7 +1,7 @@
 ```json
 {
-"message": "oh shit man... great stuff!",
-"reason": "The message contains a profanity ('shit'), which is typically considered toxic. However, the overall sentiment of the message is positive ('great stuff'), indicating that the intention behind the profanity might not be malicious. Therefore, the message can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "oh shit man... great stuff!",
+  "reason": "The message contains a mild profanity ('shit'), but it is used in a positive context ('great stuff'). Overall, the message is not offensive or harmful.",
+  "predicted": "clean"
 }
 ```

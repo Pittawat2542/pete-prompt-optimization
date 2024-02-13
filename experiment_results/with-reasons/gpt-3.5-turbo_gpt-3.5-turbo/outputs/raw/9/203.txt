@@ -1,7 +1,7 @@
 ```json
 {
-"message": "YEAH U WERE RIGHT BITCH JUST THE OTHER JUNGLER",
-"reason": "The message contains offensive language ('bitch') which is indicative of toxic behavior.",
-"predicted": "toxic"
+  "message": "YEAH U WERE RIGHT BITCH JUST THE OTHER JUNGLER",
+  "reason": "The message contains offensive language and derogatory terms, which makes it toxic.",
+  "predicted": "toxic"
 }
 ```

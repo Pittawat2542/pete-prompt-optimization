@@ -1,6 +1,6 @@
 {
   "message": "> Fuck, I just died by the twitch. look at death recap",
-  "reason": "The message contains offensive language ('Fuck'), which indicates a toxic category.",
+  "reason": "The message contains offensive language, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 6,
   "label": "toxic",

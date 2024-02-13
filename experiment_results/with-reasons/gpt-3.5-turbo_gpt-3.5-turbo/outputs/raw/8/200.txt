@@ -1,7 +1,7 @@
 ```json
 {
-"message": "how do i get these fucking things off my recommended",
-"reason": "The text contains offensive language ('fucking'), which indicates a toxic tone.",
-"predicted": "toxic"
+  "message": "how do i get these fucking things off my recommended",
+  "reason": "The message contains offensive language, which makes it toxic.",
+  "predicted": "toxic"
 }
 ```

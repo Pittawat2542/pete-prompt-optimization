@@ -1,7 +1,9 @@
 ```json
 {
 "message": "@Scoom danucdRespect mitKalp",
-"reason": "The message does not contain any toxic or offensive language. It appears to be a positive message showing respect and appreciation towards the mentioned individuals.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "@Scoom danucdRespect mitKalp" does not contain any offensive or harmful language. It appears to be a positive message showing respect or admiration towards someone. Therefore, it can be classified as "clean".

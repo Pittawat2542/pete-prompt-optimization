@@ -1,7 +1,7 @@
 {
-  "message": "Scrims at 1900 CET to be streamed at (stream: tba)",
-  "reason": "The message does not contain any offensive or harmful language, and it appears to be a simple announcement about scrims being streamed. Therefore, it can be classified as clean.",
-  "predicted": "clean",
+  "message": "You are so stupid!",
+  "reason": "The message contains offensive language and is derogatory.",
+  "predicted": "toxic",
   "prompt_version": 2,
   "label": "clean",
   "model": "gpt-3.5-turbo"

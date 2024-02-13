@@ -1,9 +1,0 @@
-Since the "Prediction result" section is not provided, I'll make an assumption based on the given message.
-
-```json
-{
-"message": "PeepoWeen",
-"reason": "The message is a combination of two words, 'Peepo' and 'Ween', which are not offensive or harmful. It seems to be a playful or casual term used in the online community, possibly related to a specific context or event.",
-"predicted": "clean"
-}
-```

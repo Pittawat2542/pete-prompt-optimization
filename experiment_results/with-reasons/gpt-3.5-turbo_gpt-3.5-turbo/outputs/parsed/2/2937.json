@@ -1,6 +1,6 @@
 {
   "message": "but it sucks that we dont have enough player to do that now @hambinooo",
-  "reason": "The message does not contain any offensive or harmful language. It expresses disappointment about the lack of players to participate in an activity.",
+  "reason": "The message expresses disappointment but does not contain offensive language or derogatory remarks.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "toxic",

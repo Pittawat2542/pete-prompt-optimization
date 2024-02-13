@@ -1,7 +1,6 @@
 ```json
 {
-"message": "LUL LUL LUL LUL LUL LUL LUL LUL",
-"reason": "The message is classified as 'clean' because it consists of repeated laughter ('LUL'), which is not considered toxic or offensive.",
-"predicted": "clean"
+  "message": "LUL LUL LUL LUL LUL LUL LUL LUL",
+  "reason": "The message consists of repeated laughter, which does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```

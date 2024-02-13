@@ -1,7 +1,7 @@
 ```json
 {
   "message": "the best",
-  "reason": "The message does not contain any offensive or harmful language. It is a positive statement that does not attack or insult anyone.",
+  "reason": "The message 'the best' does not contain any offensive or harmful language. It is a positive statement that does not attack or harm anyone. Therefore, it can be classified as 'clean'.",
   "predicted": "clean"
 }
 ```

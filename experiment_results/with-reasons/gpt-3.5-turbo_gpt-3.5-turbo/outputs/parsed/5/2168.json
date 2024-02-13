@@ -1,6 +1,6 @@
 {
   "message": "shes a girl...DAAAA",
-  "reason": "The message contains an exclamation mark and the word 'DAAAA', which indicates a strong and potentially aggressive tone. This suggests that the message may be toxic.",
+  "reason": "The message contains an exclamation mark and capital letters, which may indicate excitement or emphasis. However, the use of multiple capital letters and the ellipsis may suggest a mocking or derogatory tone. The message also refers to someone's gender, which could be seen as objectifying or disrespectful.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "clean",

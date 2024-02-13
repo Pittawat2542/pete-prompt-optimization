@@ -1,6 +1,6 @@
 {
   "message": "@mfyntz tgl5Head",
-  "reason": "The message does not contain any explicit toxic language or offensive content. It appears to be a random combination of characters and does not convey any meaningful information.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 6,
   "label": "clean",

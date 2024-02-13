@@ -1,9 +1,0 @@
-Since the "Prediction result" section is not provided, I'll make an assumption for the classification.
-
-```json
-{
-"message": "DD",
-"reason": "The message 'DD' does not contain any offensive, disrespectful or inappropriate language. It seems to be a neutral term or abbreviation.",
-"predicted": "clean"
-}
-```

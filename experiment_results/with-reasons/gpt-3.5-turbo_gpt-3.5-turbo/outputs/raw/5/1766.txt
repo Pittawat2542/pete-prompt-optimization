@@ -1,7 +1,7 @@
 ```json
 {
-"message": "hello and bye @melihozkiremitci",
-"reason": "The message does not contain any offensive or harmful language. It is a simple greeting and farewell message with a mention of a user. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "hello and bye @melihozkiremitci",
+  "reason": "The message is a simple greeting and farewell, without any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

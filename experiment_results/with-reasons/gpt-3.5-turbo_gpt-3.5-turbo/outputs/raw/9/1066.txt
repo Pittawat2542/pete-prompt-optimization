@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Hell nahh",
-"reason": "The message contains a negative sentiment and uses informal language. The word 'nahh' is a slang term for 'no'. This type of language is often associated with toxic behavior.",
-"predicted": "toxic"
+  "message": "Hell nahh",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

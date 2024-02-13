@@ -1,7 +1,7 @@
 {
   "message": "Who else hate their life?",
-  "reason": "The message expresses negative emotions and indicates a dislike for one's own life. This suggests a negative and potentially toxic sentiment.",
-  "predicted": "toxic",
+  "reason": "The message expresses a negative sentiment and suggests that the person is unhappy with their life. It may be seen as a cry for help or a sign of emotional distress. Although it is not explicitly toxic or offensive, it indicates a negative mindset and could potentially be triggering for others.",
+  "predicted": "clean",
   "prompt_version": 5,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

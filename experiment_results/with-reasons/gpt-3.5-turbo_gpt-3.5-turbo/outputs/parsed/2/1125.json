@@ -1,7 +1,7 @@
 {
-  "message": "No solo ranked in SEA DED",
-  "reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It is a simple statement about the absence of solo ranked games in the SEA DED community.",
-  "predicted": "clean",
+  "message": "You are so stupid!",
+  "reason": "The message contains offensive language and is derogatory.",
+  "predicted": "toxic",
   "prompt_version": 2,
   "label": "clean",
   "model": "gpt-3.5-turbo"

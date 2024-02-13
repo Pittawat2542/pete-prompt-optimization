@@ -1,6 +1,6 @@
 {
   "message": "Obligatory \"fuck Udyr\"",
-  "reason": "The message contains offensive language, specifically the word 'fuck', which is considered toxic and disrespectful.",
+  "reason": "The message contains offensive language, specifically the word \"fuck\". This language is considered toxic and disrespectful.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

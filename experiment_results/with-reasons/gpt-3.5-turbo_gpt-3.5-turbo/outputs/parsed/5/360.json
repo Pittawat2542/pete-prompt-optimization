@@ -1,6 +1,6 @@
 {
   "message": "absolute fucking bullshit",
-  "reason": "The message contains strong profanity, which is indicative of toxic language. The use of the word 'bullshit' is derogatory and offensive, contributing to a toxic atmosphere.",
+  "reason": "The message contains offensive language and is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

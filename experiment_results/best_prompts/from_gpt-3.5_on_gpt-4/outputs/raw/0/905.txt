@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message to be "toxic" with a probability of 0.85.
-
-```json
-{
-"message": "HOLY SHIT karthus busted KEKW",
-"reason": "The model classified the message as toxic due to the use of strong language.",
-"predicted": "toxic"
-}
-```

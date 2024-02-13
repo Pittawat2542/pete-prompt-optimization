@@ -1,7 +1,9 @@
 ```json
 {
 "message": "MsRoselyn nairidHerz nairidHerz danucdHi parunaHi",
-"reason": "The message does not contain any explicit or offensive language. It appears to be a series of usernames or greetings, which does not indicate any toxic behavior.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message consists of a series of usernames and greetings, which do not contain any offensive or harmful content. Therefore, it can be classified as "clean".

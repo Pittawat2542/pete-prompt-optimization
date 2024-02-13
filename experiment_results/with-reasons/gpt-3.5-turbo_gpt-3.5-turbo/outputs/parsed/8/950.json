@@ -1,6 +1,6 @@
 {
   "message": "smd = shake my dick?",
-  "reason": "The text contains a sexually explicit term, which is considered toxic and inappropriate.",
+  "reason": "The message contains offensive and disrespectful content, as it uses explicit language.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

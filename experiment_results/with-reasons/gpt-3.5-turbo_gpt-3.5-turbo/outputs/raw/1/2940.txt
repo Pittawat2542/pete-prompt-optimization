@@ -1,7 +1,7 @@
 ```json
 {
   "message": "damnnn",
-  "reason": "The message contains slang and multiple 'n' letters, which could indicate excitement or surprise. However, without any additional context, it is difficult to determine if the message is intended to be toxic or not.",
+  "reason": "The message consists of a single word with multiple 'n's, which suggests a strong emotional reaction. However, without any additional context, it is difficult to determine the exact intent or tone of the message. Therefore, the message is classified as 'clean' as it does not contain any explicit toxic or offensive language.",
   "predicted": "clean"
 }
 ```

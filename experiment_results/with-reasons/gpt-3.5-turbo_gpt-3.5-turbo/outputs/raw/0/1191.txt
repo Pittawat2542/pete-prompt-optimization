@@ -2,6 +2,6 @@
 {
 "message": "Still waitin for update on xbox I'm buying on pc next week annoyed lol",
 "reason": "The message expresses frustration and annoyance.",
-"predicted": "clean"
+"predicted": "toxic"
 }
 ```

@@ -1,8 +1,0 @@
-{
-  "message": "yes ionians are fun as fuck",
-  "reason": "The message contains strong language but it is used in a positive context, not intended to harm or offend anyone.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

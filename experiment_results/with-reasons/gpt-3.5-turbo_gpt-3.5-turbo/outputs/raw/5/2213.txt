@@ -1,7 +1,7 @@
 ```json
 {
-"message": "how do you play with such high ping",
-"reason": "The message does not contain any offensive or harmful language. It is a genuine question about playing with high ping, which is a common issue in online gaming. Therefore, the message can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "how do you play with such high ping",
+  "reason": "The message is asking a question about playing with high ping, which is a common issue in online gaming. It does not contain any offensive or harmful content.",
+  "predicted": "clean"
 }
 ```

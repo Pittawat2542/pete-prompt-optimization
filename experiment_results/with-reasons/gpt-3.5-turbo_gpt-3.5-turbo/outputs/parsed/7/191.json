@@ -1,6 +1,6 @@
 {
   "message": "> Yo Riot wtf \n fuck brand he always deals the most damage for some reason EVERY GANE",
-  "reason": "toxic",
+  "reason": "The message contains offensive language ('wtf' and 'fuck') and expresses frustration towards another player ('brand'), making it toxic.",
   "predicted": "toxic",
   "prompt_version": 7,
   "label": "toxic",

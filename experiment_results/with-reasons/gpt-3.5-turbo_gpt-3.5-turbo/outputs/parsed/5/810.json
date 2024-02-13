@@ -1,7 +1,7 @@
 {
   "message": "Ur not an assassin if u don\u00d5t one tap the adc",
-  "reason": "The message does not contain any offensive or harmful language. It is a statement about playing a video game and does not target or insult any individual or group. Therefore, it can be classified as 'clean'.",
-  "predicted": "clean",
+  "reason": "The message contains gaming jargon and a statement that implies superiority over others. It may be seen as toxic or condescending in a gaming community.",
+  "predicted": "toxic",
   "prompt_version": 5,
   "label": "clean",
   "model": "gpt-3.5-turbo"

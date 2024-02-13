@@ -1,6 +1,6 @@
 {
   "message": "Stupid decisions mean stupid result",
-  "reason": "The message contains negative language and insults, which indicates a toxic tone. The word 'stupid' is used twice, which adds to the toxicity of the message.",
+  "reason": "The message contains derogatory language and is used to insult someone. It is considered toxic and offensive.",
   "predicted": "toxic",
   "prompt_version": 5,
   "label": "toxic",

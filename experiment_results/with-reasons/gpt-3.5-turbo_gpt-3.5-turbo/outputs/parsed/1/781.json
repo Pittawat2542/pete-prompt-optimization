@@ -1,6 +1,6 @@
 {
   "message": "hes too smart",
-  "reason": "The message does not contain any offensive or harmful language. It simply states that someone is intelligent. Therefore, it can be classified as a clean message.",
+  "reason": "The message does not contain any explicit or offensive language. It simply states that someone is too smart, which is not inherently toxic or offensive.",
   "predicted": "clean",
   "prompt_version": 1,
   "label": "clean",

@@ -1,9 +1,0 @@
-Prediction result: The model predicts the message "too E Z" as clean with a 98% confidence score. The message does not contain any offensive or harmful content. It seems to be a gaming term, meaning "too easy".
-
-```json
-{
-"message": "too E Z",
-"reason": "The message is predicted as clean with a high confidence score. It does not contain any offensive or harmful content. It appears to be a gaming term, meaning 'too easy'.",
-"predicted": "clean"
-}
-```

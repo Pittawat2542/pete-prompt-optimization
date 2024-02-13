@@ -1,7 +1,9 @@
 ```json
 {
 "message": "hamb10 hamb10",
-"reason": "The message does not contain any explicit or offensive language. It appears to be a random string of characters or a username. Therefore, it can be classified as clean.",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message "hamb10 hamb10" does not contain any offensive or harmful language. It appears to be a random string of characters without any context or meaning. Therefore, it can be classified as a clean message.

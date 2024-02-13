@@ -1,6 +1,6 @@
 {
   "message": "what the hell??",
-  "reason": "The message contains offensive language.",
+  "reason": "The message contains a strong expletive, which is considered offensive and disrespectful.",
   "predicted": "toxic",
   "prompt_version": 0,
   "label": "toxic",

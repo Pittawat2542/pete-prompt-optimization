@@ -1,6 +1,6 @@
 {
   "message": "danucdSaspisas danucdSASPISHAS",
-  "reason": "The message does not contain any explicit toxic language or offensive content. It appears to be a random combination of characters without any clear meaning or context.",
+  "reason": "The message consists of random characters and does not contain any meaningful content. It does not appear to be toxic or offensive.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

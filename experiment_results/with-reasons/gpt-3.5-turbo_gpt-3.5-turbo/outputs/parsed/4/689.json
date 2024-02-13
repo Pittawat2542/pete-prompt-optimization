@@ -1,6 +1,6 @@
 {
   "message": "YEP",
-  "reason": "The predicted category is 'clean' because the text 'YEP' does not contain any toxic or offensive language. It is a simple and neutral response that does not violate any community guidelines or rules.",
+  "reason": "The message 'YEP' does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It is a simple and harmless response.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

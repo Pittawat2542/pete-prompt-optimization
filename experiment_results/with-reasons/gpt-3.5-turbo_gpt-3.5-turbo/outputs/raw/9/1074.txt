@@ -1,7 +1,7 @@
 ```json
 {
-"message": "cause im an idiot lol",
-"reason": "The message contains self-deprecating language and the term 'idiot', which can be considered derogatory and offensive. This aligns with the toxic category.",
-"predicted": "toxic"
+  "message": "cause im an idiot lol",
+  "reason": "The message contains self-deprecating language, but it does not display any offensive or harmful content. Therefore, it can be classified as clean.",
+  "predicted": "clean"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Pepega",
-"reason": "The message 'Pepega' is classified as toxic because it is a term commonly used in online communities to insult or mock someone. It is often used to imply that someone is stupid or unintelligent. The model has likely learned this association from the training data where 'Pepega' is frequently used in toxic contexts.",
-"predicted": "toxic"
+  "message": "Pepega",
+  "reason": "The message contains the term 'Pepega', which is a popular emote used in online communities to mock or make fun of someone. While it may not be directly offensive or harmful, it can be considered as a form of teasing or trolling, which falls under the toxic category.",
+  "predicted": "toxic"
 }
 ```

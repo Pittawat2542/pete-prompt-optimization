@@ -1,7 +1,7 @@
 ```json
 {
-"message": "danucdHypePrime",
-"reason": "The message 'danucdHypePrime' does not contain any explicit toxic language or harmful content. It appears to be a username or a phrase that does not violate any community guidelines.",
-"predicted": "clean"
+  "message": "danucdHypePrime",
+  "reason": "The message 'danucdHypePrime' does not contain any explicit or offensive language. It appears to be a username or a phrase that does not violate any community guidelines.",
+  "predicted": "clean"
 }
 ```

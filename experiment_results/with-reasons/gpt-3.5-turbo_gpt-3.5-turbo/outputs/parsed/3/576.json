@@ -1,6 +1,6 @@
 {
   "message": "hi yamikaze do you know enthralled?",
-  "reason": "The message is classified as clean because it does not contain any toxic or offensive language. The model has predicted it as clean based on the absence of any toxic keywords or patterns in the text.",
+  "reason": "clean",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

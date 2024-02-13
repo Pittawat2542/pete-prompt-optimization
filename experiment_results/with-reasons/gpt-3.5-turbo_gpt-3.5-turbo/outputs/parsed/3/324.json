@@ -1,6 +1,6 @@
 {
   "message": "FUCKING WOWOW",
-  "reason": "The text contains offensive language, specifically the word 'FUCKING', which is a strong profanity. This falls into the 'toxic' category.",
+  "reason": "toxic language",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

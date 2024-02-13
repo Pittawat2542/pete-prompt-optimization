@@ -1,7 +1,5 @@
-```json
 {
-"message": "Good shit",
-"reason": "The message contains a profanity, which is considered toxic.",
-"predicted": "toxic"
+  "message": "Good shit",
+  "reason": "The message contains slang that can be interpreted as positive or negative depending on the context.",
+  "predicted": "clean"
 }
-```

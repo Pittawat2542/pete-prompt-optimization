@@ -1,6 +1,6 @@
 {
   "message": "my god the stupidity of people",
-  "reason": "The text is classified as toxic because it contains negative sentiment and derogatory language ('stupidity'). The model has predicted it as toxic based on the presence of such language.",
+  "reason": "The message contains derogatory language and expresses a negative sentiment towards people. It can be considered offensive and disrespectful.",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

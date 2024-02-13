@@ -1,6 +1,6 @@
 {
   "message": "what's the song name",
-  "reason": "The message is a simple question asking for the name of a song. It does not contain any offensive or harmful language, and there is no indication of toxicity.",
+  "reason": "The message is a simple question asking for the name of a song. It does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",

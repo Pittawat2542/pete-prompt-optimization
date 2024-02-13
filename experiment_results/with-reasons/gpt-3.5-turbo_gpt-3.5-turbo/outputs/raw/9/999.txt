@@ -1,7 +1,7 @@
 ```json
 {
   "message": "I suck so bad loool",
-  "reason": "The message contains self-deprecating language and the word 'suck', which indicates a negative sentiment. However, the use of 'loool' suggests that the message is meant to be humorous rather than genuinely negative. Therefore, the message is classified as 'clean'.",
+  "reason": "The message contains self-deprecating language, but it does not display any offensive, harmful, or disrespectful content. Therefore, it can be classified as clean.",
   "predicted": "clean"
 }
 ```

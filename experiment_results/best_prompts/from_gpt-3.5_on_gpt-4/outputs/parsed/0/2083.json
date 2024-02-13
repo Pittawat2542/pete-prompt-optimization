@@ -1,8 +1,0 @@
-{
-  "message": "its really hard with your ping",
-  "reason": "The message is discussing a technical issue related to online gaming, specifically about the difficulty caused by high ping. It does not contain any offensive or harmful content.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

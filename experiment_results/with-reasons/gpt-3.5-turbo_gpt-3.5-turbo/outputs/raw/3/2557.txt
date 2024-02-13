@@ -1,7 +1,7 @@
 ```json
 {
 "message": "What up hamily hambO7 hambO7",
-"reason": "The message contains informal language and repeated characters, which are often associated with toxic or spammy behavior.",
-"predicted": "toxic"
+"reason": "The message contains slang and repeated characters, which could be seen as informal and playful. However, there is no explicit or offensive language used, so it can be classified as clean.",
+"predicted": "clean"
 }
 ```

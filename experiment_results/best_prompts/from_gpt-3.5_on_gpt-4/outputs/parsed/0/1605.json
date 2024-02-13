@@ -1,8 +1,0 @@
-{
-  "message": "Nt",
-  "reason": "The message 'Nt' does not contain any offensive, disrespectful or inappropriate language.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

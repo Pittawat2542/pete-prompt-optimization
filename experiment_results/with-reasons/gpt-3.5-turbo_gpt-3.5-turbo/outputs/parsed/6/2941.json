@@ -1,7 +1,7 @@
 {
   "message": "wtffffffffffffff",
-  "reason": "The message contains a string of repeated characters, which is often associated with frustration or anger. This could be interpreted as a form of toxic behavior.",
-  "predicted": "toxic",
+  "reason": "The message contains a string of repeated characters, which does not display offensive or harmful content. Therefore, it is clean.",
+  "predicted": "clean",
   "prompt_version": 6,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

@@ -1,9 +1,0 @@
-Since the "Prediction result" section is not provided, I'll make a general assumption based on the content of the message.
-
-```json
-{
-"message": "I see HoB more",
-"reason": "The message does not contain any offensive, disrespectful or inappropriate language. It seems to be a neutral statement or opinion about something or someone referred to as 'HoB'.",
-"predicted": "clean"
-}
-```

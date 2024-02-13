@@ -1,7 +1,7 @@
 ```json
 {
   "message": "!subs",
-  "reason": "The message '!subs' is classified as 'clean' because it does not contain any toxic or offensive language. The model's prediction result also indicates a high probability of being clean.",
+  "reason": "The message contains a command to subscribe to something, but it does not display any offensive or harmful content, making it clean.",
   "predicted": "clean"
 }
 ```

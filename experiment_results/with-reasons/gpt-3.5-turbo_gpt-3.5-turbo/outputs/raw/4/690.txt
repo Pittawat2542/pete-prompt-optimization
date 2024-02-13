@@ -1,7 +1,7 @@
 ```json
 {
-"message": "BALANCED KEKW",
-"reason": "The message does not contain any offensive or harmful language. It appears to be a playful or humorous comment.",
-"predicted": "clean"
+  "message": "BALANCED KEKW",
+  "reason": "The message 'BALANCED KEKW' does not contain any offensive or harmful language. It appears to be a playful expression or a reaction to something funny. There is no indication of toxicity or any violation of community guidelines.",
+  "predicted": "clean"
 }
 ```

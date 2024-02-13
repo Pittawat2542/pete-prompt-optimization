@@ -1,6 +1,6 @@
 {
   "message": "hello and bye @melihozkiremitci",
-  "reason": "The message does not contain any offensive or harmful language. It is a simple greeting and farewell directed at the user @melihozkiremitci.",
+  "reason": "clean",
   "predicted": "clean",
   "prompt_version": 3,
   "label": "clean",

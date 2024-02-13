@@ -1,7 +1,7 @@
 ```json
 {
   "message": "what's the song name",
-  "reason": "The message is a simple and straightforward question asking for the name of a song. It does not contain any offensive or harmful language, and there is no indication of any toxic behavior.",
+  "reason": "The message is clean because it is a simple and neutral question asking for the name of a song. There is no offensive or harmful content in the message.",
   "predicted": "clean"
 }
 ```

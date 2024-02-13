@@ -1,6 +1,6 @@
 {
   "message": "The hell",
-  "reason": "The text contains a strong negative word 'hell', which can be considered offensive or disrespectful.",
+  "reason": "The message contains offensive language.",
   "predicted": "toxic",
   "prompt_version": 2,
   "label": "toxic",

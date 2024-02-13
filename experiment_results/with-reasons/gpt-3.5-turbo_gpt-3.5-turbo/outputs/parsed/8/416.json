@@ -1,6 +1,6 @@
 {
   "message": "because its fucking bronze",
-  "reason": "The text contains offensive language ('fucking'), which indicates a toxic category.",
+  "reason": "The message contains offensive language, which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 8,
   "label": "toxic",

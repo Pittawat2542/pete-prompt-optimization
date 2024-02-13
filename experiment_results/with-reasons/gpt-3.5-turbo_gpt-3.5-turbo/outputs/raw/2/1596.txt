@@ -1,7 +1,5 @@
-```json
 {
 "message": "yeah",
-"reason": "The message is classified as 'clean' because it is a simple and neutral response that does not contain any offensive or harmful content.",
+"reason": "The message is short and lacks context, making it difficult to determine its intent. However, based on the limited information provided, it does not contain offensive language or negativity.",
 "predicted": "clean"
 }
-```

@@ -1,6 +1,6 @@
 {
   "message": "I fucking hate lux",
-  "reason": "The message contains strong profanity and expresses hatred towards a specific person or thing. The use of the word 'hate' and the strong expletive 'fucking' indicate a negative and toxic sentiment.",
+  "reason": "The message contains offensive language ('fucking') and expresses hate towards someone ('hate lux'), making it toxic.",
   "predicted": "toxic",
   "prompt_version": 9,
   "label": "toxic",

@@ -1,7 +1,9 @@
 ```json
 {
 "message": "Like Hell Do I Care.",
-"reason": "The predicted category is 'toxic' because the text contains strong negative sentiment and aggressive language. The phrase 'Like Hell' indicates a strong disregard or indifference, and the use of 'Do I Care' adds a dismissive and confrontational tone.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message "Like Hell Do I Care." is classified as toxic because it contains strong language and a dismissive tone. The phrase "Like Hell" is an expression of strong disagreement or indifference, which contributes to the toxic nature of the message.

@@ -1,6 +1,6 @@
 {
   "message": "EZ GG",
-  "reason": "The message contains the abbreviation 'EZ' which is commonly used in online gaming to taunt or mock opponents. The phrase 'GG' stands for 'good game' and is typically used to show sportsmanship at the end of a game. However, when combined with 'EZ', it can be interpreted as a sarcastic or disrespectful comment. Therefore, the message can be classified as toxic.",
+  "reason": "The message 'EZ GG' is commonly used in online gaming communities to taunt or mock opponents after an easy victory. It can be considered as a form of toxic behavior.",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "clean",

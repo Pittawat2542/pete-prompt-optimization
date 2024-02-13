@@ -1,7 +1,7 @@
 ```json
 {
-"message": "hell yeaaahh",
-"reason": "The message does not contain any offensive or harmful language. It is a positive expression of excitement or enthusiasm.",
-"predicted": "clean"
+  "message": "hell yeaaahh",
+  "reason": "The message contains slang and excessive use of exclamation marks, which can be interpreted as excitement or enthusiasm. However, without any additional context, it is difficult to determine if the message is intended to be positive or negative.",
+  "predicted": "clean"
 }
 ```

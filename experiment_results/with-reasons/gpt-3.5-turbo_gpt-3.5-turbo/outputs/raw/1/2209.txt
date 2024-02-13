@@ -1,7 +1,7 @@
 ```json
 {
   "message": "6th guy",
-  "reason": "The message does not contain any offensive or harmful language. It appears to be a simple statement referring to the sixth person in a conversation or group. There is no indication of any toxic behavior or intent.",
+  "reason": "The message does not contain any explicit content or harmful language. It appears to be a neutral statement without any context or additional information. Therefore, it can be classified as a clean message.",
   "predicted": "clean"
 }
 ```

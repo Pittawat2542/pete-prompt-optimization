@@ -1,6 +1,6 @@
 {
   "message": "Good shit",
-  "reason": "The message contains a positive adjective followed by a slang term, which can be interpreted as a positive expression.",
+  "reason": "The message contains a mild profanity, but it does not seem to be directed in a harmful or offensive way.",
   "predicted": "clean",
   "prompt_version": 0,
   "label": "toxic",

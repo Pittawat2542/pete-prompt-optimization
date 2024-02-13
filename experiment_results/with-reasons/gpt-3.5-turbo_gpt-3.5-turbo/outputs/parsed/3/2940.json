@@ -1,6 +1,6 @@
 {
   "message": "damnnn",
-  "reason": "The text 'damnnn' is classified as toxic because the model predicted it to be toxic with a high confidence score of 0.95.",
+  "reason": "toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

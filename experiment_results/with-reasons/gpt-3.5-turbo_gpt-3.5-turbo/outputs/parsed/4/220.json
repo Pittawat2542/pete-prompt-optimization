@@ -1,6 +1,6 @@
 {
   "message": "Fuck up a turret dive as graves and went afk",
-  "reason": "The message contains offensive language ('Fuck') which indicates toxicity.",
+  "reason": "The message contains offensive language and mentions going AFK, which indicates a negative and disruptive behavior.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

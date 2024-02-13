@@ -1,7 +1,7 @@
 ```json
 {
   "message": "stupid morgana players",
-  "reason": "The message contains a derogatory term ('stupid') and targets a specific group of players ('morgana players'). This language is disrespectful and offensive, indicating a toxic tone.",
+  "reason": "The message contains a derogatory term ('stupid') and targets a specific group of players ('morgana players'). This can be seen as toxic behavior and can contribute to a negative and hostile environment in the online community.",
   "predicted": "toxic"
 }
 ```

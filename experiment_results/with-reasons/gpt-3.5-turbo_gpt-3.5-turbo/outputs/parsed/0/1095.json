@@ -1,6 +1,6 @@
 {
   "message": "the hell is a karak?",
-  "reason": "The message contains a mild swear word ('hell'), but it is not offensive or harmful. It is a simple question about the meaning of a word.",
+  "reason": "The message contains a mild swear word ('hell'), but it is not offensive or harmful. It is a simple question asking for clarification about the term 'karak'.",
   "predicted": "clean",
   "prompt_version": 0,
   "label": "toxic",

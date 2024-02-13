@@ -1,7 +1,6 @@
 ```json
 {
-"message": "TOP 0.1% popularity 33.3% win rate",
-"reason": "The message does not contain any offensive or harmful language. It appears to be a statement about the popularity and win rate of something, possibly a game or a player. The presence of numbers and percentages suggests that it is a factual statement rather than a toxic or offensive comment.",
-"predicted": "clean"
+  "message": "TOP 0.1% popularity 33.3% win rate",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
-```

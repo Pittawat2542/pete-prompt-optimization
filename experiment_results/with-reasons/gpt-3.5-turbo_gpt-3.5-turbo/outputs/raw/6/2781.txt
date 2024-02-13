@@ -1,7 +1,7 @@
 ```json
 {
-"message": "she's listening through the door, shut the fuck up dad",
-"reason": "The message contains offensive language ('shut the fuck up') which is considered toxic.",
-"predicted": "toxic"
+  "message": "she's listening through the door, shut the fuck up dad",
+  "reason": "The message contains offensive language and disrespect towards the father, making it toxic.",
+  "predicted": "toxic"
 }
 ```

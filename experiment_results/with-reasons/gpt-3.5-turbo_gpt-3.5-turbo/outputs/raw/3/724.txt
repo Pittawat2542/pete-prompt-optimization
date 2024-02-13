@@ -1,7 +1,7 @@
 ```json
 {
-"message": "Message",
-"reason": "The predicted category for the message is 'clean'. The model has determined that the message does not contain any toxic or offensive language based on the provided prediction result.",
-"predicted": "clean"
+  "message": "(",
+  "reason": "The message consists of a single character '('. It does not contain any offensive or harmful content, and there is no context provided to suggest any toxicity. Therefore, it can be classified as a clean message.",
+  "predicted": "clean"
 }
 ```

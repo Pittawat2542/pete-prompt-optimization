@@ -1,7 +1,7 @@
 ```json
 {
 "message": "danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner danucdWinner",
-"reason": "The message consists of repetitive text without any context or meaningful content.",
+"reason": "The message consists of repetitive text and does not contain any toxic or offensive language.",
 "predicted": "clean"
 }
 ```

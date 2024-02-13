@@ -1,7 +1,7 @@
 ```json
 {
 "message": "what did they do to you @Yamikazexz",
-"reason": "The message does not contain any offensive or harmful language, and it does not seem to be targeting or attacking anyone. It is a neutral question asking about someone's experience or situation.",
+"reason": "The message does not contain any offensive or harmful language. It is a simple question asking about someone's experience with another user.",
 "predicted": "clean"
 }
 ```

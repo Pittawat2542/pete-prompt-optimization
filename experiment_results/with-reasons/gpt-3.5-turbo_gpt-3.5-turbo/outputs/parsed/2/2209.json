@@ -1,6 +1,6 @@
 {
-  "message": "6th guy",
-  "reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It appears to be a neutral statement without any negative intent.",
+  "message": "I can't believe you said that!",
+  "reason": "The message expresses disbelief or shock, but does not contain offensive language.",
   "predicted": "clean",
   "prompt_version": 2,
   "label": "clean",

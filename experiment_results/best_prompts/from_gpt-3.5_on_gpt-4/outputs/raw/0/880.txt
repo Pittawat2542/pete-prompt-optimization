@@ -1,7 +1,0 @@
-```json
-{
-"message": "love how nobody gives a fuck",
-"reason": "The message contains explicit language and shows a negative sentiment, which is generally considered as toxic in an online community.",
-"predicted": "toxic"
-}
-```

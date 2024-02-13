@@ -1,6 +1,6 @@
 {
   "message": "oh fuck i got one of those omnistone bards in my ranked game",
-  "reason": "The message contains profanity ('fuck'), which is considered toxic language.",
+  "reason": "toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

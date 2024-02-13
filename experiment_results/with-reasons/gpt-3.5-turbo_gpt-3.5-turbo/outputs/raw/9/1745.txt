@@ -1,7 +1,7 @@
 ```json
 {
-"message": "WeirdChamp",
-"reason": "The message contains a derogatory term 'WeirdChamp', which is often used in online communities to mock or insult someone. This falls under the 'toxic' category as it exhibits negative and disrespectful behavior.",
-"predicted": "toxic"
+  "message": "WeirdChamp",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

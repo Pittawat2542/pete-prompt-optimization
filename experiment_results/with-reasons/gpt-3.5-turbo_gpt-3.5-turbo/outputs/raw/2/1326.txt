@@ -1,7 +1,5 @@
-```json
 {
 "message": "1G$",
-"reason": "The message contains a combination of alphanumeric characters and a special character ($), which is commonly used in online communities to represent a monetary value. This suggests that the message is related to financial transactions or offers, rather than containing toxic or offensive content.",
-"predicted": "clean"
+"reason": "The message contains an ambiguous and potentially inappropriate phrase.",
+"predicted": "toxic"
 }
-```

@@ -1,6 +1,6 @@
 {
   "message": "STOP DOING WHAT I THINK IS SHIT STREAMER",
-  "reason": "The predicted category is 'toxic' because the message contains offensive language ('shit'). The model has correctly identified this message as toxic based on the presence of such language.",
+  "reason": "The message contains offensive language ('shit') and is written in all caps, which indicates anger and aggression.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",

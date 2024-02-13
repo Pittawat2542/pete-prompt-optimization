@@ -1,6 +1,6 @@
 {
   "message": "o m y fucking god AGAIN?",
-  "reason": "The message contains offensive language ('fucking') and expresses frustration ('AGAIN?').",
+  "reason": "The message contains offensive language ('fucking') and is expressed in a frustrated and aggressive tone ('AGAIN?').",
   "predicted": "toxic",
   "prompt_version": 1,
   "label": "toxic",

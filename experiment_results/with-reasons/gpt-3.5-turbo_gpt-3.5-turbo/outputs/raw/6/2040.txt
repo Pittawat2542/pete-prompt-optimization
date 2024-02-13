@@ -1,9 +1,6 @@
 ```json
 {
-"message": "fessn1 all the clips got deleted to prevent dmca strikes, so theres no command at the moment",
-"reason": "clean",
-"predicted": "clean"
+  "message": "fessn1 all the clips got deleted to prevent dmca strikes, so theres no command at the moment",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```
-
-The message does not contain any offensive or toxic language. It simply states that all the clips were deleted to prevent DMCA strikes and there is currently no command available. There is no indication of any harmful or inappropriate content, so it can be classified as "clean". The predicted category also aligns with this classification.

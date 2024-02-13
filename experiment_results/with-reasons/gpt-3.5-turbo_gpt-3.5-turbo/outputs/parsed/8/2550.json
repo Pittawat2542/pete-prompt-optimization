@@ -1,6 +1,6 @@
 {
   "message": "hamb10 hamb10",
-  "reason": "The text is classified as 'clean' because the 'toxic' probability is below the threshold of 0.5.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 8,
   "label": "clean",

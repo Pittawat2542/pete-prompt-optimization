@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@Scoom danucdRespect mitKalp",
-"reason": "The text contains usernames and the word 'Respect'. It seems to be a positive and respectful message.",
-"predicted": "clean"
+  "message": "@Scoom danucdRespect mitKalp",
+  "reason": "The message contains usernames and the word 'Respect', but it does not display any offensive, harmful, or disrespectful content. Therefore, it can be classified as clean.",
+  "predicted": "clean"
 }
 ```

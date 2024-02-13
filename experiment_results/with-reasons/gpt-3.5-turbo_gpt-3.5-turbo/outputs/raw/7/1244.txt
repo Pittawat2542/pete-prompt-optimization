@@ -1,7 +1,7 @@
 ```json
 {
-"message": "white_medium_star:",
-"reason": "The message does not contain any meaningful text or context. It appears to be a random string of characters or an emoji. Without any meaningful content, it is not possible to classify the message as toxic or clean.",
-"predicted": "clean"
+  "message": "white_medium_star:",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

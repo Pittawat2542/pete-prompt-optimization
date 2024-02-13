@@ -1,7 +1,6 @@
 ```json
 {
-"message": "@melihozkiremitci danucdHi danucdHi",
-"reason": "The message contains a mention (@melihozkiremitci) and repeated words (danucdHi danucdHi), which are common patterns in toxic messages.",
-"predicted": "toxic"
+  "message": "@melihozkiremitci danucdHi danucdHi",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
-```

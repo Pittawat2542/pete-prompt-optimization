@@ -1,7 +1,5 @@
-```json
 {
 "message": "why asia server ?",
-"reason": "The message is clean because it does not contain any offensive or harmful language. It is a simple question about the choice of server.",
+"reason": "The message is a neutral question and does not contain offensive or derogatory language.",
 "predicted": "clean"
 }
-```

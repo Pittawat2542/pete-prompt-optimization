@@ -1,7 +1,5 @@
-```json
 {
 "message": "im stupid hbu?ðŸ™‡",
-"reason": "The message contains a derogatory term ('stupid') which is considered toxic and offensive.",
-"predicted": "toxic"
+"reason": "The message contains self-deprecating language and is not offensive towards others.",
+"predicted": "clean"
 }
-```

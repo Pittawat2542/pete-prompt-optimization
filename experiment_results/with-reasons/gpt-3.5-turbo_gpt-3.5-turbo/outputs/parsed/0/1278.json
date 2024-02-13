@@ -1,6 +1,6 @@
 {
   "message": "EZ GG",
-  "reason": "The message contains the abbreviation 'EZ' which is commonly used in online gaming communities to mean 'easy'. The phrase 'GG' is also commonly used to mean 'good game'. While the message may be seen as a taunt or boastful in some contexts, it is not explicitly offensive or harmful.",
+  "reason": "The message contains the abbreviation 'EZ' which is commonly used in online gaming communities to mean 'easy'. The phrase 'GG' is also commonly used to mean 'good game'. While the message may be seen as competitive or boastful, it does not contain any explicit toxicity or offensive language.",
   "predicted": "clean",
   "prompt_version": 0,
   "label": "clean",

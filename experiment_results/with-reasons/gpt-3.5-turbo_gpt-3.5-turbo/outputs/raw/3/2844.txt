@@ -1,7 +1,9 @@
 ```json
 {
 "message": "i hate the camps, i always come out with shit loot",
-"reason": "The message contains negative sentiment and uses offensive language ('shit loot'). This indicates a toxic category.",
+"reason": "Toxic",
 "predicted": "toxic"
 }
 ```
+
+The message is classified as "toxic" because it contains negative sentiment and uses offensive language ("shit loot"). This indicates a negative and disrespectful attitude towards the topic being discussed.

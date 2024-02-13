@@ -1,6 +1,6 @@
 {
   "message": "i hate the camps, i always come out with shit loot",
-  "reason": "The message contains negative sentiment and uses offensive language ('shit loot'). This indicates a toxic category.",
+  "reason": "The message expresses a negative sentiment towards the camps and uses offensive language ('shit'), which makes it toxic.",
   "predicted": "toxic",
   "prompt_version": 7,
   "label": "toxic",

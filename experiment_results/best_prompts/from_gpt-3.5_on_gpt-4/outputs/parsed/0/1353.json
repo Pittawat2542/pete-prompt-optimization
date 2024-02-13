@@ -1,8 +1,0 @@
-{
-  "message": "@xDEEDAN bot danucdDanu2",
-  "reason": "The message is a simple mention of a user and a bot, without any offensive or harmful content.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

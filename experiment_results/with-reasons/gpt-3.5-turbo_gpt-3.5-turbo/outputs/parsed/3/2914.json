@@ -1,6 +1,6 @@
 {
   "message": "there are many cheaters in china",
-  "reason": "The text contains a negative sentiment towards a specific group of people, in this case, cheaters in China. This negative sentiment can be considered toxic as it promotes stereotypes and generalizations about a particular nationality.",
+  "reason": "Toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

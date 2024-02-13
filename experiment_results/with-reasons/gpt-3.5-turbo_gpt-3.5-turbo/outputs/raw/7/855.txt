@@ -1,7 +1,7 @@
 ```json
 {
-"message": "osu? woow",
-"reason": "The message does not contain any offensive or harmful language. It is a simple expression of surprise or excitement about the topic of 'osu'.",
-"predicted": "clean"
+  "message": "osu? woow",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
 ```

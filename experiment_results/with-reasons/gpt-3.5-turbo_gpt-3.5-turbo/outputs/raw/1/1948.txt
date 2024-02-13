@@ -1,7 +1,7 @@
 ```json
 {
   "message": "rawryyLaugh @cinnova",
-  "reason": "The message consists of an emote 'rawryyLaugh' followed by a mention '@cinnova'. There is no offensive or harmful language used in the message.",
+  "reason": "The message consists of a username followed by an emoticon. It does not contain any offensive or harmful language. Therefore, it can be classified as clean.",
   "predicted": "clean"
 }
 ```

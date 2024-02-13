@@ -1,7 +1,7 @@
 ```json
 {
   "message": "@RuralBiscuits damn - i knew it!",
-  "reason": "The message contains a mild swear word ('damn'), which can be considered offensive or disrespectful. However, it does not contain any explicit hate speech or personal attacks. Therefore, I classify it as toxic but not extremely harmful.",
-  "predicted": "toxic"
+  "reason": "The message contains a mild profanity ('damn'), but it does not seem to be directed towards anyone in a harmful or offensive manner. It appears to be an expression of frustration or disappointment. Therefore, the message can be classified as 'clean'.",
+  "predicted": "clean"
 }
 ```

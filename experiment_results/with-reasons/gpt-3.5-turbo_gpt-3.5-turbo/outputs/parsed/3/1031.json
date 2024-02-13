@@ -1,6 +1,6 @@
 {
   "message": "Who else hate their life?",
-  "reason": "The text expresses negative emotions and a feeling of dissatisfaction with life, which indicates a toxic sentiment.",
+  "reason": "Toxic",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

@@ -1,6 +1,6 @@
 {
   "message": "get out rogue",
-  "reason": "The message contains an aggressive and derogatory term 'rogue', which is indicative of a toxic tone.",
+  "reason": "The message contains an aggressive and derogatory term 'rogue', which is indicative of a toxic behavior.",
   "predicted": "toxic",
   "prompt_version": 0,
   "label": "clean",

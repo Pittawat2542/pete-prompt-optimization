@@ -1,7 +1,7 @@
 ```json
 {
   "message": "daaaaam",
-  "reason": "The message consists of repeated letters, which indicates excitement or surprise. However, without any additional context, it is difficult to determine if the message is intended to be positive or negative.",
+  "reason": "The message consists of a single word with multiple 'a' characters. Without any context, it is difficult to determine the intent behind the message. However, the excessive use of 'a' characters could indicate excitement or surprise, rather than toxicity.",
   "predicted": "clean"
 }
 ```

@@ -1,7 +1,7 @@
 ```json
 {
-"message": "he fuck",
-"reason": "The predicted category is 'toxic' because the text contains a profanity word 'fuck'. The model has likely classified it as toxic based on the presence of offensive language.",
-"predicted": "toxic"
+  "message": "he fuck",
+  "reason": "toxic language",
+  "predicted": "toxic"
 }
 ```

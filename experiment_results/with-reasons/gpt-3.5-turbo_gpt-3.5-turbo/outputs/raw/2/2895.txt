@@ -1,7 +1,5 @@
-```json
 {
 "message": "Start with this and upgrade if it's shit",
-"reason": "The message contains a potentially offensive word 'shit', which indicates a toxic tone.",
-"predicted": "toxic"
+"reason": "The message contains a potentially offensive word ('shit'), but it is not used in a derogatory or offensive manner. The overall tone of the message is neutral.",
+"predicted": "clean"
 }
-```

@@ -1,7 +1,9 @@
 ```json
 {
 "message": "shes a girl...DAAAA",
-"reason": "The message contains an exclamation with repeated letters ('DAAAA'), which indicates a strong emotion. This could be interpreted as an expression of excitement or enthusiasm, but it can also be seen as aggressive or mocking. Therefore, the message is classified as 'toxic'.",
+"reason": "toxic",
 "predicted": "toxic"
 }
 ```
+
+The message "shes a girl...DAAAA" is classified as toxic because it contains derogatory language ("DAAAA") which is disrespectful and offensive.

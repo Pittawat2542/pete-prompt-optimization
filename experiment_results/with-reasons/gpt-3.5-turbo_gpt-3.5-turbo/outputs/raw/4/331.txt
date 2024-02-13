@@ -1,7 +1,7 @@
 ```json
 {
 "message": "why the *fuck* do people in plat just s u c k",
-"reason": "The message contains offensive language ('fuck') which indicates a toxic tone. Additionally, the message expresses a negative sentiment towards people in the 'plat' category, suggesting a negative attitude towards a specific group of people. These factors contribute to the toxic classification.",
+"reason": "The message contains offensive language ('fuck') and expresses a negative sentiment towards people in the 'plat' category. The use of offensive language and the negative sentiment make the message toxic.",
 "predicted": "toxic"
 }
 ```

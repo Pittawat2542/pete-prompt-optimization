@@ -1,7 +1,5 @@
-```json
 {
 "message": "nb3LUL nb3LUL nb3LUL",
-"reason": "The message consists of repetitive and nonsensical text. It does not contain any harmful or offensive language. Therefore, it can be classified as clean.",
+"reason": "The message consists of repeated characters that do not convey any meaningful content.",
 "predicted": "clean"
 }
-```

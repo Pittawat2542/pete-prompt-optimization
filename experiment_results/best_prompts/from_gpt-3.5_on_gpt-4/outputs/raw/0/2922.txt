@@ -1,9 +1,0 @@
-Since the "Prediction result" section is not provided, I'll make an assumption based on the content of the message.
-
-```json
-{
-"message": "Dude tglWtf",
-"reason": "The message contains an abbreviation that could be interpreted as offensive or inappropriate language.",
-"predicted": "toxic"
-}
-```

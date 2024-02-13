@@ -1,7 +1,6 @@
 ```json
 {
-"message": "TOP 0.1% popularity 33.3% win rate",
-"reason": "The message does not contain any offensive or harmful language, and it seems to be providing information about the popularity and win rate of something. Therefore, it can be classified as 'clean'.",
-"predicted": "clean"
+  "message": "TOP 0.1% popularity 33.3% win rate",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```

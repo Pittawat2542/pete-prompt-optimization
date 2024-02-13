@@ -1,7 +1,7 @@
 {
   "message": "oh shit my boy is bigtime",
-  "reason": "The message does not contain any offensive or harmful language. It is a casual expression of excitement or surprise.",
-  "predicted": "clean",
+  "reason": "The message contains profanity ('shit'), which is considered offensive and disrespectful. This indicates a toxic tone.",
+  "predicted": "toxic",
   "prompt_version": 4,
   "label": "toxic",
   "model": "gpt-3.5-turbo"

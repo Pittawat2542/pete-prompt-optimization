@@ -1,7 +1,6 @@
 ```json
 {
-"message": "love how i cant win even with me playing well",
-"reason": "The message expresses frustration and disappointment, but does not contain any explicit toxic language or personal attacks. It is a general statement about the speaker's experience in a game.",
-"predicted": "clean"
+  "message": " love how i cant win even with me playing well",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
-```

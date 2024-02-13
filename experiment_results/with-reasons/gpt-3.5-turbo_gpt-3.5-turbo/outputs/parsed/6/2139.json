@@ -1,6 +1,6 @@
 {
   "message": "ha ha ha comms",
-  "reason": "The message does not contain any offensive or harmful language. It consists of laughter and the word 'comms', which is likely a shorthand for 'communications'. Therefore, it can be classified as 'clean'.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 6,
   "label": "clean",

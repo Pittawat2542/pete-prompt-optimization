@@ -1,8 +1,0 @@
-{
-  "message": "i hate the camps, i always come out with shit loot",
-  "reason": "The message is expressing dissatisfaction with a game experience, not targeting or offending any individual or group.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "toxic",
-  "model": "gpt-4"
-}

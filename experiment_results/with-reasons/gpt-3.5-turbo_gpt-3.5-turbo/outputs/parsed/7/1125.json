@@ -1,6 +1,6 @@
 {
   "message": "No solo ranked in SEA DED",
-  "reason": "The message does not contain any offensive or harmful language. It simply states that there is no solo ranked mode in the SEA server. Therefore, it can be classified as 'clean'.",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 7,
   "label": "clean",

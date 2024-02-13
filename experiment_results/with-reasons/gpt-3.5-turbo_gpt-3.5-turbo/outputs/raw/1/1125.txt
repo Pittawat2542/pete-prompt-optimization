@@ -1,7 +1,7 @@
 ```json
 {
   "message": "No solo ranked in SEA DED",
-  "reason": "I classified the message as 'clean' because it does not contain any offensive or harmful language. The message simply states that there is no solo ranked mode in the South East Asia (SEA) server, which is a neutral statement.",
+  "reason": "The message does not contain any offensive or harmful language. It simply states that there is no solo ranked mode in the SEA (South East Asia) server. It does not attack or insult anyone, making it a clean message.",
   "predicted": "clean"
 }
 ```

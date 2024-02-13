@@ -1,6 +1,6 @@
 {
   "message": "Samira is sick as fuck omg",
-  "reason": "The predicted category is 'toxic'. The word 'fuck' is a strong profanity and is likely the reason for the toxic classification.",
+  "reason": "The message contains offensive language ('sick as fuck') which is considered toxic.",
   "predicted": "toxic",
   "prompt_version": 4,
   "label": "clean",

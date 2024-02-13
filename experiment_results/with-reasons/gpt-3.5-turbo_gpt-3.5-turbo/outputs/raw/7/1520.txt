@@ -1,7 +1,7 @@
 ```json
 {
-"message": "@jrrod91, This item is on cooldown",
-"reason": "The message does not contain any toxic or offensive language. It is a neutral statement informing the user that the item is on cooldown.",
-"predicted": "clean"
+  "message": "@jrrod91, This item is on cooldown",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
+  "predicted": "clean"
 }
 ```

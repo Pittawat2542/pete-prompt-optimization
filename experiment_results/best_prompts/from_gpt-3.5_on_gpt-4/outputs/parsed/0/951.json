@@ -1,8 +1,0 @@
-{
-  "message": "@Thebausffs just scared the shit out of my dog",
-  "reason": "The message is classified as clean because, despite the use of a mild curse word, it does not contain any offensive, harmful, or inappropriate content. The model prediction also supports this classification with a high confidence level.",
-  "predicted": "clean",
-  "prompt_version": 0,
-  "label": "toxic",
-  "model": "gpt-4"
-}

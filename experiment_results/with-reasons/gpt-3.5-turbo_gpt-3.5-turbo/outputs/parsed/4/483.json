@@ -1,6 +1,6 @@
 {
   "message": "@RiotSupport hi is there any update when riot will make a new and usable client for league of legends? Thanks",
-  "reason": "The message is classified as 'clean' because it is a polite inquiry about the development of a new and usable client for League of Legends. There is no use of offensive or toxic language in the message.",
+  "reason": "The message is polite and does not contain any offensive or harmful language. It is a simple inquiry about the development of a new client for League of Legends.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "clean",

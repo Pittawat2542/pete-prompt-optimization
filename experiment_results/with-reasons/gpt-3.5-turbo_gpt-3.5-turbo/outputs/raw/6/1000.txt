@@ -1,7 +1,6 @@
 ```json
 {
-"message": "this suck",
-"reason": "The message contains a derogatory term 'suck', which is considered offensive and disrespectful. This indicates a toxic tone.",
-"predicted": "toxic"
+  "message": "this suck",
+  "reason": "The message contains offensive language and is disrespectful, making it toxic.",
+  "predicted": "toxic"
 }
-```

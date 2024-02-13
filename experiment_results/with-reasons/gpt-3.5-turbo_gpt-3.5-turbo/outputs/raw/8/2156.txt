@@ -1,7 +1,7 @@
 ```json
 {
-"message": "DendiFace gg",
-"reason": "The text 'DendiFace gg' does not contain any offensive or toxic language. It appears to be a simple expression or reaction in an online community.",
-"predicted": "clean"
+  "message": "DendiFace gg",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
 ```

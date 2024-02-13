@@ -1,7 +1,6 @@
 ```json
 {
-"message": "rando squad?",
-"reason": "The message is classified as 'clean' because it does not contain any offensive or toxic language. The predicted category is consistent with the prediction result which shows a high probability for the 'clean' category.",
-"predicted": "clean"
+  "message": "rando squad?",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
+  "predicted": "clean"
 }
-```

@@ -1,6 +1,6 @@
 {
   "message": "Who put me on the RNG shit list?",
-  "reason": "The message contains offensive language ('shit') which classifies it as toxic.",
+  "reason": "The message contains offensive language ('shit') and may be considered disrespectful, making it toxic.",
   "predicted": "toxic",
   "prompt_version": 7,
   "label": "toxic",

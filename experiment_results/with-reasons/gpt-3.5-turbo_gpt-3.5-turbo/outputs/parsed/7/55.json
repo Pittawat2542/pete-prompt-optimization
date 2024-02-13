@@ -1,6 +1,6 @@
 {
   "message": "just dont care",
-  "reason": "The message does not contain any explicit toxic language or offensive content. It is a neutral statement expressing indifference or lack of concern.",
+  "reason": "The message does not contain any offensive, harmful, or disrespectful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 7,
   "label": "toxic",

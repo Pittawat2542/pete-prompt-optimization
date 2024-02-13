@@ -1,6 +1,6 @@
 {
   "message": "oh shit man... great stuff!",
-  "reason": "The predicted category is 'toxic'. The presence of the word 'shit' in the message indicates the use of profanity, which is often associated with toxic language.",
+  "reason": "The message contains a profanity ('shit'), which is considered offensive and inappropriate. Therefore, it can be classified as toxic.",
   "predicted": "toxic",
   "prompt_version": 3,
   "label": "toxic",

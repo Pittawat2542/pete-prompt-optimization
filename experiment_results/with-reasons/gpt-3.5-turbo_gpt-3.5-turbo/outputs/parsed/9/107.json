@@ -1,6 +1,6 @@
 {
   "message": "In 12 mins",
-  "reason": "The message does not contain any offensive or harmful language. It is a neutral statement indicating a time duration.",
+  "reason": "The message does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean",
   "prompt_version": 9,
   "label": "clean",

@@ -1,7 +1,5 @@
-```json
 {
 "message": "Wtf thats stupidðŸ˜‚ðŸ˜‚",
-"reason": "The message contains offensive language ('Wtf') and emoticons ('ðŸ˜‚ðŸ˜‚'), which indicate a negative and disrespectful tone. This falls into the 'toxic' category.",
+"reason": "The message contains offensive language and is derogatory.",
 "predicted": "toxic"
 }
-```

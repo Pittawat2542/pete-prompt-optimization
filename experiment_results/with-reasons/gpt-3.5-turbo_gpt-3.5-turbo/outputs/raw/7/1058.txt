@@ -1,7 +1,6 @@
 ```json
 {
-"message": "I hate my life",
-"reason": "The message is classified as toxic because it expresses strong negative emotions and self-hatred.",
-"predicted": "toxic"
+  "message": "I hate my life",
+  "reason": "The message expresses a negative sentiment towards one's own life, but it does not contain any offensive, harmful, or disrespectful content. Therefore, it can be classified as clean.",
+  "predicted": "clean"
 }
-```

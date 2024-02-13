@@ -1,8 +1,0 @@
-{
-  "message": "Samira is sick as fuck omg",
-  "reason": "The message contains strong language which could be interpreted as offensive or disrespectful. However, without additional context, it's unclear whether this is intended as an insult or a compliment (e.g., 'sick' as slang for 'cool' or 'impressive').",
-  "predicted": "toxic",
-  "prompt_version": 0,
-  "label": "clean",
-  "model": "gpt-4"
-}

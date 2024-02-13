@@ -1,6 +1,6 @@
 {
   "message": "oh crap ruby u awake ??",
-  "reason": "The message does not contain any offensive or harmful language. It is a casual and informal conversation between two individuals, asking if someone named Ruby is awake. Therefore, it can be classified as clean.",
+  "reason": "The message contains a mild profanity ('crap'), but it does not seem to be intended as an insult or offensive. The use of abbreviations and question marks suggests a casual and informal tone.",
   "predicted": "clean",
   "prompt_version": 4,
   "label": "toxic",

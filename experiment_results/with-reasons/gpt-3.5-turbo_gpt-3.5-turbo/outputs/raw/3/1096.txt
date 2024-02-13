@@ -1,7 +1,9 @@
 ```json
 {
-"message": "Meebot is shit",
-"reason": "The text contains a derogatory term ('shit') which is considered offensive and disrespectful. This indicates a toxic sentiment towards Meebot.",
-"predicted": "toxic"
+  "message": "Meebot is shit",
+  "reason": "Toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "Meebot is shit" contains offensive language ("shit"), which is considered toxic. Therefore, the message is classified as toxic.

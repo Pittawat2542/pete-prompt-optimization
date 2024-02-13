@@ -1,7 +1,9 @@
 ```json
 {
-"message": "My mains were magic exo and the brawler",
-"reason": "The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. It simply mentions the author's preferred characters in a game. Therefore, it can be classified as clean.",
+"message": "My mains were  magic exo and the brawler",
+"reason": "clean",
 "predicted": "clean"
 }
 ```
+
+The message does not contain any offensive or harmful language, and it does not exhibit any toxic behavior. Therefore, it can be classified as "clean".

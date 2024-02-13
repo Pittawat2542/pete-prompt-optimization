@@ -1,6 +1,6 @@
 {
   "message": "@Scoom danucdRespect mitKalp",
-  "reason": "The message does not contain any toxic or offensive language. It appears to be a positive message showing respect and appreciation.",
+  "reason": "The message contains usernames and the word 'Respect', but it does not display any offensive, harmful, or disrespectful content. Therefore, it is clean.",
   "predicted": "clean",
   "prompt_version": 7,
   "label": "clean",

@@ -1,7 +1,9 @@
 ```json
 {
-"message": "u succ LUL",
-"reason": "The message contains the phrase 'u succ', which is a derogatory term. The 'LUL' at the end indicates that the message is intended to be mocking or sarcastic. This type of language and tone is typically associated with toxic behavior.",
-"predicted": "toxic"
+  "message": "u succ LUL",
+  "reason": "toxic",
+  "predicted": "toxic"
 }
 ```
+
+The message "u succ LUL" contains derogatory language ("succ") and the "LUL" at the end indicates mocking or laughing at someone. This kind of language and mocking behavior is typically considered toxic in online communities. Therefore, the message is classified as "toxic".

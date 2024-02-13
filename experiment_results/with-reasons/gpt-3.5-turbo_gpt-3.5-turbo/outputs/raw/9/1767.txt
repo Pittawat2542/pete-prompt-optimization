@@ -1,7 +1,7 @@
 ```json
 {
   "message": "is G fuel good",
-  "reason": "The message is asking for an opinion about G Fuel, which suggests that it is seeking information or advice. It does not contain any offensive or harmful language, and there is no indication of any toxic behavior. Therefore, the message can be classified as 'clean'.",
+  "reason": "The message is a simple question asking for opinions about G Fuel. It does not contain any offensive or harmful content, making it clean.",
   "predicted": "clean"
 }
 ```

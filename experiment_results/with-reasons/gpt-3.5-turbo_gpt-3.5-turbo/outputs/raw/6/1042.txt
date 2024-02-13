@@ -1,7 +1,6 @@
 ```json
 {
-"message": "> stop bypassing the chat you idiot",
-"reason": "The message contains offensive language ('idiot') and aggressive tone ('stop bypassing').",
-"predicted": "toxic"
+  "message": "stop bypassing the chat you idiot",
+  "reason": "The message contains offensive language and insults, which makes it toxic.",
+  "predicted": "toxic"
 }
-```
