@@ -1,6 +1,7 @@
 data/GGWP-Toxic-Behavior/
 experiment_results
-prev_with_new_pe
+prev_with_new_pe/from_gpt-3.5_on_gpt-4
+prev_with_new_pe/gpt-3.5-turbo_gpt-3.5-turbo
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,python,pycharm+all,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,python,pycharm+all,jupyternotebooks
