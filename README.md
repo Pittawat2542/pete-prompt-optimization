@@ -47,7 +47,7 @@ and activate it:
 ```bash
 conda activate pete
 ```
-1. Copy `.env.example` and rename it to `.env.`. Follow instructions on [this page](https://platform.openai.com/docs/api-reference/authentication) to obtain your own OpenAI API key.
+1. Copy `.env.example` and rename it to `.env`. Follow instructions on [this page](https://platform.openai.com/docs/api-reference/authentication) to obtain your own OpenAI API key.
 2. Install the requirements:
 ```bash
 pip install -r requirements.txt
